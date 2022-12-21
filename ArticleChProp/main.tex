@@ -1,20 +1,26 @@
 \documentclass[11pt]{article}
 
+% \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{geometry}
 \usepackage[pdftex]{graphicx}
 \usepackage{tabularx}
 
 %bib options
-\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex}
+\usepackage[backend=biber,style=authoryear,bibstyle=authoryear,natbib=true,
+giveninits=true,
+uniquename=false,
+uniquelist=false,
+% firstinits=false,
+maxcitenames=2,
+date=year, maxbibnames=99,url=false]{biblatex}
+% \usepackage[authoryear]{natbib}
 \addbibresource{Chap1.bib}
-
 \usepackage{dsfont}
 \usepackage{multirow}
 \usepackage{amsmath,amsfonts,amssymb}
 \usepackage{subcaption}
 \usepackage{authblk}
-
 %hyperlinks options
 \usepackage{hyperref}
 \hypersetup{
@@ -68,7 +74,7 @@
     Streamflow series are affected by several sources of uncertainty as described by \citet{mcmillan_benchmarking_2012} benchmark. First, stage measurements are affected by various sources of uncertainty \citep{horner_impact_2018}. This uncertainty is often neglected but may have a substantial impact on the final discharge series \citet{hamilton_quantifying_2012}, especially for historical stage series. A large number of stage error sources is identified in the literature (\citet{van_der_made_determination_1982}; \citet{petersen-overleir_uncertainty_2005}; \citet{mcmillan_benchmarking_2012}, \citet{horner_impact_2018}), such as staff gauge reading errors, levelling of the staff gauge, or stage sensor calibration. The frequency of measurement may also induce time interpolation errors. With modern automatic gauges, stage is generally measured with a small enough time step by respect to the speed of variation of the stage (e.g. between 15 min and 1 hour), to get negligible time interpolation errors. However, before the rise of automatic gauges, measurements were made by operators who read the staff gauge less frequently (e.g. once or a few times per day), thus possibly missing the flood peak. This issue is particularly important when old stage series are used. \citet{hamilton_quantifying_2012} and \citet{kuentz_hydrometrie_2014} estimated the measurement frequency error by sub-sampling recent, sub-hourly measurements. They calculated the difference between the variable of interest (such as the daily maximum stage) derived from scarce data, and the same variable derived from high-frequency measurements. \citet{kuentz_hydrometrie_2014} applied the (monthly averaged) calculated bias to correct old stage series. This correction aimed at taking into account the error due to the daily variability caused by snow melt during cold months. However, this type of correction has never been applied to peak stage correction during floods, especially in the case of long stage series.
     
     \paragraph{}
-    Rating curve uncertainty is also a major issue when dealing with streamflow series. Transforming stage into discharge requires calibration data (gaugings) to establish the stage/discharge relationship. Gaugings uncertainty depends on the measurement method (\citet{lecoz_quantification_2014}b and \citet{puechberty_charte_2017}). Moreover, the rating curve is also affected by uncertainties coming from the imperfection of the chosen model to represent the actual hydraulic configuration and from parameter estimation. Many methods have been proposed to quantify these uncertainties (\citet{petersen-overleir_bayesian_2009}; \citet{juston_rating_2014}; \citet{le_coz_combining_2014}; \citet{morlot_dynamic_2014}; \citet{coxon_novel_2015}; \citet{mcmillan_rating_2015}; \citet{mansanarez_rapid_2019}). A comparison of several of these methods has been recently proposed by \citet{kiang_comparison_2018}. Another important issue affecting streamflow data accuracy is rating changes. The stage/discharge relationship is frequently affected by changes coming from various origins that can be natural or anthropic, for instance: bed geometry evolution during floods or river works, aquatic vegetation growth and decay, ice cover... A regular monitoring through gaugings is essential to detect those changes \citep{ibbitt_gauging_1987}, that can be transient or sudden. Several methods have been proposed to deal with rating changes: estimating rating curves on moving temporal windows (\citet{westerberg_stage-discharge_2011} and \citet{guerrero_temporal_2012}), computing as many rating curves as there are gaugings \citep{morlot_dynamic_2014}, exploring changes in the annual minimum stages \citep{lapuszek_methods_2015}, selecting 0.5-years return period discharge as a threshold for rating changes \citep{mcmillan_impacts_2010}. More recently, \citet{darienzo_detection_2021} proposed a method based on a recursive segmentation procedure, accounting for both gaugings and rating curve uncertainties. This method has a particular interest when dealing with old and thus uncertain gaugings. Following the detection of rating shifts, rating curves should be estimated for each stability period. This task may not be straightforward, as the number of gaugings available within a stability period is not always sufficient to properly estimate the stage/discharge relationship for the whole discharge range. A common way to address this problem is to artificially repeat some gaugings from other stability periods (\citet{mcmillan_benchmarking_2012}; \citet{puechberty_charte_2017}). \citet{mansanarez_shift_2019} proposed an alternative approach to deal with this issue. They developed a stage-period-discharge (SPD) model where some parameters of the rating curve vary across periods, while the others are supposed constant. This method has the advantage of transferring information between periods to improve the rating curve estimation for all the stable stage/discharge periods, even when few gaugings are available.
+    Rating curve uncertainty is also a major issue when dealing with streamflow series. Transforming stage into discharge requires calibration data (gaugings) to establish the stage/discharge relationship. Gaugings uncertainty depends on the measurement method (\citet{lecoz_quantification_2014} and \citet{puechberty_charte_2017}). Moreover, the rating curve is also affected by uncertainties coming from the imperfection of the chosen model to represent the actual hydraulic configuration and from parameter estimation. Many methods have been proposed to quantify these uncertainties (\citet{petersen-overleir_bayesian_2009}; \citet{juston_rating_2014}; \citet{le_coz_combining_2014}; \citet{morlot_dynamic_2014}; \citet{coxon_novel_2015}; \citet{mcmillan_rating_2015}; \citet{mansanarez_rapid_2019}). A comparison of several of these methods has been recently proposed by \citet{kiang_comparison_2018}. Another important issue affecting streamflow data accuracy is rating changes. The stage/discharge relationship is frequently affected by changes coming from various origins that can be natural or anthropic, for instance: bed geometry evolution during floods or river works, aquatic vegetation growth and decay, ice cover... A regular monitoring through gaugings is essential to detect those changes \citep{ibbitt_gauging_1987}, that can be transient or sudden. Several methods have been proposed to deal with rating changes: estimating rating curves on moving temporal windows (\citet{westerberg_stage-discharge_2011} and \citet{guerrero_temporal_2012}), computing as many rating curves as there are gaugings \citep{morlot_dynamic_2014}, exploring changes in the annual minimum stages \citep{lapuszek_methods_2015}, selecting 0.5-years return period discharge as a threshold for rating changes \citep{mcmillan_impacts_2010}. More recently, \citet{darienzo_detection_2021} proposed a method based on a recursive segmentation procedure, accounting for both gaugings and rating curve uncertainties. This method has a particular interest when dealing with old and thus uncertain gaugings. Following the detection of rating shifts, rating curves should be estimated for each stability period. This task may not be straightforward, as the number of gaugings available within a stability period is not always sufficient to properly estimate the stage/discharge relationship for the whole discharge range. A common way to address this problem is to artificially repeat some gaugings from other stability periods (\citet{mcmillan_benchmarking_2012}; \citet{puechberty_charte_2017}). \citet{mansanarez_shift_2019} proposed an alternative approach to deal with this issue. They developed a stage-period-discharge (SPD) model where some parameters of the rating curve vary across periods, while the others are supposed constant. This method has the advantage of transferring information between periods to improve the rating curve estimation for all the stable stage/discharge periods, even when few gaugings are available.
     % propagation
     \paragraph{}
 Estimating sampling uncertainty in FFA is a well-established approach. Whatever     the chosen distribution and estimation method, standard statistical procedures are available \citep{beven_applied_2014}. However, these standard procedures only quantify sampling uncertainty, they do not consider data uncertainty. The literature review proposed in the previous paragraphs shows that methods for quantifying individual sources of uncertainty (stage, rating curve and FFA distribution estimation) are available. However, the way these multiple uncertainties propagate through the FFA analysis chain has been less thoroughly studied. A few solutions have emerged to propagate uncertainties in stage time series through uncertain rating curves (\citet{dymond_accuracy_1982}, \citet{herschy_hydrometry_1998}, \citet{petersen-overleir_uncertainty_2005}), but they assume independent stage errors and therefore neglect systematic errors. \citet{horner_impact_2018} proposed a consistent method for the propagation of both sources of stage uncertainty through uncertain rating curves. Therefore, it is possible to infer the contribution of each source of uncertainty in streamflow data. \citet{petersen-overleir_accounting_2009}, \citet{steinbakk_propagation_2016}, and \citet{vieira_assessing_2022} performed an integrated analysis in which both rating curve parameters and flood frequency distribution are estimated. All these studies highlighted the importance of considering rating curve uncertainty for design flood estimations and concluded that, under some conditions, accounting for rating curve uncertainty may notably widen the uncertainty intervals around flood quantiles. However, none of them considered stage measurement and time interpolation errors, as well as rating changes, which may constitute a major source of uncertainty for streamflow data. This is particularly the case when dealing with long streamflow series for which stage uncertainty is large and variable through time, and rating changes may have been missed. Their consideration in a flood frequency framework is therefore not avoidable. 
@@ -92,7 +98,7 @@ Readers should note that the "historical data" term used in this paper refers to
     \begin{figure}[h!]
     \centering
         \includegraphics[width = 8cm]{Figs/1-uTotSchema.png}
-        \caption{Block diagram of the uncertainty propagation procedure. Grey blocks represents data, blue blocks stands for analysis methods/models.}
+        \caption{Block diagram of the uncertainty propagation procedure. Grey blocks represent data, blue blocks stand for analysis methods/models that correspond to the sub-sections of this article. $h$ is the water stage, $uh$ the stage uncertainty, $Q$ the discharge, $uQ$ the discharge uncertainty, $t$ is the time and $RP$ the return period of flood quantiles.}
         \label{fig:ChProp}
     \end{figure}
 
@@ -270,7 +276,7 @@ Readers should note that the "historical data" term used in this paper refers to
     
     \begin{figure}[h]
         \centering
-        \includegraphics[width = 12cm]{Figs/5-Quant5perc_both.png}
+        \includegraphics[width = 15cm]{Figs/5-Quant5perc_both.png}
         \caption{Time series of annual 5\% stage quantile of both Pont de Beaucaire (1816-1967) and Beaucaire Restitution (1970-2020) stations used to specify priors on rating shift parameters.}
         \label{fig:quantile5_both}
     \end{figure}
@@ -355,7 +361,7 @@ Readers should note that the "historical data" term used in this paper refers to
       \multicolumn{2}{c|}{-} \\ \hline
     \end{tabular}%
     }
-    \caption{Distributions used for the different sources of stage errors (in meters). $\mathcal{N}$ and $\exp$ respectively represent Gaussian and Exponential distributions.}
+    \caption{Distributions used for the different sources of stage errors (in meters). $\mathcal{N}$ and $\exp$ represent Gaussian and Exponential distributions respectively.}
     \label{tab:StageErr}
     \end{table}
         
@@ -371,7 +377,7 @@ Readers should note that the "historical data" term used in this paper refers to
             \centering
                 \begin{tabular}{| l | l |} 
                         \hline
-                        \textbf{Gauging method} & \textbf{Uncertainty standard deviation} \\
+                        \textbf{Gauging method} & \textbf{Standard uncertainty} \\
                         \hline
                         Current meter at 0.6 h and surface & 5\% \\
                         \hline
@@ -502,7 +508,7 @@ Readers should note that the "historical data" term used in this paper refers to
         
         \subsubsection{Flood frequency analysis}
         
-       The GEV distribution estimation procedure described in section \ref{sec:STOODS} is applied to the 205-year long AMAX discharges series at Beaucaire accounting for uncertainties. Vague priors are given to GEV parameters : flat priors for location and scale parameters, and Gaussian with zero mean and 0.2 standard deviation for the shape parameter.
+       The GEV distribution estimation procedure described in section \ref{sec:STOODS} is applied to the 205-year long AMAX discharges series at Beaucaire accounting for uncertainties. Vague priors are given to GEV parameters : flat priors for location and scale parameters, and Gaussian with zero mean and 0.2 standard deviation for the shape parameter. This shape parameter prior is coherent with \citet{martins_generalized_2000} suggestions.
        Flood quantiles results (figure \ref{subfig:GEV205y}) show that streamflow uncertainty dominates for the lowest return periods, but sampling uncertainty is taking over when the return period tends toward 1000 years (see figure \ref{subfig:UKplot4cases} bottom right  for a better understanding of the respective part of each source of uncertainty in this 205 years case). The AMAX observed discharges display a large variability of streamflow uncertainties. The three largest floods of this 205 years sample (1840, 1856 and 2003, by chronological order and from the most precise to the most uncertain) illustrate this point. Thus, not considering 1840 and 1856 years could have a large effect on the estimation of the maxpost quantiles value, as well as the uncertainty bound values. This is explored next by varying the sample size.
        
        % \begin{figure}[h!]
@@ -549,10 +555,10 @@ Readers should note that the "historical data" term used in this paper refers to
             \end{subfigure}
             
             
-        \caption{(a) Flood quantiles at Beaucaire. Error bars represent the AMAX observed discharges with 95\% streamflow uncertainty.
+        \caption{FFA results of the Rhône River at Beaucaire. (a) Fitted GEV distribution on the full sample (1816-2020). Error bars represent the AMAX observed discharges with 95\% streamflow uncertainty.
         (b) Quantiles estimation of three return periods for four sample sizes. 95\% total uncertainty envelop is represented by the yellow error bars. 
-        (c) Contribution of both sources of uncertainty to the total uncertainty for four sample size. 
-        (d) GEV shape parameter distribution considering streamflow or total uncertainty for four sample sizes. (e) 1000-year flood estimations for various sample sizes. Grey dotted lines are representing important changes in the sample data (the change from Pont de Beaucaire to Beaucaire Restitution gauge en 1967, the inclusion of 1856 flood and the inclusion of 1840 flood to the sample.}
+        (c) Contribution of streamflow and sampling uncertainties to the total uncertainty for four sample sizes. 
+        (d) GEV shape parameter distributions considering streamflow or total uncertainty for four sample sizes. (e) 1000-year flood estimations for various sample sizes. Grey dotted lines are representing important changes in the sample data (the change from Pont de Beaucaire to Beaucaire Restitution gauge en 1967, the inclusion of 1856 flood and the inclusion of 1840 flood to the sample.}
         \label{fig:Quantiles}
         \end{figure}
 
@@ -572,7 +578,7 @@ Readers should note that the "historical data" term used in this paper refers to
     
     \subsection{Limitations and potential improvements of the method}
     \paragraph{}
-    The streamflow uncertainty analysis procedure proposed in this work is affected by several limitations. For simplicity purposes, gaugings stage uncertainty is assumed negligible, which is inconsistent with the consideration of stage measurement errors of section \ref{sec:StageErr}. \citet{horner_impact_2018} proposed a model that accounts for this source of uncertainty in a streamflow uncertainty propagation procedure. The gauging segmentation model proposed by \citet{darienzo_detection_2021} is an efficient tool to detect change points in the stage/discharge relationship, but is limited when dealing with old gauges for which gaugings are often scarce. Selecting a date within the posterior pdf is dubious when very few information are available about rating changes and channel morphology. Additional tests could be used to investigate about stage/discharge relationship, such as the analysis of flood recessions and morphogenic events occurrences proposed by \citet{darienzo_detection_2021-1}. Another limitation of the method comes from the elicitation of hydraulic priors in historical context, for which information about hydraulic configuration is scarce. This lack of knowledge is impacting when considering gauges where works inside the main channel were frequent. The Rhône River is part of those, even if it holds the interest of many historians who retrieved many pieces of hydraulic and morphological data. As described by \citet{petersen-overleir_accounting_2009}, this definitely has an impact on flood quantile estimates as the extrapolation of rating curves in this context is more uncertain. Another drawback comes from the fact that, for simplification purposes, we considered the days of annual maximum discharge as the days of annual maximum stage. For a given year, if $h_{j} > h_{k}$, it is not guaranteed that $Q_{j} > Q_{k}$ if there is an important rating change during this given year. The BaRatin \citep{lecoz_quantification_2014} based propagation model choice may also have an important impact on uncertainty estimation, as the seven rating curve uncertainty estimation methods compared by \citet{kiang_comparison_2018} concluded in a very large differences in uncertainty intervals. 
+    The streamflow uncertainty analysis procedure proposed in this work is affected by several limitations. For simplicity purposes, gaugings stage uncertainty is assumed negligible, which is inconsistent with the consideration of stage measurement errors of section \ref{sec:StageErr}. \citet{horner_impact_2018} proposed a model that accounts for this source of uncertainty in a streamflow uncertainty propagation procedure. The gauging segmentation model proposed by \citet{darienzo_detection_2021} is an efficient tool to detect change points in the stage/discharge relationship, but is limited when dealing with old gauges for which gaugings are often scarce. Selecting a date within the posterior pdf is dubious when very few information are available about rating changes and channel morphology. Additional tests could be used to investigate about stage/discharge relationship, such as the analysis of flood recessions and morphogenic events occurrences proposed by \citet{darienzo_detection_2021-1}. Another limitation of the method comes from the elicitation of hydraulic priors in historical context, for which information about hydraulic configuration is scarce. This lack of knowledge is impacting when considering gauges where works inside the main channel were frequent. The Rhône River is part of those, even if it holds the interest of many historians who retrieved many pieces of hydraulic and morphological data. As described by \citet{petersen-overleir_accounting_2009}, this definitely has an impact on flood quantile estimates as the extrapolation of rating curves in this context is more uncertain. Another drawback comes from the fact that, for simplification purposes, we considered the days of annual maximum discharge as the days of annual maximum stage. For a given year, if $h_{j} > h_{k}$, it is not guaranteed that $Q_{j} > Q_{k}$ if there is an important rating change during this given year. The BaRatin \citep{le_coz_combining_2014} based propagation model choice may also have an important impact on uncertainty estimation, as the seven rating curve uncertainty estimation methods compared by \citet{kiang_comparison_2018} concluded in a very large differences in uncertainty intervals. 
 
     \paragraph{}
     GEV distribution have been chosen because of its flexibility to describe several tail behaviours. However, many other distributions, as legitimate as GEV in our case-study, might give different results, as explored by \citet{kochanek_data-based_2014}. Shape parameter is of great importance as it determines the tail behaviour of the GEV distribution. Several regional or local-regional methods have been proposed to reduce the uncertainty around shape parameter estimation. \citet{renard_data-based_2013} have proposed a framework to compare those different possibilities. They concluded in particular that the best results were given by local-regional approach, as proposed by \citet{ribatet_regional_2007}. This could be a source of improvement, but the definition of regional approach could be difficult for a catchment as large as the Rhône River at Beaucaire. Likewise, the specific conclusions of the Rhône River at Beaucaire may not be generalized in other climatic regions for which the tail behaviour of flood distribution is influenced by different processes \citep{merz_understanding_2022}.
@@ -602,6 +608,8 @@ https://github.com/MatLcs/PropagMaxAn
 
 \newpage
 \printbibliography
+\newpage
+
 \section{Annexes}
 
     \subsection{Rating curve hydraulic priors}
