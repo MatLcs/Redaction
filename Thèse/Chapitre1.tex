@@ -1,0 +1,36 @@
+\documentclass[11pt]{article}
+% packages
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage{tabularx}
+\usepackage{dsfont}
+\usepackage{multirow}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{subcaption}
+\usepackage{authblk}
+%hyperlinks options
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,filecolor=magenta,urlcolor=cyan,citecolor=cyan}
+%bib options
+\usepackage[backend=biber,style=authoryear,bibstyle=authoryear,natbib=true,
+giveninits=true,uniquename=false,uniquelist=false,% firstinits=false,
+maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
+\geometry{left=20mm, top=20mm, right=20mm}
+%float barrier
+\usepackage{placeins}
+ \addbibresource{Thèse.bib}
+\title{Chapitre 1}
+\author{Mathieu}
+
+
+\begin{document}
+\maketitle
+% \begin{abstract}
+% \end{abstract}
+\section{Introduction}
+
+\citep{alexandersson_homogeneity_1986}
+
+\printbibliography
+\end{document}

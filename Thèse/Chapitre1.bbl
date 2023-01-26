@@ -1,0 +1,74 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{alexandersson_homogeneity_1986}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2e98273c8930e8d9a0b3c7c72b92a8f9}{%
+           family={Alexandersson},
+           familyi={A\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e98273c8930e8d9a0b3c7c72b92a8f9}
+      \strng{fullhash}{2e98273c8930e8d9a0b3c7c72b92a8f9}
+      \strng{bibnamehash}{2e98273c8930e8d9a0b3c7c72b92a8f9}
+      \strng{authorbibnamehash}{2e98273c8930e8d9a0b3c7c72b92a8f9}
+      \strng{authornamehash}{2e98273c8930e8d9a0b3c7c72b92a8f9}
+      \strng{authorfullhash}{2e98273c8930e8d9a0b3c7c72b92a8f9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In climate research it is important to have access to reliable data which are free from artificial trends or changes. One way of checking the reliability of a climate series is to compare it with surrounding stations. This is the idea behind all tests of the relative homogeneity. Here we will present a simple homogeneity test and apply it to a precipitation data set from south-western Sweden. More precisely we will apply it to ratios between station values and some reference values. The reference value is a form of a mean value from surrounding stations. It is found valuable to include short and incomplete series in the reference value. The test can be used as an instrument for quality control as far as the mean level of, for instance, precipitation is concerned. In practice it should be used along with the available station history. Several non-homogeneities are present in these series and probably reflect a serious source of uncertainty in studies of climatic trends and climatic change all over the world. The significant breaks varied from 5 to 25 per cent for this data set. An example illustrates the importance of using relevant climatic normals that refer to the present measurement conditions in constructing maps of anomalies.}
+      \field{issn}{1097-0088}
+      \field{journaltitle}{Journal of Climatology}
+      \field{langid}{english}
+      \field{number}{6}
+      \field{title}{A homogeneity test applied to precipitation data}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{6}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{661\bibrangedash 675}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1002/joc.3370060607
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\FDZSTMB5\\Alexandersson - 1986 - A homogeneity test applied to precipitation data.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\68A67D63\\joc.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.3370060607
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.3370060607
+      \endverb
+      \keyw{Climatic change,Climatic normals,Climatic trends,Homogeneity test,Precipitation data control,Quality control}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
