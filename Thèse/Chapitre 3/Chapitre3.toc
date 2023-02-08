@@ -1,0 +1,47 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction du chapitre}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Homogénéité des données disponibles à Beaucaire}{2}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Données continues (1816-2020)}{2}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Données historiques censurées (1500-1816)}{2}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Méthodes d'analyse probabiliste d'un échantillon mixte de crues}{2}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Concepts de base et hypothèses}{2}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Propagation des incertitudes hydrométriques de la période continue}{2}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Prise en compte des incertitudes autour du seuil de perception}{2}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Prise en compte des incertitudes autour du nombre d'années de validité du seuil de perception}{3}{subsection.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Tableau qui présente les 3 modèles utilisés (ABC) et le cas "Baseline"}{3}{subsection.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Application aux crues du Rhône à Beaucaire}{3}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Estimation des quantiles de crues 1500-2020}{3}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Quel est l'apport des crues historiques pour l'analyse fréquentielle à Beaucaire ?}{3}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Quel est l'impact du choix de l'échantillon de crues historiques ("C3etC4" vs "C4")}{3}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Quel est l'impact de la méconnaissance du seuil de perception ?}{3}{subsection.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5}Quel est l'impact de la méconnaissance du seuil de perception et de son nombre d'années de validité ?}{3}{subsection.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6}Quel est l'apport des crues historiques pour des durées de chroniques plus courantes ?}{4}{subsection.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.1}Si le seuil de perception est bien connu}{4}{subsubsection.4.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.2}Si le seuil de perception et sa durée de validité sont méconnus}{4}{subsubsection.4.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.3}Bonus 1}{4}{subsubsection.4.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7}Bonus 2}{4}{subsection.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Conclusion du chapitre}{4}{section.5}%

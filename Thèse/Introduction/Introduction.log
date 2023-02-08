@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  26 JAN 2023 16:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  27 JAN 2023 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Chapitre1.tex
-(Chapitre1.tex
+**./Introduction.tex
+(Introduction.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22>
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
@@ -645,8 +645,8 @@ kend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count419
 \l__pdf_internal_box=\box54
-) (Chapitre1.aux)
-\openout1 = `Chapitre1.aux'.
+) (Introduction.aux)
+\openout1 = `Introduction.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
@@ -760,9 +760,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
 LaTeX Info: Redefining \nameref on input line 27.
- (Chapitre1.out) (Chapitre1.out)
+ (Introduction.out) (Introduction.out)
 \@outlinefile=\write4
-\openout4 = `Chapitre1.out'.
+\openout4 = `Introduction.out'.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -793,56 +793,61 @@ Package: xparse 2021-11-12 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 )
-\openout3 = `Chapitre1.bcf'.
+\openout3 = `Introduction.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Chapitre1.bbl' found.
- (Chapitre1.bbl)
+Package biblatex Info: ... file 'Introduction.bbl' found.
+ (Introduction.bbl)
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
-
+ (Introduction.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+))
+\tf@toc=\write5
+\openout5 = `Introduction.toc'.
 
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Cha
-pitre1.aux)
-Package rerunfilecheck Info: File `Chapitre1.out' has not changed.
-(rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
-Package logreq Info: Writing requests to 'Chapitre1.run.xml'.
-\openout1 = `Chapitre1.run.xml'.
+
+
+LaTeX Warning: Empty bibliography on input line 67.
+
+[1
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[2] (Introduction.aux)
+Package rerunfilecheck Info: File `Introduction.out' has not changed.
+(rerunfilecheck)             Checksum: FC78690F2A0917D3F76779DF466D2C0B;5762.
+Package logreq Info: Writing requests to 'Introduction.run.xml'.
+\openout1 = `Introduction.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18981 strings out of 478659
- 337440 string characters out of 2842128
- 1025721 words of memory out of 3000000
- 36864 multiletter control sequences out of 15000+600000
- 410095 words of font info for 52 fonts, out of 8000000 for 9000
+ 18825 strings out of 478659
+ 334335 string characters out of 2842128
+ 1042657 words of memory out of 3000000
+ 36684 multiletter control sequences out of 15000+600000
+ 409895 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,5n,77p,1377b,1423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,5n,77p,1159b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/mathieu.lucas/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mathieu.lucas/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
-mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmti10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Chapitre1.pdf (1 page, 86253 bytes).
+onts/cm/cmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mathieu.lucas/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mathieu.lucas/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/m
+athieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
+.pfb>
+Output written on Introduction.pdf (2 pages, 97019 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

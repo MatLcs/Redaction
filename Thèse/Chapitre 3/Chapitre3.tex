@@ -1,0 +1,136 @@
+\documentclass[11pt]{article}
+% packages
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage{tabularx}
+\usepackage{dsfont}
+\usepackage{multirow}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{subcaption}
+\usepackage{authblk}
+%hyperlinks options
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,filecolor=magenta,urlcolor=cyan,citecolor=cyan}
+%bib options
+\usepackage[backend=biber,style=authoryear,bibstyle=authoryear,natbib=true,
+giveninits=true,uniquename=false,uniquelist=false,% firstinits=false,
+maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
+\geometry{left=20mm, top=20mm, right=20mm}
+%float barrier
+\usepackage{placeins}
+ \addbibresource{Thèse.bib}
+\title{Chapitre 3 : Analyse probabiliste des crues du XVI\textsuperscript{ème} siècle à aujourd'hui}
+\author{Mathieu}
+
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\section{Introduction du chapitre}
+	Quelques rappels d'intro aux méthodes d'analyse des crues histo:
+	
+	Solutions quand le débit est connu\\
+	Solution quand le débit n'est pas connu	\\
+	plot positions (\citet{hirsch_techniques_1982}...)	\\
+	seuil de perception\\
+	durée de la période historique\\
+	Données dispo à Beaucaire
+	
+	
+\section{Homogénéité des données disponibles à Beaucaire}
+
+	\subsection{Données continues (1816-2020)}
+		Tests de Mann-Kendall et Pettit
+		
+	\subsection{Données historiques censurées (1500-1816)}
+		Description des 2 échantillons ("C3 \& C4" et "C4") et test de \citet{lang_towards_1999}
+		
+\section{Méthodes d'analyse probabiliste d'un échantillon mixte de crues}
+	
+	Description de diverses méthodes de la littérature
+	
+	\subsection{Concepts de base et hypothèses}
+	Explication du concept de seuil de perception et de ses limites.\\
+	Complexité de déterminer le seuil\\
+	Complexité de déterminer la durée de la période historique \citep{prosdocimi_german_2018}). Attention aux confusions entre date de début de la période et durée de la période. Clarifier dès le début. Quel est le bon terme en français? En anglais d'après \citet{prosdocimi_german_2018}: period of time covered by the historical events or historical period coverage\\
+	
+	\paragraph{}
+	Description d'un modèle "simple" GEV + censure binomiale (censure binomiale est le bon terme?):\\
+	La probabilité d'observer une occurrence inférieure au seuil de perception est égale à 1 -  la probabilité de dépassement\\
+	Les occurrences au-dessus d'un seuil $x$ peuvent être représentées par une binomiale dont la probabilité de succès (i.e. un dépassement) $p$ est égale à 1 - la fonction de répartition de la GEV ($e^{-t(x)}$) où $x$ est supposé égal au seuil de perception, soit $\mathcal{B}(n,p)$ où:
+	\begin{equation}
+		p = 1 - e^{ -(1+\xi ((x-\mu)/\sigma))^{-1/\xi} }
+	\end{equation}
+	et $n$ est égal aux nombre d'années de la période historique.\\
+	
+	\subsection{Propagation des incertitudes hydrométriques de la période continue}
+	Description du modèle (A): \\
+	Idem au modèle décrit juste avant, avec ajout de la propagation des incertitudes hydrométriques de la période continue par MCMC\\
+	Procéder de la même manière que dans l'article JoH
+	
+	\subsection{Prise en compte des incertitudes autour du seuil de perception}
+	Description du modèle (B)\\
+	idem au modèle (A) mais $x$ le seuil de perception n'est plus fixe, une distribution a priori lui est affectée. 
+		
+	\subsection{Prise en compte des incertitudes autour du nombre d'années de validité du seuil de perception}
+	Description du modèle (C)\\
+	Idem modèle (B), mais le nombre d'années de validité du seuil $n$ n'est plus fixe, une distribution a priori lui est affectée.\\
+	
+	
+	\subsection{Tableau qui présente les 3 modèles utilisés (ABC) et le cas "Baseline"}
+	Modèle (Baseline): GEV sur les max annuels (uniquement sur la période continue) avec propagation des incertitudes hydrométriques.\\
+		Modèle (A): GEV et censure binomiale, le seuil de perception et le nombre d'année sont fixes, propagation des incertitude hydrométriques de la période continue.\\
+		Modèle (B): GEV et censure binomiale, le seuil de perception est un paramètre du modèle, le nombre d'années est fixe, propagation des incertitude hydrométriques de la période continue.\\
+		Modèle (C): GEV et censure binomiale, le seuil de perception et le nombre d'années sont des paramètres du modèle, propagation des incertitude hydrométriques de la période continue.\\
+		
+	
+\section{Application aux crues du Rhône à Beaucaire}	
+	\subsection{Estimation des quantiles de crues 1500-2020}
+	Résultats du modèle (A) pour l'échantillon ("C3 \& C4")
+	
+	\subsection{Quel est l'apport des crues historiques pour l'analyse fréquentielle à Beaucaire ?}
+	Comparaison des résultats du modèle (Baseline) avec les résultats du modèle (A) pour l'échantillon ("C3 et C4").\\
+	Barplot Q100 et Q1000
+	
+	\subsection{Quel est l'impact du choix de l'échantillon de crues historiques ("C3etC4" vs "C4")}
+	Comparaison des résultats du modèle (A) pour les échantillon ("C3 \& C4") et ("C4")\\
+	Barplot Q100 et Q1000	
+	
+	\subsection{Quel est l'impact de la méconnaissance du seuil de perception ?}
+	Comparaison des résultats du modèle (A) et du modèle (B) pour l'échantillon ("C3 \& C4")\\
+	Barplot Q100 et Q1000, et comparaison de la distribution a postériori du seuil
+	
+	\subsection{Quel est l'impact de la méconnaissance du seuil de perception et de son nombre d'années de validité ?}
+	Comparaison des résultats du modèle (B) et du modèle (C) pour l'échantillon ("C3 \& C4")\\
+	Barplot Q100 et Q1000, comparaison de la distribution a postériori du seuil et de la taille de la période historique\\
+	Comparaison de la date de début de la période historique estimée par le modèle (maxpost) avec la date obtenue via la méthode de \cite{prosdocimi_german_2018}.\\
+
+	\subsection{Quel est l'apport des crues historiques pour des durées de chroniques plus courantes ?}
+	On dégrade les informations de la période continue pour se mettre dans une situation plus courante. Beaucaire Restitution (1970-2020): période continue, Pont de Beaucaire (1816-1969): période historique.
+	\subsubsection{Si le seuil de perception est bien connu}
+	Comparaison des résultats du modèle (Baseline) appliqué à Beaucaire Restitution avec les résultats du modèle (A) appliqué à Beaucaire Restitution (continu) et Pont de Beaucaire (occurrences sup-seuil).\\
+	Barplot Q100 et Q1000
+	
+	\subsubsection{Si le seuil de perception et sa durée de validité sont méconnus}
+	idem mais avec le modèle (B) et/ou (C)\\
+	Barplot Q100 et Q1000, paramètres a posteriori vs vraies valeurs
+	
+	\subsubsection{Bonus 1}
+	Idem au précédent, (modèle (C) et période récente "dégradée") mais en répétant l'expérience pour des durées continues/durée historiques variables. 
+	
+	\subsection{Bonus 2}
+	Si il reste du temps : comparaison "Baseline" 1816-2020 avec (C) et un autre modèle (D) qui prend en compte le débit des crues ayant dépassé le seuil sur la période récente "dégradée".\\
+	On juge ainsi de l'intérêt de: connaître tous les débits max annuels VS connaître le débit des max annuels supérieurs à un seuil VS connaître le nombre de dépassements du seuil.
+	
+\section{Conclusion du chapitre}
+	Conclusions sur l'intérêt des crues historique pour l'estimation des quantiles extrêmes à Beaucaire. \\
+	Est-ce qu'on observe une réelle amélioration avec les résultats du chapitre 1 ?\\
+	Selon les résultats, ajouter quelque chose comme : "l'utilisation des crues historiques peut mener à faire de fortes hypothèses (seuil et durée de la période), il faut être pragmatique sur la considération des incertitudes\\
+	Ces conclusions sont valables uniquement à Beaucaire (période continue très longue, paramètre de forme positif, pas de tendance observée due au changement climatique ou autre). Mais que nous à appris l'application du modèle à un échantillon dégradé plus représentatif des longueurs de chronique habituelles ?\\
+	Perspectives sur les modèles d'analyse fréquentielle en contexte non-stationnaire et sur les modèles régionaux.  
+
+\printbibliography
+\end{document}

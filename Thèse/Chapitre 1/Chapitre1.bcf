@@ -2345,7 +2345,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">Thèse.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">alexandersson_homogeneity_1986</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

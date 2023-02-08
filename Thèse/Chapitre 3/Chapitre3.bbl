@@ -1,0 +1,193 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{hirsch_techniques_1982}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9a0cf902ae4bbc02d0fd870159d22c44}{%
+           family={Hirsch},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=97332ecdc28693c133eb3edae7c1c41a}{%
+           family={Slack},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=09368b30e2cbb77ab8d3eeb4aafd535c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{84bc36e9b11f033cddf0cf9f0ea71332}
+      \strng{fullhash}{b68b4dac208f03d01b536ed27cde3859}
+      \strng{bibnamehash}{b68b4dac208f03d01b536ed27cde3859}
+      \strng{authorbibnamehash}{b68b4dac208f03d01b536ed27cde3859}
+      \strng{authornamehash}{84bc36e9b11f033cddf0cf9f0ea71332}
+      \strng{authorfullhash}{b68b4dac208f03d01b536ed27cde3859}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Some of the characteristics that complicate the analysis of water quality time series are non-normal distributions, seasonality, flow relatedness, missing values, values below the limit of detection, and serial correlation. Presented here are techniques that are suitable in the face of the complications listed above for the exploratory analysis of monthly water quality data for monotonie trends. The first procedure described is a nonparametric test for trend applicable to data sets with seasonality, missing values, or values reported as ‘less than’: the seasonal Kendall test. Under realistic stochastic processes (exhibiting seasonality, skewness, and serial correlation), it is robust in comparison to parametric alternatives, although neither the seasonal Kendall test nor the alternatives can be considered an exact test in the presence of serial correlation. The second procedure, the seasonal Kendall slope estimator, is an estimator of trend magnitude. It is an unbiased estimator of the slope of a linear trend and has considerably higher precision than a regression estimator where data are highly skewed but somewhat lower precision where the data are normal. The third procedure provides a means for testing for change over time in the relationship between constituent concentration and flow, thus avoiding the problem of identifying trends in water quality that are artifacts of the particular sequence of discharges observed (e.g., drought effects). In this method a flow-adjusted concentration is defined as the residual (actual minus conditional expectation) based on a regression of concentration on some function of discharge. These flow-adjusted concentrations, which may also be seasonal and non-normal, can then be tested for trend by using the seasonal Kendall test.}
+      \field{issn}{1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Techniques of trend analysis for monthly water quality data}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{18}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{107\bibrangedash 121}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1029/WR018i001p00107
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\RW4SVBXN\\Hirsch et al. - 1982 - Techniques of trend analysis for monthly water qua.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\AITR8KQH\\WR018i001p00107.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/WR018i001p00107
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/WR018i001p00107
+      \endverb
+    \endentry
+    \entry{lang_towards_1999}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aae7281ea89e2799afde251f1719cc40}{%
+           family={Ouarda},
+           familyi={O\bibinitperiod},
+           given={T.B.M.J.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=50149516bc458dc267d8fef62b77a7ee}{%
+           family={Bobée},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee6490639bfd69ce176aeac12c4dd5bc}
+      \strng{fullhash}{ccd6eaecc3d51cd813228c1826762896}
+      \strng{bibnamehash}{ccd6eaecc3d51cd813228c1826762896}
+      \strng{authorbibnamehash}{ccd6eaecc3d51cd813228c1826762896}
+      \strng{authornamehash}{ee6490639bfd69ce176aeac12c4dd5bc}
+      \strng{authorfullhash}{ccd6eaecc3d51cd813228c1826762896}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Annual maximum ﬂood ({AMF}) sampling remains the most popular approach to ﬂood frequency analysis. An alternative, the “peaks over threshold” ({POT}) approach, deals with the selection of over-threshold values. However, the {POT} approach remains under-employed mainly because of the complexities associated with its use. Among the difﬁculties are the choice of threshold and the selection of criteria for retaining ﬂood peaks. The literature remains sparse and incoherent concerning the various elements and complexities of the {POT} model. The purpose of the present paper is to shed some light on some of the recurrent and most important questions with regard to the practice of {POT} modeling, and to make a ﬁrst step in establishing a set of coherent practice-oriented guidelines for the use of the {POT} model. This paper reviews tests and methods useful for modeling the process of over-threshold values, the choice of the threshold level, the veriﬁcation of the independence of the values and the stationarity of the process, and also presents an application. ᭧ 1999 Elsevier Science B.V. All rights reserved.}
+      \field{issn}{00221694}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{3}
+      \field{shortjournal}{Journal of Hydrology}
+      \field{title}{Towards operational guidelines for over-threshold modeling}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{225}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{103\bibrangedash 117}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/S0022-1694(99)00167-5
+      \endverb
+      \verb{file}
+      \verb Lang et al. - 1999 - Towards operational guidelines for over-threshold .pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\HVD4LWDR\\Lang et al. - 1999 - Towards operational guidelines for over-threshold .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169499001675
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169499001675
+      \endverb
+    \endentry
+    \entry{prosdocimi_german_2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b33e3445eae7af00534b78caa541bb69}{%
+           family={Prosdocimi},
+           familyi={P\bibinitperiod},
+           given={Ilaria},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b33e3445eae7af00534b78caa541bb69}
+      \strng{fullhash}{b33e3445eae7af00534b78caa541bb69}
+      \strng{bibnamehash}{b33e3445eae7af00534b78caa541bb69}
+      \strng{authorbibnamehash}{b33e3445eae7af00534b78caa541bb69}
+      \strng{authornamehash}{b33e3445eae7af00534b78caa541bb69}
+      \strng{authorfullhash}{b33e3445eae7af00534b78caa541bb69}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1436-3240, 1436-3259}
+      \field{journaltitle}{Stochastic Environmental Research and Risk Assessment}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Stoch Environ Res Risk Assess}
+      \field{shorttitle}{German tanks and historical records}
+      \field{title}{German tanks and historical records: the estimation of the time coverage of ungauged extreme events}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{32}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{607\bibrangedash 622}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s00477-017-1418-8
+      \endverb
+      \verb{file}
+      \verb Prosdocimi - 2018 - German tanks and historical records the estimatio.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\WR8D5KEA\\Prosdocimi - 2018 - German tanks and historical records the estimatio.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00477-017-1418-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00477-017-1418-8
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
