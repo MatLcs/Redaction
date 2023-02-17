@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  1 FEB 2023 00:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  16 FEB 2023 19:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,6 +234,10 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@authors=\count279
 \c@affil=\count280
 )
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
+ns.sty
+Package: placeins 2005/04/18  v 2.2
+)
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
 ef.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
@@ -389,7 +393,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip58
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
 ex.sty
@@ -633,10 +637,6 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 ex.cfg
 File: biblatex.cfg 
 ))
-(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
-ns.sty
-Package: placeins 2005/04/18  v 2.2
-)
 \@quotelevel=\count417
 \@quotereset=\count418
 
@@ -648,24 +648,24 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 ) (Chapitre3.aux)
 \openout1 = `Chapitre3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -720,8 +720,17 @@ p-pdf.mkii
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
 stopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.s
+ty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
 df-sys.cfg
@@ -741,7 +750,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 27.
+Package hyperref Info: Link coloring ON on input line 28.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
 f.sty
@@ -757,9 +766,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count426
 )
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
  (Chapitre3.out) (Chapitre3.out)
 \@outlinefile=\write4
 \openout4 = `Chapitre3.out'.
@@ -798,90 +807,159 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Chapitre3.bbl' found.
  (Chapitre3.bbl)
-Package biblatex Info: Reference section=0 on input line 27.
-Package biblatex Info: Reference segment=0 on input line 27.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference segment=0 on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
 
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
 
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (Chapitre3.toc)
+) (Chapitre3.toc [1
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 \tf@toc=\write5
 \openout5 = `Chapitre3.toc'.
 
- [1
 
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 48--51
+Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--60
+Overfull \hbox (4.70705pt too wide) in paragraph at lines 54--55
+ [][] \OT1/cmr/m/n/10.95 L'utilisation d'occurrences de crues his-toriques pour
+ l'analyse frequentielle necessite a min-ima l'hypothese
+ []
 
+[2] [3] [4]
+<Figures/EchMixteBcr.pdf, id=204, 1084.05pt x 722.7pt>
+File: Figures/EchMixteBcr.pdf Graphic file (type pdf)
+<use Figures/EchMixteBcr.pdf>
+Package pdftex.def Info: Figures/EchMixteBcr.pdf  used on input line 182.
+(pdftex.def)             Requested size: 450.43253pt x 300.28984pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5] [6 <./Figures/EchMixteBcr.pdf>]
+<Figures/Poisson_C3-C4_FR.pdf, id=232, 867.24pt x 505.89pt>
+File: Figures/Poisson_C3-C4_FR.pdf Graphic file (type pdf)
+<use Figures/Poisson_C3-C4_FR.pdf>
+Package pdftex.def Info: Figures/Poisson_C3-C4_FR.pdf  used on input line 209.
+(pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
+<Figures/Poisson_Qrecent_FR.pdf, id=235, 867.24pt x 505.89pt>
+File: Figures/Poisson_Qrecent_FR.pdf Graphic file (type pdf)
+<use Figures/Poisson_Qrecent_FR.pdf>
+Package pdftex.def Info: Figures/Poisson_Qrecent_FR.pdf  used on input line 220
+.
+(pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
+ [7 <./Figures/Poisson_C3-C4_FR.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]|\OT1/cmr/m/n/10.95 Periode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 76--80
-
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]|\OT1/cmr/m/n/10.95 Periode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--102
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]|\OT1/cmr/m/n/10.95 Date de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]|\OT1/cmr/m/n/10.95 1816-2020
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]|\OT1/cmr/m/n/10.95 1816-2020
+ []
+
+[8 <./Figures/Poisson_Qrecent_FR.pdf>]
+<Figures/Barplots_QX_Artif2.pdf, id=266, 939.51pt x 578.16pt>
+File: Figures/Barplots_QX_Artif2.pdf Graphic file (type pdf)
+<use Figures/Barplots_QX_Artif2.pdf>
+Package pdftex.def Info: Figures/Barplots_QX_Artif2.pdf  used on input line 284
+.
+(pdftex.def)             Requested size: 320.3122pt x 197.10994pt.
+<Figures/Params_Artif2.pdf, id=267, 1084.05pt x 505.89pt>
+File: Figures/Params_Artif2.pdf Graphic file (type pdf)
+<use Figures/Params_Artif2.pdf>
+Package pdftex.def Info: Figures/Params_Artif2.pdf  used on input line 290.
+(pdftex.def)             Requested size: 400.38872pt x 186.84444pt.
+ [9 <./Figures/Barplots_QX_Artif2.pdf> <./Figures/Params_Artif2.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 299--304
 
  []
 
-[3] [4] [5] (Chapitre3.aux)
+<Figures/Quantiles_Artif2.pdf, id=295, 1445.4pt x 1228.59pt>
+File: Figures/Quantiles_Artif2.pdf Graphic file (type pdf)
+<use Figures/Quantiles_Artif2.pdf>
+Package pdftex.def Info: Figures/Quantiles_Artif2.pdf  used on input line 307.
+(pdftex.def)             Requested size: 450.43253pt x 382.86487pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11 <./Figures/Quantiles_Artif2.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 344--347
+
+ []
+
+[12] [13] (Chapitre3.aux)
 Package rerunfilecheck Info: File `Chapitre3.out' has not changed.
-(rerunfilecheck)             Checksum: 705D800FD456C5B791ACDDB163A344EA;7644.
+(rerunfilecheck)             Checksum: 03273220263747968FDAF0A1944BCB16;9767.
 Package logreq Info: Writing requests to 'Chapitre3.run.xml'.
 \openout1 = `Chapitre3.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19068 strings out of 478659
- 338796 string characters out of 2842128
- 1039948 words of memory out of 3000000
- 36916 multiletter control sequences out of 15000+600000
- 413612 words of font info for 66 fonts, out of 8000000 for 9000
+ 19279 strings out of 478659
+ 343475 string characters out of 2842128
+ 1045035 words of memory out of 3000000
+ 37055 multiletter control sequences out of 15000+600000
+ 416415 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,5n,77p,1916b,1423s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mathieu.lucas/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/mathieu.lucas/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/User
+ 67i,15n,77p,1864b,1358s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1095.pk><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mathieu.lucas/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/mat
+hieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10
+.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mathieu.lucas/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/mathieu.lucas/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
 s/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-mi6.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mathieu.lucas/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mathieu.lucas
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Use
-rs/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mr6.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mathieu.lucas/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/mathieu.lucas
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Use
-rs/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mti10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmtt10.pfb>
-Output written on Chapitre3.pdf (5 pages, 229844 bytes).
+mib10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cmextra/cmmib8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mathieu.lucas/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mathi
+eu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb
+><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mathieu.lucas/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/mathi
+eu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Chapitre3.pdf (13 pages, 543907 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 445 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 239 words of extra memory for PDF output out of 10000 (max. 10000000)
 
