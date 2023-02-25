@@ -193,56 +193,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169499001675
       \endverb
     \endentry
-    \entry{prosdocimi_german_2018}{article}{}
-      \name{author}{1}{}{%
-        {{hash=b33e3445eae7af00534b78caa541bb69}{%
-           family={Prosdocimi},
-           familyi={P\bibinitperiod},
-           given={Ilaria},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{b33e3445eae7af00534b78caa541bb69}
-      \strng{fullhash}{b33e3445eae7af00534b78caa541bb69}
-      \strng{bibnamehash}{b33e3445eae7af00534b78caa541bb69}
-      \strng{authorbibnamehash}{b33e3445eae7af00534b78caa541bb69}
-      \strng{authornamehash}{b33e3445eae7af00534b78caa541bb69}
-      \strng{authorfullhash}{b33e3445eae7af00534b78caa541bb69}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{1436-3240, 1436-3259}
-      \field{journaltitle}{Stochastic Environmental Research and Risk Assessment}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{number}{3}
-      \field{shortjournal}{Stoch Environ Res Risk Assess}
-      \field{shorttitle}{German tanks and historical records}
-      \field{title}{German tanks and historical records: the estimation of the time coverage of ungauged extreme events}
-      \field{urlday}{16}
-      \field{urlmonth}{12}
-      \field{urlyear}{2022}
-      \field{volume}{32}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{607\bibrangedash 622}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.1007/s00477-017-1418-8
-      \endverb
-      \verb{file}
-      \verb Prosdocimi - 2018 - German tanks and historical records the estimatio.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\WR8D5KEA\\Prosdocimi - 2018 - German tanks and historical records the estimatio.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/s00477-017-1418-8
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/s00477-017-1418-8
-      \endverb
-    \endentry
     \entry{stedinger_flood_1986}{article}{}
       \name{author}{2}{}{%
         {{hash=1bc2572d42182a33958d3dcb5a6f394e}{%

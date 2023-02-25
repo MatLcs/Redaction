@@ -26,7 +26,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{4}{section*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Incertitudes autour du seuil et de la durée de la période historique}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.5}Incertitudes autour du seuil de perception et de la durée de la période historique}{4}{subsection.2.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{4}{section*.9}%
 \defcounter {refsection}{0}\relax 
@@ -72,30 +72,42 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{9}{section*.26}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.1}BASELINE(S) VS A : quel est l'apport des crues historiques pour une longueur de chronique "courante" ?}{9}{subsubsection.4.1.1}%
+\contentsline {paragraph}{}{9}{section*.28}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}{section*.28}%
+\contentsline {paragraph}{}{9}{section*.30}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}{section*.29}%
+\contentsline {subsubsection}{\numberline {4.1.1}Quel est l'apport de l'utilisation des crues historiques pour une longueur de chronique "courante" ?}{10}{subsubsection.4.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}{section*.30}%
+\contentsline {paragraph}{}{10}{section*.31}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.2}BASELINE(S) VS A VS B : quel est l'impact de la méconnaissance du seuil de perception ?}{11}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2}Quel est l'impact de la méconnaissance du seuil de perception sur l'estimation des quantiles ?}{11}{subsubsection.4.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3}BASELINE(S) VS A VS C : quel est l'impact de la méconnaissance de la durée de la période historique ?}{11}{subsubsection.4.1.3}%
+\contentsline {paragraph}{}{11}{section*.33}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.4}BASELINE(S) VS A VS D : quel est l'impact de la méconnaissance de la durée de la période historique ET du seuil de perception?}{12}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.3}Quel est l'impact de la méconnaissance de la durée de la période historique sur l'estimation des quantiles ?}{11}{subsubsection.4.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Application à la période 1500-2020}{12}{subsection.4.2}%
+\contentsline {paragraph}{}{11}{section*.35}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.1}BASELINE VS A pour l'échantillon C3?. Quel est l'apport des crues historiques pour l'analyse fréquentielle à Beaucaire ?}{12}{subsubsection.4.2.1}%
+\contentsline {paragraph}{}{12}{section*.36}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.2}Modèle A pour les échantillons C3+C4 VS C4 : Quel est l'impact du choix de l'échantillon de crues historiques ("C3etC4" vs "C4")}{12}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.1.4}Quel est l'impact de la méconnaissance du seuil de perception et de la durée de la période historique sur l'estimation des quantiles ?}{12}{subsubsection.4.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.3}Quel est l'impact de la méconnaissance du seuil de perception ?}{12}{subsubsection.4.2.3}%
+\contentsline {paragraph}{}{12}{section*.37}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.4}Quel est l'impact de la méconnaissance de la durée de la période historique ?}{12}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}Ajout d'un modèle pour lequel le débit des crues sup-seuil historiques sont connus ? A FAIRE ?}{13}{subsubsection.4.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Discussion}{12}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.1.6}Discussion intermédiaire}{13}{subsubsection.4.1.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Conclusion du chapitre}{12}{section.5}%
+\contentsline {paragraph}{}{13}{section*.39}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{14}{section*.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Application à la période 1500-2020}{14}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1}BASELINE VS A pour l'échantillon 1 ?. Quel est l'apport des crues historiques pour l'analyse fréquentielle à Beaucaire ?}{14}{subsubsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2}Modèle A pour les échantillons 1 et 2 : Quel est l'impact du choix de l'échantillon de crues historiques (S3 vs S4)}{14}{subsubsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Discussion}{14}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Conclusion du chapitre}{14}{section.5}%
