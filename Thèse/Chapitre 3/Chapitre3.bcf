@@ -2351,6 +2351,8 @@
     <bcf:citekey order="4">hirsch_probability_1987</bcf:citekey>
     <bcf:citekey order="5">hirsch_probability_1987</bcf:citekey>
     <bcf:citekey order="6">lang_towards_1999</bcf:citekey>
+    <bcf:citekey order="7">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="8">prosdocimi_german_2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

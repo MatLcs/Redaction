@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  24 FEB 2023 17:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  1 MAR 2023 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -393,7 +393,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip58
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 15.
+Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
 ex.sty
@@ -648,24 +648,24 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 ) (Chapitre3.aux)
 \openout1 = `Chapitre3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -750,7 +750,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 29.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
 f.sty
@@ -766,9 +766,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count426
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
  (Chapitre3.out) (Chapitre3.out)
 \@outlinefile=\write4
 \openout4 = `Chapitre3.out'.
@@ -807,16 +807,16 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Chapitre3.bbl' found.
  (Chapitre3.bbl)
-Package biblatex Info: Reference section=0 on input line 28.
-Package biblatex Info: Reference segment=0 on input line 28.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
@@ -835,120 +835,150 @@ Overfull \hbox (1.57426pt too wide) in paragraph at lines 79--79
 \openout5 = `Chapitre3.toc'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--41
+Underfull \hbox (badness 10000) in paragraph at lines 35--43
 
  []
 
 
-Overfull \hbox (4.70705pt too wide) in paragraph at lines 54--55
+Overfull \hbox (4.70705pt too wide) in paragraph at lines 56--57
  [][] \OT1/cmr/m/n/10.95 L'utilisation d'occurrences de crues his-toriques pour
  l'analyse frequentielle necessite a min-ima l'hypothese
  []
 
-[2] [3] [4]
-<Figures/EchMixteBcr.pdf, id=205, 1084.05pt x 722.7pt>
+[2]
+Overfull \hbox (1.7619pt too wide) in paragraph at lines 90--90
+[]\OT1/cmr/bx/n/12 Propagation de l'incertitudes hy-drometriques des mesures s
+ystematiques (modele
+ []
+
+[3] [4]
+<Figures/EchMixteBcr.pdf, id=201, 1084.05pt x 722.7pt>
 File: Figures/EchMixteBcr.pdf Graphic file (type pdf)
 <use Figures/EchMixteBcr.pdf>
-Package pdftex.def Info: Figures/EchMixteBcr.pdf  used on input line 180.
+Package pdftex.def Info: Figures/EchMixteBcr.pdf  used on input line 182.
 (pdftex.def)             Requested size: 450.43253pt x 300.28984pt.
+ [5] [6 <./Figures/EchMixteBcr.pdf>]
+<Figures/Poisson_C3-C4_FR.pdf, id=229, 867.24pt x 505.89pt>
+File: Figures/Poisson_C3-C4_FR.pdf Graphic file (type pdf)
+<use Figures/Poisson_C3-C4_FR.pdf>
+Package pdftex.def Info: Figures/Poisson_C3-C4_FR.pdf  used on input line 213.
+(pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] [6 <./Figures/EchMixteBcr.pdf>]
-<Figures/Poisson_C3-C4_FR.pdf, id=233, 867.24pt x 505.89pt>
-File: Figures/Poisson_C3-C4_FR.pdf Graphic file (type pdf)
-<use Figures/Poisson_C3-C4_FR.pdf>
-Package pdftex.def Info: Figures/Poisson_C3-C4_FR.pdf  used on input line 207.
-(pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
-<Figures/Poisson_Qrecent_FR.pdf, id=236, 867.24pt x 505.89pt>
+<Figures/Poisson_Qrecent_FR.pdf, id=232, 867.24pt x 505.89pt>
 File: Figures/Poisson_Qrecent_FR.pdf Graphic file (type pdf)
 <use Figures/Poisson_Qrecent_FR.pdf>
-Package pdftex.def Info: Figures/Poisson_Qrecent_FR.pdf  used on input line 218
+Package pdftex.def Info: Figures/Poisson_Qrecent_FR.pdf  used on input line 224
 .
 (pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
- [7 <./Figures/Poisson_C3-C4_FR.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-[]|\OT1/cmr/m/n/10.95 Periode
- []
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-[]|\OT1/cmr/m/n/10.95 Periode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-[]|\OT1/cmr/m/n/10.95 Date de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-[]|\OT1/cmr/m/n/10.95 1816-2020
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-[]|\OT1/cmr/m/n/10.95 1816-2020
- []
-
-[8 <./Figures/Poisson_Qrecent_FR.pdf>]
-<Figures/Barplots_QX_Artif2.pdf, id=270, 939.51pt x 578.16pt>
+[7] [8 <./Figures/Poisson_C3-C4_FR.pdf> <./Figures/Poisson_Qrecent_FR.pdf>]
+<Figures/Barplots_QX_Artif2.pdf, id=266, 939.51pt x 578.16pt>
 File: Figures/Barplots_QX_Artif2.pdf Graphic file (type pdf)
 <use Figures/Barplots_QX_Artif2.pdf>
-Package pdftex.def Info: Figures/Barplots_QX_Artif2.pdf  used on input line 278
+Package pdftex.def Info: Figures/Barplots_QX_Artif2.pdf  used on input line 290
 .
 (pdftex.def)             Requested size: 400.38872pt x 246.38963pt.
-<Figures/Quantiles_Artif2.pdf, id=272, 1300.86pt x 1011.78pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9
+
+]
+<Figures/Quantiles_Artif2.pdf, id=278, 1300.86pt x 1011.78pt>
 File: Figures/Quantiles_Artif2.pdf Graphic file (type pdf)
 <use Figures/Quantiles_Artif2.pdf>
-Package pdftex.def Info: Figures/Quantiles_Artif2.pdf  used on input line 287.
+Package pdftex.def Info: Figures/Quantiles_Artif2.pdf  used on input line 299.
 (pdftex.def)             Requested size: 500.484pt x 389.26633pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./Figures/Barplots_QX_Artif2.pdf>] [10 <./Figures/Quantiles_Artif2.pdf>]
-<Figures/Shape_Artif2.pdf, id=308, 722.7pt x 578.16pt>
+[10 <./Figures/Barplots_QX_Artif2.pdf>] [11 <./Figures/Quantiles_Artif2.pdf>]
+<Figures/Shape_Artif2.pdf, id=311, 722.7pt x 578.16pt>
 File: Figures/Shape_Artif2.pdf Graphic file (type pdf)
 <use Figures/Shape_Artif2.pdf>
-Package pdftex.def Info: Figures/Shape_Artif2.pdf  used on input line 302.
+Package pdftex.def Info: Figures/Shape_Artif2.pdf  used on input line 314.
 (pdftex.def)             Requested size: 300.29344pt x 240.23187pt.
-<Figures/Params_Artif2.pdf, id=311, 1084.05pt x 505.89pt>
+<Figures/Params_Artif2.pdf, id=314, 1084.05pt x 505.89pt>
 File: Figures/Params_Artif2.pdf Graphic file (type pdf)
 <use Figures/Params_Artif2.pdf>
-Package pdftex.def Info: Figures/Params_Artif2.pdf  used on input line 315.
+Package pdftex.def Info: Figures/Params_Artif2.pdf  used on input line 327.
 (pdftex.def)             Requested size: 450.43253pt x 210.20288pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11 <./Figures/Shape_Artif2.pdf>] [12 <./Figures/Params_Artif2.pdf>]
-<Figures/ScatterD_Artif2.pdf, id=348, 433.62pt x 433.62pt>
+[12 <./Figures/Shape_Artif2.pdf>] [13 <./Figures/Params_Artif2.pdf>]
+<Figures/ScatterD_Artif2.pdf, id=362, 433.62pt x 433.62pt>
 File: Figures/ScatterD_Artif2.pdf Graphic file (type pdf)
 <use Figures/ScatterD_Artif2.pdf>
-Package pdftex.def Info: Figures/ScatterD_Artif2.pdf  used on input line 331.
-(pdftex.def)             Requested size: 250.24199pt x 250.24265pt.
+Package pdftex.def Info: Figures/ScatterD_Artif2.pdf  used on input line 343.
+(pdftex.def)             Requested size: 350.33727pt x 350.3569pt.
+<Figures/Barplots_QX_censure.pdf, id=363, 939.51pt x 578.16pt>
+File: Figures/Barplots_QX_censure.pdf Graphic file (type pdf)
+<use Figures/Barplots_QX_censure.pdf>
+Package pdftex.def Info: Figures/Barplots_QX_censure.pdf  used on input line 36
+9.
+(pdftex.def)             Requested size: 400.38872pt x 246.38963pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13 <./Figures/ScatterD_Artif2.pdf>] [14] [15] (Chapitre3.aux)
+[14 <./Figures/ScatterD_Artif2.pdf>] [15 <./Figures/Barplots_QX_censure.pdf>]
+<Figures/Barplots_QX_C4.pdf, id=403, 939.51pt x 578.16pt>
+File: Figures/Barplots_QX_C4.pdf Graphic file (type pdf)
+<use Figures/Barplots_QX_C4.pdf>
+Package pdftex.def Info: Figures/Barplots_QX_C4.pdf  used on input line 390.
+(pdftex.def)             Requested size: 400.38872pt x 246.38963pt.
+<Figures/Quantiles_C4.pdf, id=405, 1300.86pt x 1011.78pt>
+File: Figures/Quantiles_C4.pdf Graphic file (type pdf)
+<use Figures/Quantiles_C4.pdf>
+Package pdftex.def Info: Figures/Quantiles_C4.pdf  used on input line 399.
+(pdftex.def)             Requested size: 450.43253pt x 350.33043pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/Shape_C4.pdf, id=406, 722.7pt x 578.16pt>
+File: Figures/Shape_C4.pdf Graphic file (type pdf)
+<use Figures/Shape_C4.pdf>
+Package pdftex.def Info: Figures/Shape_C4.pdf  used on input line 408.
+(pdftex.def)             Requested size: 250.24199pt x 200.18881pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/Params_C4.pdf, id=408, 1084.05pt x 505.89pt>
+File: Figures/Params_C4.pdf Graphic file (type pdf)
+<use Figures/Params_C4.pdf>
+Package pdftex.def Info: Figures/Params_C4.pdf  used on input line 418.
+(pdftex.def)             Requested size: 450.43253pt x 210.20288pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16 <./Figures/Barplots_QX_C4.pdf>] [17 <./Figures/Quantiles_C4.pdf>] [18 <./Fi
+gures/Shape_C4.pdf> <./Figures/Params_C4.pdf>] [19
+
+] (Chapitre3.aux)
 Package rerunfilecheck Info: File `Chapitre3.out' has not changed.
-(rerunfilecheck)             Checksum: 135BA2FE829A9EFA906CCDE65A3D8ADC;9705.
+(rerunfilecheck)             Checksum: A99751AD3537F410CE26BFF520D1CA5B;9602.
 Package logreq Info: Writing requests to 'Chapitre3.run.xml'.
 \openout1 = `Chapitre3.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19293 strings out of 478659
- 343730 string characters out of 2842128
- 1045109 words of memory out of 3000000
- 37057 multiletter control sequences out of 15000+600000
+ 19352 strings out of 478659
+ 345241 string characters out of 2842128
+ 1047601 words of memory out of 3000000
+ 37096 multiletter control sequences out of 15000+600000
  416415 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,15n,77p,1837b,1348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,15n,77p,1895b,1327s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1095.pk><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs
@@ -975,9 +1005,9 @@ eu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Chapitre3.pdf (15 pages, 2289281 bytes).
+Output written on Chapitre3.pdf (19 pages, 1891992 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 597 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
+ 274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
