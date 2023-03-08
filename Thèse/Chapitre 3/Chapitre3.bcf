@@ -2348,11 +2348,25 @@
     <bcf:citekey order="1">stedinger_flood_1986</bcf:citekey>
     <bcf:citekey order="2">stedinger_flood_1986</bcf:citekey>
     <bcf:citekey order="3">coles_classical_2001</bcf:citekey>
-    <bcf:citekey order="4">hirsch_probability_1987</bcf:citekey>
-    <bcf:citekey order="5">hirsch_probability_1987</bcf:citekey>
-    <bcf:citekey order="6">lang_towards_1999</bcf:citekey>
-    <bcf:citekey order="7">prosdocimi_german_2018</bcf:citekey>
-    <bcf:citekey order="8">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="4">martins_generalized_2000</bcf:citekey>
+    <bcf:citekey order="5">stedinger_flood_1986</bcf:citekey>
+    <bcf:citekey order="6">payrastre_usefulness_2011</bcf:citekey>
+    <bcf:citekey order="7">hirsch_probability_1987</bcf:citekey>
+    <bcf:citekey order="8">hirsch_probability_1987</bcf:citekey>
+    <bcf:citekey order="9">darienzo_detection_2021-1</bcf:citekey>
+    <bcf:citekey order="10">darienzo_detection_2021-1</bcf:citekey>
+    <bcf:citekey order="11">darienzo_detection_2021-1</bcf:citekey>
+    <bcf:citekey order="12">lang_towards_1999</bcf:citekey>
+    <bcf:citekey order="13">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="14">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="15">stedinger_flood_1986</bcf:citekey>
+    <bcf:citekey order="16">payrastre_usefulness_2011</bcf:citekey>
+    <bcf:citekey order="17">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="18">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="19">pichard_hydro-climatology_2017</bcf:citekey>
+    <bcf:citekey order="20">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="21">payrastre_usefulness_2011</bcf:citekey>
+    <bcf:citekey order="22">payrastre_usefulness_2011</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

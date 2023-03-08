@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  1 MAR 2023 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  9 MAR 2023 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -823,7 +823,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (Chapitre3.toc
-Overfull \hbox (1.57426pt too wide) in paragraph at lines 79--79
+Overfull \hbox (1.57426pt too wide) in paragraph at lines 89--89
  [][] [][][]\OT1/cmr/m/n/10.95 Quel est l'apport de l'utilisation des crues his
 -toriques pour une longueur de chronique 
  []
@@ -840,145 +840,144 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--43
  []
 
 
-Overfull \hbox (4.70705pt too wide) in paragraph at lines 56--57
+Overfull \hbox (4.70705pt too wide) in paragraph at lines 57--58
  [][] \OT1/cmr/m/n/10.95 L'utilisation d'occurrences de crues his-toriques pour
  l'analyse frequentielle necessite a min-ima l'hypothese
  []
 
-[2]
-Overfull \hbox (1.7619pt too wide) in paragraph at lines 90--90
-[]\OT1/cmr/bx/n/12 Propagation de l'incertitudes hy-drometriques des mesures s
-ystematiques (modele
- []
-
-[3] [4]
-<Figures/EchMixteBcr.pdf, id=201, 1084.05pt x 722.7pt>
+[2] [3] [4] [5]
+<Figures/EchMixteBcr.pdf, id=222, 1084.05pt x 722.7pt>
 File: Figures/EchMixteBcr.pdf Graphic file (type pdf)
 <use Figures/EchMixteBcr.pdf>
-Package pdftex.def Info: Figures/EchMixteBcr.pdf  used on input line 182.
+Package pdftex.def Info: Figures/EchMixteBcr.pdf  used on input line 213.
 (pdftex.def)             Requested size: 450.43253pt x 300.28984pt.
- [5] [6 <./Figures/EchMixteBcr.pdf>]
-<Figures/Poisson_C3-C4_FR.pdf, id=229, 867.24pt x 505.89pt>
-File: Figures/Poisson_C3-C4_FR.pdf Graphic file (type pdf)
-<use Figures/Poisson_C3-C4_FR.pdf>
-Package pdftex.def Info: Figures/Poisson_C3-C4_FR.pdf  used on input line 213.
-(pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/Poisson_Qrecent_FR.pdf, id=232, 867.24pt x 505.89pt>
+[6] [7 <./Figures/EchMixteBcr.pdf>]
+<Figures/Poisson_C3-C4_FR.pdf, id=254, 867.24pt x 505.89pt>
+File: Figures/Poisson_C3-C4_FR.pdf Graphic file (type pdf)
+<use Figures/Poisson_C3-C4_FR.pdf>
+Package pdftex.def Info: Figures/Poisson_C3-C4_FR.pdf  used on input line 242.
+(pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
+ [8 <./Figures/Poisson_C3-C4_FR.pdf>]
+<Figures/Poisson_Qrecent_FR.pdf, id=272, 867.24pt x 505.89pt>
 File: Figures/Poisson_Qrecent_FR.pdf Graphic file (type pdf)
 <use Figures/Poisson_Qrecent_FR.pdf>
-Package pdftex.def Info: Figures/Poisson_Qrecent_FR.pdf  used on input line 224
+Package pdftex.def Info: Figures/Poisson_Qrecent_FR.pdf  used on input line 253
 .
 (pdftex.def)             Requested size: 400.38872pt x 233.56133pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7] [8 <./Figures/Poisson_C3-C4_FR.pdf> <./Figures/Poisson_Qrecent_FR.pdf>]
-<Figures/Barplots_QX_Artif2.pdf, id=266, 939.51pt x 578.16pt>
+[9 <./Figures/Poisson_Qrecent_FR.pdf>]
+<Figures/Barplots_QX_Artif2.pdf, id=292, 939.51pt x 578.16pt>
 File: Figures/Barplots_QX_Artif2.pdf Graphic file (type pdf)
 <use Figures/Barplots_QX_Artif2.pdf>
-Package pdftex.def Info: Figures/Barplots_QX_Artif2.pdf  used on input line 290
+Package pdftex.def Info: Figures/Barplots_QX_Artif2.pdf  used on input line 308
 .
 (pdftex.def)             Requested size: 400.38872pt x 246.38963pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9
-
-]
-<Figures/Quantiles_Artif2.pdf, id=278, 1300.86pt x 1011.78pt>
+[10]
+<Figures/Quantiles_Artif2.pdf, id=303, 1300.86pt x 1011.78pt>
 File: Figures/Quantiles_Artif2.pdf Graphic file (type pdf)
 <use Figures/Quantiles_Artif2.pdf>
-Package pdftex.def Info: Figures/Quantiles_Artif2.pdf  used on input line 299.
+Package pdftex.def Info: Figures/Quantiles_Artif2.pdf  used on input line 335.
 (pdftex.def)             Requested size: 500.484pt x 389.26633pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10 <./Figures/Barplots_QX_Artif2.pdf>] [11 <./Figures/Quantiles_Artif2.pdf>]
-<Figures/Shape_Artif2.pdf, id=311, 722.7pt x 578.16pt>
+[11 <./Figures/Barplots_QX_Artif2.pdf>] [12 <./Figures/Quantiles_Artif2.pdf>]
+<Figures/Shape_Artif2.pdf, id=338, 722.7pt x 578.16pt>
 File: Figures/Shape_Artif2.pdf Graphic file (type pdf)
 <use Figures/Shape_Artif2.pdf>
-Package pdftex.def Info: Figures/Shape_Artif2.pdf  used on input line 314.
+Package pdftex.def Info: Figures/Shape_Artif2.pdf  used on input line 350.
 (pdftex.def)             Requested size: 300.29344pt x 240.23187pt.
-<Figures/Params_Artif2.pdf, id=314, 1084.05pt x 505.89pt>
+<Figures/Params_Artif2.pdf, id=341, 1084.05pt x 505.89pt>
 File: Figures/Params_Artif2.pdf Graphic file (type pdf)
 <use Figures/Params_Artif2.pdf>
-Package pdftex.def Info: Figures/Params_Artif2.pdf  used on input line 327.
+Package pdftex.def Info: Figures/Params_Artif2.pdf  used on input line 363.
 (pdftex.def)             Requested size: 450.43253pt x 210.20288pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12 <./Figures/Shape_Artif2.pdf>] [13 <./Figures/Params_Artif2.pdf>]
-<Figures/ScatterD_Artif2.pdf, id=362, 433.62pt x 433.62pt>
+[13 <./Figures/Shape_Artif2.pdf>] [14 <./Figures/Params_Artif2.pdf>]
+<Figures/ScatterD_Artif2.pdf, id=389, 433.62pt x 433.62pt>
 File: Figures/ScatterD_Artif2.pdf Graphic file (type pdf)
 <use Figures/ScatterD_Artif2.pdf>
-Package pdftex.def Info: Figures/ScatterD_Artif2.pdf  used on input line 343.
+Package pdftex.def Info: Figures/ScatterD_Artif2.pdf  used on input line 379.
 (pdftex.def)             Requested size: 350.33727pt x 350.3569pt.
-<Figures/Barplots_QX_censure.pdf, id=363, 939.51pt x 578.16pt>
+ [15 <./Figures/ScatterD_Artif2.pdf>]
+<Figures/Barplots_QX_censure.pdf, id=411, 939.51pt x 578.16pt>
 File: Figures/Barplots_QX_censure.pdf Graphic file (type pdf)
 <use Figures/Barplots_QX_censure.pdf>
-Package pdftex.def Info: Figures/Barplots_QX_censure.pdf  used on input line 36
-9.
+Package pdftex.def Info: Figures/Barplots_QX_censure.pdf  used on input line 39
+3.
 (pdftex.def)             Requested size: 400.38872pt x 246.38963pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14 <./Figures/ScatterD_Artif2.pdf>] [15 <./Figures/Barplots_QX_censure.pdf>]
-<Figures/Barplots_QX_C4.pdf, id=403, 939.51pt x 578.16pt>
+ [16 <./Figures/Barplots_QX_censure.pdf>]
+<Figures/Barplots_QX_C4.pdf, id=438, 939.51pt x 578.16pt>
 File: Figures/Barplots_QX_C4.pdf Graphic file (type pdf)
 <use Figures/Barplots_QX_C4.pdf>
-Package pdftex.def Info: Figures/Barplots_QX_C4.pdf  used on input line 390.
+Package pdftex.def Info: Figures/Barplots_QX_C4.pdf  used on input line 430.
 (pdftex.def)             Requested size: 400.38872pt x 246.38963pt.
-<Figures/Quantiles_C4.pdf, id=405, 1300.86pt x 1011.78pt>
-File: Figures/Quantiles_C4.pdf Graphic file (type pdf)
-<use Figures/Quantiles_C4.pdf>
-Package pdftex.def Info: Figures/Quantiles_C4.pdf  used on input line 399.
-(pdftex.def)             Requested size: 450.43253pt x 350.33043pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/Shape_C4.pdf, id=406, 722.7pt x 578.16pt>
-File: Figures/Shape_C4.pdf Graphic file (type pdf)
-<use Figures/Shape_C4.pdf>
-Package pdftex.def Info: Figures/Shape_C4.pdf  used on input line 408.
-(pdftex.def)             Requested size: 250.24199pt x 200.18881pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/Params_C4.pdf, id=408, 1084.05pt x 505.89pt>
+[17]
+<Figures/Params_C4.pdf, id=452, 1084.05pt x 505.89pt>
 File: Figures/Params_C4.pdf Graphic file (type pdf)
 <use Figures/Params_C4.pdf>
-Package pdftex.def Info: Figures/Params_C4.pdf  used on input line 418.
+Package pdftex.def Info: Figures/Params_C4.pdf  used on input line 455.
 (pdftex.def)             Requested size: 450.43253pt x 210.20288pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16 <./Figures/Barplots_QX_C4.pdf>] [17 <./Figures/Quantiles_C4.pdf>] [18 <./Fi
-gures/Shape_C4.pdf> <./Figures/Params_C4.pdf>] [19
+[18 <./Figures/Barplots_QX_C4.pdf>]
+<Figures/Barplots_QX_C4short.pdf, id=473, 939.51pt x 578.16pt>
+File: Figures/Barplots_QX_C4short.pdf Graphic file (type pdf)
+<use Figures/Barplots_QX_C4short.pdf>
+Package pdftex.def Info: Figures/Barplots_QX_C4short.pdf  used on input line 47
+2.
+(pdftex.def)             Requested size: 400.38872pt x 246.38963pt.
 
-] (Chapitre3.aux)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19 <./Figures/Params_C4.pdf>]
+<Figures/Params_C4short.pdf, id=493, 1084.05pt x 505.89pt>
+File: Figures/Params_C4short.pdf Graphic file (type pdf)
+<use Figures/Params_C4short.pdf>
+Package pdftex.def Info: Figures/Params_C4short.pdf  used on input line 496.
+(pdftex.def)             Requested size: 450.43253pt x 210.20288pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20 <./Figures/Barplots_QX_C4short.pdf>] [21 <./Figures/Params_C4short.pdf>]
+[22] [23] [24] (Chapitre3.aux)
 Package rerunfilecheck Info: File `Chapitre3.out' has not changed.
-(rerunfilecheck)             Checksum: A99751AD3537F410CE26BFF520D1CA5B;9602.
+(rerunfilecheck)             Checksum: 71CDAF8493A535DD1111E93069857252;9942.
 Package logreq Info: Writing requests to 'Chapitre3.run.xml'.
 \openout1 = `Chapitre3.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19352 strings out of 478659
- 345241 string characters out of 2842128
- 1047601 words of memory out of 3000000
- 37096 multiletter control sequences out of 15000+600000
+ 19451 strings out of 478659
+ 347251 string characters out of 2842128
+ 1058406 words of memory out of 3000000
+ 37164 multiletter control sequences out of 15000+600000
  416415 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,15n,77p,1895b,1327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,15n,77p,2078b,1364s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1095.pk><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs
@@ -1005,9 +1004,9 @@ eu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Chapitre3.pdf (19 pages, 1891992 bytes).
+Output written on Chapitre3.pdf (24 pages, 1755380 bytes).
 PDF statistics:
- 597 PDF objects out of 1000 (max. 8388607)
- 112 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 678 PDF objects out of 1000 (max. 8388607)
+ 143 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -83,6 +83,69 @@
       \endverb
       \keyw{Generalize Extreme Value,Generalize Extreme Value Distribution,Profile Likelihood,Return Level,Return Period}
     \endentry
+    \entry{darienzo_detection_2021-1}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=9c0d4e28b7ec96929ee1d16e29eed397}{%
+           family={Darienzo},
+           familyi={D\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editora}{3}{}{%
+        {{hash=081c44d48de07decc0eb61e6b652e349}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=31ac1be5bb953424f3ec0cd25a701e44}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fd9405f5fbc00c17beb6b212f84dc815}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Grenoble Alpes}%
+      }
+      \strng{namehash}{9c0d4e28b7ec96929ee1d16e29eed397}
+      \strng{fullhash}{9c0d4e28b7ec96929ee1d16e29eed397}
+      \strng{bibnamehash}{9c0d4e28b7ec96929ee1d16e29eed397}
+      \strng{authorbibnamehash}{9c0d4e28b7ec96929ee1d16e29eed397}
+      \strng{authornamehash}{9c0d4e28b7ec96929ee1d16e29eed397}
+      \strng{authorfullhash}{9c0d4e28b7ec96929ee1d16e29eed397}
+      \strng{editorabibnamehash}{06c82dc59382c6123ce5de58774a688f}
+      \strng{editoranamehash}{dab742cb758e8b0fef9b4c5989db1df4}
+      \strng{editorafullhash}{06c82dc59382c6123ce5de58774a688f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Les séries temporelles de débit des rivières sont établies à l'aide de "courbes de tarage", qui sont des modèles avec les hauteurs d’eau en entrée et les débits en sortie. Malheureusement, de nombreuses stations hydrométriques ont une relation hauteur-débit instable, notamment à cause de l’évolution du lit de la rivière lors des crues. Ces "détarages" posent problème à la fois pour l'établissement des séries hydrologiques de long-terme (analyse rétrospective) et pour la fourniture de données en temps réel, par exemple pour la prévision des inondations, avec des incertitudes quantifiées et fiables. Les méthodes existantes pour la mise à jour de la courbe de tarage sont basées sur une analyse statistique des données de calibration (jaugeages) passées ou sur des règles empiriques. Cette thèse a permis de développer des méthodes originales pour la détection automatique des détarages et l'estimation de leur amplitude en rétrospectif et en temps réel : une méthode de segmentation des résidus entre les jaugeages et une courbe de référence, une analyse des récessions du limnigramme et une détection de détarages potentiels à partir d'un indicateur disponible en temps réel (par exemple, transport sédimentaire cumulé). L'approche probabiliste permet d'une part de prendre en compte l'incertitude des informations sur les détarages et d'autre part de quantifier les incertitudes sur les débits calculés. La combinaison des trois méthodes a été appliquée à la station de l’Ardèche à Meyras, en France, qui présente des détarages nets après chaque crue importante. Une bonne détection et estimation des détarages a été observée en rétrospectif et en temps réel. La méthode est générale et applicable en opérationnel à d’autres stations après validation. La méthode est générique et, après davantage de validation, applicable en opérationnel à d'autres sites.}
+      \field{day}{2}
+      \field{editoratype}{collaborator}
+      \field{month}{2}
+      \field{title}{Detection and estimation of stage-discharge rating shifts for retrospective and real-time streamflow quantification}
+      \field{type}{These de doctorat}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.theses.fr/2021GRALU006
+      \endverb
+      \verb{url}
+      \verb https://www.theses.fr/2021GRALU006
+      \endverb
+      \keyw{550,Analyse Bayésienne,Analyse rétrospective,Bayesian analysis,Courbes de tarage,Détarages,Gaugings,Hydrologie -- Recherche,Jaugeages,Rating curves,Rating shifts,Real time,Retrospective analysis,Statistique bayésienne,Temps réel}
+    \endentry
     \entry{hirsch_probability_1987}{article}{}
       \name{author}{1}{}{%
         {{hash=9a0cf902ae4bbc02d0fd870159d22c44}{%
@@ -191,6 +254,186 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169499001675
+      \endverb
+    \endentry
+    \entry{martins_generalized_2000}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f109a1d6da40169a651e473b7279678c}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Eduardo\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1bc2572d42182a33958d3dcb5a6f394e}{%
+           family={Stedinger},
+           familyi={S\bibinitperiod},
+           given={Jery\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{69027311bef3a110dd351bb8fdd1b73e}
+      \strng{fullhash}{69027311bef3a110dd351bb8fdd1b73e}
+      \strng{bibnamehash}{69027311bef3a110dd351bb8fdd1b73e}
+      \strng{authorbibnamehash}{69027311bef3a110dd351bb8fdd1b73e}
+      \strng{authornamehash}{69027311bef3a110dd351bb8fdd1b73e}
+      \strng{authorfullhash}{69027311bef3a110dd351bb8fdd1b73e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The three-parametegr eneralizedextreme-value({GEV}) distributionhasfound wide applicationfor describingannualfloods,rainfall,wind speedsw, aveheights,snow depths,and other maxima.Previousstudiesshowthat small-samplemaximum-likelihood estimators({MLE}) of parametersare {unstableandrecommendL} momentestimators. More recentresearchshowsthat methodof momentsquantileestimatorshavefor -0.25 {<} K {<} 0.30 smallerroot-mean-squarerror {thanL} momentsand {MLEs}. Examinationof the behaviorof {MLEs} in smallsamplesdemonstratesthat absurdvaluesof the {GEV}-{shapeparameterK} canbe generated.Use of a Bayesianprior distributionto restrictg valuesto a statistically/physicalrleyasonablerangein a generalizedmaximum likelihood({GML}) analysiseliminatesthisproblem.In our examplesthe {GML} estimator did {substantiallbyetterthanmomentandL} momentquantileestimatorsfor -0.4 -{<} g -{<} 0.}
+      \field{issn}{00431397}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{title}{Generalized maximum-likelihood generalized extreme-value quantile estimators for hydrologic data}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{36}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{737\bibrangedash 744}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1029/1999WR900330
+      \endverb
+      \verb{file}
+      \verb Martins et Stedinger - 2000 - Generalized maximum-likelihood generalized extreme.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\N2KDDW8Q\\Martins et Stedinger - 2000 - Generalized maximum-likelihood generalized extreme.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1029/1999WR900330
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1029/1999WR900330
+      \endverb
+    \endentry
+    \entry{payrastre_usefulness_2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=936d6c96d339cd6c7105d762b8edc0f0}{%
+           family={Payrastre},
+           familyi={P\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=067a9522a42c0cd60b12fb651faaa52b}{%
+           family={Gaume},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b2cf50b5c42f3310b2afea18ba6f2ef5}{%
+           family={Andrieu},
+           familyi={A\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb7a40fcf550b8e23e25166dea738f3d}
+      \strng{fullhash}{0bda40965021b6491fad25dca068fbac}
+      \strng{bibnamehash}{0bda40965021b6491fad25dca068fbac}
+      \strng{authorbibnamehash}{0bda40965021b6491fad25dca068fbac}
+      \strng{authornamehash}{cb7a40fcf550b8e23e25166dea738f3d}
+      \strng{authorfullhash}{0bda40965021b6491fad25dca068fbac}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00431397}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{8}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{shorttitle}{Usefulness of historical information for flood frequency analyses}
+      \field{title}{Usefulness of historical information for flood frequency analyses: Developments based on a case study}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{47}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1029/2010WR009812
+      \endverb
+      \verb{file}
+      \verb Payrastre et al. - 2011 - Usefulness of historical information for flood fre.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\MFW756NW\\Payrastre et al. - 2011 - Usefulness of historical information for flood fre.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1029/2010WR009812
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1029/2010WR009812
+      \endverb
+    \endentry
+    \entry{pichard_hydro-climatology_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=833d7a3d976cc7930992b36adbb07dc8}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b5743345745dac3272acc2c84c79f85c}{%
+           family={Arnaud-Fassetta},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=18323608c3a20ea54724605b66f300f7}{%
+           family={Moron},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c983c628babe3a937bdf3efa7d873092}{%
+           family={Roucaute},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{abcb4918d7428549857a574a3128f78c}
+      \strng{fullhash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{bibnamehash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{authorbibnamehash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{authornamehash}{abcb4918d7428549857a574a3128f78c}
+      \strng{authorfullhash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{From the {HISTRHONE} database we extracted 1483 hydro-meteorological events from {AD} 1300 to 2000 that occurred in the Lower Rhône Valley, France. Daily heights of the Rhône River at Beaucaire and Arles are also available, from 1816 and 1829, respectively. A total of 517 floods were divided into three categories and a synthetic frequency severity index ({FSI}) was computed. Running averages of 11 and 31 years show a succession of poor and rich flood fluctuations. Extreme floods tripled in the second half of the period (1650–2000). Singular spectrum analysis isolates a dominant irregular component (main positive anomalies in 1450–1580, around 1700, late 18th century, and most of the 20th century). We focus on the 17th century, with rare flooding events between two secular so-called “hyper phases”, i.e. frequent and/or severe floods. We also recorded 173 episodes of ice in the river, during the Little Ice Age.}
+      \field{day}{18}
+      \field{issn}{0262-6667, 2150-3435}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{11}
+      \field{shortjournal}{Hydrological Sciences Journal}
+      \field{shorttitle}{Hydro-climatology of the Lower Rhône Valley}
+      \field{title}{Hydro-climatology of the Lower Rhône Valley: historical flood reconstruction ({AD} 1300–2000) based on documentary and instrumental sources}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{62}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1772\bibrangedash 1795}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/02626667.2017.1349314
+      \endverb
+      \verb{file}
+      \verb Pichard et al. - 2017 - Hydro-climatology of the Lower Rhône Valley histo.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7CCLI4DL\\Pichard et al. - 2017 - Hydro-climatology of the Lower Rhône Valley histo.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2017.1349314
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2017.1349314
       \endverb
     \endentry
     \entry{prosdocimi_german_2018}{article}{}
