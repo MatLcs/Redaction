@@ -235,6 +235,286 @@
       \verb http://doi.wiley.com/10.1029/TR031i003p00419
       \endverb
     \endentry
+    \entry{bloschl_changing_2019}{article}{}
+      \name{author}{47}{}{%
+        {{hash=8a6b848e7ea98666f2493aa8f99b4efd}{%
+           family={Blöschl},
+           familyi={B\bibinitperiod},
+           given={Günter},
+           giveni={G\bibinitperiod}}}%
+        {{hash=480fe51ea0e09877f49fa4fc4a249e8f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=41e04c55ae558ba11259080fc3ba1d02}{%
+           family={Viglione},
+           familyi={V\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=203ae7f89af7c6cf405eca1c77baedb6}{%
+           family={Perdigão},
+           familyi={P\bibinitperiod},
+           given={Rui\bibnamedelimb A.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ca80f0a2b3b61ce8a7bf7a2fc195a099}{%
+           family={Parajka},
+           familyi={P\bibinitperiod},
+           given={Juraj},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fbae7e671fc3ef2b67b40220beb971fd}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a65429c6d218ce31fa1d6f76cae09a9d}{%
+           family={Lun},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cbcd71613d0b76d26090b103280f52a7}{%
+           family={Arheimer},
+           familyi={A\bibinitperiod},
+           given={Berit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b7c0dbdeab3859a58f188a68f18e2c25}{%
+           family={Aronica},
+           familyi={A\bibinitperiod},
+           given={Giuseppe\bibnamedelima T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e6eefabfce60ea906151a7e7d177471d}{%
+           family={Bilibashi},
+           familyi={B\bibinitperiod},
+           given={Ardian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fa748341461ef8a9e8c23a6e398750ef}{%
+           family={Boháč},
+           familyi={B\bibinitperiod},
+           given={Miloň},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c5f3679520cb124f079cd6336896cf89}{%
+           family={Bonacci},
+           familyi={B\bibinitperiod},
+           given={Ognjen},
+           giveni={O\bibinitperiod}}}%
+        {{hash=63b9d9614bbdcc6e6ca7608911597bc3}{%
+           family={Borga},
+           familyi={B\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f6cdc52cfa6294e85dd8c2d84de6b4d9}{%
+           family={Čanjevac},
+           familyi={Č\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=735607bec16c68e69a889d3d1250785e}{%
+           family={Castellarin},
+           familyi={C\bibinitperiod},
+           given={Attilio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5eee14f6ed0b0aebebb4f79c04e93a02}{%
+           family={Chirico},
+           familyi={C\bibinitperiod},
+           given={Giovanni\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=2b56791d8435caffd4de79ca5d23a290}{%
+           family={Claps},
+           familyi={C\bibinitperiod},
+           given={Pierluigi},
+           giveni={P\bibinitperiod}}}%
+        {{hash=31a2295efefd835910650b9c80a65d6c}{%
+           family={Frolova},
+           familyi={F\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d1dfb6cd65e70c3e229880c60168e3f0}{%
+           family={Ganora},
+           familyi={G\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2c994a9d2b0da0344fb31e6571b34b43}{%
+           family={Gorbachova},
+           familyi={G\bibinitperiod},
+           given={Liudmyla},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9cba9470e86f3b1ec9dd1ed271e578e0}{%
+           family={Gül},
+           familyi={G\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=048341216d7885a778e652c6027aab7f}{%
+           family={Hannaford},
+           familyi={H\bibinitperiod},
+           given={Jamie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=90a8657776ba885b8eb6886b97775f8c}{%
+           family={Harrigan},
+           familyi={H\bibinitperiod},
+           given={Shaun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=703052cadb561eed0b0b4c679151adf1}{%
+           family={Kireeva},
+           familyi={K\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=311247c58bf2a0f97f3b60296e756c91}{%
+           family={Kiss},
+           familyi={K\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=730f3f62e433c6176330ca5fb3938e00}{%
+           family={Kjeldsen},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d07fa2ff01659c6ca03dfc3b246a0215}{%
+           family={Kohnová},
+           familyi={K\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28114943a50142baad5fbe488e819067}{%
+           family={Koskela},
+           familyi={K\bibinitperiod},
+           given={Jarkko\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5c757a24f4b7f18236dffb6cb57d1596}{%
+           family={Ledvinka},
+           familyi={L\bibinitperiod},
+           given={Ondrej},
+           giveni={O\bibinitperiod}}}%
+        {{hash=06bf8ddf576223d79627c734e32223ba}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=034ea940a3dd66f8edd5b6302d333fbe}{%
+           family={Mavrova-Guirguinova},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa1a8196f6aefe9450a1a3301656de86}{%
+           family={Mediero},
+           familyi={M\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0fd4bae8f671252787867490a2acfa13}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=32c4959c98a623a880f165c201c8edd2}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=eeea6c0fa796e8f3f383e642d0beb216}{%
+           family={Montanari},
+           familyi={M\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7596dc30e9706149082c0ea900a61fa0}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Conor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e6d409073a88cd58d119078eb782cf52}{%
+           family={Osuch},
+           familyi={O\bibinitperiod},
+           given={Marzena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5775339ce768f8358f489cfed09dd785}{%
+           family={Ovcharuk},
+           familyi={O\bibinitperiod},
+           given={Valeryia},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3c44bc6de228cce4674ddfd786b3e6c4}{%
+           family={Radevski},
+           familyi={R\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5cac79cf41e7410804400292f69b8406}{%
+           family={Salinas},
+           familyi={S\bibinitperiod},
+           given={José\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=84a256463d503a3686655cc1e5a5ddb1}{%
+           family={Sauquet},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=49dff228d758c15060b2d913f8e5cb24}{%
+           family={Šraj},
+           familyi={Š\bibinitperiod},
+           given={Mojca},
+           giveni={M\bibinitperiod}}}%
+        {{hash=da1400ba81e4c56ad21ef9121ee1f451}{%
+           family={Szolgay},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bcac8398e4fa8022e538ca2a1924ee45}{%
+           family={Volpi},
+           familyi={V\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c0ff6ea5ddd39e91d62a95c11e1b4e24}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Donna},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d418f5a2624407981e5f22ed5f83245c}{%
+           family={Zaimi},
+           familyi={Z\bibinitperiod},
+           given={Klodian},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6112c293c28712b4cfc795663d0d5f86}{%
+           family={Živković},
+           familyi={Ž\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{decb74225052fbd82bcd919d6e512c6e}
+      \strng{fullhash}{612a3f78126855644c3cb61bf20e77fd}
+      \strng{bibnamehash}{612a3f78126855644c3cb61bf20e77fd}
+      \strng{authorbibnamehash}{612a3f78126855644c3cb61bf20e77fd}
+      \strng{authornamehash}{decb74225052fbd82bcd919d6e512c6e}
+      \strng{authorfullhash}{612a3f78126855644c3cb61bf20e77fd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate change has led to concerns about increasing river floods resulting from the greater water-holding capacity of a warmer atmosphere1. These concerns are reinforced by evidence of increasing economic losses associated with flooding in many parts of the world, including Europe2. Any changes in river floods would have lasting implications for the design of flood protection measures and flood risk zoning. However, existing studies have been unable to identify a consistent continental-scale climatic-change signal in flood discharge observations in Europe3, because of the limited spatial coverage and number of hydrometric stations. Here we demonstrate clear regional patterns of both increases and decreases in observed river flood discharges in the past five decades in Europe, which are manifestations of a changing climate. Our results—arising from the most complete database of European flooding so far—suggest that: increasing autumn and winter rainfall has resulted in increasing floods in northwestern Europe; decreasing precipitation and increasing evaporation have led to decreasing floods in medium and large catchments in southern Europe; and decreasing snow cover and snowmelt, resulting from warmer temperatures, have led to decreasing floods in eastern Europe. Regional flood discharge trends in Europe range from an increase of about 11 per cent per decade to a decrease of 23 per cent. Notwithstanding the spatial and temporal heterogeneity of the observational record, the flood changes identified here are broadly consistent with climate model projections for the next century4,5, suggesting that climate-driven changes are already happening and supporting calls for the consideration of climate change in flood risk management.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{7772}
+      \field{title}{Changing climate both increases and decreases European river floods}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{573}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{108\bibrangedash 111}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1495-6
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\LRTNIDGE\\Blöschl et al. - 2019 - Changing climate both increases and decreases Euro.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41586-019-1495-6
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41586-019-1495-6
+      \endverb
+      \keyw{Hydrology,Natural hazards}
+    \endentry
     \entry{coles_classical_2001}{incollection}{}
       \name{author}{1}{}{%
         {{hash=cc948339cfc306ea654ef4c3c95c34d8}{%
@@ -651,6 +931,300 @@
       \verb https://ascelibrary.org/doi/10.1061/JYCEAJ.0005273
       \endverb
     \endentry
+    \entry{giuntoli_floods_2019}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=aa0c5753d4782f5f91915e1e4435a32c}{%
+           family={Giuntoli},
+           familyi={G\bibinitperiod},
+           given={Ignazio},
+           giveni={I\bibinitperiod}}}%
+        {{hash=fd9405f5fbc00c17beb6b212f84dc815}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=081c44d48de07decc0eb61e6b652e349}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{CRC} Press}%
+      }
+      \strng{namehash}{52ea332fd65cd6610b55aac63879ecf7}
+      \strng{fullhash}{2d31e12556c377614b69311f68531915}
+      \strng{bibnamehash}{2d31e12556c377614b69311f68531915}
+      \strng{authorbibnamehash}{2d31e12556c377614b69311f68531915}
+      \strng{authornamehash}{52ea332fd65cd6610b55aac63879ecf7}
+      \strng{authorfullhash}{2d31e12556c377614b69311f68531915}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Describing the evolution of trends from historical hydrological variables, such as streamflow or precipitation, is a difficult task as data are often incomplete in the spatial and temporal domains. Evidence indicates an ongoing intensification of the water cycle, although to date, on a global scale, no consistent trends support an increase in the frequency or intensity of floods. The data set consists of daily runoff series collected from the French Banque Hydro Archive. Streamflow indices were selected in order to describe the evolution of high flows. The trend analysis was carried out applying statistical tests to the time series of the streamflow indices. The idea behind the use of regional tests is that stations located in the same region, that are subject to similar climate, are most likely to behave in the same way to the evolution of climate forcings.}
+      \field{booktitle}{Changes in Flood Risk in Europe}
+      \field{day}{30}
+      \field{edition}{1}
+      \field{isbn}{978-0-203-09809-7}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Floods in France}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/chapters/edit/10.1201/b12348-10/floods-france-ignazio-giuntoli-benjamin-renard-michel-lang
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/chapters/edit/10.1201/b12348-10/floods-france-ignazio-giuntoli-benjamin-renard-michel-lang
+      \endverb
+    \endentry
+    \entry{hall_understanding_2014}{article}{}
+      \name{author}{29}{}{%
+        {{hash=c90885d8fbb509d706191ecfed90e34c}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=caf87849be5c9eab95df87ef29832a00}{%
+           family={Arheimer},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e990f4f8e18f748c0b2a069788e5a49c}{%
+           family={Borga},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2f22104dbd14d7c33fb7f8529528a8eb}{%
+           family={Brázdil},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=48550520ecffba0c397c1d79ec7f7235}{%
+           family={Claps},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dd3b32d0c3292cd6eadd0cbc4d14208a}{%
+           family={Kiss},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=156d04bf3a2fa88b195c82d432136f39}{%
+           family={Kjeldsen},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a78c6265801fa4b829882d63d3443973}{%
+           family={Kriaučiūnienė},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=55b0eb377eca44524f414d18a1a47ac4}{%
+           family={Kundzewicz},
+           familyi={K\bibinitperiod},
+           given={Z.\bibnamedelimi W.},
+           giveni={Z\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4cfe3332db67a62adf1808823f322ee5}{%
+           family={Llasat},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c1a0c13e986a206a98f2ad61543d0217}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=df92a396a24a7539bc297f35017422f9}{%
+           family={{McIntyre}},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8d8804a90d6471dbb0489dc7273bfbce}{%
+           family={Mediero},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=81b643247fa97bc56a36a0ab05d4f0d0}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=acccea81328f32527aeee4521298949a}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a10891ebb8fbbd5c1e912aadbae443ae}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4538ece41151895b42d75f37ed9ec2db}{%
+           family={Montanari},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=159e3937b1cb82ddc4abe6602b16b808}{%
+           family={Neuhold},
+           familyi={N\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=99600264231b0096ad2ae2fb77fdf658}{%
+           family={Parajka},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0ed49ec09eeb435f0f58caec009428a0}{%
+           family={Perdigão},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi A.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=2670ddebead5c967557125f2293e9bee}{%
+           family={Plavcová},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b04f6f50a32fe8c80dd74452ffeedb7c}{%
+           family={Rogger},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=75b4d6abf7d073d23ca5a9a0033e06d5}{%
+           family={Salinas},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5da1c59011842f36c075da914a255a26}{%
+           family={Sauquet},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f100aada6d5b6bfda0f329c9f18b4e27}{%
+           family={Schär},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1a3128aef45742c3c19c8eadd301e573}{%
+           family={Szolgay},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=84996e5e34a4442b6bda9391660b9788}{%
+           family={Viglione},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0c838a093f44798c829cca748fd61bcd}{%
+           family={Blöschl},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{af049882582b313bb2b522d2e5f6de61}
+      \strng{fullhash}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \strng{bibnamehash}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \strng{authorbibnamehash}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \strng{authornamehash}{af049882582b313bb2b522d2e5f6de61}
+      \strng{authorfullhash}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{There is growing concern that ﬂooding is becoming more frequent and severe in Europe. A better understanding of ﬂood regime changes and their drivers is therefore needed. The paper reviews the current knowledge on ﬂood regime changes in European rivers that has traditionally been obtained through two alternative research approaches. The ﬁrst approach is the data-based detection of changes in observed ﬂood events. Current methods are reviewed together with their challenges and opportunities. For example, observation biases, the merging of different data sources and accounting for nonlinear drivers and responses. The second approach consists of modelled scenarios of future ﬂoods. Challenges and opportunities associated with ﬂood change scenarios are discussed such as fully accounting for uncertainties in the modelling cascade and feedbacks. To make progress in ﬂood change research, we suggest that a synthesis of these two approaches is needed. This can be achieved by focusing on long duration records and ﬂood-rich and ﬂoodpoor periods rather than on short duration ﬂood trends only, by formally attributing causes of observed ﬂood changes, by validating scenarios against observed ﬂood regime dynamics, and by developing low-dimensional models of ﬂood changes and feedbacks. The paper ﬁnishes with a call for a joint European ﬂood change research network.}
+      \field{day}{30}
+      \field{issn}{1607-7938}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shortjournal}{Hydrol. Earth Syst. Sci.}
+      \field{shorttitle}{Understanding flood regime changes in Europe}
+      \field{title}{Understanding flood regime changes in Europe: a state-of-the-art assessment}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{18}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2735\bibrangedash 2772}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.5194/hess-18-2735-2014
+      \endverb
+      \verb{file}
+      \verb Hall et al. - 2014 - Understanding flood regime changes in Europe a st.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\WG7B8U62\\Hall et al. - 2014 - Understanding flood regime changes in Europe a st.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hess.copernicus.org/articles/18/2735/2014/
+      \endverb
+      \verb{url}
+      \verb https://hess.copernicus.org/articles/18/2735/2014/
+      \endverb
+    \endentry
+    \entry{hazen_storage_1914}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9065b1b4dc24f25891c48bee9a3556e9}{%
+           family={Hazen},
+           familyi={H\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9065b1b4dc24f25891c48bee9a3556e9}
+      \strng{fullhash}{9065b1b4dc24f25891c48bee9a3556e9}
+      \strng{bibnamehash}{9065b1b4dc24f25891c48bee9a3556e9}
+      \strng{authorbibnamehash}{9065b1b4dc24f25891c48bee9a3556e9}
+      \strng{authornamehash}{9065b1b4dc24f25891c48bee9a3556e9}
+      \strng{authorfullhash}{9065b1b4dc24f25891c48bee9a3556e9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is undoubtedly a definite relation between the storage provided in an impounding reservoir · on any stream and the quantity of water which can be supplied continuously by it. The relation, however, is a complex one, and our knowledge of its character is limited. The following study is made to see how far it may be possible to separate this complex relation into parts, some of them being of such a nature that they may be studied separately with definite results, and afterward to treat all the remaining variations on the basis of probabilities, using all data from a number of different streams; and to study them in comparison with the normal law of error.}
+      \field{day}{1}
+      \field{journaltitle}{Transactions of the American Society of Civil Engineers}
+      \field{month}{1}
+      \field{note}{Publisher: American Society of Civil Engineers}
+      \field{number}{1}
+      \field{title}{Storage to be Provided in Impounding Municipal Water Supply}
+      \field{urlday}{10}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{77}
+      \field{year}{1914}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1539\bibrangedash 1640}
+      \range{pages}{102}
+      \verb{doi}
+      \verb 10.1061/taceat.0002563
+      \endverb
+      \verb{urlraw}
+      \verb https://ascelibrary.org/doi/10.1061/taceat.0002563
+      \endverb
+      \verb{url}
+      \verb https://ascelibrary.org/doi/10.1061/taceat.0002563
+      \endverb
+    \endentry
     \entry{hirsch_probability_1987}{article}{}
       \name{author}{1}{}{%
         {{hash=9a0cf902ae4bbc02d0fd870159d22c44}{%
@@ -808,6 +1382,38 @@
       \verb{url}
       \verb https://www.cambridge.org/core/books/regional-frequency-analysis/8C59835F9361705DAAE1ADFDEA7ECD30
       \endverb
+    \endentry
+    \entry{kendall_rank_1948}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c6de6664bfb9ecb58d2e1c6d0dc60479}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={M.G.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Charles Griffin \& Company}%
+      }
+      \strng{namehash}{c6de6664bfb9ecb58d2e1c6d0dc60479}
+      \strng{fullhash}{c6de6664bfb9ecb58d2e1c6d0dc60479}
+      \strng{bibnamehash}{c6de6664bfb9ecb58d2e1c6d0dc60479}
+      \strng{authorbibnamehash}{c6de6664bfb9ecb58d2e1c6d0dc60479}
+      \strng{authornamehash}{c6de6664bfb9ecb58d2e1c6d0dc60479}
+      \strng{authorfullhash}{c6de6664bfb9ecb58d2e1c6d0dc60479}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A conventional treatment of various measures of rank correlation, based largely on parts of the author's larger work}
+      \field{number}{1}
+      \field{title}{Rank Correlation Methods}
+      \field{year}{1948}
+      \field{dateera}{ce}
     \endentry
     \entry{kjeldsen_documentary_2014}{article}{}
       \name{author}{25}{}{%
@@ -1285,6 +1891,124 @@
       \verb https://hess.copernicus.org/articles/19/2561/2015/
       \endverb
     \endentry
+    \entry{madsen_review_2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2e7711995b4153924158f9cf589a0060}{%
+           family={Madsen},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cd155f43d23d170a741ac77314690a10}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f48318f2f8c67c89303d7140a4cda6a2}{%
+           family={Martinkova},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=156d04bf3a2fa88b195c82d432136f39}{%
+           family={Kjeldsen},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b14934b9865988ebd3fe37de4b4171d4}
+      \strng{fullhash}{0f359743c8bb5b13215334df1d6feaf0}
+      \strng{bibnamehash}{0f359743c8bb5b13215334df1d6feaf0}
+      \strng{authorbibnamehash}{0f359743c8bb5b13215334df1d6feaf0}
+      \strng{authornamehash}{b14934b9865988ebd3fe37de4b4171d4}
+      \strng{authorfullhash}{0f359743c8bb5b13215334df1d6feaf0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a review of trend analysis of extreme precipitation and hydrological floods in Europe based on observations and future climate projections. The review summaries methods and methodologies applied and key findings from a large number of studies. Reported analyses of observed extreme precipitation and flood records show that there is some evidence of a general increase in extreme precipitation, whereas there are no clear indications of significant trends at large-scale regional or national level of extreme streamflow. Several studies from regions dominated by snowmelt-induced peak flows report decreases in extreme streamflow and earlier spring snowmelt peak flows, likely caused by increasing temperature. The review of likely future changes based on climate projections indicates a general increase in extreme precipitation under a future climate, which is consistent with the observed trends. Hydrological projections of peak flows show large impacts in many areas with both positive and negative changes. A general decrease in flood magnitude and earlier spring floods are projected for catchments with snowmelt-dominated peak flows, which is consistent with the observed trends. Finally, existing guidelines in Europe on design flood and design rainfall estimation are reviewed. The review shows that only few countries have developed guidelines that incorporate a consideration of climate change impacts.}
+      \field{day}{27}
+      \field{issn}{0022-1694}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{shortjournal}{Journal of Hydrology}
+      \field{title}{Review of trend analysis and climate change projections of extreme precipitation and floods in Europe}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{519}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3634\bibrangedash 3650}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jhydrol.2014.11.003
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\NWC2USH7\\S0022169414008889.html:text/html;Version acceptée:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\B5YZ5BU3\\Madsen et al. - 2014 - Review of trend analysis and climate change projec.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022169414008889
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022169414008889
+      \endverb
+      \keyw{Climate projections,Extreme precipitation,Floods,Guidelines,Trends}
+    \endentry
+    \entry{mann_nonparametric_1945}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5cf19aa5110d49e31bafd83ce394b092}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Henry\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cf19aa5110d49e31bafd83ce394b092}
+      \strng{fullhash}{5cf19aa5110d49e31bafd83ce394b092}
+      \strng{bibnamehash}{5cf19aa5110d49e31bafd83ce394b092}
+      \strng{authorbibnamehash}{5cf19aa5110d49e31bafd83ce394b092}
+      \strng{authornamehash}{5cf19aa5110d49e31bafd83ce394b092}
+      \strng{authorfullhash}{5cf19aa5110d49e31bafd83ce394b092}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0012-9682}
+      \field{journaltitle}{Econometrica}
+      \field{note}{Publisher: [Wiley, Econometric Society]}
+      \field{number}{3}
+      \field{title}{Nonparametric Tests Against Trend}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{13}
+      \field{year}{1945}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{245\bibrangedash 259}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.2307/1907187
+      \endverb
+      \verb{file}
+      \verb JSTOR Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\2FQEBLPY\\Mann - 1945 - Nonparametric Tests Against Trend.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/1907187
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/1907187
+      \endverb
+    \endentry
     \entry{martins_generalized_2000}{article}{}
       \name{author}{2}{}{%
         {{hash=f109a1d6da40169a651e473b7279678c}{%
@@ -1338,6 +2062,86 @@
       \endverb
       \verb{url}
       \verb http://doi.wiley.com/10.1029/1999WR900330
+      \endverb
+    \endentry
+    \entry{milly_stationarity_2008}{article}{}
+      \name{author}{7}{}{%
+        {{hash=da5c495f0f18c004d9fdb27d04b83b65}{%
+           family={Milly},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi C.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3adbfff4bfc54d2c69e780cd38f6b69b}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod}}}%
+        {{hash=aafcd923f2fa8f84debde3884b30ee84}{%
+           family={Falkenmark},
+           familyi={F\bibinitperiod},
+           given={Malin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9a0cf902ae4bbc02d0fd870159d22c44}{%
+           family={Hirsch},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=dbb83bad5056bc76ff661c9dbaa7b282}{%
+           family={Kundzewicz},
+           familyi={K\bibinitperiod},
+           given={Zbigniew\bibnamedelima W.},
+           giveni={Z\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=a622bc63c2c2f13cf95550a1a7b534a3}{%
+           family={Lettenmaier},
+           familyi={L\bibinitperiod},
+           given={Dennis\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=237a0b24dccb59ec4e329915a6d54a67}{%
+           family={Stouffer},
+           familyi={S\bibinitperiod},
+           given={Ronald\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{cdbc13394ae3944dd089d59b3ac7072d}
+      \strng{fullhash}{5d8f4c9cfdc522dc969f6b63d95c8272}
+      \strng{bibnamehash}{5d8f4c9cfdc522dc969f6b63d95c8272}
+      \strng{authorbibnamehash}{5d8f4c9cfdc522dc969f6b63d95c8272}
+      \strng{authornamehash}{cdbc13394ae3944dd089d59b3ac7072d}
+      \strng{authorfullhash}{5d8f4c9cfdc522dc969f6b63d95c8272}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{5863}
+      \field{shortjournal}{Science}
+      \field{shorttitle}{Stationarity Is Dead}
+      \field{title}{Stationarity Is Dead: Whither Water Management?}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{319}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{573\bibrangedash 574}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1126/science.1151915
+      \endverb
+      \verb{file}
+      \verb Milly et al. - 2008 - Stationarity Is Dead Whither Water Management.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\FKQLENTI\\Milly et al. - 2008 - Stationarity Is Dead Whither Water Management.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/science.1151915
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/science.1151915
       \endverb
     \endentry
     \entry{neppel_flood_2010}{article}{}
@@ -1609,6 +2413,55 @@
       \verb{url}
       \verb http://doi.wiley.com/10.1029/2010WR009812
       \endverb
+    \endentry
+    \entry{pettitt_non-parametric_1979}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e2f49d2bedfaec4541f716e87f3815f}{%
+           family={Pettitt},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e2f49d2bedfaec4541f716e87f3815f}
+      \strng{fullhash}{1e2f49d2bedfaec4541f716e87f3815f}
+      \strng{bibnamehash}{1e2f49d2bedfaec4541f716e87f3815f}
+      \strng{authorbibnamehash}{1e2f49d2bedfaec4541f716e87f3815f}
+      \strng{authornamehash}{1e2f49d2bedfaec4541f716e87f3815f}
+      \strng{authorfullhash}{1e2f49d2bedfaec4541f716e87f3815f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Non-parametric techniques are introduced for the change-point problem. Exact and approximate results are obtained for testing the null hypothesis of no change. The methods are illustrated by the analysis of three sets of data illustrating the techniques for zero–one observations, Binomial observations and continuous observations. Some comparisons are made with methods based on cusums.}
+      \field{issn}{1467-9876}
+      \field{journaltitle}{Journal of the Royal Statistical Society: Series C (Applied Statistics)}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{A Non-Parametric Approach to the Change-Point Problem}
+      \field{urlday}{20}
+      \field{urlmonth}{1}
+      \field{urlyear}{2022}
+      \field{volume}{28}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{126\bibrangedash 135}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.2307/2346729
+      \endverb
+      \verb{file}
+      \verb Pettitt - 1979 - A Non-Parametric Approach to the Change-Point Prob.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\52TUHZUQ\\Pettitt - 1979 - A Non-Parametric Approach to the Change-Point Prob.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\CW9MDM2F\\2346729.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.2307/2346729
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.2307/2346729
+      \endverb
+      \keyw{change-point problem,cusums,kolmogorov–smirnov d statistic,mann–whitney u statistic,non-parametric tests}
     \endentry
     \entry{pichard_hydro-climatology_2017}{article}{}
       \name{author}{4}{}{%
@@ -1889,6 +2742,67 @@
       \verb http://doi.wiley.com/10.1029/2005WR004591
       \endverb
     \endentry
+    \entry{salas_techniques_2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aa92b846326d0e792c0f3c9021e8e37a}{%
+           family={Salas},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f259eb19019e0ad16863c0a89c50d909}{%
+           family={Obeysekera},
+           familyi={O\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2655eeb812eb1c208b75d4971699989a}{%
+           family={Vogel},
+           familyi={V\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5122b70552faf71924c816dc15823bdf}
+      \strng{fullhash}{cebedda9cccfde15ee86ba7d8a294c3b}
+      \strng{bibnamehash}{cebedda9cccfde15ee86ba7d8a294c3b}
+      \strng{authorbibnamehash}{cebedda9cccfde15ee86ba7d8a294c3b}
+      \strng{authornamehash}{5122b70552faf71924c816dc15823bdf}
+      \strng{authorfullhash}{cebedda9cccfde15ee86ba7d8a294c3b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Statistical and physically-based methods have been used for designing and assessing water infrastructure such as spillways and stormwater drainage systems. Traditional approaches assume that hydrological processes evolve in an environment where the hydrological cycle is stationary over time. However, in recent years, it has become increasingly evident that in many areas of the world the foregoing assumption may no longer apply, due to the effect of anthropogenic and climatic induced stressors that cause nonstationary conditions. This has attracted the attention of national and international agencies, research institutions, academia, and practicing water specialists, which has led to developing new techniques that may be useful in those cases where there is good evidence and attribution of nonstationarity. We review the various techniques proposed in the field and point out some of the challenges ahead in future developments and applications. Our review emphasizes hydrological design to protect against extreme events such as floods and low flows.}
+      \field{day}{17}
+      \field{issn}{0262-6667}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{month}{2}
+      \field{number}{3}
+      \field{shorttitle}{Techniques for assessing water infrastructure for nonstationary extreme events}
+      \field{title}{Techniques for assessing water infrastructure for nonstationary extreme events: a review}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{63}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{325\bibrangedash 352}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1080/02626667.2018.1426858
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\36EVUP2B\\Salas et al. - 2018 - Techniques for assessing water infrastructure for .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/02626667.2018.1426858
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/02626667.2018.1426858
+      \endverb
+      \keyw{anthropogenic and climate change,hazard functions,hydrological extremes,hydrological variability and change,nonstationarity,risk and return period}
+    \endentry
     \entry{st_george_paleofloods_2020}{article}{}
       \name{author}{3}{}{%
         {{hash=2dc77984c8d9264172645d3eae408879}{%
@@ -2131,44 +3045,8 @@
       \endverb
       \keyw{combined information,design flood,uncertainty}
     \endentry
-    \entry{whs_flood_nodate}{online}{}
-      \name{author}{1}{}{%
-        {{hash=24ba98dc16329ad66bf1a9abfeb19ff4}{%
-           family={{WHS}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{fullhash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{bibnamehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{authorbibnamehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{authornamehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{authorfullhash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{url}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The Flood Estimation Handbook ({FEH}) gives guidance on estimating rainfall and river flood frequency in the {UK} and outlines methods for assessing the rarity of notable rainfalls or floods. The {FEH} is the industry standard for estimating local flood risk and developing resilient infrastructure. The five-volume set was originally published in 1999 by the {UK} … Continued}
-      \field{langid}{british}
-      \field{note}{Section: Software}
-      \field{title}{Flood Estimation Handbook}
-      \field{titleaddon}{{WHS}}
-      \field{urlday}{10}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\J96VLY6V\\flood_estimation_handbook.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.hydrosolutions.co.uk/software/flood_estimation_handbook/
-      \endverb
-      \verb{url}
-      \verb https://www.hydrosolutions.co.uk/software/flood_estimation_handbook/
-      \endverb
-    \endentry
   \enddatalist
+  \missing{whs_flood_nodate}
 \endrefsection
 \endinput
 

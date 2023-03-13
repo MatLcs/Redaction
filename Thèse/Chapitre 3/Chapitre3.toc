@@ -30,17 +30,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{5}{section*.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Seuil de perception incertain (modèle B)}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3}Seuil de perception incertain (modèle B)}{6}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{5}{section*.13}%
+\contentsline {paragraph}{}{6}{section*.13}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4}Durée de la période historique incertaine (modèle C)}{6}{subsection.2.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{6}{section*.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Seuil de perception et durée de la période historique incertains (modèle D)}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.5}Seuil de perception et durée de la période historique incertains (modèle D)}{7}{subsection.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{6}{section*.15}%
+\contentsline {paragraph}{}{7}{section*.15}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.6}Débit des crues historiques compris dans un intervalle (modèle E)}{7}{subsection.2.6}%
 \defcounter {refsection}{0}\relax 
@@ -62,23 +62,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{8}{section*.21}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Homogénéité des données}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Homogénéité des données}{8}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}{section*.23}%
+\contentsline {paragraph}{}{8}{section*.23}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Données continues}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1}Données continues}{8}{subsubsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}{section*.24}%
+\contentsline {paragraph}{}{8}{section*.24}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{9}{section*.25}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{9}{section*.26}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Données historiques}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2}Données historiques}{10}{subsubsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}{section*.27}%
+\contentsline {paragraph}{}{10}{section*.27}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}{section*.28}%
+\contentsline {paragraph}{}{10}{section*.28}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{10}{section*.30}%
 \defcounter {refsection}{0}\relax 
@@ -94,7 +94,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{12}{section*.36}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{12}{section*.39}%
+\contentsline {paragraph}{}{13}{section*.39}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{13}{section*.41}%
 \defcounter {refsection}{0}\relax 
@@ -142,28 +142,30 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{21}{section*.62}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{21}{section*.63}%
+\contentsline {paragraph}{}{22}{section*.64}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{22}{section*.65}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{22}{section*.67}%
+\contentsline {paragraph}{}{22}{section*.66}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Discussion}{23}{section.5}%
 \defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{23}{section*.68}%
+\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{23}{section*.69}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{23}{section*.70}%
+\contentsline {paragraph}{}{24}{section*.70}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{24}{section*.71}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{24}{section*.72}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{24}{section*.73}%
+\contentsline {paragraph}{}{25}{section*.73}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{25}{section*.74}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{25}{section*.75}%
+\contentsline {paragraph}{}{26}{section*.75}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Conclusion du chapitre}{25}{section.6}%
+\contentsline {section}{\numberline {6}Conclusion du chapitre}{26}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{25}{section*.76}%
+\contentsline {paragraph}{}{26}{section*.76}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{26}{section*.77}%
