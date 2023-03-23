@@ -1,0 +1,540 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{anibert_annales_1764}{book}{}
+      \name{author}{1}{}{%
+        {{hash=32484c587992414f106f5353312b6a38}{%
+           family={Anibert},
+           familyi={A\bibinitperiod},
+           given={Louis-Mathieu},
+           giveni={L\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{32484c587992414f106f5353312b6a38}
+      \strng{fullhash}{32484c587992414f106f5353312b6a38}
+      \strng{bibnamehash}{32484c587992414f106f5353312b6a38}
+      \strng{authorbibnamehash}{32484c587992414f106f5353312b6a38}
+      \strng{authornamehash}{32484c587992414f106f5353312b6a38}
+      \strng{authorfullhash}{32484c587992414f106f5353312b6a38}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Annales de la ville d'Arles recueillies par Louis-Mathieu Anibert, 1764. Chronologie de l'histoire municipale de 1200 à 1771, avec une Table}
+      \field{year}{1764}
+      \field{dateera}{ce}
+    \endentry
+    \entry{armand_ii_1907}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6a3726b360d4e11255de895686002566}{%
+           family={{Armand}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a3726b360d4e11255de895686002566}
+      \strng{fullhash}{6a3726b360d4e11255de895686002566}
+      \strng{bibnamehash}{6a3726b360d4e11255de895686002566}
+      \strng{authorbibnamehash}{6a3726b360d4e11255de895686002566}
+      \strng{authornamehash}{6a3726b360d4e11255de895686002566}
+      \strng{authorfullhash}{6a3726b360d4e11255de895686002566}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0035-2004}
+      \field{journaltitle}{Revue des Études Anciennes}
+      \field{langid}{french}
+      \field{number}{1}
+      \field{shortjournal}{rea}
+      \field{title}{{II}. Le Rhône à Tarascon (Planche I)}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{9}
+      \field{year}{1907}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{19\bibrangedash 21}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.3406/rea.1907.1469
+      \endverb
+      \verb{file}
+      \verb Armand - 1907 - II. Le Rhône à Tarascon (Planche I).pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\8B6AJVSF\\Armand - 1907 - II. Le Rhône à Tarascon (Planche I).pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/rea_0035-2004_1907_num_9_1_1469
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/rea_0035-2004_1907_num_9_1_1469
+      \endverb
+    \endentry
+    \entry{bard_actualisation_2018}{report}{}
+      \name{author}{2}{}{%
+        {{hash=9428210ca2816de137238d0b63a3dedd}{%
+           family={Bard},
+           familyi={B\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=081c44d48de07decc0eb61e6b652e349}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Irstea pour la {DREAL} Auvergne-Rhône-Alpes}%
+      }
+      \strng{namehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{fullhash}{25e974f6a6f1764417839554f16ff481}
+      \strng{bibnamehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{authorbibnamehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{authornamehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{authorfullhash}{25e974f6a6f1764417839554f16ff481}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Actualisation de l'hydrologie des crues du Rhône. Analyse de la station de Beaucaire.}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{56}
+      \range{pages}{1}
+      \verb{file}
+      \verb B12- Rapport Détaillé - Analyse de la station de Beaucaire.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\93MXJ4MT\\B12- Rapport Détaillé - Analyse de la station de Beaucaire.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{goux_modification_1851}{report}{}
+      \name{author}{1}{}{%
+        {{hash=1b92f8198609f3221ba00ece27709b8d}{%
+           family={Goux},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ponts et Chaussées, Service spécial du Rhône}%
+      }
+      \strng{namehash}{1b92f8198609f3221ba00ece27709b8d}
+      \strng{fullhash}{1b92f8198609f3221ba00ece27709b8d}
+      \strng{bibnamehash}{1b92f8198609f3221ba00ece27709b8d}
+      \strng{authorbibnamehash}{1b92f8198609f3221ba00ece27709b8d}
+      \strng{authornamehash}{1b92f8198609f3221ba00ece27709b8d}
+      \strng{authorfullhash}{1b92f8198609f3221ba00ece27709b8d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{1}
+      \field{shorttitle}{Modification du Rhône devant Beaucaire}
+      \field{title}{Modification du Rhône devant Beaucaire, comparaison des sections en 1845 et en 1850.}
+      \field{year}{1851}
+      \field{dateera}{ce}
+    \endentry
+    \entry{leon_vie_1953}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5e5c49f4f3322dff2b4a1ed397a1568d}{%
+           family={Léon},
+           familyi={L\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e5c49f4f3322dff2b4a1ed397a1568d}
+      \strng{fullhash}{5e5c49f4f3322dff2b4a1ed397a1568d}
+      \strng{bibnamehash}{5e5c49f4f3322dff2b4a1ed397a1568d}
+      \strng{authorbibnamehash}{5e5c49f4f3322dff2b4a1ed397a1568d}
+      \strng{authornamehash}{5e5c49f4f3322dff2b4a1ed397a1568d}
+      \strng{authorfullhash}{5e5c49f4f3322dff2b4a1ed397a1568d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0035-113X}
+      \field{journaltitle}{Revue de géographie de Lyon}
+      \field{langid}{french}
+      \field{number}{4}
+      \field{shortjournal}{geoca}
+      \field{title}{Vie et mort d'un grand marché international. La foire de Beaucaire ({XVIIIe}-{XIXe} siècles)}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{28}
+      \field{year}{1953}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{309\bibrangedash 328}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.3406/geoca.1953.1380
+      \endverb
+      \verb{file}
+      \verb Léon - 1953 - Vie et mort d'un grand marché international. La fo.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\QAJDRS97\\Léon - 1953 - Vie et mort d'un grand marché international. La fo.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/geoca_0035-113x_1953_num_28_4_1380
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/geoca_0035-113x_1953_num_28_4_1380
+      \endverb
+    \endentry
+    \entry{mejean_etude_2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=c83490cbdc2b4f6db02273386fd64bc4}{%
+           family={Méjean},
+           familyi={M\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Symadrem}%
+      }
+      \strng{namehash}{c83490cbdc2b4f6db02273386fd64bc4}
+      \strng{fullhash}{c83490cbdc2b4f6db02273386fd64bc4}
+      \strng{bibnamehash}{c83490cbdc2b4f6db02273386fd64bc4}
+      \strng{authorbibnamehash}{c83490cbdc2b4f6db02273386fd64bc4}
+      \strng{authornamehash}{c83490cbdc2b4f6db02273386fd64bc4}
+      \strng{authorfullhash}{c83490cbdc2b4f6db02273386fd64bc4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{month}{6}
+      \field{title}{Etude historique des aménagements réalisés pour lutter contre le risque inondation dans le Grand Delta du Rhône.}
+      \field{type}{Rapport de stage de Master}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{111}
+      \range{pages}{1}
+      \verb{file}
+      \verb Adrien - ETUDE HISTORIQUE DES AMENAGEMENTS REALISES POUR LU.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7939D59I\\Adrien - ETUDE HISTORIQUE DES AMENAGEMENTS REALISES POUR LU.pdf:application/pdf;Juston_2013- Rating curve uncertainty and change detection in discharge time series case study.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\AZ34HG3D\\Juston_2013- Rating curve uncertainty and change detection in discharge time series case study.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{parde_regime_1925}{article}{}
+      \name{author}{1}{}{%
+        {{hash=76a5e8637f352bf102b88052c30cc7fa}{%
+           family={Pardé},
+           familyi={P\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{fullhash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{bibnamehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{authorbibnamehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{authornamehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{authorfullhash}{76a5e8637f352bf102b88052c30cc7fa}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0035-1121}
+      \field{journaltitle}{Revue de géographie alpine}
+      \field{langid}{french}
+      \field{number}{3}
+      \field{title}{Le régime du Rhône}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{13}
+      \field{year}{1925}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{459\bibrangedash 547}
+      \range{pages}{89}
+      \verb{doi}
+      \verb 10.3406/rga.1925.4941
+      \endverb
+      \verb{file}
+      \verb Pardé - 1925 - Le régime du Rhône.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\DGPU5PD2\\Pardé - 1925 - Le régime du Rhône.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/rga_0035-1121_1925_num_13_3_4941
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/rga_0035-1121_1925_num_13_3_4941
+      \endverb
+    \endentry
+    \entry{pichard_hydro-climatology_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=833d7a3d976cc7930992b36adbb07dc8}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b5743345745dac3272acc2c84c79f85c}{%
+           family={Arnaud-Fassetta},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=18323608c3a20ea54724605b66f300f7}{%
+           family={Moron},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c983c628babe3a937bdf3efa7d873092}{%
+           family={Roucaute},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{abcb4918d7428549857a574a3128f78c}
+      \strng{fullhash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{bibnamehash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{authorbibnamehash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{authornamehash}{abcb4918d7428549857a574a3128f78c}
+      \strng{authorfullhash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{From the {HISTRHONE} database we extracted 1483 hydro-meteorological events from {AD} 1300 to 2000 that occurred in the Lower Rhône Valley, France. Daily heights of the Rhône River at Beaucaire and Arles are also available, from 1816 and 1829, respectively. A total of 517 floods were divided into three categories and a synthetic frequency severity index ({FSI}) was computed. Running averages of 11 and 31 years show a succession of poor and rich flood fluctuations. Extreme floods tripled in the second half of the period (1650–2000). Singular spectrum analysis isolates a dominant irregular component (main positive anomalies in 1450–1580, around 1700, late 18th century, and most of the 20th century). We focus on the 17th century, with rare flooding events between two secular so-called “hyper phases”, i.e. frequent and/or severe floods. We also recorded 173 episodes of ice in the river, during the Little Ice Age.}
+      \field{day}{18}
+      \field{issn}{0262-6667, 2150-3435}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{11}
+      \field{shortjournal}{Hydrological Sciences Journal}
+      \field{shorttitle}{Hydro-climatology of the Lower Rhône Valley}
+      \field{title}{Hydro-climatology of the Lower Rhône Valley: historical flood reconstruction ({AD} 1300–2000) based on documentary and instrumental sources}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{62}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1772\bibrangedash 1795}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/02626667.2017.1349314
+      \endverb
+      \verb{file}
+      \verb Pichard et al. - 2017 - Hydro-climatology of the Lower Rhône Valley histo.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7CCLI4DL\\Pichard et al. - 2017 - Hydro-climatology of the Lower Rhône Valley histo.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2017.1349314
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2017.1349314
+      \endverb
+    \endentry
+    \entry{pichard_les_1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=69363cfac03b117afe43737b9cdb617c}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{fullhash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{bibnamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authorbibnamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authornamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authorfullhash}{69363cfac03b117afe43737b9cdb617c}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The floods of the Lower Rhône have been studied over a long period of time (1500-1994) and on a limited sector, essentially around Aries. This place offer a triple advantage: a very good stock of historical records, a recognised stability of the river bed, and a good continuity in the observation of the flood levels by local people and official services. The study of the annual, monthly and decennial distribution of this crues allows the correlation between the frequency of the river's frost and the frequency of the crues over 4 meters. The Little Ice Age ({XVIth} {XIXth} centuries) coincide with a frequency of the floods never reached in the twentieth century, with some very critical stages (Late sixteenth century, 1701- 1710, and 1811-1820). A high ratio of the spring and summer in the height of the long and colder stages has also been noted , which is another explanation for the high proportion of recurrent floods that have been noticed.}
+      \field{issn}{0025-8296}
+      \field{journaltitle}{Méditerranée}
+      \field{langid}{french}
+      \field{number}{3}
+      \field{shortjournal}{medit}
+      \field{title}{Les crues sur le bas Rhône de 1500 à nos jours. Pour une histoire hydro-climatique}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{82}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{105\bibrangedash 116}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3406/medit.1995.2908
+      \endverb
+      \verb{file}
+      \verb Pichard - 1995 - Les crues sur le bas Rhône de 1500 à nos jours. Po.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\DDUJFYFT\\Pichard - 1995 - Les crues sur le bas Rhône de 1500 à nos jours. Po.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/medit_0025-8296_1995_num_82_3_2908
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/medit_0025-8296_1995_num_82_3_2908
+      \endverb
+    \endentry
+    \entry{pichard_hauteurs_2013}{report}{}
+      \name{author}{1}{}{%
+        {{hash=69363cfac03b117afe43737b9cdb617c}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{fullhash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{bibnamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authorbibnamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authornamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authorfullhash}{69363cfac03b117afe43737b9cdb617c}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hauteurs et altitudes aux échelles du bas Rhône}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{48}
+      \range{pages}{1}
+      \verb{file}
+      \verb Pichard - 2013 - Hauteurs et altitudes aux échelles du bas Rhône.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\D3BHVNLQ\\Pichard - 2013 - Hauteurs et altitudes aux échelles du bas Rhône.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://histrhone.cerege.fr/squelettes/pdf/Echelles_BasRhone.pdf
+      \endverb
+      \verb{url}
+      \verb https://histrhone.cerege.fr/squelettes/pdf/Echelles_BasRhone.pdf
+      \endverb
+    \endentry
+    \entry{pichard_sept_2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=69363cfac03b117afe43737b9cdb617c}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4deef16bed8fb48ae1ab0f037e7770bd}{%
+           family={Roucaute},
+           familyi={R\bibinitperiod},
+           given={Emeline},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{88534a174ce8ef6f0f0b07ed123daa89}
+      \strng{fullhash}{88534a174ce8ef6f0f0b07ed123daa89}
+      \strng{bibnamehash}{88534a174ce8ef6f0f0b07ed123daa89}
+      \strng{authorbibnamehash}{88534a174ce8ef6f0f0b07ed123daa89}
+      \strng{authornamehash}{88534a174ce8ef6f0f0b07ed123daa89}
+      \strng{authorfullhash}{88534a174ce8ef6f0f0b07ed123daa89}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{Hors-série de la revue Méditerranée}
+      \field{journaltitle}{Presses Universitaires de Provence}
+      \field{title}{Sept siècles d’histoire hydroclimatique du Rhône d’Orange à la mer (1300-2000). Climat, crues, inondations.}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{194}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.4000/geocarrefour.9491
+      \endverb
+      \verb{file}
+      \verb Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EE7VTD4J\\Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{surell_memoire_1847}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e7716f7f3ff750fc0b31bd6b6d8a91c1}{%
+           family={Surell},
+           familyi={S\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Nimes}%
+      }
+      \list{publisher}{1}{%
+        {Imprimerie Ballivet et Fabre}%
+      }
+      \strng{namehash}{e7716f7f3ff750fc0b31bd6b6d8a91c1}
+      \strng{fullhash}{e7716f7f3ff750fc0b31bd6b6d8a91c1}
+      \strng{bibnamehash}{e7716f7f3ff750fc0b31bd6b6d8a91c1}
+      \strng{authorbibnamehash}{e7716f7f3ff750fc0b31bd6b6d8a91c1}
+      \strng{authornamehash}{e7716f7f3ff750fc0b31bd6b6d8a91c1}
+      \strng{authorfullhash}{e7716f7f3ff750fc0b31bd6b6d8a91c1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mémoire sur l'amélioration des bouches du Rhône}
+      \field{year}{1847}
+      \field{dateera}{ce}
+    \endentry
+    \entry{symadrem_programme_2012}{report}{}
+      \name{author}{1}{}{%
+        {{hash=cab8c28fdb4b2a6e65f5ce01d97a5c49}{%
+           family={{SYMADREM}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cab8c28fdb4b2a6e65f5ce01d97a5c49}
+      \strng{fullhash}{cab8c28fdb4b2a6e65f5ce01d97a5c49}
+      \strng{bibnamehash}{cab8c28fdb4b2a6e65f5ce01d97a5c49}
+      \strng{authorbibnamehash}{cab8c28fdb4b2a6e65f5ce01d97a5c49}
+      \strng{authornamehash}{cab8c28fdb4b2a6e65f5ce01d97a5c49}
+      \strng{authorfullhash}{cab8c28fdb4b2a6e65f5ce01d97a5c49}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Programme de sécurisation des ouvrages de protection contre les crues du Rhône du barrage de Vallabrègues à la mer}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{490}
+      \range{pages}{1}
+      \verb{file}
+      \verb DiguesSymadrem.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\IDNEG2HY\\DiguesSymadrem.pdf:application/pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
