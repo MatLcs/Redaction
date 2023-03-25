@@ -269,7 +269,7 @@ La thèse menée par Guillaume Raccasi (2008) sur les mutations géomorphologiqu
 		
 	\begin{figure}[h]
 	\centering
-		\includegraphics[width=.6\linewidth]{Figures/RestitCartoPh.png}
+		\includegraphics[width=.7\linewidth]{Figures/RestitCartoPh.png}
         \caption{Gauche : Localisation de la station de Beaucaire restitution (carte IGN Scan25, source : www.geoportail.fr). Droite : échelle limnimétrique de Beaucaire restitution en Février 2020.}	
 		\label{fig:CartoRes}
 	\end{figure}
@@ -281,7 +281,7 @@ La thèse menée par Guillaume Raccasi (2008) sur les mutations géomorphologiqu
 	
 	\begin{figure}[h]
 	\centering
-		\includegraphics[width=.7\linewidth]{Figures/ProfilsBardRestit.png}
+		\includegraphics[width=.6\linewidth]{Figures/ProfilsBardRestit.png}
         \caption{Profils en travers du Rhône à la station de Beaucaire restitution réalisés par la CNR entre 1974 et 2016. Adapté de \cite{bard_actualisation_2018}.}	
 		\label{fig:ProfilsRestit}
 	\end{figure}
@@ -294,7 +294,7 @@ La thèse menée par Guillaume Raccasi (2008) sur les mutations géomorphologiqu
 
 	\subsection{Présentation de la base de données}
 
-	\paragraph{} La base de données HISTRHÔNE (histrhone.cerege.fr) \citep{pichard_sept_2014} regroupe près de 1500 événements hydro-climatiques, depuis le XIII\textsuperscript{ème} siècle jusqu'à la fin du XXI\textsuperscript{ème} siècle. Cet important travail d'archives qui s'est étalé sur plusieurs décennies représente un apport majeur pour la connaissance de l'histoire climatique de la basse vallée du Rhône. La zone couverte par la base de données s'étale de la ville de Pont Saint-Esprit jusqu'à la mer Méditerranée, en incluant les villes d'Avignon, Beaucaire et Arles, ainsi que l'ensemble de la Camargue (figure \ref{fig:MapHistrhone}). 
+	\paragraph{} La base de données HISTRHÔNE (histrhone.cerege.fr) \citep{pichard_sept_2014} regroupe près de 1500 événements hydro-climatiques, depuis le XIII\textsuperscript{ème} siècle jusqu'à l'an 2000. Cet important travail d'archives qui s'est étalé sur plusieurs décennies, représente un apport majeur pour la connaissance de l'histoire climatique de la basse vallée du Rhône. La zone couverte par la base de données s'étale de la ville de Pont Saint-Esprit jusqu'à la mer Méditerranée, en incluant les villes d'Avignon, Beaucaire et Arles, ainsi que l'ensemble de la Camargue (figure \ref{fig:MapHistrhone}). 
 	
 	\begin{figure}[h]
 	\centering
@@ -303,20 +303,16 @@ La thèse menée par Guillaume Raccasi (2008) sur les mutations géomorphologiqu
 		\label{fig:MapHistrhone}
 	\end{figure}
 	
-	\paragraph{} Les éléments historiques (témoignages, cartes...) correspondant à un même événement hydroclimatique sont regroupés dans la base, et les événements sont classés par type : crue, étiage, présence de glace et gel du Rhône, inondation pluviale, submersion marine... Au delà de la base de données, l'ouvrage "Sept siècles d'histoire hydroclimatique du Rhône d'Orange à la mer" \cite{pichard_sept_2014} "offre une vue synoptique, à la fois des sources, de leur critique et des perspectives ouvertes par les premiers résultats que les auteurs ont pu en tirer comme contribution à une histoire hydroclimatique". Il faut ajouter qu'une chronologie générale des événements ainsi qu'une étude détaillée des échelles limnimétriques du bas Rhône \citep{pichard_hauteurs_2013} "reprend l'ensemble des problèmes de mesures de hauteurs des crues dans l'histoire et tente de résoudre ces complications pratiques de métrologie".
+	\paragraph{} Les éléments historiques (témoignages, cartes...) qui correspondent à un même événement hydroclimatique sont regroupés et ces événements sont classés par type dans la base de données : crue, étiage, présence de glace ou gel du Rhône, inondation pluviale, submersion marine... Au delà de la base de données, l'ouvrage "Sept siècles d'histoire hydroclimatique du Rhône d'Orange à la mer" \citep{pichard_sept_2014} "offre une vue synoptique, à la fois des sources, de leur critique et des perspectives ouvertes par les premiers résultats que les auteurs ont pu en tirer comme contribution à une histoire hydroclimatique". Il faut ajouter qu'une chronologie générale des événements est disponible, ainsi qu'une étude détaillée des échelles limnimétriques du bas Rhône qui "reprend l'ensemble des problèmes de mesures de hauteurs des crues dans l'histoire et tente de résoudre ces complications pratiques de métrologie" \citep{pichard_hauteurs_2013} .
 	
-
-\FloatBarrier 
-	\subsection{Catégorisation des événements de crue}
-	
-	\paragraph{} Dans la base de données HISTRHÔNE, les événements de crues sont classés en 6 catégories selon les dommages causés. Le tableau \ref{tab:CatCrueHistrhone} présente ces catégories
+	\paragraph{} Dans la base de données HISTRHÔNE, les événements de crues sont classés en 6 catégories présentées dans le tableau \ref{tab:CatCrueHistrhone}. Ces catégories correspondent à différents niveaux de gravité, allant d'un Rhône "pleins bords" aux inondation extraordinaire. 
 	
 \begin{table}[h]
 	\centering
-	\caption{Classification des événements de crues de la base HISTRHÔNE. Les estimations de débit proviennent de \cite{pichard_hydro-climatology_2017}.}
+	\caption{Classification des événements de crues de la base HISTRHÔNE. Les estimations de débit proviennent de \citet{pichard_hydro-climatology_2017}.}
 	\label{tab:CatCrueHistrhone}
-	\resizebox{\columnwidth}{!}{
-		\begin{tabular}{|m{3cm}|m{4cm}|m{7cm}|m{3cm}|}
+%	\resizebox{\columnwidth}{!}{
+		\begin{tabular}{|m{1cm}|m{5cm}|m{8cm}|m{2.5cm}|}
 		\hline
 		Code &
 		  Libellé &
@@ -325,51 +321,105 @@ La thèse menée par Guillaume Raccasi (2008) sur les mutations géomorphologiqu
 		Ci &
 		  Crue de gravité indéterminée &
 		  Crue sans aucune précision : pas d'indice de débordement ni de gravité (incertitude totale) &
-		  9000 \\ \hline
+		  9000 m\textsuperscript{3}/s \\ \hline
 		Cd &
 		  Crue avec indice de débordement &
 		  Débordement avéré mais sans précision relative à son étendue ou sa gravité (incertitude partielle) &
-		  7200 \\ \hline
+		  7200 m\textsuperscript{3}/s \\ \hline
 		C1 &
 		  Hautes eaux &
-		  Rhône "pleins bords", "gros Rhône" sans débordement. Le Rhône reste dans son lit mineur mais implique une surveillance constante aux digues &
-		  5200 \\ \hline
+		  
+\textbf{Rhône "pleins bords", "gros Rhône" sans débordement}. Le Rhône reste dans son lit mineur mais implique une surveillance constante aux digues &
+		  5200 m\textsuperscript{3}/s \\ \hline
 		C2 &
 		  Crue avec débordement sans gravité et/ou localisé &
-		  Débordement limité, sans gravité majeur ou bien localisé (ségonnaux, prés/chemins inondés, eaux sur les quais, dégâts mineurs sur digues) &
+		 
+\textbf{Débordement limité}, sans gravité majeur ou bien localisé (ségonnaux, prés/chemins inondés, eaux sur les quais, dégâts mineurs sur digues) &
 		  X \\ \hline
 		C3 &
 		  Crues et inondation de gravité intermédiaire &
-		  Inondation notable avec dégâts avérés au caractère destructeur et/ou extension de crue &
+		  
+\textbf{Inondation notable} avec dégâts avérés au caractère destructeur et/ou extension de crue &
 		  X \\ \hline
 		C4 &
 		  Crue et inondation extrême &
-		  Inondation extraordinaire avec dégâts exceptionnels (pertes humaines et animales, intérieurs des villes inondés, dégradations de digues en grand nombre) et extension de crue &
+\textbf{Inondation extraordinaire} avec dégâts exceptionnels (pertes humaines et animales, intérieurs des villes inondés, dégradations de digues en grand nombre) et extension de crue &
 		  X \\ \hline
 		\end{tabular}
-	}
+%	}
 \end{table}
 	
 \FloatBarrier
-	\subsection{Définition des seuils de perception}
+
+	\subsection{Estimation du débit des catégories de la base HISTRHÔNE}
+	
+	\paragraph{} L'exploitation des crues historiques pour l'analyse fréquentielle nécessite la connaissance du débit de ces crues, ou à minima la connaissance du débit du seuil de perception. 
+	
+	
+	\begin{figure}[h]
+	\centering
+		\includegraphics[width=.8\linewidth]{Figures/C3-C4_SystematicPeriod-FR.pdf}
+        \caption{C3 et C4}
+		\label{fig:C3-C4_Syst}
+	\end{figure}
 	
 	\subsection{Évolution temporelle de la perception des crues}
+	
+	\paragraph{} Citations pichard livre
+	évolution du nombre de C3 et C4 en fonction du temps : déforestation + digues qui réduisent le nombre de crues faibles mais qui aggravent les plus fortes + autres effets discussion chap 4
+	
 
-\section{Modélisation hydraulique des événements historiques}
+\section{Estimations du débit des événements historiques}
 
 	\subsection{Le modèle hydraulique MAGE}
 	
-	\subsection{Données disponibles utiles à la modélisaition}
+	\subsection{Données disponibles utiles à la modélisation}
 	doc crues modélisables
+	bathy 1897
+	élargissement sections
+	carte P\&C 18XX
 	
 	\subsection{Tests de sensibilité pour la crue de Décembre 2003}
+	
+	figure hydrogramme 2003
+	
 		\subsubsection{Influence du choix des limites aval}
+		petit rhône VS no petit rhône
+		arles VS mer
+		
 		
 		\subsubsection{Influence des brèches}
+		Brèches VS no brèche
+		Incertitudes brèches
+		
+	\subsection{Limites et incertitude de la modélisation hydraulique des événements historiques}
+Incertitude dans le cas de modèles récents +	
 	
-	\subsection{Limites de la modélisation hydraulique des événements historiques}
+	manque d'info sur : 
+	- topo histo et limites aval (niveau de la mer par ex?) + petit Rhône
+	- brèches : longueur, profondeur, à quel moment pendant la crue ? 
+	- dynamique de la crue
+	- rugosités et occupation du sol historique
+	- niveau atteints (laisses de crues imprécises, infos zones impactées mais rarement profondeur)
+	
 
 \section{Évolution du temps de propagation des crues}
+	
+	\subsubsection{Phases d'aménagement}
+		premières digues
+		girardon
+		CNR
+		
+	\subsubsection{Sélection d'événements}
+	océanique (description pardé)
+	non débordant
+	visuellement Ok, pas de perturbation de la pointe entre lyon et Bcr
+	tableau crues sélect ? ou annexes
+	
+	\subsubsection{Résultats}
+	boxplot t propag
+	comparaison référence MAGE
+	discussion CF EGR + concomitance + article hossein
 
 \section{Conclusion}
 

@@ -515,70 +515,6 @@
       \endverb
       \keyw{Hydrology,Natural hazards}
     \endentry
-    \entry{coles_classical_2001}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=cc948339cfc306ea654ef4c3c95c34d8}{%
-           family={Coles},
-           familyi={C\bibinitperiod},
-           given={Stuart},
-           giveni={S\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=cc948339cfc306ea654ef4c3c95c34d8}{%
-           family={Coles},
-           familyi={C\bibinitperiod},
-           given={Stuart},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{fullhash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{bibnamehash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{authorbibnamehash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{authornamehash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{authorfullhash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{editorbibnamehash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{editornamehash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \strng{editorfullhash}{cc948339cfc306ea654ef4c3c95c34d8}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In this chapter we develop the model which represents the cornerstone of extreme value theory.}
-      \field{booktitle}{An Introduction to Statistical Modeling of Extreme Values}
-      \field{isbn}{978-1-4471-3675-0}
-      \field{langid}{english}
-      \field{series}{Springer Series in Statistics}
-      \field{title}{Classical Extreme Value Theory and Models}
-      \field{urlday}{29}
-      \field{urlmonth}{12}
-      \field{urlyear}{2022}
-      \field{year}{2001}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{45\bibrangedash 73}
-      \range{pages}{29}
-      \verb{doi}
-      \verb 10.1007/978-1-4471-3675-0_3
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\P3JMI85I\\Coles - 2001 - Classical Extreme Value Theory and Models.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-1-4471-3675-0_3
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-1-4471-3675-0_3
-      \endverb
-      \keyw{Generalize Extreme Value,Generalize Extreme Value Distribution,Profile Likelihood,Return Level,Return Period}
-    \endentry
     \entry{darienzo_detection_2021-1}{thesis}{}
       \name{author}{1}{}{%
         {{hash=9c0d4e28b7ec96929ee1d16e29eed397}{%
@@ -1585,6 +1521,59 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169414004983
       \endverb
     \endentry
+    \entry{kjeldsen_exploratory_2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=730f3f62e433c6176330ca5fb3938e00}{%
+           family={Kjeldsen},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c8b441098aa11af5e347475b42718b0c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fd39bd5d8efe71484471e98cb90c356}
+      \strng{fullhash}{4fd39bd5d8efe71484471e98cb90c356}
+      \strng{bibnamehash}{4fd39bd5d8efe71484471e98cb90c356}
+      \strng{authorbibnamehash}{4fd39bd5d8efe71484471e98cb90c356}
+      \strng{authornamehash}{4fd39bd5d8efe71484471e98cb90c356}
+      \strng{authorfullhash}{4fd39bd5d8efe71484471e98cb90c356}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The use of the generalized least squares ({GLS}) technique for estimation of hydrological regression models has become good practice in hydrology. Through a regression model, a simple link between a particular hydrological variable and a set of catchment descriptors can be established. The regression residuals can be treated as the sum of sampling errors in the hydrological variable and errors in the regression model. This article presents a method for exploring and developing a parameterized form for the cross-correlation between the regression model errors. Given an initial {GLS} analysis, a reweighted set of regression residuals is defined such that the covariance of these residuals is essentially similar to that of the model errors. The cross-products of the reweighted regression residuals, pooled within bins, are then used to identify a structure and to fit a parameterized form for the cross-correlations of the regression errors. These estimated cross-correlations are then used to inform improved {GLS} and reweighting steps, leading to a recursive procedure. The main advantage of the recursive {GLS} procedure is that it allows for a simple demonstration of the actual existence of model error correlation as well as for exploring suitable models for the correlation. However, while the procedure for identifying a parametric description for the model error correlation is reasonable, estimation of the parameters within the recursive procedure is affected by the data-binning step. Thus it is suggested that once a structure for the correlation has been decided, further data analysis—such as final decisions about variables included in the regression model and final estimation of parameters—should be undertaken within a maximum likelihood framework. The procedure has been tested on annual maximum flow data from 602 catchments located throughout the United Kingdom. A set of Monte Carlo experiments further confirmed the ability of the recursive {GLS} procedure to correctly identify and estimate the true model error correlation.}
+      \field{issn}{1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2007WR006283}
+      \field{number}{2}
+      \field{title}{An exploratory analysis of error components in hydrological regression modeling}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{45}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1029/2007WR006283
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\AQZAYPWT\\Kjeldsen et Jones - 2009 - An exploratory analysis of error components in hyd.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\KK8ELLZD\\2007WR006283.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2007WR006283
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2007WR006283
+      \endverb
+      \keyw{index flood,regression model,ungauged basin}
+    \endentry
     \entry{kjeldsen_uncertainty_2011}{incollection}{}
       \name{author}{3}{}{%
         {{hash=730f3f62e433c6176330ca5fb3938e00}{%
@@ -2096,6 +2085,39 @@
       \endverb
       \verb{url}
       \verb http://doi.wiley.com/10.1029/1999WR900330
+      \endverb
+    \endentry
+    \entry{medd_reperes_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{hash=31d26db20a490f3b5819dc5fc00748b2}{%
+           family={{MEDD}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{fullhash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{bibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authorbibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authornamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authorfullhash}{31d26db20a490f3b5819dc5fc00748b2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Repères de crues, plateforme collaborative de référence pour le recensement des repères de crues en France.}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Recherche par repère | Repères de crues:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\LQHKNGLH\\www.reperesdecrues.developpement-durable.gouv.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.reperesdecrues.developpement-durable.gouv.fr/
+      \endverb
+      \verb{url}
+      \verb https://www.reperesdecrues.developpement-durable.gouv.fr/
       \endverb
     \endentry
     \entry{milly_stationarity_2008}{article}{}
@@ -2646,6 +2668,96 @@
       \verb https://www.persee.fr/doc/medit_0025-8296_1995_num_82_3_2908
       \endverb
     \endentry
+    \entry{piotte_collection_2016}{article}{}
+      \name{author}{9}{}{%
+        {{hash=8b61793c828ca8603c0fc71598625d08}{%
+           family={Piotte},
+           familyi={P\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=9247bc27e5b40c5ca684bce3a19930e4}{%
+           family={Boura},
+           familyi={B\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod}}}%
+        {{hash=00c0f6e68ad4915b83f5dd549ce84e1e}{%
+           family={Cazaubon},
+           familyi={C\bibinitperiod},
+           given={Anaïs},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a2c35485990d5baff01b2c75355f48c5}{%
+           family={Chaléon},
+           familyi={C\bibinitperiod},
+           given={Carine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3777fe7f614b8f02e75896bca7a346df}{%
+           family={Chambon},
+           familyi={C\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod}}}%
+        {{hash=75b8046cd63b48327d9974503fb2354e}{%
+           family={Guillevic},
+           familyi={G\bibinitperiod},
+           given={Gwenaël},
+           giveni={G\bibinitperiod}}}%
+        {{hash=dad776fc6ebc8f332d91c9093ec0499d}{%
+           family={Pasquet},
+           familyi={P\bibinitperiod},
+           given={Fabien},
+           giveni={F\bibinitperiod}}}%
+        {{hash=02415c2e13aad2f51ca67b13994f14f2}{%
+           family={Perherin},
+           familyi={P\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4426470b24ca60af0e95652d1313f8bb}{%
+           family={Raimbault},
+           familyi={R\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5e35051bf75f80471d42d534377e199}
+      \strng{fullhash}{ba4c64434e0a5256afd7e1830dd0c77e}
+      \strng{bibnamehash}{ba4c64434e0a5256afd7e1830dd0c77e}
+      \strng{authorbibnamehash}{ba4c64434e0a5256afd7e1830dd0c77e}
+      \strng{authornamehash}{a5e35051bf75f80471d42d534377e199}
+      \strng{authorfullhash}{ba4c64434e0a5256afd7e1830dd0c77e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{High-water marks data, in its most general definition, is a precious source of information for the many stakeholders involved in risk culture, inundation mapping, river, estuarine or coastal studies, etc. Although there have already been many initiatives to collect and exploit existing data, as well as collecting new marks after flood events, a lack of harmonization and coordination remains. The French flood forecasting services, together with Cerema, decided to provide technical and organizational solutions in order to set up a collaborative management approach of high-water marks data. On the one hand, a methodological handbook has been produced, giving recommendations for post-flood field investigations. It comes with a dedicated {PDA} tool and a {PC} desktop software. On the other hand, a national repository has been built, making it possible to gather the large range of informations usually needed. This repository is combined with a collaborative web platform, which aims to be a way of public access to the available information, a working tool for technical users, and a front door to contribute to the inventory. The last step of this approach is the setting of an organization blue-print including all the stakeholders directly or indirectly involved in high-water marks knowledge.}
+      \field{issn}{2267-1242}
+      \field{journaltitle}{E3S Web of Conferences}
+      \field{langid}{english}
+      \field{note}{Publisher: {EDP} Sciences}
+      \field{shortjournal}{E3S Web Conf.}
+      \field{shorttitle}{Collection, storage and management of high-water marks data}
+      \field{title}{Collection, storage and management of high-water marks data: praxis and recommendations}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{7}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{16003}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1051/e3sconf/20160716003
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\JG38RNIN\\Piotte et al. - 2016 - Collection, storage and management of high-water m.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.e3s-conferences.org/articles/e3sconf/abs/2016/02/e3sconf_flood2016_16003/e3sconf_flood2016_16003.html
+      \endverb
+      \verb{url}
+      \verb https://www.e3s-conferences.org/articles/e3sconf/abs/2016/02/e3sconf_flood2016_16003/e3sconf_flood2016_16003.html
+      \endverb
+    \endentry
     \entry{prosdocimi_german_2018}{article}{}
       \name{author}{1}{}{%
         {{hash=b33e3445eae7af00534b78caa541bb69}{%
@@ -2751,6 +2863,54 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169405000314
       \endverb
     \endentry
+    \entry{renard_bayesian_2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b92f95dbe695e956604b369299d93d5}
+      \strng{fullhash}{9b92f95dbe695e956604b369299d93d5}
+      \strng{bibnamehash}{9b92f95dbe695e956604b369299d93d5}
+      \strng{authorbibnamehash}{9b92f95dbe695e956604b369299d93d5}
+      \strng{authornamehash}{9b92f95dbe695e956604b369299d93d5}
+      \strng{authorfullhash}{9b92f95dbe695e956604b369299d93d5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Regional frequency analysis ({RFA}) has a long history in hydrology, and numerous distinct approaches have been proposed over the years to perform the estimation of some hydrologic quantity at a regional level. However, most of these approaches still rely on strong hypotheses that may limit their application and complicate the quantification of predictive uncertainty. The objective of this paper is to propose a general Bayesian hierarchical framework to implement {RFA} schemes that avoid these difficulties. The proposed framework is based on a two-level hierarchical model. The first level of the hierarchy describes the joint distribution of observations. An arbitrary marginal distribution, whose parameters may vary in space, is assumed for at-site series. The joint distribution is then derived by means of an elliptical copula, therefore providing an explicit description of the spatial dependence between data. The second level of the hierarchy describes the spatial variability of parameters using a regression model that links the parameter values with covariates describing site characteristics. Regression errors are modeled with a Gaussian spatial field, which may exhibit spatial dependence. This framework enables performing prediction at both gaged and ungaged sites and, importantly, rigorously quantifying the associated predictive uncertainty. A case study based on the annual maxima of daily rainfall demonstrates the applicability of this hierarchical approach. Although numerous avenues for improvement can already be identified (among which is the inclusion of temporal covariates to model time variability), the proposed model constitutes a general framework for implementing flexible {RFA} schemes and quantifying the associated predictive uncertainty.}
+      \field{issn}{1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2010WR010089}
+      \field{number}{11}
+      \field{title}{A Bayesian hierarchical approach to regional frequency analysis}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{47}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1029/2010WR010089
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\V5D8S7NF\\Renard - 2011 - A Bayesian hierarchical approach to regional frequ.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\W2ULXRCX\\2010WR010089.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2010WR010089
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2010WR010089
+      \endverb
+      \keyw{regional frequency analysis,Bayesian hierarchical modeling,spatial dependence,uncertainty quantification}
+    \endentry
     \entry{renard_application_2006}{article}{}
       \name{author}{3}{}{%
         {{hash=9b92f95dbe695e956604b369299d93d5}{%
@@ -2775,7 +2935,6 @@
       \strng{authorbibnamehash}{796b4f54b933fb7dfaf707b4c0fa9b26}
       \strng{authornamehash}{5b73f5d321a85467cbb3263a6df7efb1}
       \strng{authorfullhash}{796b4f54b933fb7dfaf707b4c0fa9b26}
-      \field{extraname}{1}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
@@ -2809,82 +2968,6 @@
       \verb{url}
       \verb http://doi.wiley.com/10.1029/2005WR004591
       \endverb
-    \endentry
-    \entry{renard_hidden_2021}{article}{}
-      \name{author}{6}{}{%
-        {{hash=9b92f95dbe695e956604b369299d93d5}{%
-           family={Renard},
-           familyi={R\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod}}}%
-        {{hash=f5b33020605e41c3a949ef2094014118}{%
-           family={Thyer},
-           familyi={T\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=25efbc6b6f3776590d9fd986a543ee19}{%
-           family={{McInerney}},
-           familyi={M\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=62c24208efb01be32fe31b39884ce999}{%
-           family={Kavetski},
-           familyi={K\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=921eca83d5060537683ad56d38ddbd1b}{%
-           family={Leonard},
-           familyi={L\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=2d82fca83a1621b846beedfede49caf0}{%
-           family={Westra},
-           familyi={W\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{5b73f5d321a85467cbb3263a6df7efb1}
-      \strng{fullhash}{98eda2a073fe9aa5a725756214c490c7}
-      \strng{bibnamehash}{98eda2a073fe9aa5a725756214c490c7}
-      \strng{authorbibnamehash}{98eda2a073fe9aa5a725756214c490c7}
-      \strng{authornamehash}{5b73f5d321a85467cbb3263a6df7efb1}
-      \strng{authorfullhash}{98eda2a073fe9aa5a725756214c490c7}
-      \field{extraname}{2}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Risk assessment for climate-sensitive systems often relies on the analysis of several variables measured at many sites. In probabilistic terms, the task is to model the joint distribution of several spatially distributed variables, and how it varies in time. This paper describes a Bayesian hierarchical framework for this purpose. Each variable follows a distribution with parameters varying in both space and time. Temporal variability is modeled by means of hidden climate indices ({HCIs}) that are extracted from observed variables. This is to be contrasted with the usual approach using predefined standard climate indices ({SCIs}) for this purpose. In the second level of the model, the {HCIs} and their effects are assumed to follow temporal and spatial Gaussian processes, respectively. Both intervariable and intersite dependencies are induced by the strong effect of common {HCIs}. The flexibility of the framework is illustrated with a case study in Southeast Australia aimed at modeling “hot-and-dry” summer conditions. It involves three physical variables (streamflow, precipitation, and temperature) measured on three distinct station networks, with varying data availability and representing hundreds of sites in total. The {HCI} model delivers reliable and sharp time-varying distributions for individual variables and sites. In addition, it adequately reproduces intervariable and intersite dependencies, whereas a corresponding {SCI} model (where hidden climate indices are replaced with standard ones) strongly underestimates them. It is finally suggested that {HCI} models may be used as downscaling tools to estimate the joint distribution of several variables at many stations from climate models or reanalyzes.}
-      \field{issn}{1944-7973}
-      \field{journaltitle}{Water Resources Research}
-      \field{langid}{english}
-      \field{note}{\_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021WR030007}
-      \field{number}{1}
-      \field{title}{A Hidden Climate Indices Modeling Framework for Multivariable Space-Time Data}
-      \field{urlday}{14}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{58}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{e2021WR030007}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1029/2021WR030007
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\ZDNNT8RK\\Renard et al. - 2022 - A Hidden Climate Indices Modeling Framework for Mu.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\2EL6TQZN\\2021WR030007.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2021WR030007
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2021WR030007
-      \endverb
-      \keyw{Bayesian hierarchical modeling,climate indices,dependence,multivariate,space-time variability,station data}
     \endentry
     \entry{salas_techniques_2018}{article}{}
       \name{author}{3}{}{%
@@ -3162,7 +3245,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2011WR010782}
       \field{number}{2}
       \field{shorttitle}{Flood frequency hydrology}
       \field{title}{Flood frequency hydrology: 3. A Bayesian analysis}
@@ -3180,12 +3262,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EZGY9SY5\\Viglione et al. - 2013 - Flood frequency hydrology 3. A Bayesian analysis.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\E39SQEHM\\2011WR010782.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2011WR010782
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2011WR010782
       \endverb
       \keyw{combined information,design flood,uncertainty}
     \endentry
