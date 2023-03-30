@@ -126,6 +126,67 @@
       \verb B12- Rapport Détaillé - Analyse de la station de Beaucaire.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\93MXJ4MT\\B12- Rapport Détaillé - Analyse de la station de Beaucaire.pdf:application/pdf
       \endverb
     \endentry
+    \entry{boudou_assessing_2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8b160d70be9cf814b8c03af564b07738}{%
+           family={Boudou},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ccc3962412f5b5d9dacf48b6bff583e7}{%
+           family={Danière},
+           familyi={D\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{437b4fbc42aab9595dc7b009499c8ebc}
+      \strng{fullhash}{c9b329e0830eecd69ea34bf8ac0d280b}
+      \strng{bibnamehash}{c9b329e0830eecd69ea34bf8ac0d280b}
+      \strng{authorbibnamehash}{c9b329e0830eecd69ea34bf8ac0d280b}
+      \strng{authornamehash}{437b4fbc42aab9595dc7b009499c8ebc}
+      \strng{authorfullhash}{c9b329e0830eecd69ea34bf8ac0d280b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents an appraisal of the temporal evolution of ﬂood vulnerability of two French cities, Besançon and Moissac, which were largely impacted by ﬂoods in January 1910 and March 1930, respectively. Both ﬂood events ﬁgure among the most signiﬁcant events recorded in France during the 20th century, in terms of certain parameters such as the intensity and severity of the ﬂood and spatial extension of the damage. An analysis of historical sources allows the mapping of land use and occupation within the areas affected by the two ﬂoods, both in past and present contexts, providing an insight of the complexity of ﬂood risk evolution at a local scale.}
+      \field{day}{18}
+      \field{issn}{1607-7938}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Hydrol. Earth Syst. Sci.}
+      \field{title}{Assessing changes in urban flood vulnerability through mapping land use from historical information}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{20}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{161\bibrangedash 173}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.5194/hess-20-161-2016
+      \endverb
+      \verb{file}
+      \verb Boudou et al. - 2016 - Assessing changes in urban flood vulnerability thr.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\2FLL2GJ7\\Boudou et al. - 2016 - Assessing changes in urban flood vulnerability thr.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hess.copernicus.org/articles/20/161/2016/
+      \endverb
+      \verb{url}
+      \verb https://hess.copernicus.org/articles/20/161/2016/
+      \endverb
+    \endentry
     \entry{goux_modification_1851}{report}{}
       \name{author}{1}{}{%
         {{hash=1b92f8198609f3221ba00ece27709b8d}{%

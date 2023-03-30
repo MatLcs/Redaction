@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  24 MAR 2023 18:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  30 MAR 2023 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -825,13 +825,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [1
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 \tf@toc=\write5
 \openout5 = `Chapitre2.toc'.
 
- [1
-
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 <Figures/foire4.jpg, id=157, 674.52pt x 446.3877pt>
 File: Figures/foire4.jpg Graphic file (type jpg)
 <use Figures/foire4.jpg>
@@ -843,38 +842,36 @@ File: Figures/foire5.jpg Graphic file (type jpg)
 Package pdftex.def Info: Figures/foire5.jpg  used on input line 49.
 (pdftex.def)             Requested size: 245.2399pt x 157.29332pt.
  [2 <./Figures/foire4.jpg> <./Figures/foire5.jpg>]
-<Figures/Rhone_bassin_versant.png, id=178, 602.25pt x 844.5954pt>
+<Figures/Rhone_bassin_versant.png, id=179, 602.25pt x 844.5954pt>
 File: Figures/Rhone_bassin_versant.png Graphic file (type png)
 <use Figures/Rhone_bassin_versant.png>
 Package pdftex.def Info: Figures/Rhone_bassin_versant.png  used on input line 6
 9.
 (pdftex.def)             Requested size: 300.29344pt x 421.14967pt.
-<Figures/RegimeModif.png, id=180, 777.98656pt x 550.6974pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/RegimeModif.png, id=181, 777.98656pt x 550.6974pt>
 File: Figures/RegimeModif.png Graphic file (type png)
 <use Figures/RegimeModif.png>
 Package pdftex.def Info: Figures/RegimeModif.png  used on input line 76.
 (pdftex.def)             Requested size: 400.38872pt x 283.41486pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./Figures/Rhone_bassin_versant.png>]
-<Figures/PtCartoPhoto.png, id=195, 595.5048pt x 396.40096pt>
+[3] [4 <./Figures/Rhone_bassin_versant.png>] [5 <./Figures/RegimeModif.png>]
+<Figures/PtCartoPhoto.png, id=206, 595.5048pt x 396.40096pt>
 File: Figures/PtCartoPhoto.png Graphic file (type png)
 <use Figures/PtCartoPhoto.png>
 Package pdftex.def Info: Figures/PtCartoPhoto.png  used on input line 90.
 (pdftex.def)             Requested size: 350.33727pt x 233.20314pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4 <./Figures/RegimeModif.png>]
-<Figures/TabObsBcrSmall.jpg, id=210, 187.902pt x 121.545pt>
+<Figures/TabObsBcrSmall.jpg, id=208, 187.902pt x 121.545pt>
 File: Figures/TabObsBcrSmall.jpg Graphic file (type jpg)
 <use Figures/TabObsBcrSmall.jpg>
 Package pdftex.def Info: Figures/TabObsBcrSmall.jpg  used on input line 102.
 (pdftex.def)             Requested size: 245.2399pt x 158.64275pt.
-<Figures/RegleStationCNR.jpg, id=211, 560.8453pt x 301.125pt>
+<Figures/RegleStationCNR.jpg, id=209, 560.8453pt x 301.125pt>
 File: Figures/RegleStationCNR.jpg Graphic file (type jpg)
 <use Figures/RegleStationCNR.jpg>
 Package pdftex.def Info: Figures/RegleStationCNR.jpg  used on input line 108.
@@ -883,35 +880,48 @@ Package pdftex.def Info: Figures/RegleStationCNR.jpg  used on input line 108.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/Jau1845.jpg, id=213, 1500.4055pt x 735.548pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6
+
+ <./Figures/PtCartoPhoto.png>]
+<Figures/Jau1845.jpg, id=225, 1500.4055pt x 735.548pt>
 File: Figures/Jau1845.jpg Graphic file (type jpg)
 <use Figures/Jau1845.jpg>
 Package pdftex.def Info: Figures/Jau1845.jpg  used on input line 145.
 (pdftex.def)             Requested size: 350.33727pt x 171.74268pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./Figures/PtCartoPhoto.png>] [6 <./Figures/TabObsBcrSmall.jpg> <./Figures/R
-egleStationCNR.jpg>]
-<Figures/ChampInond1840-1856.jpg, id=232, 704.6325pt x 496.10344pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./Figures/TabObsBcrSmall.jpg> <./Figures/RegleStationCNR.jpg>]
+<Figures/ChampInond1840-1856.jpg, id=239, 704.6325pt x 496.10344pt>
 File: Figures/ChampInond1840-1856.jpg Graphic file (type jpg)
 <use Figures/ChampInond1840-1856.jpg>
 Package pdftex.def Info: Figures/ChampInond1840-1856.jpg  used on input line 18
 4.
 (pdftex.def)             Requested size: 300.29344pt x 211.42026pt.
- [7 <./Figures/Jau1845.jpg> <./Figures/ChampInond1840-1856.jpg>]
-<Figures/DiguesArmand.png, id=246, 485.523pt x 246.0465pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./Figures/Jau1845.jpg>]
+<Figures/DiguesArmand.png, id=253, 485.523pt x 246.0465pt>
 File: Figures/DiguesArmand.png Graphic file (type png)
 <use Figures/DiguesArmand.png>
 Package pdftex.def Info: Figures/DiguesArmand.png  used on input line 197.
 (pdftex.def)             Requested size: 400.38872pt x 202.912pt.
- [8 <./Figures/DiguesArmand.png>]
-<Figures/Goux4550.png, id=261, 1204.5pt x 464.937pt>
+ [9 <./Figures/ChampInond1840-1856.jpg> <./Figures/DiguesArmand.png>]
+<Figures/Goux4550.png, id=266, 1204.5pt x 464.937pt>
 File: Figures/Goux4550.png Graphic file (type png)
 <use Figures/Goux4550.png>
 Package pdftex.def Info: Figures/Goux4550.png  used on input line 216.
 (pdftex.def)             Requested size: 450.43253pt x 173.86852pt.
-<Figures/MapProfils.png, id=264, 590.08455pt x 507.3354pt>
+<Figures/MapProfils.png, id=269, 590.08455pt x 507.3354pt>
 File: Figures/MapProfils.png Graphic file (type png)
 <use Figures/MapProfils.png>
 Package pdftex.def Info: Figures/MapProfils.png  used on input line 223.
@@ -920,8 +930,8 @@ Package pdftex.def Info: Figures/MapProfils.png  used on input line 223.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./Figures/Goux4550.png>]
-<Figures/AerialBcr.png, id=274, 489.9906pt x 527.93234pt>
+[10 <./Figures/Goux4550.png>]
+<Figures/AerialBcr.png, id=280, 489.9906pt x 527.93234pt>
 File: Figures/AerialBcr.png Graphic file (type png)
 <use Figures/AerialBcr.png>
 Package pdftex.def Info: Figures/AerialBcr.png  used on input line 233.
@@ -930,8 +940,8 @@ Package pdftex.def Info: Figures/AerialBcr.png  used on input line 233.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10 <./Figures/MapProfils.png>] [11 <./Figures/AerialBcr.png>] [12]
-<Figures/RestitCartoPh.png, id=306, 829.1778pt x 542.025pt>
+[11 <./Figures/MapProfils.png>] [12 <./Figures/AerialBcr.png>] [13]
+<Figures/RestitCartoPh.png, id=313, 829.1778pt x 542.025pt>
 File: Figures/RestitCartoPh.png Graphic file (type png)
 <use Figures/RestitCartoPh.png>
 Package pdftex.def Info: Figures/RestitCartoPh.png  used on input line 272.
@@ -940,7 +950,7 @@ Package pdftex.def Info: Figures/RestitCartoPh.png  used on input line 272.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/ProfilsBardRestit.png, id=308, 322.5651pt x 211.7511pt>
+<Figures/ProfilsBardRestit.png, id=315, 322.5651pt x 211.7511pt>
 File: Figures/ProfilsBardRestit.png Graphic file (type png)
 <use Figures/ProfilsBardRestit.png>
 Package pdftex.def Info: Figures/ProfilsBardRestit.png  used on input line 284.
@@ -949,63 +959,74 @@ Package pdftex.def Info: Figures/ProfilsBardRestit.png  used on input line 284.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13] [14 <./Figures/RestitCartoPh.png> <./Figures/ProfilsBardRestit.png>]
-<Figures/HistrhoneMap.jpg, id=330, 340.8735pt x 506.49225pt>
+[14] [15 <./Figures/RestitCartoPh.png> <./Figures/ProfilsBardRestit.png>]
+<Figures/HistrhoneMap.jpg, id=336, 340.8735pt x 506.49225pt>
 File: Figures/HistrhoneMap.jpg Graphic file (type jpg)
 <use Figures/HistrhoneMap.jpg>
 Package pdftex.def Info: Figures/HistrhoneMap.jpg  used on input line 301.
 (pdftex.def)             Requested size: 250.24199pt x 371.83841pt.
 
-[15
+[16
 
  <./Figures/HistrhoneMap.jpg>]
 Overfull \hbox (18.98642pt too wide) in paragraph at lines 315--350
  [][] 
  []
 
-<Figures/C3-C4_SystematicPeriod-FR.pdf, id=345, 867.24pt x 578.16pt>
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+56.
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [17]
+<Figures/C3-C4_SystematicPeriod-FR.pdf, id=362, 1011.78pt x 505.89pt>
 File: Figures/C3-C4_SystematicPeriod-FR.pdf Graphic file (type pdf)
 <use Figures/C3-C4_SystematicPeriod-FR.pdf>
 Package pdftex.def Info: Figures/C3-C4_SystematicPeriod-FR.pdf  used on input l
-ine 361.
-(pdftex.def)             Requested size: 400.38872pt x 266.92725pt.
+ine 360.
+(pdftex.def)             Requested size: 450.43253pt x 225.21683pt.
+ [18 <./Figures/C3-C4_SystematicPeriod-FR.pdf>]
+<Figures/Nb_C3-C4.pdf, id=391, 939.51pt x 433.62pt>
+File: Figures/Nb_C3-C4.pdf Graphic file (type pdf)
+<use Figures/Nb_C3-C4.pdf>
+Package pdftex.def Info: Figures/Nb_C3-C4.pdf  used on input line 388.
+(pdftex.def)             Requested size: 400.38872pt x 184.79222pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16]
+[19] [20 <./Figures/Nb_C3-C4.pdf>]
+<Figures/BoxplotTprop_Fr.pdf, id=416, 1156.32pt x 578.16pt>
+File: Figures/BoxplotTprop_Fr.pdf Graphic file (type pdf)
+<use Figures/BoxplotTprop_Fr.pdf>
+Package pdftex.def Info: Figures/BoxplotTprop_Fr.pdf  used on input line 466.
+(pdftex.def)             Requested size: 450.43253pt x 225.21683pt.
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 408.
 
-[17 <./Figures/C3-C4_SystematicPeriod-FR.pdf>]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
-30.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [18] [19] (Chapitre2.aux)
+[21] [22 <./Figures/BoxplotTprop_Fr.pdf>] [23] (Chapitre2.aux)
 Package rerunfilecheck Info: File `Chapitre2.out' has not changed.
-(rerunfilecheck)             Checksum: 1D97C13FDEBC64243FFE13CC60F66D64;7143.
+(rerunfilecheck)             Checksum: EDC98C664788E72DFA224EE57333F32A;7732.
 Package logreq Info: Writing requests to 'Chapitre2.run.xml'.
 \openout1 = `Chapitre2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19620 strings out of 478659
- 349163 string characters out of 2842128
- 1047267 words of memory out of 3000000
- 37362 multiletter control sequences out of 15000+600000
+ 19662 strings out of 478659
+ 349968 string characters out of 2842128
+ 1046507 words of memory out of 3000000
+ 37387 multiletter control sequences out of 15000+600000
  417028 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,14n,77p,3321b,1739s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,14n,77p,3348b,1739s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
-600\ectt1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/j
-knappen/ec/dpi600\eccc1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\mathieu.lucas\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\mathieu.lu
-cas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Us
-ers\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
-000.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+600\eccc1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ectt1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\mathieu.lucas\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\mathieu.lu
+cas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Us
+ers\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1
+095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
 c/dpi600\ecrm0800.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljf
 our/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTe
 X\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\mathieu.lucas\AppDa
@@ -1014,9 +1035,9 @@ eu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <
 C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 ecrm1728.pk><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb>
-Output written on Chapitre2.pdf (19 pages, 27986865 bytes).
+Output written on Chapitre2.pdf (23 pages, 28026802 bytes).
 PDF statistics:
- 856 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
- 310 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 945 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
 
