@@ -264,6 +264,40 @@
       \verb https://www.persee.fr/doc/geoca_0035-113x_1953_num_28_4_1380
       \endverb
     \endentry
+    \entry{medd_debit_2005}{report}{}
+      \name{author}{1}{}{%
+        {{hash=31d26db20a490f3b5819dc5fc00748b2}{%
+           family={{MEDD}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Minitère français de l'écologie et du développement durable}%
+      }
+      \strng{namehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{fullhash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{bibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authorbibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authornamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authorfullhash}{31d26db20a490f3b5819dc5fc00748b2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{month}{10}
+      \field{title}{Débit du Rhône à Beaucaire pour la crue de Décembre 2003}
+      \field{type}{Conférence de consensus}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://ccbr.lyon.cemagref.fr/
+      \endverb
+      \verb{url}
+      \verb http://ccbr.lyon.cemagref.fr/
+      \endverb
+    \endentry
     \entry{mejean_etude_2017}{report}{}
       \name{author}{1}{}{%
         {{hash=c83490cbdc2b4f6db02273386fd64bc4}{%
@@ -536,6 +570,45 @@
       \endverb
       \verb{file}
       \verb Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EE7VTD4J\\Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{raccasi_mutations_2008}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=50c8bf93eb44e611b0e988662a9b429c}{%
+           family={Raccasi},
+           familyi={R\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université de Provence - Aix- Marseille I}%
+      }
+      \strng{namehash}{50c8bf93eb44e611b0e988662a9b429c}
+      \strng{fullhash}{50c8bf93eb44e611b0e988662a9b429c}
+      \strng{bibnamehash}{50c8bf93eb44e611b0e988662a9b429c}
+      \strng{authorbibnamehash}{50c8bf93eb44e611b0e988662a9b429c}
+      \strng{authornamehash}{50c8bf93eb44e611b0e988662a9b429c}
+      \strng{authorfullhash}{50c8bf93eb44e611b0e988662a9b429c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{pagetotal}{334}
+      \field{title}{Mutations géomorphologiques récentes du Rône aval, Recherches en vue de la restauration hydraulique et de la gestion des crues}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Hamilton_2012_UncertaintyStreamflowRecords.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\LIUMYMPA\\Hamilton_2012_UncertaintyStreamflowRecords.pdf:application/pdf;Raccasi - Mutations géomorphologiques récentes du Rône aval,.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\SS6E8I5V\\Raccasi - Mutations géomorphologiques récentes du Rône aval,.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb tel-00321723
+      \endverb
+      \verb{url}
+      \verb tel-00321723
       \endverb
     \endentry
     \entry{surell_memoire_1847}{book}{}

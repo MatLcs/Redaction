@@ -12,6 +12,7 @@
 \usepackage{subcaption}
 \usepackage{authblk}
 \usepackage{placeins}
+\usepackage{epigraph}
 %hyperlinks options
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,linkcolor=blue,filecolor=magenta,urlcolor=cyan,citecolor=cyan}
@@ -66,14 +67,14 @@ DESCRIPTION INSTRUMENTATION EN 2 STATIONS ET HISTORIQUE BCR
 
 	\begin{figure}[h]
 	\centering
-		\includegraphics[width=.6\linewidth]{Figures/Rhone_bassin_versant.png}
+		\includegraphics[width=.5\linewidth]{Figures/Rhone_bassin_versant.png}
         \caption{Bassin versant du Rhône. La ville de Beaucaire est indiquée en rouge (www.openstreetmap.org)}	
 		\label{fig:BV}
 	\end{figure}
 	
 	\begin{figure}[h]
 	\centering
-		\includegraphics[width=.8\linewidth]{Figures/RegimeModif.png}
+		\includegraphics[width=.7\linewidth]{Figures/RegimeModif.png}
         \caption{Débit moyen journalier du Rhône à Beaucaire (1816-2016). En bleu foncé, les quantiles 40 et 60\%, en gris les quantiles 60 et 80\%.}	
 		\label{fig:Regime}
 	\end{figure}
@@ -395,34 +396,100 @@ La thèse menée par Guillaume Raccasi (2008) sur les mutations géomorphologiqu
 
 \section{Estimation du débit des événements historiques}
 
-	\paragraph{} Dans l'optique de l'utilisation des données de crues historiques de la base HISTRHÔNE pour l'analyse fréquentielle, la connaissance du débit de chacun des événements est parfois utile. Cependant, l'estimation de ces débits dans un contexte historique est bien plus complexe que dans le cas de stations hydrométriques. Plusieurs zones d'ombre viennent complexifier ces estimations. Tout d'abord, la mesure limnimétrique n'est pas continue et repose sur des témoignages sporadiques donnant des informations très dispersées spatialement. Il peut être complexe de reconstituer la hauteur d'eau correspondant à la pointe de la crue et il est encore plus complexe de reconstituer la dynamique temporelle de la crue. Ensuite, la transformation hauteur/débit est complexifiée en l'absence de jaugeages et complexifie l'estimation d'une courbe de tarage. Le schéma hydrométrique classique ne peut donc être suivi. Une des solutions est l'utilisation d'un modèle hydraulique. Cependant, son utilisation est conditionnée à l'existence ou à la reconstitution de données topographiques et bathymétriques contemporaines à la crue étudiée. La modélisation hydraulique unidimensionnelle (1D) est très simplifiée car elle fait l'hypothèse que les quantités (hauteur d'eau, vitesses et direction de l'écoulement) sont uniformes au sein d'une section en travers. Ce type de modèle n'est pas aussi précis qu'un modèle 2D, mais il demande en revanche une description bien moins fine de la géométrie de la rivière, ce qui est avantageux dans le cas de reconstitution historiques pour lesquelles ces données sont rares. 
+	\paragraph{} Dans l'optique de l'utilisation des données de crues historiques de la base HISTRHÔNE pour l'analyse fréquentielle, la connaissance du débit de chacun des événements peut s'avérer utile. Cependant, l'estimation de ces débits dans un contexte historique est bien plus complexe que dans le cas de stations hydrométriques. Plusieurs zones d'ombre viennent complexifier ces estimations. Tout d'abord, la mesure limnimétrique n'est pas continue et repose sur des témoignages sporadiques donnant des informations très dispersées spatialement. Il peut être complexe de reconstituer la hauteur d'eau correspondant à la pointe de la crue et il est encore plus complexe de reconstituer la dynamique temporelle de la crue. Ensuite, la transformation hauteur/débit est complexifiée en l'absence de jaugeages et complexifie l'estimation d'une courbe de tarage. Le schéma hydrométrique classique ne peut donc être suivi. Une des solutions est l'utilisation d'un modèle hydraulique. Cependant, son utilisation est conditionnée à l'existence ou à la reconstitution de données topographiques et bathymétriques contemporaines à la crue étudiée. La modélisation hydraulique unidimensionnelle (1D) est très simplifiée car elle fait l'hypothèse que les quantités (hauteur d'eau, vitesses et direction de l'écoulement) sont uniformes au sein d'une section en travers. Ce type de modèle n'est pas aussi précis qu'un modèle 2D, mais il demande en revanche une description bien moins fine de la géométrie de la rivière, ce qui est avantageux dans le cas de reconstitution historiques pour lesquelles ces données sont rares. La modélisation hydraulique des événements historiques a été explorée mais n'a pas abouti par manque de temps et de données bathymétriques anciennes. Les grandes lignes du travail effectué sont décrites dans la section suivantes et peuvent être utile à qui envisagera de modéliser les crues historiques du bas-Rhône. Des hypothèses simplificatrices du modèle hydraulique sont notamment explorées afin de limiter la quantité d'informations nécessaires dans le cadre de modélisations historiques.
 	
+	\epigraph{"\textit{Je ne dirais pas que c'est un échec. Ça n'a pas marché.}"}{Emmanuel Macron le 14 Octobre 2020}
+	
+	 \subsection{Adaptation du modèle MAGE OSR 1D à l'étude des crues historiques à Beaucaire}
 	 
-	\paragraph{} 
-	Présentation de MAGE
-	Présentation du modèle existant
+	 \paragraph{} L'Observatoire des Sédiments du Rhône (OSR) (\url{www.graie.org/osr}) étudie les flux sédimentaires ainsi que les pollutions associées à ces sédiments sur la partie française du Rhône. A ce titre, un modèle hydraulique à été développé sur l'ensemble du linéaire. Ce modèle se base sur le code de calcul MAGE (REF MAGE ?) qui résout les équations de Barré-de-Saint-Venant 1D ainsi que la formule de perte de charge de Manning-Strickler. Ce modèle représente les 545 km du linéaire français du Rhône, du lac Léman à la Méditerranée. Il inclut également les tronçons les plus à l'aval des principaux affluents, ainsi qu'une représentation simplifiée des aménagements hydroélectriques. Il a été calé et validé jusqu'au débit des crues non débordantes (soit un débit de période de retour d'environ 10 ans pour la partie à l'aval de Lyon). La géométrie du lit est définie par des profils en travers réalisés environ tous les 500 m. Le modèle n'étant pas prévu pour représenter les crues débordantes, les profils en travers s'étendent jusqu'aux limites du lit moyen, aussi appelé lit majeur actif (c'est à dire la partie mouillée pour les crues fréquentes). Les débordements ne sont donc pas pris en compte et la géométrie au delà de la berge est représentée par des murs verticaux artificiels dont les frottements sont négligés. 
+	 
+	 \paragraph{} Le modèle MAGE OSR 1D est adapté à l'étude de la dynamique hydro-sédimentaire, mais ne peut en l'état être utilisé pour la modélisation des crues : plusieurs adaptations et hypothèses simplificatrices sont nécessaires. Tout d'abord, il est inutile de conserver la totalité des biefs, le modèle s'étendant du lac Léman à la Méditerranée. Afin de limiter la quantité de données topographiques anciennes nécessaire et le temps de calcul, la limite amont du modèle est dans un premier temps définie à l'aval immédiat de la confluence avec la Durance (figure \ref{fig:MAGEavap}, gauche). A l'aval de la Durance, la confluence avec le Gardon (dernier affluent du Rhône) est représentée par un apport latéral et ne nécessite donc pas de reconstituer la bathymétrie de l'affluent. La limite aval originelle du modèle est représentée par la mer Méditerranée pour les deux biefs du delta, Petit et Grand Rhône. Étant donné la complexité de reconstituer les fortes évolutions bathymétriques de l'embouchure du grand Rhône (figure \ref{fig:Embouch}), la limite aval du modèle sur ce bief peut être fixée plus à l'amont. Il existe un nombre important de hauteurs d'eau pour les crues historiques à l'échelle reconstituée des marches du port d'Arles \citep{pichard_les_1995}, la limite aval est donc fixée au niveau de cette échelle, au PK 282.2. 
+	
+	\begin{figure}[h]
+		\centering
+	    \includegraphics[width=.8\linewidth]{Figures/EvolEmbouch.jpg}
+        \caption{Évolutions morphologiques du delta du Rhône du XIV\textsuperscript{ème} à aujourd'hui (REF PICHARD). 1 : bras actifs de nos jours, 2 : tracés des bras hérités, 3 : Principales localités, 4 : plateau de Crau.}
+		\label{fig:Embouch}
+	\end{figure}
+
+	\paragraph{} L'influence de fixer la limite aval du modèle pour le bras du Grand Rhône à Arles, et non au niveau de de la mer Méditerranée, peut être étudiée. Une simulation est réalisée pour un débit stationnaire (et non-débordant) de 4000 m\textsuperscript{3}/s en limite amont pour les deux scénarios. La figure \ref{fig:DifMerArles} présente la différence de cote (hauteur d'eau) entre les deux scénarios pour le bief reliant Beaucaire à la diffluence avec le Petit Rhône. On remarque que la différence est maximale au niveau de la diffluence (7 cm). A Beaucaire, la différence de hauteur est inférieure à 3 cm. On supposera donc que le choix de la limite aval au niveau du Grand Rhône n'a que peu d'impact sur la cote à Beaucaire et que l'on pourra se passer de reconstituer les formes anciennes de la partie aval de ce bief. 
+	 
+	\begin{figure}[h]
+	\centering
+		\includegraphics[width=.7\linewidth]{Figures/DiffMerArles.jpg}
+        \caption{Différence de hauteur d'eau sur le bief Beaucaire-Diffluence pour une limite aval au niveau de la mer ou au niveau de la ville d'Arles. La station de Beaucaire Restitution se situe au PK 269.5 (à gauche) et la ville d'Arles au PK 282.2, soit environ 2 km à l'aval de la diffluence (à droite).}
+		\label{fig:DifMerArles}
+	\end{figure}			 
+	 
+	\paragraph{} Afin d'adapter la géométrie des sections à des débits importants, des points supplémentaires ont été ajoutés au modèle pour représenter le lit majeur. L'altitude de ces points est basée sur les données MNT de la base de données topographique (BDT) du Rhône dont les mesures ont été réalisées en 2010 dans le cadre du Plan Rhône. Les sections en travers sont prolongées jusqu'aux digues de protection actuelles (figure \ref{fig:Elarg}) qui protègent des débordements au moins jusqu'au niveau de la crue de 2003, soit une crue environ centennale. 
+	
+	\begin{figure}[h]
+	\centering
+		\includegraphics[width=.5\linewidth]{Figures/Elarg.png}
+        \caption{Élargissement des sections en travers du modèle jusqu'aux limites du lit majeur (digues). L'altitude des points est basée sur le MNT de la BDT Rhône de 2010 }
+		\label{fig:Elarg}
+	\end{figure}		
+	
+	\paragraph{} Afin de se placer dans le contexte historique pré-aménagements CNR, les aménagements présents dans le modèle sont supprimés. Il s'agit de l'usine de Beaucaire, du barrage de Vallabrègues, ainsi que du seuil de Beaucaire. La topologie du modèle suite à ces simplifications est présentée dans la figure \ref{fig:Mageavap} (droite).
+	
+	\begin{figure}[h]
+	\centering
+		\includegraphics[width=.9\linewidth]{Figures/MAGERh_AvAp.png}
+        \caption{Topologie du modèle avant (gauche) et après simplifications (droite).}
+		\label{fig:Mageavap}
+	\end{figure}		
+			
+	\subsection{Sensibilité du modèle}
+		
+	\paragraph{} La sensibilité du modèle hydraulique à plusieurs scénarios a été testée afin de connaitre l'impact de la prise en compte (ou de la non-prise en compte) précise de ces scénarios dans le cadre de reconstitutions historiques. La référence de ces tests est le modèle présenté à la section précédente, pour lequel les aménagements hydroélectriques ont été supprimés, les sections en travers ont été élargies jusqu'aux limites du lit majeur, et la limite aval du Grand Rhône a été fixée à Arles. Les simulations suivantes représentant diverses hypothèses seront donc comparées à cette simulation de référence. La différence de hauteur au niveau de la station de Pont de Beaucaire sera notamment étudiée.
+	
+	\paragraph{} On cherche à reproduire ici une crue centennale similaire à la crue de Décembre 2003 au cours de laquelle le débit à Beaucaire était d'environ 11 500 m\textsuperscript{3}/s. La condition limite amont (nœud à l'aval de la confluence avec la Durance) est représentée par un hydrogramme permanent de 10 500 m\textsuperscript{3}/s. La confluence du Gardon est représentée par un apport latéral constant de 1000 m\textsuperscript{3}/s. La limite aval pour le bief du Petit Rhône est représentée par un niveau de la Mer Méditerranée de 0.136 m. La limite aval du Grand Rhône est représentée par un limnigramme constant à 7.03 m, soit la hauteur maximale enregistrée lors de la crue de 2003. Le calage des coefficients de frottements (Strickler) du modèle OSR (REF LAUNAY 2015) est conservé, bien que ces derniers ne soient valable que jusqu'à la crue décennale. Le temps de simulation est de 10 heures afin d'aboutir à une convergence satisfaisante, et le pas de temps de simulation est de 60 secondes. Les résultats de cette section sont des résultats partiels qui ont pour unique but d'identifier les points clés de la modélisation d'événements historiques, et notamment d'identifier les simplifications possibles du modèle qui ne dégradent pas grandement la qualité des estimations.
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=\linewidth]{Figures/4cases.pdf}
+        \caption{Vieux Rhône, Rhône, Grand-Rhône/Petit-Rhône}
+		\label{fig:Sensib4}
+	\end{figure}		
+			
+	
+	\subsubsection{Sensibilité aux aménagements hydroélectriques}
+	
+		\paragraph{} Les aménagements hydroélectriques CNR ont été construits entre 1967 et 1970 et ont une influence sur la ligne d'eau à Beaucaire. Ces aménagements sont représentés dans le modèle OSR originel (REF DUGUE 2014) sous forme de lois ouvrage de nature différentes, ces lois seront reprises ici. Par exemple, le barrage de Vallabrègues est représenté par une loi de type seuil/déversoir avec une cote de déversement de 16.63 m, une largeur déversante de 176 m, et un coefficient de débit de 0.4. La vanne de fond est représentée par un orifice rectangulaire dont la cote de déversement correspond à un niveau de 2.03 m, la cote de mise en charge à un niveau de 6.1 m, et la cote de mise en charge maximale à un niveau de 16.6 m. L'usine hydroélectrique et le seuil de Beaucaire sont également représentés dans le modèle (figure \ref{fig:Mageavap}). La suppression des aménagements hydroélectriques dans le modèle semble avoir un impact important sur la ligne d'eau à l'amont du bief Beaucaire-Diffluence, avec une réduction de 22.8 cm de la hauteur d'eau à Pont de Beaucaire (figure \ref{fig:Sensib4}). Néanmoins, le modèle de "référence" n'est absolument pas représentatif des conditions d'écoulement pré-aménagements CNR (avant 1967) étant donné que la géométrie des sections provient de mesures réalisées en 2010. Bien que le Rhône au droit de Beaucaire était historiquement séparé en deux chenaux par des digues, même avant la construction des aménagements CNR (REF CARTE 1950), il faut noter que ces deux chenaux communiquaient à haut débit, ce qui n'est pas le cas ici. 
+	
+	\subsubsection{Sensibilité à la suppression du Petit-Rhône} 
+	
+	\paragraph{} La morphologie du Petit-Rhône a profondément évolué au cours des derniers siècles (figure \ref{fig:Embouch}), comme souligné par REF PICHARD 2014 et Raccasi \citet{raccasi_mutations_2008}. De plus, la part de débit correspondant au Petit-Rhône part rapport à celle du Rhône total a probablement évolué au gré de ses évolutions morphologiques. Ces changements rendent complexe la reconstitution de la morphologie historique du Petit-Rhône. Afin de s'affranchir de ces reconstitutions, la solution la plus simple et la plus radicale est la suppression du Petit-Rhône du modèle hydraulique, la totalité des débits transitant alors par le bief du Grand-Rhône. On constate sur la figure \ref{fig:Sensib4} que cela a pour conséquence une augmentation de la hauteur d'eau sur l'ensemble du linéaire modélisé. L'augmentation est évidemment maximale sur le bief Diffluence-Arles, et s'élève à 9.7 cm à Pont de Beaucaire. Cet impact sur la ligne d'eau à Pont de Beaucaire est relativement faible. Il correspond à un écart en débit d'environ 300 m\textsuperscript{3}/s, soit une augmentation d'environ 2\% (d'après les courbes de tarage déterminées à Pont de Beaucaire au chapitre 3 REF). La suppression du Petit-Rhône ayant un impact limité sur la hauteur d'eau à Beaucaire, il semble que la solution la plus raisonnable soit de conserver le Petit-Rhône dans le modèle sous sa forme moderne. On suppose donc que les changements morphologique du Petit-Rhône ont un impact très limité sur la hauteur d'eau à Beaucaire.
+	
+	\subsubsection{Sensibilité aux ruptures de digues}
+	
+	\paragraph{} De nombreuses crues ont provoqué des ruptures de digues dans l'histoire du bas-Rhône \citep{pichard_sept_2014}, notamment en 2003 \cite{medd_debit_2005}. La reconstitution de ces ruptures de digues pour les crues historiques est complexe, notamment en ce qui concerne la largeur et la profondeur de la rupture. L'importance de la prise en compte des ruptures de digues dans le modèle est étudiée en reproduisant les dommages observés en 2003 sur le Petit-Rhône. Plusieurs brèches dans les digues sont survenues pendant cet événement et sont résumées dans la figure \ref{fig:Breches2003} tirée de l'étude du \citet{symadrem_programme_2012}. Dans cette étude, l'impact des brèches des trémies du Mas Tessier et des Ségonnaux (bief Beaucaire-Diffluence) sur la ligne d'eau a Beaucaire a été jugé faible. Seules les brèches du Petit-Rhône (Mas d'Argence et Claire Farine) seront donc reproduites ici. Ces deux brèches sont représentées par des déversements vers l'extérieur du modèle dont la profondeur et la largeur des brèches proviennent des informations présentées en figure \ref{fig:Breches2003}. Les brèches sont supposées actives tout au long de la simulation, leur dynamique n'ayant pas de sens dans le cadre d'une simulation en régime permanent. On constate sur la figure \ref{fig:Sensib4} que l'impact des brèches du Petit-Rhône est faible, et qu'il est maximal a proximité de la diffluence. La hauteur d'eau à Pont de Beaucaire est 3.7 cm plus basse que pour la simulation de référence. Cet écart très faible indique que la considération de ce type de brèche a un impact très limité à Beaucaire. Des conclusions différentes auraient pu être tirées dans le cas de brèches à l'aval ou à l'amont immédiat de Beaucaire qui ont fréquemment été observées par le passé \citep{pichard_sept_2014}. De plus, ce résultat n'est pas représentatif de l'impact des brèches sur la dynamique de la crue, la simulation ayant été réalisée en régime permanent.
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=.7\linewidth]{Figures/Breches2003.jpg}
+        \caption{Caractéristiques des brèches dans les digues lors de la crue de Décembre 2003, tiré de l'étude du \citet{symadrem_programme_2012}.}
+		\label{fig:Breches2003}
+	\end{figure}		
+	
+	\subsubsection{Sensibilité aux surcotes marines}	
+	
+	\paragraph{} Les surcotes marines sont fréquentes en Méditerranée lors de conditions météorologiques telles que les tempêtes ou les fortes dépressions. Dans de nombreux témoignages historiques, des crues du bas-Rhône sont associées à des tempêtes maritimes \citet{pichard_sept_2014}. Ces augmentations périodiques du niveau de la mer peuvent avoir une influence sur les niveaux d'eau du Rhône. Cet impact est étudié en augmentant artificiellement le niveau de la mer en condition limite aval du modèle pour le bief du Petit-Rhône. La limite aval pour le bief du Grand-Rhône, située à Arles, n'est pas modifiée dans ce scénario. On suppose une surcote marine centennale, estimée à +2 m par KERGADALLAN REF. On constate dans la figure \ref{fig:Sensib4} que l'impact de la surcote est maximal au niveau de la mer et décroit vers l'amont. Il semble important sur le bief du Petit-Rhône, mais la différence de hauteur d'eau à Pont de Beaucaire est proche de zéro. Suite à ce constat, il ne semble pas pertinent de considérer les surcotes marines pour la modélisation des crues historiques à Beaucaire. Cependant, ce scénario suppose que la hauteur d'eau en crue à Arles n'est pas impactée par la surcote marine, ce qui est peu probable.
+	
+	\paragraph{} Discussion autres sources d'erreur + effet cumulé de tout ça
+strickler pas calés, communication beaucaire, autre?
+		
+	\subsection{Reconstitution de l'hydraulique ancienne}
 	
 	
-	\subsection{Présentation crues modélisables}
 	
-	
-	
-	\subsection{Données utiles à la modélisation}
+	\paragraph{Données dispo}
 	bathy 1897
 	élargissement sections
 	carte P\&C 18XX
 	
-	\subsection{Tests de sensibilité pour la crue de Décembre 2003}
-	figure hydrogramme 2003
 	
-		\subsubsection{Influence du choix des limites aval}
-		petit rhône VS no petit rhône
-		arles VS mer
-		
-		
-		\subsubsection{Influence des brèches}
-		Brèches VS no brèche
-		Incertitudes brèches
 		
 	\subsection{Limites et incertitude de la modélisation hydraulique des événements historiques}
 Incertitude dans le cas de modèles récents +	
@@ -472,8 +539,7 @@ Incertitude dans le cas de modèles récents +
 	discussion CF EGR + concomitance + article hossein
 
 OSR
-Des limnigrammes du moyen et bas
-Rhône, antérieurs aux aménagements
+Des limnigrammes du moyen et bas Rhône, antérieurs aux aménagements
 Girardon et à ceux de la Compagnie Nationale
 du Rhône (CNR), ont été récoltés dans
 diverses archives afin de mettre en évidence
