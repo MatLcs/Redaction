@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  27 JAN 2023 13:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  11 APR 2023 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,29 +812,28 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [1
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 \tf@toc=\write5
 \openout5 = `Introduction.toc'.
 
 
 
-LaTeX Warning: Empty bibliography on input line 67.
+LaTeX Warning: Empty bibliography on input line 80.
 
-[1
-
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[2] (Introduction.aux)
+[2] [3] (Introduction.aux)
 Package rerunfilecheck Info: File `Introduction.out' has not changed.
-(rerunfilecheck)             Checksum: FC78690F2A0917D3F76779DF466D2C0B;5762.
+(rerunfilecheck)             Checksum: 8A6B3F89BA3F63FCCDB559F1E596592E;6714.
 Package logreq Info: Writing requests to 'Introduction.run.xml'.
 \openout1 = `Introduction.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18825 strings out of 478659
- 334335 string characters out of 2842128
- 1042657 words of memory out of 3000000
- 36684 multiletter control sequences out of 15000+600000
+ 18846 strings out of 478659
+ 334481 string characters out of 2842128
+ 1041663 words of memory out of 3000000
+ 36694 multiletter control sequences out of 15000+600000
  409895 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,5n,77p,1159b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -845,9 +844,9 @@ ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mathieu.lucas/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/m
 athieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
 .pfb>
-Output written on Introduction.pdf (2 pages, 97019 bytes).
+Output written on Introduction.pdf (3 pages, 106809 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 

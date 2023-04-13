@@ -29,37 +29,112 @@ maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
 
 \tableofcontents
 
-\section{Introduction}
+\newpage
+
+\section{Le risque inondation}
+	\paragraph{Dans le monde}
+	
+River floods are primary natural disasters, steadily accounting for several
+billion dollar losses every year and most of the affected population (Basso et al, 2023 ; 
+
+qui cite : 
+
+The human cost of disasters: an overview of the last 20 years (2000-2019) (UNDRR)
+
+et Bevere et al 2021 (https://www.swissre.com/institute/research/sigma-research/sigma-2022-01.html)
+
+Floods affect nearly a third of the world population, more than any other peril. Given the scale of devastation, flood risk deserves the same attention and risk assessment rigour as primary perils such as hurricanes.
+Martin Bertogg, Head Cat Perils, Cyber & Geo, Swiss Re Institute
 
 
-	\subsection{Estimation du risque inondation}
-	    \subsubsection{En contexte jaugé}
-	    \subsubsection{En contexte non-jaugé}
+44\% des occurrences de catastrophes naturelles entre 2000 et 2019 sont des crues. Les crues sont responsables de 41\% des personnes touchées par des catastrophes naturelles, et de 9\% des décès. 22 \% du cout des événements climatiques proviennent des crues (second après les tempêtes) (UNDRR 2020)
+
+
+David et al 2023
+The powerful forces unleashed by floods have been a persistent danger since the birth of human civilization (O connor et al, 2004, USGS : The World’s Largest Floods, Past and Present: Their Causes and Magnitudes). 
+Floods are consistently among the world’s worst natural disasters, ranking first in the number of events and in the number of people affected, second in economic cost, and fourth in total deaths (UNDRR The Human Cost of Disasters: an Overview of the Last 20 years (2000–2019) (UNODRD, 2020) https://www.undrr.org/media/48008/download ) 
+
+Discuter rapidos de l'augmentation des inondations en contexte de réchauffement climatique
+
+	
+	\paragraph{En France}
+	
+	Les inondations 
+En France, le risque inondation est le premier risque naturel par l’importance des dommages qu’il provoque, le nombre de communes concernées, l’étendue des zones inondables (27 000 km²) et les populations résidant dans ces zones (5,1 millions de personnes). Ce risque concerne 16 000 communes dont 300 agglomérations. Mais, les récentes catastrophes montrent à quel point l’ensemble du territoire français est vulnérable, qu’il s’agisse des zones urbaines ou rurales.
+
+\url{ecologie.gouv.fr/prevention-des-risques-naturels}
+
+
+
+\section{Estimation du risque inondation}
+		\subsection{Concept de période de retour}
+		Cours Benjamin + Thèse brigode 
+		
+	    \subsection{Estimations empiriques}
+	    Cours Ben + biblio anciennes stedinger etc
+	    \subsection{Ajustements statistiques}
+	    cours ben + livres FFA : Hamed 2019; Jain 2019
+	    ajuster une distribution : block maxima ou Over treshold
+	    \subsection{Méthodes régionales}
+	    Thèse pierre
+	    \subsection{Méthodes pluie/débit}
+	    thèse pierre
+	    \paragraph{} SHYREG, GRADEX, SHADEX, etc
 	    
-	\subsection{Hydrométrie}
-		\subsubsection{Méthodes d'hydrométrie classiques}
-		\subsubsection{Quantification des incertitudes hydrométriques}
-		\subsubsection{Hydrométrie en contexte historique}
+	    \paragraph{} Quelle que soit la méthode d'estimation du risque retenue, des chroniques de débit sont nécessaires.
+	    
+\section{Élaboration des chroniques de débit}
+		\subsection{Schéma hydrométrique usuel}
+		charte de l'hydrométrie et refs internationnales (article JOH)
+		\subsection{Quantification des incertitudes}
+		uH, u jau, u RC, détarages, SPD
 		
-	\subsection{Analyse fréquentielle et incertitudes}
-		\subsubsection{Sources d'incertitude}
-		\subsubsection{Propagation}
+		\subsection{Hydrométrie en contexte historique}
+		incertitude sur les débits de pointe histo : pas d'échelle\\
+		difficulté d'avoir un échantillon exhaustif\\
+		reconstitutions par la modélisation\\
+	
 		
-	\subsection{Analyse fréquentielle des crues en contexte historique}
-		\subsubsection{Basée sur des données continues}
-		\subsubsection{Basée sur des données pré-enregistrements continus}
-		\subsubsection{Traitement d'échantillons mixtes}
-		\subsubsection{Quantification de l'apport des données anciennes}
+\section{Analyse fréquentielle des crues}
+		\subsection{Méthodes d'échantillonnage}
+			\subsubsection{Max annuels}
+			\subsubsection{Sup-seuil}
+			
+			ATTENTION AUX DOUBLONS AVEC SECTION 2
+		\subsection{Sources d'incertitude}
+			\subsubsection{Chroniques de débit}
+			\subsubsection{Échantillonnage}
+			\subsubsection{Choix de distribution}
+			\subsubsection{Respect de l'hypothèse de stationnarité}
+			
+Sharma et al, 2018 : Despite evidence of increasing precipitation extremes, corresponding evidence for increases in flooding remains elusive. 
 		
-	\subsection{Estimation du risque inondation en contexte non-stationnaire}
-		\subsubsection{Homogénéité des séries}
-		\subsubsection{Conséquences du changement climatiques sur le risque inondation}
-		\subsubsection{Conséquences de changements des processus hydrologiques}
+\section{Analyse fréquentielle des crues en contexte historique}
+		\subsection{Intérêt de l'utilisation des données historiques}
 		
-	\subsection{Le Rhône à Beaucaire}
-		\subsubsection{Contexte géographique et hydrologique}
-		\subsubsection{Histoire hydrométrique}
-		\subsubsection{Données disponibles}
+		Illustration avec l'exemple de l'Ahr en 2021 : Ludwig et al, 2023 -> Figure 7
+		"Again, this underlines the challenges of extreme value
+statistics and the large uncertainties when estimating return
+periods for the 2021 event. It also indicates the need for
+even longer historical time series and reconstructions as far
+as possible and/or the examination of the completeness of
+the events between 1804 and 1946 as well as before 1804,
+where there is evidence that over 70 floods occurred in the
+Ahr river basin since the year 1500, including the large 1601
+event (Seel, 1983). In addition, 1818 and 1848 were also
+large events with currently no reconstructed streamflows."
+		
+		\subsection{Données continues anciennes}
+		Nombreuses données qui dorment dans les archives : illustrations ? Données dispo en banque hydro VS réalité
+		\subsection{Données pré-enregistrements continus}
+		Liste d'études histo dans le monde, en europe et en France
+		\subsection{Incertitudes autour de l'analyse fréquentielle historique}
+		
+\section{Le risque inondation dans la basse vallée  du Rhône}
+
+\section{Organisation du manuscrit}
+
+
 
 
 

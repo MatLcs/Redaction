@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Chapitre2.blg'
-[156] biber-MSWIN32:340> INFO - === 
-[208] Biber.pm:415> INFO - Reading 'Chapitre2.bcf'
-[372] Biber.pm:952> INFO - Found 16 citekeys in bib section 0
-[390] Biber.pm:4340> INFO - Processing section 0
-[406] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
-[510] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1019] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
-[1149] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1149] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1149] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[1149] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[1171] bbl.pm:654> INFO - Writing 'Chapitre2.bbl' with encoding 'UTF-8'
-[1180] bbl.pm:757> INFO - Output to Chapitre2.bbl
+[141] biber-MSWIN32:340> INFO - === 
+[197] Biber.pm:415> INFO - Reading 'Chapitre2.bcf'
+[367] Biber.pm:952> INFO - Found 29 citekeys in bib section 0
+[386] Biber.pm:4340> INFO - Processing section 0
+[400] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[487] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1021] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[1268] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1268] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1268] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1268] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1311] bbl.pm:654> INFO - Writing 'Chapitre2.bbl' with encoding 'UTF-8'
+[1336] bbl.pm:757> INFO - Output to Chapitre2.bbl

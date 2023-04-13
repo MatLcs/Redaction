@@ -187,6 +187,164 @@
       \verb https://hess.copernicus.org/articles/20/161/2016/
       \endverb
     \endentry
+    \entry{cnr_carte_1876}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=89a793f1e97fc06da65349759eb1b792}{%
+           family={{CNR}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{fullhash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{bibnamehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{authorbibnamehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{authornamehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{authorfullhash}{89a793f1e97fc06da65349759eb1b792}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{58 plans cartographiques en noir et blanc, géoréférencés, dressés par l'Administration des Ponts et Chaussées (Services Spéciaux du Rhône) entre 1857 et 1876, avant la grande phase d'aménagement du fleuve. Dans le cadre d'une convention de mise à disposition des données pour le programme {OSR}.}
+      \field{note}{elvis.ens-lyon.fr/}
+      \field{title}{Carte topographique du cours du Rhône}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{1876}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb ELVIS:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EWQPU8YY\\catalog.html:text/html
+      \endverb
+    \endentry
+    \entry{cnr_cartes_1908}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=89a793f1e97fc06da65349759eb1b792}{%
+           family={{CNR}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{fullhash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{bibnamehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{authorbibnamehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{authornamehash}{89a793f1e97fc06da65349759eb1b792}
+      \strng{authorfullhash}{89a793f1e97fc06da65349759eb1b792}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{66 planches cartographiques, en couleur, géoréférencées, représentant le chenal de navigation avec indications bathymétriques en isobathes du pk 0 à 323 (Lyon à la mer). Dans le cadre d'une convention de mise à disposition des données pour le programme {OSR}.}
+      \field{note}{elvis.ens-lyon.fr/}
+      \field{title}{Cartes bathymétriques du Rhône de Lyon à la mer}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{1908}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\4QT9IKJ8\\483f3c04-2b97-463c-a453-f2f6502d0f87.html:text/html
+      \endverb
+    \endentry
+    \entry{di_baldassare_analysis_2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a23a2fa33e2207fe62d947f6b4b0b97f}{%
+           family={Di\bibnamedelima Baldassare},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=67d3c6cbd897cf6ce89953bceab5f050}{%
+           family={{CASTELLARIN}},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=316ca2cbf8e505d4562d1e6560ebcfdf}{%
+           family={{BRATH}},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2643b4bc532b9abf367eb90d38ba005e}
+      \strng{fullhash}{f05c6848174bf57e01661f57ed84cbec}
+      \strng{bibnamehash}{f05c6848174bf57e01661f57ed84cbec}
+      \strng{authorbibnamehash}{f05c6848174bf57e01661f57ed84cbec}
+      \strng{authornamehash}{2643b4bc532b9abf367eb90d38ba005e}
+      \strng{authorfullhash}{f05c6848174bf57e01661f57ed84cbec}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The effects of human activities on flood propagation, during the period 1878–2005, in a 190-km reach of the middle—lower portion of the River Po (Northern Italy) are investigated. A series of topographical, hydrological and inundation data were collected for the 1878 River Po geometry and the June 1879 flood event, characterised by an inundated area of 432 km2. The aim of the study is two-fold: (1) to show the applicability of flood inundation models in reconstructing historical inundation events, and (2) to assess the effects of human activities during the last century on flood propagation in the middle—lower portion of the River Po. Numerical simulations were performed by coupling a two-dimensional finite element code, ℡{EMAC}-2D, with a one-dimensional finite difference code, {HEC}-{RAS}.}
+      \field{day}{1}
+      \field{issn}{0262-6667}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{month}{12}
+      \field{number}{6}
+      \field{shorttitle}{Analysis of the effects of levee heightening on flood propagation}
+      \field{title}{Analysis of the effects of levee heightening on flood propagation: example of the River Po, Italy}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{54}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1007\bibrangedash 1017}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1623/hysj.54.6.1007
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\WJS9L8GD\\DI BALDASSARRE et al. - 2009 - Analysis of the effects of levee heightening on fl.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1623/hysj.54.6.1007
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1623/hysj.54.6.1007
+      \endverb
+      \keyw{flood risk,éléments finis,finite element,flood inundation models,hydraulic model,levee system,modèle hydraulique,modèles d'inondation,risque d'inondation,système de levées}
+    \endentry
+    \entry{gaydou_schema_2013}{report}{}
+      \name{author}{1}{}{%
+        {{hash=f5bdba861f3c061e0184e3c030391c97}{%
+           family={Gaydou},
+           familyi={G\bibinitperiod},
+           given={Pauline},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {{CNRS}, {UMR} "Environnement Ville Société" et Observatoire des Sédiments du Rhône}%
+      }
+      \strng{namehash}{f5bdba861f3c061e0184e3c030391c97}
+      \strng{fullhash}{f5bdba861f3c061e0184e3c030391c97}
+      \strng{bibnamehash}{f5bdba861f3c061e0184e3c030391c97}
+      \strng{authorbibnamehash}{f5bdba861f3c061e0184e3c030391c97}
+      \strng{authornamehash}{f5bdba861f3c061e0184e3c030391c97}
+      \strng{authorfullhash}{f5bdba861f3c061e0184e3c030391c97}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{langid}{french}
+      \field{month}{5}
+      \field{title}{Schéma directeur de ré-activation de la dynamique fluviale des marges du Rhône}
+      \field{type}{Rapport de synthèse}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{98}
+      \range{pages}{1}
+    \endentry
     \entry{goux_modification_1851}{report}{}
       \name{author}{1}{}{%
         {{hash=1b92f8198609f3221ba00ece27709b8d}{%
@@ -215,6 +373,160 @@
       \field{title}{Modification du Rhône devant Beaucaire, comparaison des sections en 1845 et en 1850.}
       \field{year}{1851}
       \field{dateera}{ce}
+    \endentry
+    \entry{kergadallan_estimation_2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=652127ee0cd8654d1b0547d00ccc441a}{%
+           family={Kergadallan},
+           familyi={K\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Paris-Est}%
+      }
+      \strng{namehash}{652127ee0cd8654d1b0547d00ccc441a}
+      \strng{fullhash}{652127ee0cd8654d1b0547d00ccc441a}
+      \strng{bibnamehash}{652127ee0cd8654d1b0547d00ccc441a}
+      \strng{authorbibnamehash}{652127ee0cd8654d1b0547d00ccc441a}
+      \strng{authornamehash}{652127ee0cd8654d1b0547d00ccc441a}
+      \strng{authorfullhash}{652127ee0cd8654d1b0547d00ccc441a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pour caractériser le risque de submersion marine, il est très important d'avoir une connaissance précise des lois de distribution des niveaux d'eau marins, et plus particulièrement des niveaux d'eau extrêmes. En effet ce sont eux qui sont à l'origine des conséquences les plus dramatiques. Le programme de recherche mené au cours de cette thèse a été financé par le Ministère de l'Écologie, du Développement Durable et de l'Énergie. L'objectif final est de fournir des valeurs de référence de niveau d'eau marin le long des côtes françaises, par le biais d'une méthode d'analyse statistique des extrêmes. Ces niveaux comprennent les trois composantes suivantes : la marée, la surcote météorologique et le wave set-up. Le principe de base utilisé est le suivant : une analyse statistique est effectuée aux ports où la donnée marégraphique est disponible, puis le résultat est interpolé entre les ports. Différentes approches sont testées. Les points suivants sont en particulier étudiés :- la dépendance marée surcote, avec deux différents types de dépendance, une dépendance temporelle et une dépendance en amplitude ;- la méthode d'interpolation, avec la comparaison d'une analyse site-par-site ({ASS}) avec une analyse régionale ({RFA}), et celle d'interpolations 1D et 2D ;- l'estimation du wave set-up, basée sur l'état de l'art des formules paramétriques ;- la dépendance surcote vagues, avec des lois bi-variées de valeurs extrêmes. Le résultat final se présente sous la forme de deux profils de niveau d'eau de période de retour 100 ans : le premier sans l'action des vagues (marée et surcote météorologique) et le deuxième avec l'action des vagues. Les valeurs les plus élevées sont atteintes, pour le littoral de la Mer du Nord, la Manche et l'Atlantique, en Baie du Mont-Saint-Michel (à cause des conditions de marée), et pour le littoral méditerranéen au niveau de Marseille. L'analyse montre que la modélisation de la dépendance temporelle marée surcote n'influe pas significativement sur les estimations des valeurs extrêmes. Par contre la modélisation de la dépendance en amplitude donne des résultats intéressants pour certains ports. En comparaison avec l'{ASS}, la {RFA} tend à lisser les résultats. Les estimations issues de la {RFA} sont supérieures pour le littoral méditerranéen, et équivalentes pour le littoral de Mer du Nord, Manche et Atlantique. La {RFA} serait recommandée pour l'estimation des niveaux de retour en dehors du domaine de validité de l'{ASS}.À cause du petit nombre de sites d'observation, il est préféré une interpolation 1D le long du trait de côte lissé. Le wave set-up est calculé par la formule de Dean et Walton [2009].La dépendance surcote vagues est moyenne le long du littoral méditerranéen. Le facteur de dépendance montre des variations plus importantes le long du littoral de Mer du Nord, Manche et Atlantique, avec un maximum observé en Baie de Seine et des minima en Baie de Mont-Saint-Michel et au niveau de Calais. Des suggestions sont faites pour améliorer les méthodologies développées et appliquées dans le cadre d'un futur travail}
+      \field{day}{1}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{title}{Estimation des niveaux marins extrêmes avec et sans l’action des vagues le long du littoral métropolitain}
+      \field{type}{phdthesis}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7P32MEF8\\Kergadallan - 2015 - Estimation des niveaux marins extrêmes avec et san.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pastel.archives-ouvertes.fr/tel-01277151
+      \endverb
+      \verb{url}
+      \verb https://pastel.archives-ouvertes.fr/tel-01277151
+      \endverb
+    \endentry
+    \entry{kron_flood_2002}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=0ce1510a37af124dde2ba10dbfce2b08}{%
+           family={Kron},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {IAHR}%
+      }
+      \strng{namehash}{0ce1510a37af124dde2ba10dbfce2b08}
+      \strng{fullhash}{0ce1510a37af124dde2ba10dbfce2b08}
+      \strng{bibnamehash}{0ce1510a37af124dde2ba10dbfce2b08}
+      \strng{authorbibnamehash}{0ce1510a37af124dde2ba10dbfce2b08}
+      \strng{authornamehash}{0ce1510a37af124dde2ba10dbfce2b08}
+      \strng{authorfullhash}{0ce1510a37af124dde2ba10dbfce2b08}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{Proceedings of the 2nd Symposium on Flood Defence}
+      \field{title}{Flood Risk = Hazard × Exposure × Vulnerability}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Keynote Lecture\: Flood Risk = Hazard × Exposure × Vulnerability:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\CIC7SDNY\\infor.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.iahr.org/library/infor?pid=16216
+      \endverb
+      \verb{url}
+      \verb https://www.iahr.org/library/infor?pid=16216
+      \endverb
+    \endentry
+    \entry{launay_zabr-osr_2017}{thesis}{}
+      \name{author}{5}{}{%
+        {{hash=5d27eea2e0e14c25bb4e84b5049e1d89}{%
+           family={Launay},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4bce25b5754e3f6c6e2a98e9a53a985f}{%
+           family={Dugué},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5d5e8631c96d2e06b2280df9dac2c4ee}{%
+           family={Coz},
+           familyi={C\bibinitperiod},
+           given={Jérôme\bibnamedelima Le},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1f29bd6441e6ddefe8cda2af46f67096}{%
+           family={Camenen},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9fd34b0b8430c1511d11299406fac25f}{%
+           family={Faure},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {irstea}%
+      }
+      \strng{namehash}{1235d892e7c8984dc795804e1a2d2847}
+      \strng{fullhash}{8a73b4bfd52fd4829afc3be532fa6356}
+      \strng{bibnamehash}{8a73b4bfd52fd4829afc3be532fa6356}
+      \strng{authorbibnamehash}{8a73b4bfd52fd4829afc3be532fa6356}
+      \strng{authornamehash}{1235d892e7c8984dc795804e1a2d2847}
+      \strng{authorfullhash}{8a73b4bfd52fd4829afc3be532fa6356}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Ce document décrit les améliorations effectuées sur le modèle hydro-sédimentaire 1D du Rhône développé dans le cadre de l'Observatoire des Sédiments du Rhône entre 2015 et 2017 ({OSR} 4). Les travaux présentés dans ce document viennent à la suite de ceux présentés dans les livrables « Modélisation hydro-sédimentaire 1-D du Rhône de Lyon à la mer Méditerranée - Bilan 2014 » et « Rapport sur le développement, le calage et l'amélioration du modèle hydro-sédimentaire 1D du Rhône du Lac Léman à la Mer Méditerranée - 2016 ». Ils complètent également le livrable « Suivi scientifique des opérations de chasses sur le Haut-Rhône de juin 2012 » ({OSR} 3). Les travaux effectués en 2015-2017 se sont concentrés sur la reprise du modèle du Haut-Rhône (amont de Lyon) ainsi que sur la connexion du modèle du Haut-Rhône avec celui à l'aval de Lyon. La modélisation de plusieurs événements hydrologiques a permis d'étudier l'impact des paramètres hydro-sédimentaires du modèle entre Lyon et la mer Méditerranée}
+      \field{langid}{french}
+      \field{note}{Pages: 28}
+      \field{shorttitle}{{ZABR}-{OSR} - Livrable action V.2}
+      \field{title}{{ZABR}-{OSR} - Livrable action V.2 : Modélisation hydrosédimentaire 1D du Rhône}
+      \field{type}{report}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\CFUZJ8T8\\Launay et al. - 2017 - ZABR-OSR - Livrable action V.2 Modélisation hydr.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.inrae.fr/hal-02607085
+      \endverb
+      \verb{url}
+      \verb https://hal.inrae.fr/hal-02607085
+      \endverb
     \endentry
     \entry{leon_vie_1953}{article}{}
       \name{author}{1}{}{%
@@ -279,6 +591,7 @@
       \strng{authorbibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
       \strng{authornamehash}{31d26db20a490f3b5819dc5fc00748b2}
       \strng{authorfullhash}{31d26db20a490f3b5819dc5fc00748b2}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -296,6 +609,44 @@
       \endverb
       \verb{url}
       \verb http://ccbr.lyon.cemagref.fr/
+      \endverb
+    \endentry
+    \entry{medd_banque_2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=31d26db20a490f3b5819dc5fc00748b2}{%
+           family={{MEDD}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{fullhash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{bibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authorbibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authornamehash}{31d26db20a490f3b5819dc5fc00748b2}
+      \strng{authorfullhash}{31d26db20a490f3b5819dc5fc00748b2}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ministère de l'écologie du développement durable et de l'énergie}
+      \field{langid}{french}
+      \field{title}{Banque Hydro (http://www.hydro.eaufrance.fr/)}
+      \field{urlday}{5}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Ministère de l'écologie du développement durable et de l'énergie - 2021 - Banque Hydro (httpwww.hydro.eaufrance.fr).pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\DXJNNL3Z\\Ministère de l'écologie du développement durable et de l'énergie - 2021 - Banque Hydro (httpwww.hydro.eaufrance.fr).pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\NCTXLMGJ\\V7200010&procedure=synthese.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.hydro.eaufrance.fr/stations/V7200010&procedure=synthese
+      \endverb
+      \verb{url}
+      \verb http://www.hydro.eaufrance.fr/stations/V7200010&procedure=synthese
       \endverb
     \endentry
     \entry{mejean_etude_2017}{report}{}
@@ -333,6 +684,120 @@
       \verb Adrien - ETUDE HISTORIQUE DES AMENAGEMENTS REALISES POUR LU.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7939D59I\\Adrien - ETUDE HISTORIQUE DES AMENAGEMENTS REALISES POUR LU.pdf:application/pdf;Juston_2013- Rating curve uncertainty and change detection in discharge time series case study.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\AZ34HG3D\\Juston_2013- Rating curve uncertainty and change detection in discharge time series case study.pdf:application/pdf
       \endverb
     \endentry
+    \entry{mitkova_analysis_2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b58b0f4fe7421d993ace0bb3319a6aab}{%
+           family={Mitkova},
+           familyi={M\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4e70d5450579cf3210c530d99f6f2dd5}{%
+           family={Pekarova},
+           familyi={P\bibinitperiod},
+           given={Pavla},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7a7f4a2a5cc77ac031c07872c11c6574}{%
+           family={Miklanek},
+           familyi={M\bibinitperiod},
+           given={Pavol},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fd3e8dfd35e8223f4d2981d739de51b2}{%
+           family={Pekar},
+           familyi={P\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c83904d93005262402505ff893b1323}
+      \strng{fullhash}{4b7f7b59597bbca9dc360c469caa6283}
+      \strng{bibnamehash}{4b7f7b59597bbca9dc360c469caa6283}
+      \strng{authorbibnamehash}{4b7f7b59597bbca9dc360c469caa6283}
+      \strng{authornamehash}{6c83904d93005262402505ff893b1323}
+      \strng{authorfullhash}{4b7f7b59597bbca9dc360c469caa6283}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the first part of this study, a flood wave transformation analysis for the largest historical floods in the Danube River reach Kienstock–Bratislava was carried out. For the simulation of the historical (1899 and 1954) flood propagation, the nonlinear river model {NLN}-Danube (calibrated on the recent river reach conditions) was used. It was shown that the simulated peak discharges were not changed significantly when compared to their historical counterparts. However, the simulated hydrographs exhibit a significant acceleration of the flood wave movement at discharges of between 5000 and 9000 m3 s-1. In the second part, the travel time–water level relationships between Kienstock and Bratislava were analysed on a dataset of the flood peak water levels for the period 1991–2002. An empirical regression routing scheme for the Danube short-term water level forecast at Bratislava station was derived. This is based on the measured water level at Kienstock gauging station.}
+      \field{issn}{0262-6667, 2150-3435}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{Hydrological Sciences Journal}
+      \field{title}{Analysis of flood propagation changes in the Kienstock—Bratislava reach of the Danube River/Analyse des changements de propagation des crues dans le tronçon Kienstock—Bratislava du Fleuve Danube}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{50}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1623/hysj.2005.50.4.655
+      \endverb
+      \verb{file}
+      \verb Mitkova et al. - 2005 - Analysis of flood propagation changes in the Kiens.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\U5MUCRST\\Mitkova et al. - 2005 - Analysis of flood propagation changes in the Kiens.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1623/hysj.2005.50.4.655
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1623/hysj.2005.50.4.655
+      \endverb
+    \endentry
+    \entry{parde_regime_1919}{article}{}
+      \name{author}{1}{}{%
+        {{hash=76a5e8637f352bf102b88052c30cc7fa}{%
+           family={Pardé},
+           familyi={P\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{fullhash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{bibnamehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{authorbibnamehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{authornamehash}{76a5e8637f352bf102b88052c30cc7fa}
+      \strng{authorfullhash}{76a5e8637f352bf102b88052c30cc7fa}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0249-6178}
+      \field{journaltitle}{Recueil des travaux de l'institut de géographie alpine}
+      \field{langid}{french}
+      \field{number}{2}
+      \field{shortjournal}{rga}
+      \field{title}{Le régime du Rhône à Beaucaire}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{7}
+      \field{year}{1919}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{309\bibrangedash 368}
+      \range{pages}{60}
+      \verb{doi}
+      \verb 10.3406/rga.1919.4742
+      \endverb
+      \verb{file}
+      \verb Pardé - 1919 - Le régime du Rhône à Beaucaire.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\STRGM9JP\\Pardé - 1919 - Le régime du Rhône à Beaucaire.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/rga_0249-6178_1919_num_7_2_4742
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/rga_0249-6178_1919_num_7_2_4742
+      \endverb
+    \endentry
     \entry{parde_regime_1925}{article}{}
       \name{author}{1}{}{%
         {{hash=76a5e8637f352bf102b88052c30cc7fa}{%
@@ -347,6 +812,7 @@
       \strng{authorbibnamehash}{76a5e8637f352bf102b88052c30cc7fa}
       \strng{authornamehash}{76a5e8637f352bf102b88052c30cc7fa}
       \strng{authorfullhash}{76a5e8637f352bf102b88052c30cc7fa}
+      \field{extraname}{2}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -409,6 +875,7 @@
       \strng{authorbibnamehash}{80a6b483b22d77cbd7d380f108a6d5eb}
       \strng{authornamehash}{abcb4918d7428549857a574a3128f78c}
       \strng{authorfullhash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \field{extraname}{1}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -533,6 +1000,68 @@
       \verb https://histrhone.cerege.fr/squelettes/pdf/Echelles_BasRhone.pdf
       \endverb
     \endentry
+    \entry{pichard_les_2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=69363cfac03b117afe43737b9cdb617c}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c6cc615c37c06b69ab27df88f00a1951}{%
+           family={Provansal},
+           familyi={P\bibinitperiod},
+           given={Mireille},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5724b5e99db0ed19f2a26e1dd5c07723}{%
+           family={Sabatier},
+           familyi={S\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0344907c6d14d3c6008f0009ba13f4db}
+      \strng{fullhash}{032b3dcb937b091640b92d08ecfc0718}
+      \strng{bibnamehash}{032b3dcb937b091640b92d08ecfc0718}
+      \strng{authorbibnamehash}{032b3dcb937b091640b92d08ecfc0718}
+      \strng{authornamehash}{0344907c6d14d3c6008f0009ba13f4db}
+      \strng{authorfullhash}{032b3dcb937b091640b92d08ecfc0718}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Les transformations géomorphologiques des embouchures du Rhône au cours du {PAG} sont analysées à partir de l’étude de cartes anciennes, du {XVIe} (1591) au {XIXe} siècle, sur lesquelles est exercée une nécessaire critique historique. On démontre leur relation étroite avec les épisodes hydro-climatiques rhodaniens, en particulier les périodes de fortes crues à la fin du {XVIe} et au début du {XVIIIe} siècle (notamment les périodes critiques de fréquence-gravité décrites par la base de données http://histrhone.cerege.fr et par Pichard (1995). L’avancée du trait de côte, calculée pour chaque période, met en évidence la constante force alluvionnaire rhodanienne aux embouchures, les courtes périodes de « pause » hydrologique provoquant des phénomènes massifs d’engorgement sédimentaire.}
+      \field{day}{10}
+      \field{issn}{0025-8296}
+      \field{journaltitle}{Méditerranée. Revue géographique des pays méditerranéens / Journal of Mediterranean geography}
+      \field{langid}{french}
+      \field{month}{12}
+      \field{note}{{ISBN}: 9782853999663 Number: 122 Publisher: Presses Universitaires de Provence}
+      \field{number}{122}
+      \field{title}{Les embouchures du Rhône}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{43\bibrangedash 59}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.4000/mediterranee.7128
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\74A39U3S\\Pichard et al. - 2014 - Les embouchures du Rhône.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/mediterranee/7128
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/mediterranee/7128
+      \endverb
+      \keyw{alluvions,avulsions,cartes anciennes,crues,Delta du Rhône,petit âge de glace,progradation littorale}
+    \endentry
     \entry{pichard_sept_2014}{article}{}
       \name{author}{2}{}{%
         {{hash=69363cfac03b117afe43737b9cdb617c}{%
@@ -570,6 +1099,174 @@
       \endverb
       \verb{file}
       \verb Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EE7VTD4J\\Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{piegay_observatoire_2022}{report}{}
+      \name{author}{29}{}{%
+        {{hash=dc92719dd945643fbfa804acab7fc976}{%
+           family={Piégay},
+           familyi={P\bibinitperiod},
+           given={Hervé},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f24895598f3293def02a62dfc2d182fa}{%
+           family={Radakovitch},
+           familyi={R\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a5162f9b4262960d9955a6b3533260a9}{%
+           family={Arnaud},
+           familyi={A\bibinitperiod},
+           given={Fanny},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6c23c573255f6ea70f8c08b394c4205c}{%
+           family={Belletti},
+           familyi={B\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1f29bd6441e6ddefe8cda2af46f67096}{%
+           family={Camenen},
+           familyi={C\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=804b58617c9977a5103bebf8bf0d4321}{%
+           family={Cassel},
+           familyi={C\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=57e8189bf082530236e959c7927bccb8}{%
+           family={Coquery},
+           familyi={C\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a475f6a9089931753a635c0cd34b5694}{%
+           family={Dabrin},
+           familyi={D\bibinitperiod},
+           given={Aymeric},
+           giveni={A\bibinitperiod}}}%
+        {{hash=27d1042c03cb248280eea45571569a95}{%
+           family={Depret},
+           familyi={D\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e377c515acc82c09f21566b8231d93c5}{%
+           family={Fressard},
+           familyi={F\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=197b418b2b31ca7e4867abb969647a18}{%
+           family={Ghaffarian},
+           familyi={G\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cb73f2aacd0ce80d1573e71c94bc9eed}{%
+           family={Gruat},
+           familyi={G\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=18aebc803a1b300288eab2ee2d7508b7}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=081c44d48de07decc0eb61e6b652e349}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f64a5488c97aeaff77af57a0f1e19ccf}{%
+           family={Delile},
+           familyi={D\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5d5e8631c96d2e06b2280df9dac2c4ee}{%
+           family={Coz},
+           familyi={C\bibinitperiod},
+           given={Jérôme\bibnamedelima Le},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=90873b62344f91e14568e2e6f5663e52}{%
+           family={Lepage},
+           familyi={L\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=98aab10f9fadc9c8cd14dde9e0832b56}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=74731618d68bb6d8894d74fffd77449e}{%
+           family={Mourier},
+           familyi={M\bibinitperiod},
+           given={Brice},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c0dbfd81a29b85518a0d4805508e5801}{%
+           family={Pairaud},
+           familyi={P\bibinitperiod},
+           given={Ivane},
+           giveni={I\bibinitperiod}}}%
+        {{hash=efcd6eee6c39a6b9f793d9e96ec173fc}{%
+           family={Seignemartin},
+           familyi={S\bibinitperiod},
+           given={Gabrielle},
+           giveni={G\bibinitperiod}}}%
+        {{hash=54ce56700a1b1a0dae79171758e9f305}{%
+           family={Tal},
+           familyi={T\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a626b799570ceb4d09a89107c663cb71}{%
+           family={Serlet},
+           familyi={S\bibinitperiod},
+           given={Alyssa},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dae7c55fc8ae146d4299821648d64ef6}{%
+           family={Tena},
+           familyi={T\bibinitperiod},
+           given={Alvaro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4cd9b09aa141804af9bd88f13f9bc9be}{%
+           family={Vazquez-tarrio},
+           familyi={V\bibinithyphendelim t\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7d0a4cf0eac531250e1526be00bd1449}{%
+           family={Winiarski},
+           familyi={W\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+        {{hash=61a85973d336f0081091f33ba546ec7e}{%
+           family={Morandi},
+           familyi={M\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3b32303f3c0f6bf6a8aecc1391f7e499}{%
+           family={Chateauminois},
+           familyi={C\bibinitperiod},
+           given={Agathe},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6f2907310c6b4925334291530805b9cb}{%
+           family={Clémens},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{924dd15bedae03f01ff13973cdbdab0c}
+      \strng{fullhash}{6bb6035f9b93492c362ecb217dc90712}
+      \strng{bibnamehash}{6bb6035f9b93492c362ecb217dc90712}
+      \strng{authorbibnamehash}{6bb6035f9b93492c362ecb217dc90712}
+      \strng{authornamehash}{924dd15bedae03f01ff13973cdbdab0c}
+      \strng{authorfullhash}{6bb6035f9b93492c362ecb217dc90712}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{L'Observatoire des Sédiments du Rhône. 12 années de recherche pour la connaissance et la gestion hydro-sédimentaire du fleuve. Bilans et perspectives scientifiques}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Piégay et al. - L'Observatoire des Sédiments du Rhône. 12 années d.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\2YHK53FI\\Piégay et al. - L'Observatoire des Sédiments du Rhône. 12 années d.pdf:application/pdf
       \endverb
     \endentry
     \entry{raccasi_mutations_2008}{thesis}{}
@@ -610,6 +1307,65 @@
       \verb{url}
       \verb tel-00321723
       \endverb
+    \endentry
+    \entry{rigaudiere_etude_2000}{report}{}
+      \name{author}{7}{}{%
+        {{hash=1e0ada82f5f5863cda7a4eac83ba9ac2}{%
+           family={Rigaudière},
+           familyi={R\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fb61b9b0a32f3e7748c6edb4c0acdbd1}{%
+           family={Dekergariou},
+           familyi={D\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bd613a0f451e1a5ba9948f9feba2e3ca}{%
+           family={Laroche},
+           familyi={L\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1065c6c0a05be6bba2db2802ed32493d}{%
+           family={Caze},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e73f31050ef955dcb49ba73c428f6754}{%
+           family={Brun},
+           familyi={B\bibinitperiod},
+           given={J.F.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=95311f0cd295a04ed1cb10f505d08a1d}{%
+           family={Laborde},
+           familyi={L\bibinitperiod},
+           given={J.P.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0645dda055e6dc191a640cefa7f7e347}{%
+           family={Berolo},
+           familyi={B\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {{SAFEGE} Cetiis}%
+        {Université de Nice}%
+      }
+      \strng{namehash}{d30ad493299504922005f3c9640738c2}
+      \strng{fullhash}{ad833fd3c3de05b38418048d97b01cac}
+      \strng{bibnamehash}{ad833fd3c3de05b38418048d97b01cac}
+      \strng{authorbibnamehash}{ad833fd3c3de05b38418048d97b01cac}
+      \strng{authornamehash}{d30ad493299504922005f3c9640738c2}
+      \strng{authorfullhash}{ad833fd3c3de05b38418048d97b01cac}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Etude globale des crues du Rhône}
+      \field{type}{Tech. rep.}
+      \field{year}{2000}
+      \field{dateera}{ce}
     \endentry
     \entry{surell_memoire_1847}{book}{}
       \name{author}{1}{}{%

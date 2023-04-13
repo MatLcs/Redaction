@@ -2101,15 +2101,10 @@
       \strng{authorfullhash}{31d26db20a490f3b5819dc5fc00748b2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{url}
+      \field{labeldatesource}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Repères de crues, plateforme collaborative de référence pour le recensement des repères de crues en France.}
-      \field{urlday}{25}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
       \verb{file}
       \verb Recherche par repère | Repères de crues:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\LQHKNGLH\\www.reperesdecrues.developpement-durable.gouv.fr.html:text/html
       \endverb

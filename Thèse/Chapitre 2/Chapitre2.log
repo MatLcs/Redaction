@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  4 APR 2023 18:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  12 APR 2023 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -255,6 +255,94 @@ Package: nextpage 2009/09/03 v1.1a additional page commands
 \epigraphwidth=\skip60
 \epigraphrule=\skip61
 )
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape
+.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotati
+ng.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count281
+\rotFPtop=\skip62
+\rotFPbot=\skip63
+\rot@float@box=\box54
+\rot@mess@toks=\toks27
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable
+.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count282
+\LTcapwidth=\dimen173
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count283
+\LT@rows=\count284
+\c@LT@tables=\count285
+\c@LT@chunks=\count286
+\LT@p@ftn=\toks28
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\bookta
+bs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen174
+\lightrulewidth=\dimen175
+\cmidrulewidth=\dimen176
+\belowrulesep=\dimen177
+\belowbottomsep=\dimen178
+\aboverulesep=\dimen179
+\abovetopsep=\dimen180
+\cmidrulesep=\dimen181
+\cmidrulekern=\dimen182
+\defaultaddspace=\dimen183
+\@cmidla=\count287
+\@cmidlb=\count288
+\@aboverulesep=\dimen184
+\@belowrulesep=\dimen185
+\@thisruleclass=\count289
+\@lastruleclass=\count290
+\@thisrulewidth=\dimen186
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/ltablex\ltablex
+.sty
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makece
+ll.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen187
+\c@nlinenum=\count291
+\TeXr@lab=\toks29
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/threeparttablex
+\threeparttablex.sty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\
+threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box60
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ
+.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trim
+spaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\TPTL@width=\skip68
+)
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
 ef.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
@@ -304,9 +392,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen173
-\Hy@linkcounter=\count281
-\Hy@pagecounter=\count282
+\@linkdim=\dimen188
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
 .def
@@ -327,7 +415,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 cmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count283
+\Hy@SavedSpaceFactor=\count294
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
 def
@@ -342,14 +430,14 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count284
+\c@Hy@tempcnt=\count295
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen174
+\XeTeXLinkMargin=\dimen189
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset
 .sty
@@ -360,9 +448,9 @@ gintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count285
-\Field@Width=\dimen175
-\Fld@charsize=\dimen176
+\Fld@menulength=\count296
+\Field@Width=\dimen190
+\Fld@charsize=\dimen191
 Package hyperref Info: Hyper figures OFF on input line 6076.
 Package hyperref Info: Link nesting OFF on input line 6081.
 Package hyperref Info: Hyper index ON on input line 6084.
@@ -378,9 +466,9 @@ tx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count286
-\c@Item=\count287
-\c@Hfootnote=\count288
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -394,8 +482,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count289
-\c@bookmark@seq@number=\count290
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
 rerunfilecheck.sty
@@ -408,9 +496,9 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip62
+\Hy@SectionHShift=\skip69
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
 ex.sty
@@ -419,76 +507,73 @@ Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolb
 ox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count291
+\etb@tempcnta=\count302
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.s
 ty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count292
+\lrq@indent=\count303
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.d
 ef
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count293
-\c@listtotal=\count294
-\c@listcount=\count295
-\c@liststart=\count296
-\c@liststop=\count297
-\c@citecount=\count298
-\c@citetotal=\count299
-\c@multicitecount=\count300
-\c@multicitetotal=\count301
-\c@instcount=\count302
-\c@maxnames=\count303
-\c@minnames=\count304
-\c@maxitems=\count305
-\c@minitems=\count306
-\c@citecounter=\count307
-\c@maxcitecounter=\count308
-\c@savedcitecounter=\count309
-\c@uniquelist=\count310
-\c@uniquename=\count311
-\c@refsection=\count312
-\c@refsegment=\count313
-\c@maxextratitle=\count314
-\c@maxextratitleyear=\count315
-\c@maxextraname=\count316
-\c@maxextradate=\count317
-\c@maxextraalpha=\count318
-\c@abbrvpenalty=\count319
-\c@highnamepenalty=\count320
-\c@lownamepenalty=\count321
-\c@maxparens=\count322
-\c@parenlevel=\count323
-\blx@tempcnta=\count324
-\blx@tempcntb=\count325
-\blx@tempcntc=\count326
-\blx@maxsection=\count327
-\blx@maxsegment@0=\count328
-\blx@notetype=\count329
-\blx@parenlevel@text=\count330
-\blx@parenlevel@foot=\count331
-\blx@sectionciteorder@0=\count332
-\blx@entrysetcounter=\count333
-\blx@biblioinstance=\count334
-\labelnumberwidth=\skip63
-\labelalphawidth=\skip64
-\biblabelsep=\skip65
-\bibitemsep=\skip66
-\bibnamesep=\skip67
-\bibinitsep=\skip68
-\bibparsep=\skip69
-\bibhang=\skip70
+\c@tabx@nest=\count304
+\c@listtotal=\count305
+\c@listcount=\count306
+\c@liststart=\count307
+\c@liststop=\count308
+\c@citecount=\count309
+\c@citetotal=\count310
+\c@multicitecount=\count311
+\c@multicitetotal=\count312
+\c@instcount=\count313
+\c@maxnames=\count314
+\c@minnames=\count315
+\c@maxitems=\count316
+\c@minitems=\count317
+\c@citecounter=\count318
+\c@maxcitecounter=\count319
+\c@savedcitecounter=\count320
+\c@uniquelist=\count321
+\c@uniquename=\count322
+\c@refsection=\count323
+\c@refsegment=\count324
+\c@maxextratitle=\count325
+\c@maxextratitleyear=\count326
+\c@maxextraname=\count327
+\c@maxextradate=\count328
+\c@maxextraalpha=\count329
+\c@abbrvpenalty=\count330
+\c@highnamepenalty=\count331
+\c@lownamepenalty=\count332
+\c@maxparens=\count333
+\c@parenlevel=\count334
+\blx@tempcnta=\count335
+\blx@tempcntb=\count336
+\blx@tempcntc=\count337
+\blx@maxsection=\count338
+\blx@maxsegment@0=\count339
+\blx@notetype=\count340
+\blx@parenlevel@text=\count341
+\blx@parenlevel@foot=\count342
+\blx@sectionciteorder@0=\count343
+\blx@entrysetcounter=\count344
+\blx@biblioinstance=\count345
+\labelnumberwidth=\skip70
+\labelalphawidth=\skip71
+\biblabelsep=\skip72
+\bibitemsep=\skip73
+\bibnamesep=\skip74
+\bibinitsep=\skip75
+\bibparsep=\skip76
+\bibhang=\skip77
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count335
-\c@maxcomprange=\count336
-\c@mincompwidth=\count337
+\c@mincomprange=\count346
+\c@maxcomprange=\count347
+\c@mincompwidth=\count348
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -500,88 +585,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count338
-\c@savedafterword=\count339
-\c@annotator=\count340
-\c@savedannotator=\count341
-\c@author=\count342
-\c@savedauthor=\count343
-\c@bookauthor=\count344
-\c@savedbookauthor=\count345
-\c@commentator=\count346
-\c@savedcommentator=\count347
-\c@editor=\count348
-\c@savededitor=\count349
-\c@editora=\count350
-\c@savededitora=\count351
-\c@editorb=\count352
-\c@savededitorb=\count353
-\c@editorc=\count354
-\c@savededitorc=\count355
-\c@foreword=\count356
-\c@savedforeword=\count357
-\c@holder=\count358
-\c@savedholder=\count359
-\c@introduction=\count360
-\c@savedintroduction=\count361
-\c@namea=\count362
-\c@savednamea=\count363
-\c@nameb=\count364
-\c@savednameb=\count365
-\c@namec=\count366
-\c@savednamec=\count367
-\c@translator=\count368
-\c@savedtranslator=\count369
-\c@shortauthor=\count370
-\c@savedshortauthor=\count371
-\c@shorteditor=\count372
-\c@savedshorteditor=\count373
-\c@labelname=\count374
-\c@savedlabelname=\count375
-\c@institution=\count376
-\c@savedinstitution=\count377
-\c@lista=\count378
-\c@savedlista=\count379
-\c@listb=\count380
-\c@savedlistb=\count381
-\c@listc=\count382
-\c@savedlistc=\count383
-\c@listd=\count384
-\c@savedlistd=\count385
-\c@liste=\count386
-\c@savedliste=\count387
-\c@listf=\count388
-\c@savedlistf=\count389
-\c@location=\count390
-\c@savedlocation=\count391
-\c@organization=\count392
-\c@savedorganization=\count393
-\c@origlocation=\count394
-\c@savedoriglocation=\count395
-\c@origpublisher=\count396
-\c@savedorigpublisher=\count397
-\c@publisher=\count398
-\c@savedpublisher=\count399
-\c@language=\count400
-\c@savedlanguage=\count401
-\c@origlanguage=\count402
-\c@savedoriglanguage=\count403
-\c@pageref=\count404
-\c@savedpageref=\count405
-\shorthandwidth=\skip71
-\shortjournalwidth=\skip72
-\shortserieswidth=\skip73
-\shorttitlewidth=\skip74
-\shortauthorwidth=\skip75
-\shorteditorwidth=\skip76
-\locallabelnumberwidth=\skip77
-\locallabelalphawidth=\skip78
-\localshorthandwidth=\skip79
-\localshortjournalwidth=\skip80
-\localshortserieswidth=\skip81
-\localshorttitlewidth=\skip82
-\localshortauthorwidth=\skip83
-\localshorteditorwidth=\skip84
+\c@afterword=\count349
+\c@savedafterword=\count350
+\c@annotator=\count351
+\c@savedannotator=\count352
+\c@author=\count353
+\c@savedauthor=\count354
+\c@bookauthor=\count355
+\c@savedbookauthor=\count356
+\c@commentator=\count357
+\c@savedcommentator=\count358
+\c@editor=\count359
+\c@savededitor=\count360
+\c@editora=\count361
+\c@savededitora=\count362
+\c@editorb=\count363
+\c@savededitorb=\count364
+\c@editorc=\count365
+\c@savededitorc=\count366
+\c@foreword=\count367
+\c@savedforeword=\count368
+\c@holder=\count369
+\c@savedholder=\count370
+\c@introduction=\count371
+\c@savedintroduction=\count372
+\c@namea=\count373
+\c@savednamea=\count374
+\c@nameb=\count375
+\c@savednameb=\count376
+\c@namec=\count377
+\c@savednamec=\count378
+\c@translator=\count379
+\c@savedtranslator=\count380
+\c@shortauthor=\count381
+\c@savedshortauthor=\count382
+\c@shorteditor=\count383
+\c@savedshorteditor=\count384
+\c@labelname=\count385
+\c@savedlabelname=\count386
+\c@institution=\count387
+\c@savedinstitution=\count388
+\c@lista=\count389
+\c@savedlista=\count390
+\c@listb=\count391
+\c@savedlistb=\count392
+\c@listc=\count393
+\c@savedlistc=\count394
+\c@listd=\count395
+\c@savedlistd=\count396
+\c@liste=\count397
+\c@savedliste=\count398
+\c@listf=\count399
+\c@savedlistf=\count400
+\c@location=\count401
+\c@savedlocation=\count402
+\c@organization=\count403
+\c@savedorganization=\count404
+\c@origlocation=\count405
+\c@savedoriglocation=\count406
+\c@origpublisher=\count407
+\c@savedorigpublisher=\count408
+\c@publisher=\count409
+\c@savedpublisher=\count410
+\c@language=\count411
+\c@savedlanguage=\count412
+\c@origlanguage=\count413
+\c@savedoriglanguage=\count414
+\c@pageref=\count415
+\c@savedpageref=\count416
+\shorthandwidth=\skip78
+\shortjournalwidth=\skip79
+\shortserieswidth=\skip80
+\shorttitlewidth=\skip81
+\shortauthorwidth=\skip82
+\shorteditorwidth=\skip83
+\locallabelnumberwidth=\skip84
+\locallabelalphawidth=\skip85
+\localshorthandwidth=\skip86
+\localshortjournalwidth=\skip87
+\localshortserieswidth=\skip88
+\localshorttitlewidth=\skip89
+\localshortauthorwidth=\skip90
+\localshorteditorwidth=\skip91
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -595,19 +680,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
 ex.def
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count406
-\c@textcitetotal=\count407
-\c@textcitemaxnames=\count408
-\c@biburlbigbreakpenalty=\count409
-\c@biburlbreakpenalty=\count410
-\c@biburlnumpenalty=\count411
-\c@biburlucpenalty=\count412
-\c@biburllcpenalty=\count413
+\c@textcitecount=\count417
+\c@textcitetotal=\count418
+\c@textcitemaxnames=\count419
+\c@biburlbigbreakpenalty=\count420
+\c@biburlbreakpenalty=\count421
+\c@biburlnumpenalty=\count422
+\c@biburlucpenalty=\count423
+\c@biburllcpenalty=\count424
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count414
+\c@smartand=\count425
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -630,8 +715,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\st
 andard.bbx
 File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count415
-\c@bbx:relatedtotal=\count416
+\c@bbx:relatedcount=\count426
+\c@bbx:relatedtotal=\count427
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -654,35 +739,45 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 ex.cfg
 File: biblatex.cfg 
 ))
-\@quotelevel=\count417
-\@quotereset=\count418
+\@quotelevel=\count428
+\@quotereset=\count429
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
 kend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count419
-\l__pdf_internal_box=\box54
-) (Chapitre2.aux)
+\l__color_backend_stack_int=\count430
+\l__pdf_internal_box=\box61
+) (Chapitre2.aux
+
+LaTeX Warning: Label `tab:Propag' multiply defined.
+
+
+LaTeX Warning: Label `tab:Propag' multiply defined.
+
+
+LaTeX Warning: Label `tab:Propag' multiply defined.
+
+)
 \openout1 = `Chapitre2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -722,17 +817,17 @@ LaTeX Font Info:    ... okay on input line 30.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
 p-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count420
-\scratchdimen=\dimen177
-\scratchbox=\box55
-\nofMPsegments=\count421
-\nofMParguments=\count422
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count423
-\MPscratchDim=\dimen178
-\MPnumerator=\count424
-\makeMPintoPDFobject=\count425
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count431
+\scratchdimen=\dimen192
+\scratchbox=\box62
+\nofMPsegments=\count432
+\nofMParguments=\count433
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count434
+\MPscratchDim=\dimen193
+\MPnumerator=\count435
+\makeMPintoPDFobject=\count436
+\everyMPtoPDFconversion=\toks31
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
 stopdf-base.sty
@@ -755,6 +850,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcapti
+on.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.
@@ -767,7 +870,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 30.
+Package hyperref Info: Link coloring ON on input line 37.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
 f.sty
@@ -781,11 +884,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count426
+\c@section@level=\count437
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
  (Chapitre2.out) (Chapitre2.out)
 \@outlinefile=\write4
 \openout4 = `Chapitre2.out'.
@@ -824,16 +927,16 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Chapitre2.bbl' found.
  (Chapitre2.bbl)
-Package biblatex Info: Reference section=0 on input line 30.
-Package biblatex Info: Reference segment=0 on input line 30.
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
  (Chapitre2.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d
@@ -844,123 +947,147 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write5
 \openout5 = `Chapitre2.toc'.
 
-<Figures/foire4.jpg, id=167, 674.52pt x 446.3877pt>
+ [2]
+<Figures/foire4.jpg, id=173, 674.52pt x 446.3877pt>
 File: Figures/foire4.jpg Graphic file (type jpg)
 <use Figures/foire4.jpg>
-Package pdftex.def Info: Figures/foire4.jpg  used on input line 44.
+Package pdftex.def Info: Figures/foire4.jpg  used on input line 59.
 (pdftex.def)             Requested size: 245.2399pt x 162.29329pt.
-<Figures/foire5.jpg, id=168, 1284.8pt x 824.07875pt>
+<Figures/foire5.jpg, id=174, 1284.8pt x 824.07875pt>
 File: Figures/foire5.jpg Graphic file (type jpg)
 <use Figures/foire5.jpg>
-Package pdftex.def Info: Figures/foire5.jpg  used on input line 50.
+Package pdftex.def Info: Figures/foire5.jpg  used on input line 65.
 (pdftex.def)             Requested size: 245.2399pt x 157.29332pt.
- [2 <./Figures/foire4.jpg> <./Figures/foire5.jpg>]
-<Figures/Rhone_bassin_versant.png, id=188, 602.25pt x 844.5954pt>
+ [3 <./Figures/foire4.jpg> <./Figures/foire5.jpg>]
+<Figures/Rhone_bassin_versant.png, id=197, 602.25pt x 844.5954pt>
 File: Figures/Rhone_bassin_versant.png Graphic file (type png)
 <use Figures/Rhone_bassin_versant.png>
-Package pdftex.def Info: Figures/Rhone_bassin_versant.png  used on input line 7
-0.
+Package pdftex.def Info: Figures/Rhone_bassin_versant.png  used on input line 8
+1.
 (pdftex.def)             Requested size: 250.24199pt x 350.93874pt.
-<Figures/RegimeModif.png, id=190, 777.98656pt x 550.6974pt>
-File: Figures/RegimeModif.png Graphic file (type png)
-<use Figures/RegimeModif.png>
-Package pdftex.def Info: Figures/RegimeModif.png  used on input line 77.
-(pdftex.def)             Requested size: 350.33727pt x 247.988pt.
+<Figures/Regime.pdf, id=199, 867.24pt x 578.16pt>
+File: Figures/Regime.pdf Graphic file (type pdf)
+<use Figures/Regime.pdf>
+Package pdftex.def Info: Figures/Regime.pdf  used on input line 88.
+(pdftex.def)             Requested size: 350.33727pt x 233.56244pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./Figures/Rhone_bassin_versant.png>]
-<Figures/PtCartoPhoto.png, id=207, 595.5048pt x 396.40096pt>
+[4 <./Figures/Rhone_bassin_versant.png>]
+<Figures/PtCartoPhoto.png, id=221, 595.5048pt x 396.40096pt>
 File: Figures/PtCartoPhoto.png Graphic file (type png)
 <use Figures/PtCartoPhoto.png>
-Package pdftex.def Info: Figures/PtCartoPhoto.png  used on input line 91.
+Package pdftex.def Info: Figures/PtCartoPhoto.png  used on input line 102.
 (pdftex.def)             Requested size: 350.33727pt x 233.20314pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/TabObsBcrSmall.jpg, id=209, 187.902pt x 121.545pt>
+<Figures/TabObsBcrSmall.jpg, id=224, 187.902pt x 121.545pt>
 File: Figures/TabObsBcrSmall.jpg Graphic file (type jpg)
 <use Figures/TabObsBcrSmall.jpg>
-Package pdftex.def Info: Figures/TabObsBcrSmall.jpg  used on input line 103.
+Package pdftex.def Info: Figures/TabObsBcrSmall.jpg  used on input line 114.
 (pdftex.def)             Requested size: 245.2399pt x 158.64275pt.
-<Figures/RegleStationCNR.jpg, id=210, 560.8453pt x 301.125pt>
+<Figures/RegleStationCNR.jpg, id=225, 560.8453pt x 301.125pt>
 File: Figures/RegleStationCNR.jpg Graphic file (type jpg)
 <use Figures/RegleStationCNR.jpg>
-Package pdftex.def Info: Figures/RegleStationCNR.jpg  used on input line 109.
+Package pdftex.def Info: Figures/RegleStationCNR.jpg  used on input line 120.
 (pdftex.def)             Requested size: 245.2399pt x 131.66833pt.
-[4 <./Figures/RegimeModif.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/Jau1845.jpg, id=225, 1500.4055pt x 735.548pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+[]|\T1/cmr/m/n/10.95 Probablement
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 143--144
+[]|\T1/cmr/m/n/10.95 Relevés à 7h,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\T1/cmr/m/n/10.95 Limnigraphe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\T1/cmr/m/n/10.95 à flot-teur
+ []
+
+
+Overfull \hbox (9.64317pt too wide) in paragraph at lines 135--150
+ [][] 
+ []
+
+[5 <./Figures/Regime.pdf>]
+<Figures/Jau1845.jpg, id=242, 1500.4055pt x 735.548pt>
 File: Figures/Jau1845.jpg Graphic file (type jpg)
 <use Figures/Jau1845.jpg>
-Package pdftex.def Info: Figures/Jau1845.jpg  used on input line 146.
+Package pdftex.def Info: Figures/Jau1845.jpg  used on input line 157.
 (pdftex.def)             Requested size: 350.33727pt x 171.74268pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./Figures/PtCartoPhoto.png>] [6 <./Figures/TabObsBcrSmall.jpg> <./Figures/R
+[6 <./Figures/PtCartoPhoto.png>] [7 <./Figures/TabObsBcrSmall.jpg> <./Figures/R
 egleStationCNR.jpg> <./Figures/Jau1845.jpg>]
-<Figures/ChampInond1840-1856.jpg, id=244, 704.6325pt x 496.10344pt>
+<Figures/ChampInond1840-1856.jpg, id=261, 704.6325pt x 496.10344pt>
 File: Figures/ChampInond1840-1856.jpg Graphic file (type jpg)
 <use Figures/ChampInond1840-1856.jpg>
-Package pdftex.def Info: Figures/ChampInond1840-1856.jpg  used on input line 18
-5.
+Package pdftex.def Info: Figures/ChampInond1840-1856.jpg  used on input line 19
+6.
 (pdftex.def)             Requested size: 300.29344pt x 211.42026pt.
-<Figures/DiguesArmand.png, id=250, 485.523pt x 246.0465pt>
+<Figures/DiguesArmand.png, id=267, 485.523pt x 246.0465pt>
 File: Figures/DiguesArmand.png Graphic file (type png)
 <use Figures/DiguesArmand.png>
-Package pdftex.def Info: Figures/DiguesArmand.png  used on input line 198.
+Package pdftex.def Info: Figures/DiguesArmand.png  used on input line 209.
 (pdftex.def)             Requested size: 400.38872pt x 202.912pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7
+[8
 
  <./Figures/ChampInond1840-1856.jpg>]
-<Figures/Goux4550.png, id=267, 1204.5pt x 464.937pt>
+<Figures/Goux4550.png, id=283, 1204.5pt x 464.937pt>
 File: Figures/Goux4550.png Graphic file (type png)
 <use Figures/Goux4550.png>
-Package pdftex.def Info: Figures/Goux4550.png  used on input line 217.
+Package pdftex.def Info: Figures/Goux4550.png  used on input line 228.
 (pdftex.def)             Requested size: 450.43253pt x 173.86852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/MapProfils.png, id=270, 590.08455pt x 507.3354pt>
+<Figures/MapProfils.png, id=286, 590.08455pt x 507.3354pt>
 File: Figures/MapProfils.png Graphic file (type png)
 <use Figures/MapProfils.png>
-Package pdftex.def Info: Figures/MapProfils.png  used on input line 224.
+Package pdftex.def Info: Figures/MapProfils.png  used on input line 235.
 (pdftex.def)             Requested size: 350.33727pt x 301.21416pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./Figures/DiguesArmand.png>] [9 <./Figures/Goux4550.png> <./Figures/MapProf
-ils.png>]
-<Figures/AerialBcr.png, id=288, 489.9906pt x 527.93234pt>
+[9 <./Figures/DiguesArmand.png>] [10 <./Figures/Goux4550.png> <./Figures/MapPro
+fils.png>]
+<Figures/AerialBcr.png, id=304, 489.9906pt x 527.93234pt>
 File: Figures/AerialBcr.png Graphic file (type png)
 <use Figures/AerialBcr.png>
-Package pdftex.def Info: Figures/AerialBcr.png  used on input line 234.
+Package pdftex.def Info: Figures/AerialBcr.png  used on input line 245.
 (pdftex.def)             Requested size: 350.33727pt x 377.4768pt.
- [10
+ [11
 
- <./Figures/AerialBcr.png>] [11] [12]
-<Figures/RestitCartoPh.png, id=322, 829.1778pt x 542.025pt>
+ <./Figures/AerialBcr.png>] [12]
+<Figures/RestitCartoPh.png, id=329, 829.1778pt x 542.025pt>
 File: Figures/RestitCartoPh.png Graphic file (type png)
 <use Figures/RestitCartoPh.png>
-Package pdftex.def Info: Figures/RestitCartoPh.png  used on input line 273.
-(pdftex.def)             Requested size: 350.33727pt x 229.0136pt.
-<Figures/ProfilsBardRestit.png, id=324, 322.5651pt x 211.7511pt>
+Package pdftex.def Info: Figures/RestitCartoPh.png  used on input line 266.
+(pdftex.def)             Requested size: 400.38872pt x 261.73218pt.
+<Figures/ProfilsBardRestit.png, id=331, 322.5651pt x 211.7511pt>
 File: Figures/ProfilsBardRestit.png Graphic file (type png)
 <use Figures/ProfilsBardRestit.png>
-Package pdftex.def Info: Figures/ProfilsBardRestit.png  used on input line 285.
+Package pdftex.def Info: Figures/ProfilsBardRestit.png  used on input line 278.
 
 (pdftex.def)             Requested size: 300.29344pt x 197.13002pt.
 
@@ -968,17 +1095,22 @@ Package pdftex.def Info: Figures/ProfilsBardRestit.png  used on input line 285.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [13 <./Figures/RestitCartoPh.png>]
-<Figures/HistrhoneMap.jpg, id=337, 340.8735pt x 506.49225pt>
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+90.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+<Figures/HistrhoneMap.jpg, id=346, 340.8735pt x 506.49225pt>
 File: Figures/HistrhoneMap.jpg Graphic file (type jpg)
 <use Figures/HistrhoneMap.jpg>
-Package pdftex.def Info: Figures/HistrhoneMap.jpg  used on input line 302.
+Package pdftex.def Info: Figures/HistrhoneMap.jpg  used on input line 294.
 (pdftex.def)             Requested size: 250.24199pt x 371.83841pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [14 <./Figures/ProfilsBardRestit.png>]
-Overfull \hbox (18.98642pt too wide) in paragraph at lines 316--351
+Overfull \hbox (18.98642pt too wide) in paragraph at lines 308--343
  [][] 
  []
 
@@ -986,18 +1118,13 @@ Overfull \hbox (18.98642pt too wide) in paragraph at lines 316--351
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [15 <./Figures/HistrhoneMap.jpg>]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-57.
-
-(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-<Figures/C3-C4_SystematicPeriod-FR.pdf, id=363, 1011.78pt x 505.89pt>
+<Figures/C3-C4_SystematicPeriod-FR.pdf, id=373, 1011.78pt x 505.89pt>
 File: Figures/C3-C4_SystematicPeriod-FR.pdf Graphic file (type pdf)
 <use Figures/C3-C4_SystematicPeriod-FR.pdf>
 Package pdftex.def Info: Figures/C3-C4_SystematicPeriod-FR.pdf  used on input l
-ine 361.
+ine 353.
 (pdftex.def)             Requested size: 450.43253pt x 225.21683pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1006,123 +1133,179 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [17 <./Figures/C3-C4_SystematicPeriod-FR.pdf>]
-<Figures/Nb_C3-C4.pdf, id=401, 939.51pt x 433.62pt>
+<Figures/Nb_C3-C4.pdf, id=413, 939.51pt x 433.62pt>
 File: Figures/Nb_C3-C4.pdf Graphic file (type pdf)
 <use Figures/Nb_C3-C4.pdf>
-Package pdftex.def Info: Figures/Nb_C3-C4.pdf  used on input line 389.
+Package pdftex.def Info: Figures/Nb_C3-C4.pdf  used on input line 382.
 (pdftex.def)             Requested size: 400.38872pt x 184.79222pt.
 
-Overfull \hbox (4.79451pt too wide) in paragraph at lines 399--400
+Overfull \hbox (4.79451pt too wide) in paragraph at lines 393--394
 \T1/cmr/m/n/10.95 fréquen-tielle, la con-nais-sance du débit de cha-cun des évé
 ne-ments peut s'avérer utile. Cepen-dant, l'estimation
  []
 
-[18 <./Figures/Nb_C3-C4.pdf>]
-
-LaTeX Warning: Reference `fig:MAGEavap' on page 19 undefined on input line 407.
-
-
-[19]
-<Figures/EvolEmbouch.jpg, id=427, 803.0pt x 620.3175pt>
+[18 <./Figures/Nb_C3-C4.pdf>] [19]
+<Figures/EvolEmbouch.jpg, id=443, 803.0pt x 620.3175pt>
 File: Figures/EvolEmbouch.jpg Graphic file (type jpg)
 <use Figures/EvolEmbouch.jpg>
-Package pdftex.def Info: Figures/EvolEmbouch.jpg  used on input line 411.
-(pdftex.def)             Requested size: 400.38872pt x 309.30612pt.
-<Figures/DiffMerArles.jpg, id=429, 499.8675pt x 231.86626pt>
+Package pdftex.def Info: Figures/EvolEmbouch.jpg  used on input line 405.
+(pdftex.def)             Requested size: 350.33727pt x 270.64049pt.
+<Figures/DiffMerArles.jpg, id=447, 499.8675pt x 231.86626pt>
 File: Figures/DiffMerArles.jpg Graphic file (type jpg)
 <use Figures/DiffMerArles.jpg>
-Package pdftex.def Info: Figures/DiffMerArles.jpg  used on input line 420.
+Package pdftex.def Info: Figures/DiffMerArles.jpg  used on input line 414.
 (pdftex.def)             Requested size: 350.33727pt x 162.51047pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [20 <./Figures/EvolEmbouch.jpg>]
-<Figures/Elarg.png, id=440, 460.119pt x 445.1832pt>
+<Figures/Elarg.png, id=458, 460.119pt x 445.1832pt>
 File: Figures/Elarg.png Graphic file (type png)
 <use Figures/Elarg.png>
-Package pdftex.def Info: Figures/Elarg.png  used on input line 429.
+Package pdftex.def Info: Figures/Elarg.png  used on input line 425.
 (pdftex.def)             Requested size: 250.24199pt x 242.12076pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/MAGERh_AvAp.png, id=442, 785.334pt x 479.8728pt>
+<Figures/MAGERh_AvAp.png, id=460, 785.334pt x 495.7722pt>
 File: Figures/MAGERh_AvAp.png Graphic file (type png)
 <use Figures/MAGERh_AvAp.png>
-Package pdftex.def Info: Figures/MAGERh_AvAp.png  used on input line 438.
-(pdftex.def)             Requested size: 450.43253pt x 275.23642pt.
+Package pdftex.def Info: Figures/MAGERh_AvAp.png  used on input line 434.
+(pdftex.def)             Requested size: 450.43253pt x 284.3557pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/4cases.pdf, id=443, 1156.32pt x 722.7pt>
+[21 <./Figures/DiffMerArles.jpg>] [22 <./Figures/Elarg.png> <./Figures/MAGERh_A
+vAp.png>]
+<Figures/4cases.pdf, id=475, 1156.32pt x 722.7pt>
 File: Figures/4cases.pdf Graphic file (type pdf)
 <use Figures/4cases.pdf>
-Package pdftex.def Info: Figures/4cases.pdf  used on input line 451.
+Package pdftex.def Info: Figures/4cases.pdf  used on input line 448.
 (pdftex.def)             Requested size: 500.484pt x 312.79503pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./Figures/DiffMerArles.jpg>] [22 <./Figures/Elarg.png>] [23 <./Figures/MAG
-ERh_AvAp.png>]
-<Figures/Breches2003.jpg, id=482, 712.16063pt x 292.84406pt>
+[23
+
+] [24 <./Figures/4cases.pdf>]
+<Figures/Breches2003.jpg, id=517, 712.16063pt x 292.84406pt>
 File: Figures/Breches2003.jpg Graphic file (type jpg)
 <use Figures/Breches2003.jpg>
-Package pdftex.def Info: Figures/Breches2003.jpg  used on input line 471.
-(pdftex.def)             Requested size: 300.29344pt x 123.48071pt.
+Package pdftex.def Info: Figures/Breches2003.jpg  used on input line 468.
+(pdftex.def)             Requested size: 350.33727pt x 144.05786pt.
+ [25 <./Figures/Breches2003.jpg>]
+<Figures/BathyArles1897.png, id=539, 967.81575pt x 467.94826pt>
+File: Figures/BathyArles1897.png Graphic file (type png)
+<use Figures/BathyArles1897.png>
+Package pdftex.def Info: Figures/BathyArles1897.png  used on input line 489.
+(pdftex.def)             Requested size: 350.33727pt x 169.38948pt.
+<Figures/Atlas1860.jpg, id=540, 1605.74907pt x 1063.72406pt>
+File: Figures/Atlas1860.jpg Graphic file (type jpg)
+<use Figures/Atlas1860.jpg>
+Package pdftex.def Info: Figures/Atlas1860.jpg  used on input line 492.
+(pdftex.def)             Requested size: 350.33727pt x 232.07228pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <./Figures/4cases.pdf>]
-<Figures/BoxplotTprop_Fr.pdf, id=500, 1156.32pt x 578.16pt>
+[26] [27 <./Figures/BathyArles1897.png> <./Figures/Atlas1860.jpg>] [28
+
+]
+Overfull \hbox (18.73071pt too wide) in paragraph at lines 513--514
+ [][] \T1/cmr/m/n/10.95 En ce qui con-cerne la géométrie du Rhône en en-trée du
+ mod-èle, les don-nées to-pographiques et bathymétriques
+ []
+
+[29]
+<Figures/CassiniOrange.jpg, id=584, 556.32843pt x 559.33969pt>
+File: Figures/CassiniOrange.jpg Graphic file (type jpg)
+<use Figures/CassiniOrange.jpg>
+Package pdftex.def Info: Figures/CassiniOrange.jpg  used on input line 541.
+(pdftex.def)             Requested size: 200.19054pt x 201.27678pt.
+<Figures/IGNOrange.jpg, id=585, 560.0925pt x 569.87906pt>
+File: Figures/IGNOrange.jpg Graphic file (type jpg)
+<use Figures/IGNOrange.jpg>
+Package pdftex.def Info: Figures/IGNOrange.jpg  used on input line 544.
+(pdftex.def)             Requested size: 200.19054pt x 203.68674pt.
+ [30 <./Figures/CassiniOrange.jpg> <./Figures/IGNOrange.jpg>]
+<Figures/EpisGirardonGervans.jpg, id=600, 1027.84pt x 448.67625pt>
+File: Figures/EpisGirardonGervans.jpg Graphic file (type jpg)
+<use Figures/EpisGirardonGervans.jpg>
+Package pdftex.def Info: Figures/EpisGirardonGervans.jpg  used on input line 55
+6.
+(pdftex.def)             Requested size: 350.33727pt x 152.93129pt.
+<Figures/AmenTypeCNR.jpg, id=603, 684.30656pt x 615.0478pt>
+File: Figures/AmenTypeCNR.jpg Graphic file (type jpg)
+<use Figures/AmenTypeCNR.jpg>
+Package pdftex.def Info: Figures/AmenTypeCNR.jpg  used on input line 562.
+(pdftex.def)             Requested size: 250.24199pt x 224.91759pt.
+ [31 <./Figures/EpisGirardonGervans.jpg> <./Figures/AmenTypeCNR.jpg>] [32]
+<Figures/BoxplotTprop_Fr.pdf, id=625, 1156.32pt x 578.16pt>
 File: Figures/BoxplotTprop_Fr.pdf Graphic file (type pdf)
 <use Figures/BoxplotTprop_Fr.pdf>
-Package pdftex.def Info: Figures/BoxplotTprop_Fr.pdf  used on input line 533.
+Package pdftex.def Info: Figures/BoxplotTprop_Fr.pdf  used on input line 594.
 (pdftex.def)             Requested size: 450.43253pt x 225.21683pt.
+ [33 <./Figures/BoxplotTprop_Fr.pdf>] [34] [35]
+Overfull \hbox (3.7996pt too wide) in paragraph at lines 623--624
+\T1/cmr/m/n/10.95 d'abord, une chronique limn-imétrique con-tinue de 1816 à au-
+jourd'hui est disponible, per-me-t-tant l'estimation
+ []
+
+[36] [37]
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
+[]|\T1/cmr/bx/n/10.95 Hauteur
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
+[]|\T1/cmr/bx/n/10.95 Hauteur
+ []
 
-[25 <./Figures/Breches2003.jpg>] [26 <./Figures/BoxplotTprop_Fr.pdf>] [27]
-(Chapitre2.aux)
+[38] [39] [40] [41] [42] [43] (Chapitre2.aux)
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Chapitre2.out' has not changed.
-(rerunfilecheck)             Checksum: 1D139283B7F4910A7C84193D14AD93C2;8529.
+(rerunfilecheck)             Checksum: 43AA3138AC4C815B670B524D2C51273E;9591.
 Package logreq Info: Writing requests to 'Chapitre2.run.xml'.
 \openout1 = `Chapitre2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19858 strings out of 478659
- 354139 string characters out of 2842128
- 1050326 words of memory out of 3000000
- 37540 multiletter control sequences out of 15000+600000
- 419413 words of font info for 67 fonts, out of 8000000 for 9000
+ 20756 strings out of 478659
+ 372350 string characters out of 2842128
+ 1196230 words of memory out of 3000000
+ 38341 multiletter control sequences out of 15000+600000
+ 419726 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,14n,77p,3348b,1739s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,14n,77p,3349b,1739s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\eccc1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecti1000.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\mathieu.lucas\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\mathieu.lu
-cas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Us
-ers\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
-000.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
-c/dpi600\ecti1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTe
-X\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\mathieu.lucas\AppDa
-ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\mathi
-eu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <
+knappen/ec/dpi600\ectt1000.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\mathieu.lucas\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\mathieu.lu
+cas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Us
+ers\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
+200.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecrm1000.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTe
+X\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\mathieu.lucas\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\mathi
+eu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <
 C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecrm1200.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1728.pk><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Chapitre2.pdf (27 pages, 30452976 bytes).
+ecbx1440.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm1200.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/mathieu.lucas/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mathieu.luca
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Us
+ers/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb>
+Output written on Chapitre2.pdf (43 pages, 35919973 bytes).
 PDF statistics:
- 1081 PDF objects out of 1200 (max. 8388607)
- 147 named destinations out of 1000 (max. 500000)
- 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1360 PDF objects out of 1440 (max. 8388607)
+ 198 named destinations out of 1000 (max. 500000)
+ 396 words of extra memory for PDF output out of 10000 (max. 10000000)
 
