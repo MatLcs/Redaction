@@ -2348,6 +2348,30 @@
     <bcf:citekey order="1">undrr_human_2020</bcf:citekey>
     <bcf:citekey order="2">medd_site_nodate</bcf:citekey>
     <bcf:citekey order="3">medd_site_nodate</bcf:citekey>
+    <bcf:citekey order="4">le_delliou_recommandations_2014</bcf:citekey>
+    <bcf:citekey order="5">mcmillan_benchmarking_2012</bcf:citekey>
+    <bcf:citekey order="6">puechberty_charte_2017</bcf:citekey>
+    <bcf:citekey order="7">van_der_made_determination_1982</bcf:citekey>
+    <bcf:citekey order="8">petersen-overleir_uncertainty_2005</bcf:citekey>
+    <bcf:citekey order="9">mcmillan_benchmarking_2012</bcf:citekey>
+    <bcf:citekey order="10">horner_impact_2018</bcf:citekey>
+    <bcf:citekey order="11">hamilton_quantifying_2012</bcf:citekey>
+    <bcf:citekey order="12">kuentz_hydrometrie_2014</bcf:citekey>
+    <bcf:citekey order="13">lecoz_quantification_2014</bcf:citekey>
+    <bcf:citekey order="14">petersen-overleir_bayesian_2009</bcf:citekey>
+    <bcf:citekey order="15">juston_rating_2014</bcf:citekey>
+    <bcf:citekey order="16">le_coz_combining_2014</bcf:citekey>
+    <bcf:citekey order="17">morlot_dynamic_2014</bcf:citekey>
+    <bcf:citekey order="18">coxon_novel_2015</bcf:citekey>
+    <bcf:citekey order="19">mcmillan_rating_2015</bcf:citekey>
+    <bcf:citekey order="20">mansanarez_rapid_2019</bcf:citekey>
+    <bcf:citekey order="21">westerberg_stage-discharge_2011</bcf:citekey>
+    <bcf:citekey order="22">guerrero_temporal_2012</bcf:citekey>
+    <bcf:citekey order="23">morlot_dynamic_2014</bcf:citekey>
+    <bcf:citekey order="24">lapuszek_methods_2015</bcf:citekey>
+    <bcf:citekey order="25">mcmillan_impacts_2010</bcf:citekey>
+    <bcf:citekey order="26">darienzo_detection_2021</bcf:citekey>
+    <bcf:citekey order="27">mansanarez_shift_2019</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

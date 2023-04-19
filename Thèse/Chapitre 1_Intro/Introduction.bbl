@@ -19,6 +19,1055 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{coxon_novel_2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=bbf4299bd66441786b53a7a6ed74ce65}{%
+           family={Coxon},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=093f77989dd3472e0686a24fd5da7635}{%
+           family={Freer},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=eb2283d33aa4cf0bf9265afc2f0a5c1d}{%
+           family={Westerberg},
+           familyi={W\bibinitperiod},
+           given={I.\bibnamedelimi K.},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a6a5f472bad295579494039922609300}{%
+           family={Wagener},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a906fd57d0ee1e83e6027050d6460e4f}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b7f24e448dc7c0efa6bc1f2415da67e6}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{af227a47e82b5e212784bb457da4658a}
+      \strng{fullhash}{700f0470b0ff378a83c4335c50a899a0}
+      \strng{bibnamehash}{700f0470b0ff378a83c4335c50a899a0}
+      \strng{authorbibnamehash}{700f0470b0ff378a83c4335c50a899a0}
+      \strng{authornamehash}{af227a47e82b5e212784bb457da4658a}
+      \strng{authorfullhash}{700f0470b0ff378a83c4335c50a899a0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Benchmarking the quality of river discharge data and understanding its information content for hydrological analyses is an important task for hydrologic science. There is a wide variety of techniques to assess discharge uncertainty. However, few studies have developed generalized approaches to quantify discharge uncertainty. This study presents a generalized framework for estimating discharge uncertainty at many gauging stations with different errors in the stage-discharge relationship. The methodology utilizes a nonparametric {LOWESS} regression within a novel framework that accounts for uncertainty in the stagedischarge measurements, scatter in the stage-discharge data and multisection rating curves. The framework was applied to 500 gauging stations in England and Wales and we evaluated the magnitude of discharge uncertainty at low, mean and high ﬂow points on the rating curve. The framework was shown to be robust, versatile and able to capture place-speciﬁc uncertainties for a number of different examples. Our study revealed a wide range of discharge uncertainties (10–397\% discharge uncertainty interval widths), but the majority of the gauging stations (over 80\%) had mean and high ﬂow uncertainty intervals of less than 40\%. We identiﬁed some regional differences in the stage-discharge relationships, however the results show that local conditions dominated in determining the magnitude of discharge uncertainty at a gauging station. This highlights the importance of estimating discharge uncertainty for each gauging station prior to using those data in hydrological analyses.}
+      \field{issn}{0043-1397, 1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{shorttitle}{A novel framework for discharge uncertainty quantification applied to 500}
+      \field{title}{A novel framework for discharge uncertainty quantification applied to 500 {UK} gauging stations}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{51}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5531\bibrangedash 5546}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/2014WR016532
+      \endverb
+      \verb{file}
+      \verb Coxon et al. - 2015 - A novel framework for discharge uncertainty quanti.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\B4JE3VQF\\Coxon et al. - 2015 - A novel framework for discharge uncertainty quanti.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/2014WR016532
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/2014WR016532
+      \endverb
+    \endentry
+    \entry{darienzo_detection_2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bea14a4aebc300b875a8d8f8fe617836}{%
+           family={Darienzo},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d320073eca24424573c02de1e6f43a4a}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1a4a7c390e3dccb2cd361dc214310c9}
+      \strng{fullhash}{8c25983d8ceafb2375e8000dc9acac48}
+      \strng{bibnamehash}{8c25983d8ceafb2375e8000dc9acac48}
+      \strng{authorbibnamehash}{8c25983d8ceafb2375e8000dc9acac48}
+      \strng{authornamehash}{b1a4a7c390e3dccb2cd361dc214310c9}
+      \strng{authorfullhash}{8c25983d8ceafb2375e8000dc9acac48}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The stage-discharge rating curve is subject at many hydrometric stations to sudden changes (shifts) typically caused by morphogenic floods. We propose an original method for estimating shift times using the stage-discharge observations, also known as gaugings. This method is based on a recursive segmentation procedure that accounts for both gaugings and rating curve uncertainties through a Bayesian framework. It starts with the estimation of a baseline rating curve using all available gaugings. Then it computes the residuals between the gaugings and this rating curve with uncertainties. It proceeds with the segmentation of the time series of residuals through a multi-change point Bayesian estimation accounting for residuals uncertainties. Once the first set of shift times is identified, the same procedure is recursively applied to each sub-period through a “top-down” approach searching for all effective shifts. The proposed method is illustrated using the Ardèche River at Meyras in France (a typical hydrometric site subject to river bed degradation) and evaluated using several synthetic data sets for which the true shift times are known. The applications confirm the added value of the recursive segmentation compared with a “single-pass” approach and highlight the importance of properly accounting for uncertainties in the segmented data. The recursive procedure effectively disentangles rating changes from observational and rating curve uncertainties.}
+      \field{issn}{0043-1397, 1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{Water Res}
+      \field{shorttitle}{Detection of Stage‐Discharge Rating Shifts Using Gaugings}
+      \field{title}{Detection of Stage‐Discharge Rating Shifts Using Gaugings: A Recursive Segmentation Procedure Accounting for Observational and Model Uncertainties}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{57}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1029/2020WR028607
+      \endverb
+      \verb{file}
+      \verb Darienzo et al. - 2021 - Detection of Stage‐Discharge Rating Shifts Using G.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\N8FEI7VZ\\Darienzo et al. - 2021 - Detection of Stage‐Discharge Rating Shifts Using G.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1029/2020WR028607
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1029/2020WR028607
+      \endverb
+    \endentry
+    \entry{guerrero_temporal_2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8b5eebb2a77e3c1bba5013f51c5fb4a6}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={José-Luis},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=94b28bba417be162d5cc579e6e2e2cde}{%
+           family={Westerberg},
+           familyi={W\bibinitperiod},
+           given={Ida\bibnamedelima K.},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d8d4ad602e39940e8dbbe781a2ea16aa}{%
+           family={Halldin},
+           familyi={H\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a2e777348cb11f0a1d8a0c38f33d32ea}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chong-Yu},
+           giveni={C\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=a3336de42556bc2bc11b4183b3dab455}{%
+           family={Lundin},
+           familyi={L\bibinitperiod},
+           given={Lars-Christer},
+           giveni={L\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{992a0ad7af98266f30cfa98aaacf8bfd}
+      \strng{fullhash}{420a9f5b316fe3e6ab54de3be92ca142}
+      \strng{bibnamehash}{420a9f5b316fe3e6ab54de3be92ca142}
+      \strng{authorbibnamehash}{420a9f5b316fe3e6ab54de3be92ca142}
+      \strng{authornamehash}{992a0ad7af98266f30cfa98aaacf8bfd}
+      \strng{authorfullhash}{420a9f5b316fe3e6ab54de3be92ca142}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although discharge estimations are central for water management and hydropower, there are few studies on the variability and uncertainty of their basis; deriving discharge from stage heights through the use of a rating curve that depends on riverbed geometry. A large fraction of the world’s river-discharge stations are presumably located in alluvial channels where riverbed characteristics may change over time because of erosion and sedimentation. This study was conducted to analyse and quantify the dynamic relationship between stage and discharge and to determine to what degree currently used methods are able to account for such variability. The study was carried out for six hydrometric stations in the upper Choluteca River basin, Honduras, where a set of unusually frequent stage–discharge data are available. The temporal variability and the uncertainty of the rating curve and its parameters were analysed through a Monte Carlo ({MC}) analysis on a moving window of data using the Generalised Likelihood Uncertainty Estimation ({GLUE}) methodology. Acceptable ranges for the values of the rating-curve parameters were determined from riverbed surveys at the six stations, and the sampling space was constrained according to those ranges, using three-dimensional alpha shapes. Temporal variability was analysed in three ways: (i) with annually updated rating curves (simulating Honduran practices), (ii) a rating curve for each time window, and (iii) a smoothed, continuous dynamic rating curve derived from the {MC} analysis. The temporal variability of the rating parameters translated into a high rating-curve variability. The variability could turn out as increasing or decreasing trends and/or cyclic behaviour. There was a tendency at all stations to a seasonal variability. The discharge at a given stage could vary by a factor of two or more. The quotient in discharge volumes estimated from dynamic and static rating curves varied between 0.5 and 1.5. The difference between discharge volumes derived from static and dynamic curves was largest for sub-daily ratings but stayed large also for monthly and yearly totals. The relative uncertainty was largest for low ﬂows but it was considerable also for intermediate and large ﬂows. The standard procedure of adjusting rating curves when calculated and observed discharge differ by more than 5\% would have required continuously updated rating curves at the studied locations. We believe that these ﬁndings can be applicable to many other discharge stations around the globe.}
+      \field{issn}{00221694}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{Journal of Hydrology}
+      \field{title}{Temporal variability in stage–discharge relationships}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{446-447}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{90\bibrangedash 102}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jhydrol.2012.04.031
+      \endverb
+      \verb{file}
+      \verb Guerrero et al. - 2012 - Temporal variability in stage–discharge relationsh.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\KTF3ZW6C\\Guerrero et al. - 2012 - Temporal variability in stage–discharge relationsh.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S002216941200306X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S002216941200306X
+      \endverb
+    \endentry
+    \entry{hamilton_quantifying_2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=52779e911e4ae1abc37ffe1e5df57c90}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c99d2da5a4f1d3a2b3707fcbb87c4ba2}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={R.D.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6215744d7408e522208cafa96dd665a}
+      \strng{fullhash}{d6215744d7408e522208cafa96dd665a}
+      \strng{bibnamehash}{d6215744d7408e522208cafa96dd665a}
+      \strng{authorbibnamehash}{d6215744d7408e522208cafa96dd665a}
+      \strng{authornamehash}{d6215744d7408e522208cafa96dd665a}
+      \strng{authorfullhash}{d6215744d7408e522208cafa96dd665a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Uncertainty in hydrometric data is a fact of life. Basic assumptions about the nature of this uncertainty are necessary in every analysis of hydrometric data, and an understanding of the variability of uncertainty can facilitate the effective use of hydrologic information. For most of the twentieth century there has been little change in hydrometric methods and many analysts explicitly or implicitly assume that the uncertainty has not changed over the period of record. We argue that there is substantial variability in the magnitude of uncertainty in published streamflow records that is not transparent to data users. Quantifying uncertainty is particularly important in the context of the current changes in hydrometric technology and in the increasing integration of data sets from multiple providers. We recommend best practices for identifying uncertainty in field notes and propagating that observational uncertainty through the data production process. We suggest both field and reanalysis studies that could be undertaken to improve understanding of hydrometric uncertainty. We also recommend improvements in management practices, including preservation of relevant metadata and a suitable period of overlap for new and old observing systems to allow assessment of the effects of changing technology.}
+      \field{issn}{0701-1784, 1918-1817}
+      \field{journaltitle}{Canadian Water Resources Journal / Revue canadienne des ressources hydriques}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Canadian Water Resources Journal / Revue canadienne des ressources hydriques}
+      \field{title}{Quantifying Uncertainty in Streamflow Records}
+      \field{urlday}{7}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{37}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 21}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.4296/cwrj3701865
+      \endverb
+      \verb{file}
+      \verb Hamilton et Moore - 2012 - Quantifying Uncertainty in Streamflow Records.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\SVSAYRDD\\Hamilton et Moore - 2012 - Quantifying Uncertainty in Streamflow Records.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.4296/cwrj3701865
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.4296/cwrj3701865
+      \endverb
+    \endentry
+    \entry{horner_impact_2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=225acc101b267c00f6427e3610801eb2}{%
+           family={Horner},
+           familyi={H\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d320073eca24424573c02de1e6f43a4a}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=12d5bea743c1be6801dfbb7d106227df}{%
+           family={Branger},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=75f18c26dea89feae7da6c7c91f71c75}{%
+           family={{McMillan}},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=13131c3ed39bfc420537b0290de6221c}{%
+           family={Pierrefeu},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c7a52fd707881a3025ca961e6fda974}
+      \strng{fullhash}{cfab2f8d051880d9da54827a9bddbfcc}
+      \strng{bibnamehash}{cfab2f8d051880d9da54827a9bddbfcc}
+      \strng{authorbibnamehash}{cfab2f8d051880d9da54827a9bddbfcc}
+      \strng{authornamehash}{9c7a52fd707881a3025ca961e6fda974}
+      \strng{authorfullhash}{cfab2f8d051880d9da54827a9bddbfcc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Stage measurement errors are generally overlooked when streamﬂow time series are derived from uncertain rating curves. We introduce an original method for propagating stage uncertainties due to two types of stage measurement errors: (i) errors of the stage read during the gauging and (ii) systematic and nonsystematic (independent) errors of the recorded stage time series. The error models are generic and can be used for any probabilistic rating curve estimation method that provides an ensemble of rating curves. The new method is applied to a range of six contrasting hydrometric stations in France. Uncertainty budgets quantifying the contribution of various error sources to the total streamﬂow uncertainty are computed and compared for streamﬂow time series averaged at time intervals from hour to year. A sensitivity analysis is conducted on the stage time series error model to identify the most sensitive parameters. The results are site speciﬁc, which illustrates the key role played by the properties of both the hydrometric site and the gauged catchment. Across the range of sites, stage errors of the gaugings are found to have limited impact on rating curve uncertainty, at least for gaugings performed in fair conditions. Nonsystematic errors in the stage time series have a negligible effect, generally. However, systematic stage errors should not be neglected. Over the six hydrometric stations in this study, the 95\% uncertainty component reﬂecting stage systematic errors (from 60.5 cm to 66.8 cm) alone ranged from 4\% to 12\% of daily average streamﬂow, and from 1\% to 3\% of yearly average streamﬂow as sensors were assumed to be recalibrated every 30 days. Perspectives for improving and validating the streamﬂow uncertainty estimation techniques are eventually discussed.}
+      \field{issn}{0043-1397, 1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{title}{Impact of Stage Measurement Errors on Streamflow Uncertainty}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{54}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1952\bibrangedash 1976}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1002/2017WR022039
+      \endverb
+      \verb{file}
+      \verb Horner et al. - 2018 - Impact of Stage Measurement Errors on Streamflow U.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\HUYYIULL\\Horner et al. - 2018 - Impact of Stage Measurement Errors on Streamflow U.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/2017WR022039
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/2017WR022039
+      \endverb
+    \endentry
+    \entry{juston_rating_2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aa5a528560910a98f582e16ff8da3be6}{%
+           family={Juston},
+           familyi={J\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=89f1d0ef17850023d872c270677c881a}{%
+           family={Jansson},
+           familyi={J\bibinitperiod},
+           given={Per-Erik},
+           giveni={P\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=ba295606261df0e240938628d9d286e1}{%
+           family={Gustafsson},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8576f26e215d9780a38c2bdef52421fa}
+      \strng{fullhash}{bbab40dbfe5adbee111f769b89949381}
+      \strng{bibnamehash}{bbab40dbfe5adbee111f769b89949381}
+      \strng{authorbibnamehash}{bbab40dbfe5adbee111f769b89949381}
+      \strng{authornamehash}{8576f26e215d9780a38c2bdef52421fa}
+      \strng{authorfullhash}{bbab40dbfe5adbee111f769b89949381}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The intersection of the developing topic of rating curve and discharge series uncertainty with the topic of hydrological change detection (e.g., in response to land cover or climatic change) has not yet been well studied. The work herein explores this intersection, with consideration of a long-term discharge response (1964–2007) for a {\textasciitilde}650-km2 headwater basin of the Mara River in west Kenya, starting with stream rating and daily gauge height data. A rating model was calibrated using Bayesian methods to quantify uncertainty intervals in model parameters and predictions. There was an unknown balance of random and systemic error in rating data scatter (a scenario not likely unique to this basin), which led to an unknown balance of noise and information in the calibrated statistical error model. This had implications on testing for hydrological change. Overall, indications were that shifts in basin’s discharge response were rather subtle over the 44-year period. A null hypothesis for change using ﬂow duration curves ({FDCs}) from four different 8-year data intervals could be either accepted or rejected over much of the net ﬂow domain depending on different applications of the statistical error model (each with precedence in the literature). The only unambiguous indication of change in {FDC} comparisons appeared to be a reduction in lowest baseﬂow in recent years (ﬂows with {>}98\% exceedance probability). We deﬁned a subjective uncertainty interval based on an intermediate balance of random and systematic error in the rating model that suggested a possibility of more prevalent impacts. These results have relevance to management in the Mara basin and to future studies that might establish linkages to historic land use and climatic factors. The concern about uncertain uncertainty intervals (uncertainty2) extends beyond the Mara and is relevant to testing change where non-random rating errors may be important and subtle responses are investigated. Copyright © 2013 John Wiley \& Sons, Ltd.}
+      \field{day}{15}
+      \field{issn}{08856087}
+      \field{journaltitle}{Hydrological Processes}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{4}
+      \field{shortjournal}{Hydrol. Process.}
+      \field{shorttitle}{Rating curve uncertainty and change detection in discharge time series}
+      \field{title}{Rating curve uncertainty and change detection in discharge time series: case study with 44-year historic data from the Nyangores River, Kenya}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{28}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2509\bibrangedash 2523}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1002/hyp.9786
+      \endverb
+      \verb{file}
+      \verb Juston et al. - 2014 - Rating curve uncertainty and change detection in d.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\LLS6N6MH\\Juston et al. - 2014 - Rating curve uncertainty and change detection in d.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.9786
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.9786
+      \endverb
+    \endentry
+    \entry{kuentz_hydrometrie_2014}{article}{}
+      \name{author}{8}{}{%
+        {{hash=79323cf63f7ca4b1f145b5d0517f19d4}{%
+           family={Kuentz},
+           familyi={K\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6fc1f55bc7d9806da8d2bf9ff374a6b8}{%
+           family={Mathevet},
+           familyi={M\bibinitperiod},
+           given={Thibault},
+           giveni={T\bibinitperiod}}}%
+        {{hash=48d2b0c4b84eb825ae547bffcf8ee29d}{%
+           family={Cœur},
+           familyi={C\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7de09034815679e0bea46d9be1a13997}{%
+           family={Perret},
+           familyi={P\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8a9b13e1d31e532e488bc469294a5228}{%
+           family={Gailhard},
+           familyi={G\bibinitperiod},
+           given={Joël},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7de4f1c8d85b013e5a65b14fd1039ac2}{%
+           family={Guérin},
+           familyi={G\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e7d609b2678ace4b3ab28d5fbef42f76}{%
+           family={Gash},
+           familyi={G\bibinitperiod},
+           given={Yasin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bb9d448ee691666cb0e77e71fd01422a}{%
+           family={Andréassian},
+           familyi={A\bibinitperiod},
+           given={Vazken},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6073f56c47926e9d2ada3f1b8af6c33}
+      \strng{fullhash}{1a7565b880b87c3938352e28fc1ce806}
+      \strng{bibnamehash}{1a7565b880b87c3938352e28fc1ce806}
+      \strng{authorbibnamehash}{1a7565b880b87c3938352e28fc1ce806}
+      \strng{authornamehash}{c6073f56c47926e9d2ada3f1b8af6c33}
+      \strng{authorfullhash}{1a7565b880b87c3938352e28fc1ce806}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents different studies on the Durance river watershed, situated in the south part of the Alps. Our studies explore a large collection of historical archives in hydrology and hydrometry, found by a historian. This watershed is characterised by an incredible density of hydrological stations, with more than 150 stations and 4500 years of hydrological records, since the beginning of the 20th century. As an example, the archives of 10 stations starting between 1900 and 1917 were very detailed, with all the gaugings, rating curves, and streamflows records. Archives also reveal the great scientific and technical involvement at that period to understand, develop streamflow measurements and estimate available water resources. Then, we present an estimation of streamflow uncertainty of historical series due to the height measurement strategy. Results show that long streamflow series are not homogeneous in time and that old streamflows series could be significantly biased during snowmelt. Finally, this paper shows the great interest of historical time‑series to better characterise hydrometeorological variability.}
+      \field{day}{1}
+      \field{issn}{0018-6368, 1958-5551}
+      \field{journaltitle}{La Houille Blanche}
+      \field{langid}{french}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{La Houille Blanche}
+      \field{title}{Hydrométrie et hydrologie historiques du bassin de la Durance}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{100}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{57\bibrangedash 63}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1051/lhb/2014039
+      \endverb
+      \verb{file}
+      \verb Kuentz et al. - 2014 - Hydrométrie et hydrologie historiques du bassin de.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\SXZFJFWU\\Kuentz et al. - 2014 - Hydrométrie et hydrologie historiques du bassin de.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1051/lhb/2014039
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1051/lhb/2014039
+      \endverb
+    \endentry
+    \entry{lapuszek_methods_2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8dbc8d30eb2a4077820ced3210cee748}{%
+           family={Łapuszek},
+           familyi={Ł\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=105a512a059419dea0b912998e9969d1}{%
+           family={Lenar-Matyas},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bf520f747c8a61a40ca736f30afbd0a}
+      \strng{fullhash}{3bf520f747c8a61a40ca736f30afbd0a}
+      \strng{bibnamehash}{3bf520f747c8a61a40ca736f30afbd0a}
+      \strng{authorbibnamehash}{3bf520f747c8a61a40ca736f30afbd0a}
+      \strng{authornamehash}{3bf520f747c8a61a40ca736f30afbd0a}
+      \strng{authorfullhash}{3bf520f747c8a61a40ca736f30afbd0a}
+      \field{sortinit}{Ł}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The analysis of variability of riverbed elevation recorded at five selected gauging cross-sections of Nida River, and at three gauging stations of Czarna Nida is presented in the paper. The studies concern the period of 60 – 80 years of observation. The trends of riverbed changes during the study period at the selected gauging stations were calculated based on the variability of observed minimal annual water stages. The reasons for the observed changes in the river course and channel geometry are given. These changes were caused by river regulation consisted of the shortening and narrowing of the river channel. Moreover, grain size distribution analysis in the selected gauging stations of Nida River and characteristic diameter variability of sediments along the river course examination are presented. These analyses were to evaluate the variability of characteristic diameters along the river course in connection with observed changes in cross-sections’ geometry. Additionally, to confirm the process of erosion or deposition recognized in the examined river channels, hydrodynamic equilibrium was determined. Three methods were proposed and used: the mean velocity and critical velocity in the main river channel comparison, the stream power value calculation which defines the character of the river channel, and the {WWK} (index of cutting or shallowing of the river channel) index.}
+      \field{issn}{1732-5587}
+      \field{issue}{{IV}/3/2015}
+      \field{journaltitle}{Infrastruktura i Ekologia Terenów Wiejskich / Infrastructure and ecology of rural areas}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Methods of analysis the riverbed evolution. a case study of two tributaries of the upper Vistula river}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1313\bibrangedash 1327}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.14597/infraeco.2015.4.3.095
+      \endverb
+      \verb{file}
+      \verb 2015 - Methods of analysis the riverbed evolution. a case.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\JQM5UP9A\\2015 - Methods of analysis the riverbed evolution. a case.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.14597/infraeco.2015.4.3.095
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.14597/infraeco.2015.4.3.095
+      \endverb
+    \endentry
+    \entry{lecoz_quantification_2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=31ac1be5bb953424f3ec0cd25a701e44}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d7b85a5e6adc0b03b7ba1c68dc96e184}{%
+           family={Bechon},
+           familyi={B\bibinitperiod},
+           given={Pierre-Marie},
+           giveni={P\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=c26f838fab59aebb921215a889ece395}{%
+           family={Camenen},
+           familyi={C\bibinitperiod},
+           given={Benoît},
+           giveni={B\bibinitperiod}}}%
+        {{hash=88601f5f8bc529900b6d58c0f4a7c44d}{%
+           family={Dramais},
+           familyi={D\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{958088f332b01a5bd6822a14227d8d38}
+      \strng{fullhash}{a8dc8dd3ce3c033f6ff91cebab7c8b52}
+      \strng{bibnamehash}{a8dc8dd3ce3c033f6ff91cebab7c8b52}
+      \strng{authorbibnamehash}{a8dc8dd3ce3c033f6ff91cebab7c8b52}
+      \strng{authornamehash}{958088f332b01a5bd6822a14227d8d38}
+      \strng{authorfullhash}{a8dc8dd3ce3c033f6ff91cebab7c8b52}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Estimating the contribution of the different error sources in a given streamgauging offers a practical tool to improve the measurement strategy. To address the limitations of the method proposed by the {ISO} 748 standard, a generalized approach is introduced for computing the uncertainty associated with velocity-area discharge measurements. Direct computation methods are suggested for estimating the uncertainty components related to the vertical integration of velocity and to the transversal integration of velocity and depth. Discharge extrapolations to the edges and in the top/bottom layers are explicitly taken into account, as well as the distribution of the verticals throughout the cross-section. The new uncertainty analysis method was applied to streamgauging data which are representative of varied site conditions and field procedures. The new method appears to be more versatile than the {ISO} 748 method, and better suited to the diversity of streamgauging procedures. It is possible to implement it in discharge computation software such as {BAREME}.}
+      \field{day}{1}
+      \field{issn}{0018-6368, 1958-5551}
+      \field{journaltitle}{La Houille Blanche}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{La Houille Blanche}
+      \field{title}{Quantification des incertitudes sur les jaugeages par exploration du champ des vitesses}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{100}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{31\bibrangedash 39}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1051/lhb/2014047
+      \endverb
+      \verb{file}
+      \verb Le Coz et al. - 2014 - Quantification des incertitudes sur les jaugeages .pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\IGQ93TUD\\Le Coz et al. - 2014 - Quantification des incertitudes sur les jaugeages .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1051/lhb/2014047
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1051/lhb/2014047
+      \endverb
+    \endentry
+    \entry{le_coz_combining_2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=31ac1be5bb953424f3ec0cd25a701e44}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c3e2ae5c98d75f1045f911dd25362f72}{%
+           family={Bonnifait},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=12d5bea743c1be6801dfbb7d106227df}{%
+           family={Branger},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=51c08f86a7dfe8fd50752f94e4e2b7cf}{%
+           family={Le\bibnamedelima Boursicaud},
+           familyi={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{958088f332b01a5bd6822a14227d8d38}
+      \strng{fullhash}{8a516aadc6d4ffa8dbb389e309f56d45}
+      \strng{bibnamehash}{8a516aadc6d4ffa8dbb389e309f56d45}
+      \strng{authorbibnamehash}{8a516aadc6d4ffa8dbb389e309f56d45}
+      \strng{authornamehash}{958088f332b01a5bd6822a14227d8d38}
+      \strng{authorfullhash}{8a516aadc6d4ffa8dbb389e309f56d45}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Discharge time series in rivers and streams are usually based on simple stage-discharge relations calibrated using a set of direct stage-discharge measurements called gaugings. Bayesian inference recently emerged as a most promising framework to build such hydrometric rating curves accurately and to estimate the associated uncertainty. In addition to providing the rigorous statistical framework necessary to uncertainty analysis, the main advantage of the Bayesian analysis of rating curves arises from the quantitative assessment of (i) the hydraulic controls that govern the stage-discharge relation, and of (ii) the individual uncertainties of available gaugings, which often diﬀer according to the discharge measurement procedure and the ﬂow conditions. In this paper, we introduce the {BaRatin} method for the Bayesian analysis of stationary rating curves and we apply it to three typical cases of hydrometric stations with contrasted ﬂow conditions and variable abundance of hydraulic knowledge and gauging data. The results exemplify that the thorough analysis of hydraulic controls and the quantiﬁcation of gauging uncertainties are required to obtain reliable and physically sound results.}
+      \field{issn}{00221694}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{shortjournal}{Journal of Hydrology}
+      \field{shorttitle}{Combining hydraulic knowledge and uncertain gaugings in the estimation of hydrometric rating curves}
+      \field{title}{Combining hydraulic knowledge and uncertain gaugings in the estimation of hydrometric rating curves: A Bayesian approach}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2022}
+      \field{volume}{509}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{573\bibrangedash 587}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.jhydrol.2013.11.016
+      \endverb
+      \verb{file}
+      \verb Le Coz et al. - 2014 - Combining hydraulic knowledge and uncertain gaugin.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\P3WA4XS6\\Le Coz et al. - 2014 - Combining hydraulic knowledge and uncertain gaugin.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169413008329
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169413008329
+      \endverb
+    \endentry
+    \entry{le_delliou_recommandations_2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=087b5c453761e4a0d46f8d95fb023549}{%
+           family={Le\bibnamedelima Delliou},
+           familyi={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{087b5c453761e4a0d46f8d95fb023549}
+      \strng{fullhash}{087b5c453761e4a0d46f8d95fb023549}
+      \strng{bibnamehash}{087b5c453761e4a0d46f8d95fb023549}
+      \strng{authorbibnamehash}{087b5c453761e4a0d46f8d95fb023549}
+      \strng{authornamehash}{087b5c453761e4a0d46f8d95fb023549}
+      \strng{authorfullhash}{087b5c453761e4a0d46f8d95fb023549}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents the guidelines published in 2013 by the French Committee on Dams and Reservoirs for the design and dimensioning of the spillways of dams. Consistent with recent documents prepared for the dams themselves (gravity dams and embankment dams), these recommendations provide detailed examples of practical constructive arrangements, precise the usual practices for spillway design criteria and add a new approach for the ultimate safety of structures in case of flood. This additional verification is consistent with the safety reports which are now mandatory for the larger dams.}
+      \field{day}{1}
+      \field{issn}{0018-6368, 1958-5551}
+      \field{journaltitle}{La Houille Blanche}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{La Houille Blanche}
+      \field{title}{Recommandations pour le dimensionnement des évacuateurs de crues de barrages}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{100}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{54\bibrangedash 58}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1051/lhb/2014050
+      \endverb
+      \verb{file}
+      \verb Le Delliou - 2014 - Recommandations pour le dimensionnement des évacua.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\FRCVEM5F\\Le Delliou - 2014 - Recommandations pour le dimensionnement des évacua.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1051/lhb/2014050
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1051/lhb/2014050
+      \endverb
+    \endentry
+    \entry{mansanarez_shift_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=455131f2a3b686a8292d87b93de0ed61}{%
+           family={Mansanarez},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fdfd104d8fe9bba93e738adb18ff6361}{%
+           family={Coz},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi Le},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bea14a4aebc300b875a8d8f8fe617836}{%
+           family={Darienzo},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7494d80a0ce1a180c9f3c7c55a4c919}
+      \strng{fullhash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \strng{bibnamehash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \strng{authorbibnamehash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \strng{authornamehash}{d7494d80a0ce1a180c9f3c7c55a4c919}
+      \strng{authorfullhash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Establishing streamflow time series in unstable rivers is challenged by changes in the stage-discharge relation after floods. Then, the field hydrologist must develop a new stage-discharge rating curve using new calibration data but also using some information from previous calibration data and previous rating curves. The process includes a large amount of informal expert knowledge and hydraulic assumptions seldom made explicit. This paper develops a stage-period-discharge ({SPD}) model based on the physical interpretation of changes in the stage-discharge relation across a series of stability periods defined by known dates and times. Using simple hydraulic equations, the user provides prior knowledge on the controls, their static and varying parameters, and their possible changes. As a single model is used for all the periods, the estimation of all rating curves can be performed in one go: All gaugings hence provide information to estimate the static parameters and the varying parameters for the relevant periods. Bayesian inference is used, providing a natural way to include prior knowledge and to quantify uncertainty. The generality and some key properties of the method are demonstrated through application to two hydrometric stations, differing in hydraulic configuration and in number and type of changes. Specific experiments demonstrate the ability of the {SPD} model to transfer information across periods. Consequently, rating curves are more precisely estimated than by separately estimating them for each period. The {SPD} model provides a hydraulically based, transparent, and user-friendly approach to replace manual shift corrections traditionally applied in operational practice, with a quantification of uncertainties.}
+      \field{issn}{0043-1397, 1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{title}{Shift Happens! Adjusting Stage‐Discharge Rating Curves to Morphological Changes at Known Times}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2022}
+      \field{volume}{55}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2876\bibrangedash 2899}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1029/2018WR023389
+      \endverb
+      \verb{file}
+      \verb Mansanarez et al. - 2019 - Shift Happens! Adjusting Stage‐Discharge Rating Cu.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\8BFEYGFE\\Mansanarez et al. - 2019 - Shift Happens! Adjusting Stage‐Discharge Rating Cu.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023389
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023389
+      \endverb
+    \endentry
+    \entry{mansanarez_rapid_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=06c83a4c6c0958a82537f9badd43b6df}{%
+           family={Mansanarez},
+           familyi={M\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+        {{hash=94b28bba417be162d5cc579e6e2e2cde}{%
+           family={Westerberg},
+           familyi={W\bibinitperiod},
+           given={Ida\bibnamedelima K.},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4a6882cbe3650ab9b2f0bfa5bbc844f2}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Norris},
+           giveni={N\bibinitperiod}}}%
+        {{hash=63b55117537750c3469c9d3111efe858}{%
+           family={Lyon},
+           familyi={L\bibinitperiod},
+           given={Steve\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{90e2a0f5266f3a0aca9370eaac1baea1}
+      \strng{fullhash}{ecc38dfb0389328ec9624bd8d2e57e16}
+      \strng{bibnamehash}{ecc38dfb0389328ec9624bd8d2e57e16}
+      \strng{authorbibnamehash}{ecc38dfb0389328ec9624bd8d2e57e16}
+      \strng{authornamehash}{90e2a0f5266f3a0aca9370eaac1baea1}
+      \strng{authorfullhash}{ecc38dfb0389328ec9624bd8d2e57e16}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0043-1397, 1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{title}{Rapid Stage‐Discharge Rating Curve Assessment Using Hydraulic Modeling in an Uncertainty Framework}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{55}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9765\bibrangedash 9787}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1029/2018WR024176
+      \endverb
+      \verb{file}
+      \verb Mansanarez_2019- Rapid Stage‐Discharge Rating Curve Assessment Using Hydraulic Modeling in an.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\FR2A7RYE\\Mansanarez_2019- Rapid Stage‐Discharge Rating Curve Assessment Using Hydraulic Modeling in an.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1029/2018WR024176
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1029/2018WR024176
+      \endverb
+    \endentry
+    \entry{mcmillan_rating_2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=75f18c26dea89feae7da6c7c91f71c75}{%
+           family={{McMillan}},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=eb2283d33aa4cf0bf9265afc2f0a5c1d}{%
+           family={Westerberg},
+           familyi={W\bibinitperiod},
+           given={I.\bibnamedelimi K.},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{23e9de4c29ef990cfedd6dc3c0ad55f1}
+      \strng{fullhash}{23e9de4c29ef990cfedd6dc3c0ad55f1}
+      \strng{bibnamehash}{23e9de4c29ef990cfedd6dc3c0ad55f1}
+      \strng{authorbibnamehash}{23e9de4c29ef990cfedd6dc3c0ad55f1}
+      \strng{authornamehash}{23e9de4c29ef990cfedd6dc3c0ad55f1}
+      \strng{authorfullhash}{23e9de4c29ef990cfedd6dc3c0ad55f1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{River discharge values, estimated using a rating curve, are subject to both random and epistemic errors. We present a new likelihood function, the ‘Voting Point’ likelihood that accounts for both error types and enables generation of multiple possible multisegment power-law rating curve samples that aim to represent the total uncertainty. The rating curve samples can be used for subsequent discharge analysis that needs total uncertainty estimation, e.g. regionalisation studies or calculation of hydrological signatures.}
+      \field{day}{30}
+      \field{issn}{08856087}
+      \field{journaltitle}{Hydrological Processes}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{7}
+      \field{shortjournal}{Hydrol. Process.}
+      \field{shorttitle}{Rating curve estimation under epistemic uncertainty}
+      \field{title}{Rating curve estimation under epistemic uncertainty}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{29}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1873\bibrangedash 1882}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/hyp.10419
+      \endverb
+      \verb{file}
+      \verb McMillan et Westerberg - 2015 - Rating curve estimation under epistemic uncertaint.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\C4RAD4S5\\McMillan et Westerberg - 2015 - Rating curve estimation under epistemic uncertaint.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.10419
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.10419
+      \endverb
+    \endentry
+    \entry{mcmillan_impacts_2010}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d37ab95f44faf59becc3dd63d2efcf61}{%
+           family={{McMillan}},
+           familyi={M\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+        {{hash=26267b69dee0f1640e61719ca41351e2}{%
+           family={Freer},
+           familyi={F\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e720bddb729a8b3e7dd4a679cce4eb3b}{%
+           family={Pappenberger},
+           familyi={P\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8a0af02a19090613582eb89aba73da5d}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=348ae781c6da4621f986c402f62bf6f3}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Martyn},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{90fd5816d5ed716f09da853f57a5af18}
+      \strng{fullhash}{f8dd4a6d379bdab4f05f59a886c3b0b8}
+      \strng{bibnamehash}{f8dd4a6d379bdab4f05f59a886c3b0b8}
+      \strng{authorbibnamehash}{f8dd4a6d379bdab4f05f59a886c3b0b8}
+      \strng{authornamehash}{90fd5816d5ed716f09da853f57a5af18}
+      \strng{authorfullhash}{f8dd4a6d379bdab4f05f59a886c3b0b8}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{3}
+      \field{title}{Impacts of uncertain river flow data on rainfall-runoff model calibration and discharge predictions}
+      \field{volume}{24}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1002/hyp.7587
+      \endverb
+      \verb{file}
+      \verb McMillan - Impacts of uncertain river flow data on rainfall-r.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\R7FAJNN5\\McMillan - Impacts of uncertain river flow data on rainfall-r.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.7587
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.7587
+      \endverb
+    \endentry
+    \entry{mcmillan_benchmarking_2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d37ab95f44faf59becc3dd63d2efcf61}{%
+           family={{McMillan}},
+           familyi={M\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8a0af02a19090613582eb89aba73da5d}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=26267b69dee0f1640e61719ca41351e2}{%
+           family={Freer},
+           familyi={F\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{90fd5816d5ed716f09da853f57a5af18}
+      \strng{fullhash}{53c5825b5df5f05adc014f77ce3d73d3}
+      \strng{bibnamehash}{53c5825b5df5f05adc014f77ce3d73d3}
+      \strng{authorbibnamehash}{53c5825b5df5f05adc014f77ce3d73d3}
+      \strng{authornamehash}{90fd5816d5ed716f09da853f57a5af18}
+      \strng{authorfullhash}{53c5825b5df5f05adc014f77ce3d73d3}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This review and commentary sets out the need for authoritative and concise information on the expected error distributions and magnitudes in observational data. We discuss the necessary components of a benchmark of dominant data uncertainties and the recent developments in hydrology which increase the need for such guidance. We initiate the creation of a catalogue of accessible information on characteristics of data uncertainty for the key hydrological variables of rainfall, river discharge and water quality (suspended solids, phosphorus and nitrogen). This includes demonstration of how uncertainties can be quantiﬁed, summarizing current knowledge and the standard quantitative results available. In particular, synthesis of results from multiple studies allows conclusions to be drawn on factors which control the magnitude of data uncertainty and hence improves provision of prior guidance on those uncertainties. Rainfall uncertainties were found to be driven by spatial scale, whereas river discharge uncertainty was dominated by ﬂow condition and gauging method. Water quality variables presented a more complex picture with many component errors. For all variables, it was easy to ﬁnd examples where relative error magnitudes exceeded 40\%. We consider how data uncertainties impact on the interpretation of catchment dynamics, model regionalization and model evaluation. In closing the review, we make recommendations for future research priorities in quantifying data uncertainty and highlight the need for an improved ‘culture of engagement’ with observational uncertainties. Copyright © 2012 John Wiley \& Sons, Ltd.}
+      \field{day}{30}
+      \field{issn}{08856087}
+      \field{journaltitle}{Hydrological Processes}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{26}
+      \field{shortjournal}{Hydrol. Process.}
+      \field{shorttitle}{Benchmarking observational uncertainties for hydrology}
+      \field{title}{Benchmarking observational uncertainties for hydrology: rainfall, river discharge and water quality}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{volume}{26}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4078\bibrangedash 4111}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1002/hyp.9384
+      \endverb
+      \verb{file}
+      \verb McMillan et al. - 2012 - Benchmarking observational uncertainties for hydro.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\X6EEIN2B\\McMillan et al. - 2012 - Benchmarking observational uncertainties for hydro.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.9384
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.9384
+      \endverb
+    \endentry
     \entry{medd_site_nodate}{online}{}
       \name{author}{1}{}{%
         {{hash=31d26db20a490f3b5819dc5fc00748b2}{%
@@ -50,6 +1099,313 @@
       \endverb
       \verb{url}
       \verb https://www.hydro.eaufrance.fr/sitehydro/V7200010/synthese
+      \endverb
+    \endentry
+    \entry{morlot_dynamic_2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=625a31580ecd238c772e26888b10415c}{%
+           family={Morlot},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7de09034815679e0bea46d9be1a13997}{%
+           family={Perret},
+           familyi={P\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=85b6ce9ef78dd58595932f4498b8e399}{%
+           family={Favre},
+           familyi={F\bibinitperiod},
+           given={Anne-Catherine},
+           giveni={A\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=3a4b7ef4b7e302f8e9e93e16c53330dd}{%
+           family={Jalbert},
+           familyi={J\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8f25524fba61966c81fb0a053c926ff}
+      \strng{fullhash}{ff97949be00fa109764a020e40bd3873}
+      \strng{bibnamehash}{ff97949be00fa109764a020e40bd3873}
+      \strng{authorbibnamehash}{ff97949be00fa109764a020e40bd3873}
+      \strng{authornamehash}{b8f25524fba61966c81fb0a053c926ff}
+      \strng{authorfullhash}{ff97949be00fa109764a020e40bd3873}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A rating curve is used to indirectly estimate the discharge in rivers based on water level measurements. The discharge values obtained from a rating curve include uncertainties related to the direct stage–discharge measurements (gaugings) used to build the curves, the quality of ﬁt of the curve to these measurements and the constant changes in the river bed morphology. Moreover, the uncertainty of discharges estimated from a rating curve increases with the ‘‘age’’ of the rating curve. The level of uncertainty at a given point in time is therefore particularly difﬁcult to assess.}
+      \field{issn}{00221694}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shortjournal}{Journal of Hydrology}
+      \field{shorttitle}{Dynamic rating curve assessment for hydrometric stations and computation of the associated uncertainties}
+      \field{title}{Dynamic rating curve assessment for hydrometric stations and computation of the associated uncertainties: Quality and station management indicators}
+      \field{urlday}{18}
+      \field{urlmonth}{1}
+      \field{urlyear}{2022}
+      \field{volume}{517}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{173\bibrangedash 186}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.jhydrol.2014.05.007
+      \endverb
+      \verb{file}
+      \verb Morlot et al. - 2014 - Dynamic rating curve assessment for hydrometric st.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\F8WHG5IV\\Morlot et al. - 2014 - Dynamic rating curve assessment for hydrometric st.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169414003618
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169414003618
+      \endverb
+    \endentry
+    \entry{petersen-overleir_uncertainty_2005}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9888fd3896159082d729e0cebb93b91a}{%
+           family={Petersen-Øverleir},
+           familyi={P\bibinithyphendelim Ø\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=65ca72ab76a994562bdf616ea792f4b5}{%
+           family={Reitan},
+           familyi={R\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2494ccf2e0f823a9a2f1c73514befa0e}
+      \strng{fullhash}{2494ccf2e0f823a9a2f1c73514befa0e}
+      \strng{bibnamehash}{2494ccf2e0f823a9a2f1c73514befa0e}
+      \strng{authorbibnamehash}{2494ccf2e0f823a9a2f1c73514befa0e}
+      \strng{authornamehash}{2494ccf2e0f823a9a2f1c73514befa0e}
+      \strng{authorfullhash}{2494ccf2e0f823a9a2f1c73514befa0e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite frequent use of estimated ﬂood discharges from urban and small rural catchments, the assessment of uncertainty in instantaneous discharge due to inaccurate head measurements is generally not performed. The present work discusses the impact of inaccurate head measurement on observed instantaneous ﬂood discharge. The sources and sizes of uncertainties in head determination are discussed. A simple uncertainty model is developed in order to quantify the uncertainty in error-corrupted instantaneous and mean discharge. It is shown that uncertainty in mean discharge is less affected by uncorrelated head measurement error, while instantaneous discharges are substantially affected. Practical modelling using data from a Norwegian urban gauging station is undertaken. It is shown that the estimated annual maximum instantaneous ﬂood discharge from this watershed has 95\% conﬁdence limits with sizes of 17 – 19\% of the estimated discharge for average head measurement accuracy. Furthermore, it is shown that variability in head determination causes only a minor potential for bias in estimated instantaneous ﬂood population statistics and quantiles.}
+      \field{day}{1}
+      \field{issn}{0029-1277, 2224-7955}
+      \field{journaltitle}{Hydrology Research}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Uncertainty in flood discharges from urban and small rural catchments due to inaccurate head measurement}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{36}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{245\bibrangedash 257}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.2166/nh.2005.0018
+      \endverb
+      \verb{file}
+      \verb Petersen-Øverleir et Reitan - 2005 - Uncertainty in flood discharges from urban and sma.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7BHAYP7M\\Petersen-Øverleir et Reitan - 2005 - Uncertainty in flood discharges from urban and sma.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iwaponline.com/hr/article/36/3/245/623/Uncertainty-in-flood-discharges-from-urban-and
+      \endverb
+      \verb{url}
+      \verb https://iwaponline.com/hr/article/36/3/245/623/Uncertainty-in-flood-discharges-from-urban-and
+      \endverb
+    \endentry
+    \entry{petersen-overleir_bayesian_2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d1c9c6e92f302dd6a0ec55ce03ac0d73}{%
+           family={Petersen-Øverleir},
+           familyi={P\bibinithyphendelim Ø\bibinitperiod},
+           given={Asgeir},
+           giveni={A\bibinitperiod}}}%
+        {{hash=56403e04aaf0f914a84936733922bf33}{%
+           family={Soot},
+           familyi={S\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8e9b633d4516fe021b8818f588395d1}{%
+           family={Reitan},
+           familyi={R\bibinitperiod},
+           given={Trond},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce566b893d1686a3216f8187fe8a28f9}
+      \strng{fullhash}{728982b4ac8003cfee200893d0ef35ce}
+      \strng{bibnamehash}{728982b4ac8003cfee200893d0ef35ce}
+      \strng{authorbibnamehash}{728982b4ac8003cfee200893d0ef35ce}
+      \strng{authornamehash}{ce566b893d1686a3216f8187fe8a28f9}
+      \strng{authorfullhash}{728982b4ac8003cfee200893d0ef35ce}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A streamﬂow time-series is normally obtained by transforming a timeseries of recorded stage to discharge using an estimated rating curve. The accuracy of this streamﬂow time-series depends on the characteristics of the available stage-discharge measurements used to ﬁt the rating curve. The Norwegian Water Resources and Energy Directorate ({NVE}) has developed a method based on rating curve uncertainty for performing objective quality assessment of streamﬂow timeseries. The method, which is based on a Bayesian statistical framework, uses the available stage-discharge measurements and the corresponding stage time-series to derive statistics utilised for a quality assurance of the streamﬂow time-series. Nearly one thousand streamﬂow time-series periods have been classiﬁed using the method. This paper presents the results.}
+      \field{issn}{0920-4741, 1573-1650}
+      \field{journaltitle}{Water Resources Management}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{9}
+      \field{shortjournal}{Water Resour Manage}
+      \field{title}{Bayesian Rating Curve Inference as a Streamflow Data Quality Assessment Tool}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{23}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1835\bibrangedash 1842}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s11269-008-9354-5
+      \endverb
+      \verb{file}
+      \verb Petersen-Øverleir et al. - 2009 - Bayesian Rating Curve Inference as a Streamflow Da.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\ISEAMT7H\\Petersen-Øverleir et al. - 2009 - Bayesian Rating Curve Inference as a Streamflow Da.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s11269-008-9354-5
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11269-008-9354-5
+      \endverb
+    \endentry
+    \entry{puechberty_charte_2017}{book}{}
+      \name{author}{20}{}{%
+        {{hash=071c4955a37db117cc3833f6e8cde391}{%
+           family={Puechberty},
+           familyi={P\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=88842f8802c0ad1419c5a43e0a8c8b6c}{%
+           family={Perret},
+           familyi={P\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d9f7aa7e005d2bc1f5b062d1ba283258}{%
+           family={Pitsch},
+           familyi={P\bibinitperiod},
+           given={S\bibnamedelima Poligot},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=976e51e922b4e4126a3be580a8db7234}{%
+           family={Battaglia},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=85d412335c1ce61eeda5e03b09a4620a}{%
+           family={Belleville},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1cf90a62b2740e577596815b035fad5c}{%
+           family={Bompart},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d1411e256e3081d1d08faf65feb1a1f3}{%
+           family={Chauvel},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ddee38aef481b34003c3ed53fb414227}{%
+           family={Cousseau},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=88601f5f8bc529900b6d58c0f4a7c44d}{%
+           family={Dramais},
+           familyi={D\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{hash=df3b3377fcb6877fa87d86bab28ac489}{%
+           family={Glaziou},
+           familyi={G\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9fb3fd3d22a3dcd338089112ce01e8bd}{%
+           family={Hauet},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b84edb94c51e4b9de273450c4bec5bcf}{%
+           family={Helouin},
+           familyi={H\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7d61da2d4a67307a86ceaa62c3450f84}{%
+           family={Larrarte},
+           familyi={L\bibinitperiod},
+           given={Frédérique},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5d5e8631c96d2e06b2280df9dac2c4ee}{%
+           family={Coz},
+           familyi={C\bibinitperiod},
+           given={Jérôme\bibnamedelima Le},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b3fb12349d3ec3fca1fe6b453d1442b3}{%
+           family={Marchand},
+           familyi={M\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c8f7c0e780169aaa10460dc159a1c040}{%
+           family={Moquet},
+           familyi={M\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1bd5190f7924f647e8d6179d2320e43c}{%
+           family={Payrastre},
+           familyi={P\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=faa8065b51227eaf3e0bdb15f872db30}{%
+           family={Pierrefeu},
+           familyi={P\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bc68bad01673452fc849128ac93f5476}{%
+           family={Rauzy},
+           familyi={R\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ministère de l’environnement, de l’énergie et de la mer, France}%
+      }
+      \strng{namehash}{893f3a6679dca2879f3170299249b29e}
+      \strng{fullhash}{c7843a7a2345358a73ea21ac6b268d1f}
+      \strng{bibnamehash}{c7843a7a2345358a73ea21ac6b268d1f}
+      \strng{authorbibnamehash}{c7843a7a2345358a73ea21ac6b268d1f}
+      \strng{authornamehash}{893f3a6679dca2879f3170299249b29e}
+      \strng{authorfullhash}{c7843a7a2345358a73ea21ac6b268d1f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{pagetotal}{86}
+      \field{title}{Charte qualité de l'hydrométrie. Guide de bonnes pratiques.}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Puechberty et al. - Charte qualité de l&apos\;hydrométrie. Guide de bon.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\PKED6Z7B\\Puechberty et al. - Charte qualité de l&apos\;hydrométrie. Guide de bon.pdf:application/pdf
       \endverb
     \endentry
     \entry{undrr_human_2020}{report}{}
@@ -88,6 +1444,109 @@
       \endverb
       \verb{url}
       \verb https://www.undrr.org/publication/human-cost-disasters-overview-last-20-years-2000-2019
+      \endverb
+    \endentry
+    \entry{van_der_made_determination_1982}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d5a2fef520081ecb77c0d8a6da441679}{%
+           family={Van\bibnamedelimb Der\bibnamedelima Made},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={J.W.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5a2fef520081ecb77c0d8a6da441679}
+      \strng{fullhash}{d5a2fef520081ecb77c0d8a6da441679}
+      \strng{bibnamehash}{d5a2fef520081ecb77c0d8a6da441679}
+      \strng{authorbibnamehash}{d5a2fef520081ecb77c0d8a6da441679}
+      \strng{authornamehash}{d5a2fef520081ecb77c0d8a6da441679}
+      \strng{authorfullhash}{d5a2fef520081ecb77c0d8a6da441679}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IAHS} Publications}
+      \field{month}{7}
+      \field{series}{Proceedings of the Exeter Symposium}
+      \field{title}{Determination of the accuracy of water level observations}
+      \field{volume}{134}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{pages}{172\bibrangedash 184}
+      \range{pages}{13}
+      \verb{file}
+      \verb VanDerMade1982_StageErrors.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\YUZHZTAB\\VanDerMade1982_StageErrors.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{westerberg_stage-discharge_2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=43f8334597b39076c9224d68c1736e3e}{%
+           family={Westerberg},
+           familyi={W\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0a03ad5c1f55c0f4d610bb580df702b4}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={J.-L.},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=b8f4428e89eb773cb37d3914cee18d53}{%
+           family={Seibert},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6321791d889db7f94311440fa4e7dbe5}{%
+           family={Beven},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b1189a4bbb4b0111596e5b7c0f5160ff}{%
+           family={Halldin},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{301c0f1179fd526d546c5b3e5b8cccdd}
+      \strng{fullhash}{211bf857c856276d873bff32c95f2cb7}
+      \strng{bibnamehash}{211bf857c856276d873bff32c95f2cb7}
+      \strng{authorbibnamehash}{211bf857c856276d873bff32c95f2cb7}
+      \strng{authornamehash}{301c0f1179fd526d546c5b3e5b8cccdd}
+      \strng{authorfullhash}{211bf857c856276d873bff32c95f2cb7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{issn}{08856087}
+      \field{journaltitle}{Hydrological Processes}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{4}
+      \field{shortjournal}{Hydrol. Process.}
+      \field{title}{Stage-discharge uncertainty derived with a non-stationary rating curve in the Choluteca River, Honduras}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{25}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{603\bibrangedash 613}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1002/hyp.7848
+      \endverb
+      \verb{file}
+      \verb Westerberg_2011- Stage‐discharge uncertainty derived with a non‐stationary rating curve in the.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\UV7F26P5\\Westerberg_2011- Stage‐discharge uncertainty derived with a non‐stationary rating curve in the.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.7848
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hyp.7848
       \endverb
     \endentry
   \enddatalist
