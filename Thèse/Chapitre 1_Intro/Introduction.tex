@@ -39,8 +39,8 @@ maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
 	
 	\paragraph{} A l'origine, l'estimation des quantiles de crues était purement empirique. Il s'agissait par exemple, pour une station de mesure donnée, de calculer la fréquence cumulée des débits maximum annuels, classés par ordre croissant. On pouvait alors accéder à de premières estimations de la probabilité au non-dépassement pour un débit donné. Cependant, cette approche comporte de nombreuses limitations, notamment quand il s'agit d'extrapoler au delà du plus fort débit connu. Désormais, la pratique courante, appelée analyse fréquentielle des crues, consiste à estimer les paramètres d'une distribution statistique (préalablement choisie selon la variable hydrologique étudiée) en se basant sur les observations. Cette pratique comporte l'avantage, par rapport aux estimations empiriques, d'être moins sensible à la taille de l'échantillon d'observations disponible. De plus, elle offre la possibilité d'extrapoler au delà de la plus forte crue connue, ce qui permet d'accéder à de grandes périodes de retour qui sont nécessaires pour le dimensionnement d'infrastructures (par exemple jusqu'à $T =$ 10 000 ans pour les barrages français \citep{le_delliou_recommandations_2014}). 
 	
-	\paragraph{} Une autre famille de méthodes probabilistes d'estimation des crues se base sur l'utilisation de modèles hydrologiques (ou modèles pluie/débit) qui simulent la transformation de la pluie en débit au sein de bassin versant. Il s'agit, dans le cas de l'estimation du risque de crue, de simuler une pluie extrême dans un contexte de saturation en eau du bassin versant. Sous cette hypothèse, la distribution des débits est conditionnée à la distribution des pluie extrêmes. Il n'existe pas de consensus scientifique en faveur des méthodes classiques d'analyse fréquentielle (basées uniquement les chroniques de débit), ou en faveur des méthodes pluie/débit. La présente thèse s'intéresse uniquement aux méthodes d'analyse fréquentielle classiques.
-		
+	\paragraph{A REVOIR} Une autre famille de méthodes probabilistes d'estimation des crues se base sur l'utilisation de modèles hydrologiques (ou modèles pluie/débit) qui simulent la transformation de la pluie en débit au sein de bassin versant. Il s'agit, dans le cas de l'estimation du risque de crue, de simuler une pluie extrême dans un contexte de saturation en eau du bassin versant. Sous cette hypothèse, la distribution des débits est conditionnée à la distribution des pluie extrêmes. Il n'existe pas de consensus scientifique en faveur des méthodes classiques d'analyse fréquentielle (basées uniquement les chroniques de débit), ou en faveur des méthodes pluie/débit. La présente thèse s'intéresse uniquement aux méthodes d'analyse fréquentielle classiques.
+			    \paragraph{} SHYREG, GRADEX, SHADEX, etc
 		
 	\section{Analyse fréquentielle des crues et incertitudes}
 	
@@ -60,23 +60,37 @@ maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
 	
 	\paragraph{} Tout d'abord, plusieurs sources d'incertitudes autour de la mesure de la hauteur d'eau sont identifiées dans la littérature (\citet{van_der_made_determination_1982}; \citet{petersen-overleir_uncertainty_2005}; \citet{mcmillan_benchmarking_2012}; \citet{horner_impact_2018}). Elles concernent notamment la précision de la lecture visuelle de l'échelle limnimétrique, et dans le cas de mesures automatisées, la précision des capteurs et la calibration de ces derniers. La fréquence des relevés entraine également des erreurs d'interpolation, particulièrement dans le cas de chronique anciennes pour lesquelles les relevés étaient effectués visuellement par un opérateur, et étaient donc moins fréquents qu'avec les systèmes automatiques modernes. Cependant, ce type d'erreur n'est que très rarement abordé dans la littérature, alors qu'il peut être particulièrement impactant dans le cas de relevés anciens (\citet{hamilton_quantifying_2012}; \citet{kuentz_hydrometrie_2014}).
 	
-	\paragraph{} Les courbes de tarage représentent une des plus importantes sources d'incertitude en hydrométrie. Les jaugeages, données indispensables à l'élaboration des courbes de tarage, sont eux-même impactés par des incertitudes qui dépendent de la méthode de mesure \citep{lecoz_quantification_2014}. De plus, la réalisation de jaugeages est particulièrement complexe en situation de crue. Le processus d'estimation de la courbe de tarage est également affecté d'incertitudes, provenant d'une part du modèle choisi pour représenter les conditions hydrauliques du cours d'eau, et d'autre part de l'estimation des paramètres de ce modèle. L'estimation de l'incertitude des courbes de tarage est très largement étudiée dans la littérature (\citet{petersen-overleir_bayesian_2009}; \citet{juston_rating_2014}; \citet{le_coz_combining_2014}; \citet{morlot_dynamic_2014}; \citet{coxon_novel_2015}; \citet{mcmillan_rating_2015}; \citet{mansanarez_rapid_2019}). Il faut également noter qu'une courbe de tarage a une validité temporelle limitée. En effet, la relation hauteur/débit est susceptible de varier dans le temps au gré des changements morphologiques causés par les crues, des travaux dans le lit mineur, de la croissance de la végétation aquatique, etc. Ainsi, la précision des séries de débit est dépendante du contrôle fréquent de la relation hauteur/débit via la réalisation de jaugeages. Les ruptures temporelles de cette relation se nomment "détarages". Leur détection et leur impact sur l'incertitude des séries de débit constitue un sujet particulièrement étudié dans la littérature (\citet{westerberg_stage-discharge_2011}; \citet{guerrero_temporal_2012}; \citet{morlot_dynamic_2014}; \citet{lapuszek_methods_2015}; \citet{mcmillan_impacts_2010}; \citet{darienzo_detection_2021}; \citet{mansanarez_shift_2019}). Lorsqu'on s'intéresse particulièrement aux crues 
-	
-	en france la plupart des stations ne sont pas jaugées sous Q2 
-	
-	liste et limitations dans la littérature
-	extrapolation CT (lang 2010)
+	\paragraph{} Les courbes de tarage représentent une des plus importantes sources d'incertitude en hydrométrie. Les jaugeages, données indispensables à l'élaboration des courbes de tarage, sont eux-même impactés par des incertitudes qui dépendent de la méthode de mesure \citep{lecoz_quantification_2014}. De plus, la réalisation de jaugeages est particulièrement complexe en situation de crue. Le processus d'estimation de la courbe de tarage est également affecté d'incertitudes, provenant d'une part du modèle choisi pour représenter les conditions hydrauliques du cours d'eau, et d'autre part de l'estimation des paramètres de ce modèle. L'estimation de l'incertitude des courbes de tarage est très largement étudiée dans la littérature (\citet{petersen-overleir_bayesian_2009}; \citet{juston_rating_2014}; \citet{le_coz_combining_2014}; \citet{morlot_dynamic_2014}; \citet{coxon_novel_2015}; \citet{mcmillan_rating_2015}; \citet{mansanarez_rapid_2019}). Il faut également noter qu'une courbe de tarage a une validité temporelle limitée. En effet, la relation hauteur/débit est susceptible de varier dans le temps au gré des changements morphologiques causés par les crues, des travaux dans le lit mineur, de la croissance de la végétation aquatique, etc. Ainsi, la précision des séries de débit est dépendante du contrôle fréquent de la relation hauteur/débit via la réalisation de jaugeages. Les ruptures temporelles de cette relation se nomment "détarages". Leur détection et leur impact sur l'incertitude des séries de débit constitue un sujet particulièrement étudié dans la littérature (\citet{mcmillan_impacts_2010}; \citet{westerberg_stage-discharge_2011}; \citet{guerrero_temporal_2012}; \citet{morlot_dynamic_2014}; \citet{lapuszek_methods_2015};  \citet{darienzo_detection_2021}). Les fortes crues étant rares et dangereuses à jauger, la partie haute de la courbe de tarage est la plus incertaine et nécessite généralement une extrapolation. En France, la plupart des stations ne sont pas jaugées au delà de la crue de période de retour 2 ans \citep{lang_extrapolation_2010}. Il est possible d'améliorer la précision de ces extrapolations en utilisant des modèles hydrauliques, ou bien en utilisant des jaugeages de crue en dehors de leur période temporelle de validité. Une solution plus satisfaisante consiste en l'utilisation d'un modèle pour lequel certains paramètres de la courbe de tarage sont constants au cours des différentes périodes de stabilité, alors que d'autres sont variables \citep{mansanarez_shift_2019}. Il existe de nombreuses méthodes pour estimer individuellement les sources d'incertitude de nature hydrométrique listées ci-dessus. En revanche, la manière dont elles se propagent jusqu'à l'estimation des hydrogrammes, voire même jusqu'à l'estimation des quantiles de crue extrêmes n'a que très peu été étudié. Pourtant, l'incertitude hydrométrique peut être particulièrement importante dans le cas de relevés anciens et impacter significativement les résultats de l'analyse fréquentielle des crues.
 	
 	\subsection{Incertitude d'échantillonnage}
-	taille chronique kjeldsen et autres
-		\subsubsection{Analyse régionale}	
-		
-		\subsubsection{•}
 	
-	\subsection{Hypothèses de modélisation}
+	\paragraph{} L'incertitude d'échantillonnage est un des problèmes majeurs de l'analyse fréquentielle des crues et provient de la longueur limitée des chroniques de débit (\citet{apel_flood_2004}; \citet{kjeldsen_uncertainty_2011}). La longueur des chroniques de débit atteint en moyenne 50 ans en France \citep{le_coz_quantifying_2017} alors que les quantiles cibles de l'analyse fréquentielle peuvent correspondre a des périodes de retour bien plus importantes (i.e. 100 ans, 1000 ans, ou plus). On peut par exemple faire le parallèle avec l'interprétation des sondages d'intentions de vote d'un petit échantillon de la population d'un pays. Dans le cas de l'analyse fréquentielle des crues, plus la période de retour visée est grande devant la longueur de la chronique disponible, plus l'incertitude d'échantillonnage est importante. Cette limitation est bien connue et prise en compte dans les études opérationnelles. Par exemple, selon la réglementation anglaise, il est déconseillé d'estimer des quantiles de période de retour supérieure à la moitié de la longueur de la chronique utilisée \citep{whs_flood_2008}. La quantification probabiliste de ce type d'incertitude est nécessaire et a été largement étudiée dans la littérature \citep{renard_application_2006}. Il existe diverses méthodes pour réduire l'incertitude d'échantillonnage dans le cadre de l'analyse fréquentielle des crues. Cette réduction est généralement obtenue en élargissant les échantillons de données sous différentes hypothèses.
+	
+	
+		\subsection{Hypothèses de modélisation}
 	distribution, max an ou sup-seuil, hypothèse de stationnarité (climat, anthropique, autre)
 	
 	description rapide, pas abordé dans la thèse.
+	
+	Sharma et al, 2018 : Despite evidence of increasing precipitation extremes, corresponding evidence for increases in flooding remains elusive. 
+	
+	bloeshl nature 2019
+	
+	
+	\section{Solutions pour la réduction de l'incertitude des quantiles extrêmes}
+	
+	\paragraph{A ECRIRE} cible principale : U échantillonnage
+	
+	\subsection{Analyse régionale}
+	
+	\paragraph{} Afin de réduire l'incertitude d'échantillonnage lors de l'analyse fréquentielle des crues d'une station hydrométrique donnée, il est possible d'élargir spatialement le jeu de données en faisant l'hypothèse que la distribution des crues est homogène au sein d'une région définie \citet{hosking_regional_1997}; \citet{gaume_bayesian_2010}; \citet{viglione_flood_2013}) ou bien en utilisant un modèle qui prend en compte les dépendances spatiales inter-stations \citet{kjeldsen_exploratory_2009}; \citet{renard_bayesian_2011}; \citet{sun_general_2014}). Un des aspects complexes de ce type d'analyse provient notamment de la délimitation des régions homogènes du point de vue des crues (\citet{ouarda_regional_2001}; \citet{han_network_2020}). De plus, la notion de "région homogène" perd de son sens dans le cas de grands fleuves sous l'influence de nombreux facteurs hydro-climatiques.  
+	
+	\subsection{Analyse historique}
+	
+	\paragraph{} Une autre approche fréquemment utilisée consiste à élargir temporellement le jeu de données par l'utilisation de données historiques \citet{brazdil_historical_2006}. Ces données peuvent être de forme et de qualité très variables. De plus, leur utilisation peut nécessiter la formulation d'hypothèses plus ou moins fortes. Dans le meilleur des cas, la recherche de données dans les archives peut conduire à retrouver des données continues plus anciennes que les données initialement disponibles. Cette situation est probablement plus fréquente que ce que l'on pourrait penser. Les passages de témoin à travers les époques entre les différentes entités administratives responsables de la navigation ou de la surveillance des cours d'eau n'entrainent pas systématiquement la transmission des données. De plus, le contexte culturel ou politique n'est pas toujours en faveur d'une centralisation des données hydrométriques. Enfin, les récentes (à l'échelle des crues extrêmes) avancées de stockage en base de données informatiques n'ont pas systématiquement mené à la bancarisation des données hydrométriques historiques. En France, il est par exemple fréquent que seule une part très limitée des données limnimétriques potentiellement disponibles pour une station données soit disponible dans la base de données publique (\url{hydro.eaufrance.fr}). Ces données limnimétriques anciennes, lorsqu'elles sont continues, rentrent dans le cadre de l'analyse fréquentielle classique décrit précédemment. Il ne faut en revanche pas négliger les incertitudes hydrométriques dans ce cas. En effet, les jaugeages anciens peuvent être rares et la relation hauteur-débit complexe à estimer. 
+	
+	\paragraph{} Plus généralement, les données de crue historiques (i.e. pré-enregistrements continus) peuvent prendre des formes très variées : repères de crues (\citet{parkes_defining_2016}; \citet{piotte_collection_2016}; \citet{engeland_new_2020}; \citet{medd_reperes_nodate}), témoignages de crues (\citet{pichard_les_1995}; \citet{naulet_flood_2005}; \citet{neppel_flood_2010}; \citet{kjeldsen_documentary_2014}; \citet{macdonald_reassessing_2014}), reconstructions de crues pré-historiques ("paléofloods" en anglais) issues de divers proxys tels que les dépôts sédimentaires (\citet{baker_paleoflood_1987}; \citet{dezileau_multidating_2014}; \citet{engeland_new_2020}; \citet{corella_1400-years_2021};\citet{wilhelm_reconstructing_2022}) ou les cernes d'espèces végétales ripariennes (domaine de la dendrochronologie) (\citet{martens_dendrochronological_1992}; \citet{loomans_flood_1993}; \citet{ballesteros-canovas_review_2015}). Ces données ont pour point commun de ne pas être continues, par opposition aux données des stations limnimétriques. L'exhaustivité de ces traces ponctuelles de crues ne peut donc pas être garantie et leur utilisation pour l'analyse fréquentielle nécessite des traitements statistiques adaptés. Pour cela, on peut formuler l'hypothèse que les données décrites ci-dessus concernent uniquement des événements d'une magnitude suffisante pour avec laissé une trace dans les écrits, les sédiments de la plaine alluviale, ou pour avoir mérité l'installation d'un repère de crue. Cette magnitude est généralement appelée "seuil de perception". Il s'agit ici de faire l'hypothèse que, durant une période historique donnée, toutes les crues dont la magnitude a dépassé le seuil de perception ont laissé une trace, ce qui permet de formaliser une forme d'exhaustivité au-dessus de ce seuil. Le corolaire à cette hypothèse est que, pour toutes les années sans mention de crue, on suppose que le seuil de perception n'a pas été dépassé. Sous ce postulat, les données historiques de crues peuvent être intégrées à l'analyse fréquentielle des crues (\citet{gerard_probability_1979}; \citet{stedinger_flood_1986}), qu'il soit possible d'en estimer précisément le débit, ou seulement de garantir qu'elle étaient supérieures au seuil de perception. Dans la littérature, l'utilisation des crues historique pour l'analyse fréquentielle est très fréquente depuis les années 1980 et cette pratique commence à entrer dans le cadre réglementaire de l'estimation des risques d'inondation dans certains pays. Néanmoins, le seuil de perception et la durée durant laquelle il est actif sont dans la grande majorité des cas supposés parfaitement connus, de même que les données historiques sont considérées comme étant parfaitement exhaustives. Dans ces cas de figure, l'incertitude  des quantiles extrêmes de crues est probablement sous-estimée. 
+
 	
 	
 
@@ -91,22 +105,10 @@ maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
 
 
 
-\section{Estimation du risque inondation}
-		\subsection{Concept de période de retour}
-		Cours Benjamin + Thèse brigode 
-		
-	    \subsection{Estimations empiriques}
-	    Cours Ben + biblio anciennes stedinger etc
-	    \subsection{Ajustements statistiques}
-	    cours ben + livres FFA : Hamed 2019; Jain 2019
-	    ajuster une distribution : block maxima ou Over treshold
-	    \subsection{Méthodes régionales}
-	    Thèse pierre
-	    \subsection{Méthodes pluie/débit}
-	    thèse pierre
-	    \paragraph{} SHYREG, GRADEX, SHADEX, etc
+
+
 	    
-	    \paragraph{} Quelle que soit la méthode d'estimation du risque retenue, des chroniques de débit sont nécessaires.
+	   
 	    
 \section{Élaboration des chroniques de débit}
 		\subsection{Schéma hydrométrique usuel}
@@ -119,20 +121,9 @@ maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
 		difficulté d'avoir un échantillon exhaustif\\
 		reconstitutions par la modélisation\\
 	
-		
-\section{Analyse fréquentielle des crues}
-		\subsection{Méthodes d'échantillonnage}
-			\subsubsection{Max annuels}
-			\subsubsection{Sup-seuil}
+
 			
-			ATTENTION AUX DOUBLONS AVEC SECTION 2
-		\subsection{Sources d'incertitude}
-			\subsubsection{Chroniques de débit}
-			\subsubsection{Échantillonnage}
-			\subsubsection{Choix de distribution}
-			\subsubsection{Respect de l'hypothèse de stationnarité}
-			
-Sharma et al, 2018 : Despite evidence of increasing precipitation extremes, corresponding evidence for increases in flooding remains elusive. 
+
 		
 \section{Analyse fréquentielle des crues en contexte historique}
 		\subsection{Intérêt de l'utilisation des données historiques}
@@ -148,12 +139,8 @@ where there is evidence that over 70 floods occurred in the
 Ahr river basin since the year 1500, including the large 1601
 event (Seel, 1983). In addition, 1818 and 1848 were also
 large events with currently no reconstructed streamflows."
-		
-		\subsection{Données continues anciennes}
-		Nombreuses données qui dorment dans les archives : illustrations ? Données dispo en banque hydro VS réalité
-		\subsection{Données pré-enregistrements continus}
-		Liste d'études histo dans le monde, en europe et en France
-		\subsection{Incertitudes autour de l'analyse fréquentielle historique}
+
+
 		
 \section{Le risque inondation dans la basse vallée  du Rhône}
 
