@@ -2087,34 +2087,6 @@
       \verb http://doi.wiley.com/10.1029/1999WR900330
       \endverb
     \endentry
-    \entry{medd_reperes_nodate}{online}{}
-      \name{author}{1}{}{%
-        {{hash=31d26db20a490f3b5819dc5fc00748b2}{%
-           family={{MEDD}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{31d26db20a490f3b5819dc5fc00748b2}
-      \strng{fullhash}{31d26db20a490f3b5819dc5fc00748b2}
-      \strng{bibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
-      \strng{authorbibnamehash}{31d26db20a490f3b5819dc5fc00748b2}
-      \strng{authornamehash}{31d26db20a490f3b5819dc5fc00748b2}
-      \strng{authorfullhash}{31d26db20a490f3b5819dc5fc00748b2}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labeldatesource}{nodate}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Repères de crues, plateforme collaborative de référence pour le recensement des repères de crues en France.}
-      \verb{file}
-      \verb Recherche par repère | Repères de crues:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\LQHKNGLH\\www.reperesdecrues.developpement-durable.gouv.fr.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.reperesdecrues.developpement-durable.gouv.fr/
-      \endverb
-      \verb{url}
-      \verb https://www.reperesdecrues.developpement-durable.gouv.fr/
-      \endverb
-    \endentry
     \entry{milly_stationarity_2008}{article}{}
       \name{author}{7}{}{%
         {{hash=da5c495f0f18c004d9fdb27d04b83b65}{%
@@ -3300,6 +3272,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{medd_reperes_nodate}
 \endrefsection
 \endinput
 

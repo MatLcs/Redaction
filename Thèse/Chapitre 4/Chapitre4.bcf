@@ -159,7 +159,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortlocale</bcf:key>
-      <bcf:value>english</bcf:value>
+      <bcf:value>french</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
@@ -2412,22 +2412,24 @@
     <bcf:citekey order="65">payrastre_usefulness_2011</bcf:citekey>
     <bcf:citekey order="66">prosdocimi_german_2018</bcf:citekey>
     <bcf:citekey order="67">prosdocimi_german_2018</bcf:citekey>
-    <bcf:citekey order="68">pichard_hydro-climatology_2017</bcf:citekey>
-    <bcf:citekey order="69">prosdocimi_german_2018</bcf:citekey>
-    <bcf:citekey order="70">benson_use_1950</bcf:citekey>
-    <bcf:citekey order="71">stedinger_flood_1986</bcf:citekey>
-    <bcf:citekey order="72">kjeldsen_documentary_2014</bcf:citekey>
+    <bcf:citekey order="68">stedinger_flood_1986</bcf:citekey>
+    <bcf:citekey order="69">payrastre_usefulness_2011</bcf:citekey>
+    <bcf:citekey order="70">pichard_hydro-climatology_2017</bcf:citekey>
+    <bcf:citekey order="71">prosdocimi_german_2018</bcf:citekey>
+    <bcf:citekey order="72">benson_use_1950</bcf:citekey>
     <bcf:citekey order="73">stedinger_flood_1986</bcf:citekey>
-    <bcf:citekey order="74">payrastre_usefulness_2011</bcf:citekey>
-    <bcf:citekey order="75">payrastre_usefulness_2011</bcf:citekey>
-    <bcf:citekey order="76">payrastre_possibility_2005</bcf:citekey>
-    <bcf:citekey order="77">gaume_bayesian_2010</bcf:citekey>
-    <bcf:citekey order="78">milly_stationarity_2008</bcf:citekey>
-    <bcf:citekey order="79">hall_understanding_2014</bcf:citekey>
-    <bcf:citekey order="80">bloschl_changing_2019</bcf:citekey>
-    <bcf:citekey order="81">giuntoli_floods_2019</bcf:citekey>
-    <bcf:citekey order="82">madsen_review_2014</bcf:citekey>
-    <bcf:citekey order="83">salas_techniques_2018</bcf:citekey>
+    <bcf:citekey order="74">kjeldsen_documentary_2014</bcf:citekey>
+    <bcf:citekey order="75">stedinger_flood_1986</bcf:citekey>
+    <bcf:citekey order="76">payrastre_usefulness_2011</bcf:citekey>
+    <bcf:citekey order="77">payrastre_usefulness_2011</bcf:citekey>
+    <bcf:citekey order="78">payrastre_possibility_2005</bcf:citekey>
+    <bcf:citekey order="79">gaume_bayesian_2010</bcf:citekey>
+    <bcf:citekey order="80">milly_stationarity_2008</bcf:citekey>
+    <bcf:citekey order="81">hall_understanding_2014</bcf:citekey>
+    <bcf:citekey order="82">bloschl_changing_2019</bcf:citekey>
+    <bcf:citekey order="83">giuntoli_floods_2019</bcf:citekey>
+    <bcf:citekey order="84">madsen_review_2014</bcf:citekey>
+    <bcf:citekey order="85">salas_techniques_2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
