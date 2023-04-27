@@ -2430,6 +2430,9 @@
     <bcf:citekey order="83">giuntoli_floods_2019</bcf:citekey>
     <bcf:citekey order="84">madsen_review_2014</bcf:citekey>
     <bcf:citekey order="85">salas_techniques_2018</bcf:citekey>
+    <bcf:citekey order="86">bloschl_current_2020</bcf:citekey>
+    <bcf:citekey order="87">merz_understanding_2022</bcf:citekey>
+    <bcf:citekey order="88">payrastre_usefulness_2011</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

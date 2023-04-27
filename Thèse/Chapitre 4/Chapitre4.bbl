@@ -479,6 +479,7 @@
       \strng{authorbibnamehash}{612a3f78126855644c3cb61bf20e77fd}
       \strng{authornamehash}{decb74225052fbd82bcd919d6e512c6e}
       \strng{authorfullhash}{612a3f78126855644c3cb61bf20e77fd}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -514,6 +515,262 @@
       \verb https://www.nature.com/articles/s41586-019-1495-6
       \endverb
       \keyw{Hydrology,Natural hazards}
+    \endentry
+    \entry{bloschl_current_2020}{article}{}
+      \name{author}{42}{}{%
+        {{hash=8a6b848e7ea98666f2493aa8f99b4efd}{%
+           family={Blöschl},
+           familyi={B\bibinitperiod},
+           given={Günter},
+           giveni={G\bibinitperiod}}}%
+        {{hash=311247c58bf2a0f97f3b60296e756c91}{%
+           family={Kiss},
+           familyi={K\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=41e04c55ae558ba11259080fc3ba1d02}{%
+           family={Viglione},
+           familyi={V\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9db1231a9eb4d9172afa34919dbb4152}{%
+           family={Barriendos},
+           familyi={B\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3072a5fdff8f9f3418c41bcbc47943d0}{%
+           family={Böhm},
+           familyi={B\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=73e5b9f6c99a97e2738fbf5b08e90c90}{%
+           family={Brázdil},
+           familyi={B\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ca79d56516d3916ee6028711c9bc7e2d}{%
+           family={Coeur},
+           familyi={C\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0d05482e96a2591a508d3c5e2282e17e}{%
+           family={Demarée},
+           familyi={D\bibinitperiod},
+           given={Gaston},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0c51c58e22fd70bfc65343bb4128b887}{%
+           family={Llasat},
+           familyi={L\bibinitperiod},
+           given={Maria\bibnamedelima Carmen},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=06bf8ddf576223d79627c734e32223ba}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7274205daaf617c7884ce477fbaf7c7d}{%
+           family={Retsö},
+           familyi={R\bibinitperiod},
+           given={Dag},
+           giveni={D\bibinitperiod}}}%
+        {{hash=43485395d9cb9d6f6d55a50264808a87}{%
+           family={Roald},
+           familyi={R\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9fc6f57fe962d2532e70d053aea8a497}{%
+           family={Schmocker-Fackel},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f44a55de38afb83ae1fa17bed6571099}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={Inês},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b8468a8078fc8e721d3290f7526c7064}{%
+           family={Bělínová},
+           familyi={B\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=884ddbc29fb9a6a4a5bfc67a89953f5a}{%
+           family={Benito},
+           familyi={B\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=10097cd3ac7b7fc5af5fc2c29ad29bc6}{%
+           family={Bertolin},
+           familyi={B\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod}}}%
+        {{hash=52176cfe73b821d50ef00cc3d2bab46d}{%
+           family={Camuffo},
+           familyi={C\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod}}}%
+        {{hash=26827411914dd513174ae9548d7e9f86}{%
+           family={Cornel},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5a8b2c8e73c7b14e98689add3a3cc05f}{%
+           family={Doktor},
+           familyi={D\bibinitperiod},
+           given={Radosław},
+           giveni={R\bibinitperiod}}}%
+        {{hash=154b2588c227e85cc0be912962737933}{%
+           family={Elleder},
+           familyi={E\bibinitperiod},
+           given={Líbor},
+           giveni={L\bibinitperiod}}}%
+        {{hash=97885ce02bd6770b18519e2620dd9bb3}{%
+           family={Enzi},
+           familyi={E\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a0e8b7004d94f6dc36bb8df595aee81d}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={João\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f4a248c27c1b465e0a8f8ec4ea01dfc2}{%
+           family={Glaser},
+           familyi={G\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=480fe51ea0e09877f49fa4fc4a249e8f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e4b7b15026cb613b9ee7f92c51116c02}{%
+           family={Haslinger},
+           familyi={H\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c524d2cc40d367144912bf8a02f1f1c9}{%
+           family={Hofstätter},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=170d80210fbf8a5cc8329310802e822d}{%
+           family={Komma},
+           familyi={K\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fd12dadb855b6d997d1a64062d09c712}{%
+           family={Limanówka},
+           familyi={L\bibinitperiod},
+           given={Danuta},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a65429c6d218ce31fa1d6f76cae09a9d}{%
+           family={Lun},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e7c41656d5caf102621fb0777b554a6a}{%
+           family={Panin},
+           familyi={P\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ca80f0a2b3b61ce8a7bf7a2fc195a099}{%
+           family={Parajka},
+           familyi={P\bibinitperiod},
+           given={Juraj},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8265c058fc9f4205949ab543f1509966}{%
+           family={Petrić},
+           familyi={P\bibinitperiod},
+           given={Hrvoje},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e825e959db890dddce893bb1156e7c01}{%
+           family={Rodrigo},
+           familyi={R\bibinitperiod},
+           given={Fernando\bibnamedelima S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d36270263e9ff3c8fa4b5356b55c0a50}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=aaa1fad760504811890aeb0dd4d170e3}{%
+           family={Schönbein},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5f88c67da9a7ad41fca429c6110f0d50}{%
+           family={Schulte},
+           familyi={S\bibinitperiod},
+           given={Lothar},
+           giveni={L\bibinitperiod}}}%
+        {{hash=64f2e0501a67f3202473135a3f66e5ed}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Luís\bibnamedelima Pedro},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=79d824060b50c106e03e8e4148c85266}{%
+           family={Toonen},
+           familyi={T\bibinitperiod},
+           given={Willem\bibnamedelimb H.\bibnamedelimi J.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5a4f0454b5837829e66c8a5dea83ee74}{%
+           family={Valent},
+           familyi={V\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2d1376ecf3bc9c05c98cec39b169e3f5}{%
+           family={Waser},
+           familyi={W\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8f48c48315e054fa2664d7277d6b86d7}{%
+           family={Wetter},
+           familyi={W\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{decb74225052fbd82bcd919d6e512c6e}
+      \strng{fullhash}{60d2fae90563acbc04b788d3789b2777}
+      \strng{bibnamehash}{60d2fae90563acbc04b788d3789b2777}
+      \strng{authorbibnamehash}{60d2fae90563acbc04b788d3789b2777}
+      \strng{authornamehash}{decb74225052fbd82bcd919d6e512c6e}
+      \strng{authorfullhash}{60d2fae90563acbc04b788d3789b2777}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7817}
+      \field{shortjournal}{Nature}
+      \field{title}{Current European flood-rich period exceptional compared with past 500 years}
+      \field{urlday}{21}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{583}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{560\bibrangedash 566}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/s41586-020-2478-3
+      \endverb
+      \verb{file}
+      \verb Blöschl et al. - 2020 - Current European flood-rich period exceptional com.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\83SRUGP2\\Blöschl et al. - 2020 - Current European flood-rich period exceptional com.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/s41586-020-2478-3
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/s41586-020-2478-3
+      \endverb
     \endentry
     \entry{darienzo_detection_2021-1}{thesis}{}
       \name{author}{1}{}{%
@@ -2086,6 +2343,110 @@
       \verb{url}
       \verb http://doi.wiley.com/10.1029/1999WR900330
       \endverb
+    \endentry
+    \entry{merz_understanding_2022}{article}{}
+      \name{author}{12}{}{%
+        {{hash=fbae7e671fc3ef2b67b40220beb971fd}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1bd51cb4098f7103e5295ef88cbc9dac}{%
+           family={Basso},
+           familyi={B\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aa23f45a05014b9edaf882d454f204e6}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Svenja},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a65429c6d218ce31fa1d6f76cae09a9d}{%
+           family={Lun},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8a6b848e7ea98666f2493aa8f99b4efd}{%
+           family={Blöschl},
+           familyi={B\bibinitperiod},
+           given={Günter},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0fd4bae8f671252787867490a2acfa13}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=228813f2a893c43937773b0f4aef030c}{%
+           family={Guse},
+           familyi={G\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod}}}%
+        {{hash=41e04c55ae558ba11259080fc3ba1d02}{%
+           family={Viglione},
+           familyi={V\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3dc6cef01ddbc4a95ae5824f646a41c7}{%
+           family={Vorogushyn},
+           familyi={V\bibinitperiod},
+           given={Sergiy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7ed2437e75ebf166879a90af40bc319b}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b0ecc03f7ae58632e5999287217453bb}{%
+           family={Wietzke},
+           familyi={W\bibinitperiod},
+           given={Luzie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ad8466c64e25b964e1be742ab64dfdf8}{%
+           family={Schumann},
+           familyi={S\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e59828abf91947cfc710b33d51edf78}
+      \strng{fullhash}{6f64f76971b535d379509adc14b28772}
+      \strng{bibnamehash}{6f64f76971b535d379509adc14b28772}
+      \strng{authorbibnamehash}{6f64f76971b535d379509adc14b28772}
+      \strng{authornamehash}{3e59828abf91947cfc710b33d51edf78}
+      \strng{authorfullhash}{6f64f76971b535d379509adc14b28772}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Statistical distributions of flood peak discharge often show heavy tail behavior, that is, extreme floods are more likely to occur than would be predicted by commonly used distributions that have exponential asymptotic behavior. This heavy tail behavior may surprise flood managers and citizens, as human intuition tends to expect light tail behavior, and the heaviness of the tails is very difficult to predict, which may lead to unnecessarily high flood damage. Despite its high importance, the literature on the heavy tail behavior of flood distributions is rather fragmented. In this review, we provide a coherent overview of the processes causing heavy flood tails and the implications for science and practice. Specifically, we propose nine hypotheses on the mechanisms causing heavy tails in flood peak distributions related to processes in the atmosphere, the catchment, and the river system. We then discuss to which extent the current knowledge supports or contradicts these hypotheses. We also discuss the statistical conditions for the emergence of heavy tail behavior based on derived distribution theory and relate them to the hypotheses and flood generation mechanisms. We review the degree to which the heaviness of the tails can be predicted from process knowledge and data. Finally, we recommend further research toward testing the hypotheses and improving the prediction of heavy tails.}
+      \field{issn}{1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{number}{6}
+      \field{title}{Understanding Heavy Tails of Flood Peak Distributions}
+      \field{urlday}{13}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{58}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e2021WR030506}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2021WR030506
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\WH8TA6Z5\\Merz et al. - 2022 - Understanding Heavy Tails of Flood Peak Distributi.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\BTC7YJCM\\2021WR030506.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2021WR030506
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2021WR030506
+      \endverb
+      \keyw{extreme events,flood frequency,flood risk,upper tail}
     \endentry
     \entry{milly_stationarity_2008}{article}{}
       \name{author}{7}{}{%

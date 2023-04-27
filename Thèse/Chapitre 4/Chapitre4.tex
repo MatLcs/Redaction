@@ -318,7 +318,7 @@ maxcitenames=2,date=year, maxbibnames=99,url=false]{biblatex}
 
 	\begin{table}[h]
 	\centering
-	\caption{Résultats maxpost et incertitudes des 6 modèles pour l'échantillon 4. Q100 et Q1000 représentent respectivement le débit des crues centennales et millénales, $\xi$ le paramètre de forme de la distribution GEV, $S$ le seuil de perception et $t^{*}$ la date de début de la période historique. Les écarts type des distributions a posteriori sont représentés par les colonnes débutant par la lettre "u".}
+	\caption{Résultats maxpost et incertitudes des 7 modèles appliqués à l'échantillon 4. Q100 et Q1000 représentent respectivement le débit des crues centennales et millénales, $\xi$ le paramètre de forme de la distribution GEV, $S$ le seuil de perception et $t^{*}$ la date de début de la période historique. Les écarts type des distributions a posteriori sont représentés par les colonnes débutant par la lettre "u". \textcolor{red}{DEPLACER PLUS PROCHE DE LA PARTIE MODELE E?} }
 	\label{tab:ResArtif2}
 	\resizebox{\columnwidth}{!}{%
 		\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
@@ -330,6 +330,7 @@ A             & 11132 & 1189  & 13367 & 3019   & 0.062 & 0.088  & 9000 & X    & 
 B             & 11302 & 2381  & 13622 & 5823   & 0.058 & 0.102  & 9163 & 729  & 1816 & X  \\ \hline
 C             & 11517 & 779   & 14069 & 2057   & 0.041 & 0.083  & 9000 & X    & 1833 & 71 \\ \hline
 D             & 11147 & 2018  & 13262 & 4837   & 0.074 & 0.096  & 9332 & 883  & 1785 & 107 \\ \hline
+E       	  & 11286 & 932   & 13827 & 2255   & 0.039 & \textcolor{red}{??} &  9000 & X & 1816 & X \\ \hline
 		\end{tabular}}
 
 	\end{table}
@@ -405,23 +406,23 @@ D             & 11147 & 2018  & 13262 & 4837   & 0.074 & 0.096  & 9332 & 883  & 
 		\label{fig:CensureArtif}
 	\end{figure}
 	
-	\begin{table}[h]
-		\centering
-		\caption{Résultats maxpost et incertitudes pour trois modèles appliqués à l'échantillon 4. Q100 et Q1000 représentent respectivement le débit des crues centennales et millénales. Les écarts type des distributions a posteriori sont représentés par les colonnes débutant par la lettre "u". }
-		\label{tab:ResCensure}
-%		\resizebox{\columnwidth}{!}{%
-		\begin{tabular}{|c|c|c|c|c|}
-			\hline
-			Modèle        & Q100 [m\textsuperscript{3}/s] & uQ100 [m\textsuperscript{3}/s] & Q1000 [m\textsuperscript{3}/s] & uQ1000 [m\textsuperscript{3}/s] \\ \hline
-			GEV 1816-2020 & 11451 & 687   & 13919 & 1351   \\ \hline
-			A             & 11132 & 1189  & 13367 & 3019   \\ \hline
-			E       & 11286 & 932   & 13827 & 2255   \\ \hline
-		\end{tabular}%}
-		
-	\end{table}
-	
+%	\begin{table}[h]
+%		\centering
+%		\caption{Résultats maxpost et incertitudes pour trois modèles appliqués à l'échantillon 4. Q100 et Q1000 représentent respectivement le débit des crues centennales et millénales. Les écarts type des distributions a posteriori sont représentés par les colonnes débutant par la lettre "u". \textcolor{red}{A BASCULER DANS LE TABLEAU 2}}
+%		\label{tab:ResCensure}
+%%		\resizebox{\columnwidth}{!}{%
+%		\begin{tabular}{|c|c|c|c|c|}
+%			\hline
+%			Modèle        & Q100 [m\textsuperscript{3}/s] & uQ100 [m\textsuperscript{3}/s] & Q1000 [m\textsuperscript{3}/s] & uQ1000 [m\textsuperscript{3}/s] \\ \hline
+%			GEV 1816-2020 & 11451 & 687   & 13919 & 1351   \\ \hline
+%			A             & 11132 & 1189  & 13367 & 3019   \\ \hline
+%			E       & 11286 & 932   & 13827 & 2255   \\ \hline
+%		\end{tabular}%}
+%		
+%	\end{table}
+%	
 	\paragraph{}
-	Les résultats sont présentés dans la figure \ref{fig:CensureArtif} et le tableau \ref{tab:ResCensure}. On constate une diminution de l'incertitude d'environ 25\% autour du Q1000 pour le modèle E (avec un écart type de 2255 [m\textsuperscript{3}/s] pour Q1000) par rapport au modèle binomial A (écart type de 3019 [m\textsuperscript{3}/s] pour Q1000). En revanche, l'incertitude du modèle E reste environ 65\% supérieure à celle du modèle GEV 1816-2020 pour Q1000. La connaissance du débit des crues historiques, bien qu'elle ne soit pas une condition nécessaire à l'utilisation de données pré-enregistrements systématiques, permet donc de réduire l'incertitude autour des quantiles extrêmes. Cette incertitude reste en revanche supérieure à celle du modèle GEV pour lequel le débit maximum annuel de toutes les années de l'échantillon (historique + continu) est connu.	
+	Les résultats sont présentés dans la figure \ref{fig:CensureArtif} et le tableau \ref{tab:ResArtif2}. On constate une diminution de l'incertitude d'environ 25\% autour du Q1000 pour le modèle E (avec un écart type de 2255 [m\textsuperscript{3}/s] pour Q1000) par rapport au modèle binomial A (écart type de 3019 [m\textsuperscript{3}/s] pour Q1000). En revanche, l'incertitude du modèle E reste environ 65\% supérieure à celle du modèle GEV 1816-2020 pour Q1000. La connaissance du débit des crues historiques, bien qu'elle ne soit pas une condition nécessaire à l'utilisation de données pré-enregistrements systématiques, permet donc de réduire l'incertitude autour des quantiles extrêmes. Cette incertitude reste en revanche supérieure à celle du modèle GEV pour lequel le débit maximum annuel de toutes les années de l'échantillon (historique + continu) est connu.	
 
 	\subsubsection{Discussion intermédiaire}
 	
@@ -537,10 +538,11 @@ $D^*$         & 11118 & 585   & 13421 & 1110   & 0.063 & 0.040  & 9386 & 334  & 
 	
 	\paragraph{} Suite à ces différents constats, on pourrait penser à l'utilisation d'un modèle qui considère non-seulement le seuil de perception $S$ et la durée de la période historique $n$ comme étant incertains, mais également pour lequel le nombre de dépassements $k$ du seuil de perception est lui aussi incertain. Néanmoins, les résultats de ce chapitre ont permis de mettre en évidence que la méconnaissance de $S$ avait à elle seule un fort impact sur les résultats. De plus, lorsqu'il existe un tel doute sur l'exhaustivité des données historiques, discuter de l'incertitude du seuil de perception ou de la durée de la période historique parait secondaire. Ici, l'utilisation même des données historiques pourrait être remise en cause, l'échantillon d'enregistrements continus étant exceptionnellement long (205 ans) et permettant une estimation satisfaisante des quantiles de crue. Une des façons de compléter cette étude pourrait être d'estimer le débit des événements historiques à l'aide de modèles hydrauliques avec une prise en compte complète des incertitudes inhérentes à cet exercice (bathymétrie historique, rupture de digues...) listées dans le chapitre 2 (REF). Cependant, cela ne réglerait pas les problèmes de non-homogénéité énoncées plus tôt. Il est également possible d'utiliser plusieurs seuils de perception dans le but de garantir l'exhaustivité des données pour les périodes les plus anciennes. Cette possibilité est fréquemment décrite dans la littérature mais n'a jamais été exploitée dans le cas de seuils de perception incertains. Considérer plusieurs seuils de perception incertains en parallèle avec des durées de périodes incertaines peut néanmoins nécessiter un traitement statistique bien plus complexe que celui décrit dans ce chapitre.
 	
-	\paragraph{} Bien que l'homogénéité des données ait été vérifiée (section \ref{sec:dataBcr}), il est probable que les données utilisées dans ce chapitre soient impactées par une variabilité climatique et/ou anthropique qui pourrait fragiliser l'hypothèse de stationnarité nécessaire à l'analyse fréquentielle. L'hypothèse de stationnarité est de nos jours fréquemment remise en cause \citep{milly_stationarity_2008}. Des tendances autour de la magnitude des crues ont été identifiées dans plusieurs régions en Europe (\citet{hall_understanding_2014}; \citet{bloschl_changing_2019}) et en France \citet{giuntoli_floods_2019}, mais aucune règle n'existe en France à ce jour pour prendre en compte l'impact du changement climatique sur l'estimation du risque inondation \citet{madsen_review_2014}. Néanmoins, la non-prise en compte de ces sources de variabilité a probablement moins d'impact sur les résultats que la méconnaissance autour des données historiques et la simple variabilité d'échantillonnage. Il est tout de même possible d'intégrer les changements temporels des processus climatiques ou des caractéristiques du bassin versant au sein même du modèle probabiliste comme cela est de plus en plus fréquemment décrit dans la littérature (voir \citet{salas_techniques_2018} pour une revue complète des différentes possibilités). Il ne faut pas oublier que cette longue série est utile en dehors du cadre de l'analyse fréquentielle. Il est possible de l'utiliser pour identifier la variabilité climatique sur les 5 derniers siècles. On peut citer à ce sujet les résultats de BLOESHL 500Y REF basés sur de plus de 100 séries historiques de crues provenant de diverses régions européennes. Ces derniers ont mis en évidence plusieurs périodes au cours des 500 dernières années durant lesquelles la fréquence d'occurrence des crues était particulièrement importante. Ils ont également montré que la période actuelle (1992-2016) était l'une de ces période riches en crues et qu'elle était inédite, notamment en terme d'extension spatiale du phénomène.
+	\paragraph{} Bien que l'homogénéité des données ait été vérifiée (section \ref{sec:dataBcr}), il est probable que les données utilisées dans ce chapitre soient impactées par une variabilité climatique et/ou anthropique qui pourrait fragiliser l'hypothèse de stationnarité nécessaire à l'analyse fréquentielle. L'hypothèse de stationnarité est de nos jours fréquemment remise en cause \citep{milly_stationarity_2008}. Des tendances autour de la magnitude des crues ont été identifiées dans plusieurs régions en Europe (\citet{hall_understanding_2014}; \citet{bloschl_changing_2019}) et en France \citet{giuntoli_floods_2019}, mais aucune règle n'existe en France à ce jour pour prendre en compte l'impact du changement climatique sur l'estimation du risque inondation \citet{madsen_review_2014}. Néanmoins, la non-prise en compte de ces sources de variabilité a probablement moins d'impact sur les résultats que la méconnaissance autour des données historiques et la simple variabilité d'échantillonnage. Il est tout de même possible d'intégrer les changements temporels des processus climatiques ou des caractéristiques du bassin versant au sein même du modèle probabiliste comme cela est de plus en plus fréquemment décrit dans la littérature (voir \citet{salas_techniques_2018} pour une revue complète des différentes possibilités). Il ne faut pas oublier que cette longue série est utile en dehors du cadre de l'analyse fréquentielle. Il est possible de l'utiliser pour identifier la variabilité climatique sur les 5 derniers siècles. On peut citer à ce sujet les résultats de \citet{bloschl_current_2020}, basés sur de plus de 100 séries historiques de crues provenant de diverses régions européennes. Ces derniers ont mis en évidence plusieurs périodes au cours des 500 dernières années durant lesquelles la fréquence d'occurrence des crues était amplifiée. Ils ont également montré que la période actuelle (1992-2016) était l'une de ces périodes riches en crues et qu'elle était inédite par rapport aux autres périodes, notamment en terme d'extension spatiale du phénomène. 
 	
 	
-	\paragraph{} GENERALISATION EN DEHORS DE BEAUCAIRE, CF DISCUSSION ARTICLE AVEC POINTS SPECIFIQUES AUX DONNES HISTO.
+	\paragraph{} Les conclusions de ce chapitre ne sont difficilement généralisables à d'autres stations que Beaucaire, notamment pour des régions climatiques sous des influences différentes ou des bassins versants plus petits. La réduction de l'incertitude, en partie dépendante du comportement de la queue de distribution (et donc du paramètre de forme de la GEV), serait probablement différente sous un autre contexte climatique, tout particulièrement dans le cas d'une queue de distribution plus "lourde" que celle de Beaucaire \citep{merz_understanding_2022}. Il est également probable que la réduction d'incertitude obtenue par l'utilisation de données historiques soit dépendante du ratio des durées de la période historique et de la période continue \citep{payrastre_usefulness_2011}. De plus, on peut également s'attendre à des résultats différents selon la nature des données historiques utilisées (témoignages, repères de crues, dendrochronologie, carottes sédimentaires...). L'application des méthodes proposées dans ce chapitre à d'autres stations hydrométriques, comportant des données historiques exhaustives et de nature différente à celles de Beaucaire serait intéressante. Pour que les résultats soient comparables, l'estimation et la propagation de l'ensemble des incertitudes devra être effectuée. 
+		
 	
 \section{Conclusion du chapitre}
 \label{sec:Conclu}
@@ -548,7 +550,7 @@ $D^*$         & 11118 & 585   & 13421 & 1110   & 0.063 & 0.040  & 9386 & 334  & 
 
 	\paragraph{} On peut donc retenir que, malgré la non-exhaustivité supposée de l'échantillon, ces résultats soulignent l'intérêt potentiel de l'utilisation des données historiques pour l'analyse fréquentielle, ainsi que l'importance d'une prise en compte complète des incertitudes autour de ces données. Ces conclusions ne sont pas systématiquement généralisables en dehors du cas de Beaucaire, où la chronique d'enregistrements continus est particulièrement longue et où le paramètre de forme est positif. De plus, aucune tendance pouvant être attribuée aux changements des caractéristiques du bassin versant ou au changement climatique n'a pu être mise en évidence à Beaucaire. Néanmoins, pour aller au delà de l'analyse fréquentielle des crues, la perspective de modéliser la variabilité climatique semble intéressante avec un jeu de données aussi fourni.
 
-
+\newpage
 
 \printbibliography[title=Bibliographie]
 \end{document}
