@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  27 APR 2023 14:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  1 MAY 2023 04:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1093,13 +1093,13 @@ Package logreq Info: Writing requests to 'Chapitre4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21392 strings out of 478659
- 382929 string characters out of 2842128
+ 21396 strings out of 478659
+ 382996 string characters out of 2842128
  1100156 words of memory out of 3000000
- 39026 multiletter control sequences out of 15000+600000
+ 39029 multiletter control sequences out of 15000+600000
  416415 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,15n,77p,3068b,1835s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,15n,77p,3068b,1834s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1095.pk><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs
@@ -1126,7 +1126,7 @@ eu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Chapitre4.pdf (32 pages, 1849550 bytes).
+Output written on Chapitre4.pdf (32 pages, 1849085 bytes).
 PDF statistics:
  902 PDF objects out of 1000 (max. 8388607)
  202 named destinations out of 1000 (max. 500000)

@@ -1,17 +1,17 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Chapitre4.blg'
-[155] biber-MSWIN32:340> INFO - === 
-[219] Biber.pm:415> INFO - Reading 'Chapitre4.bcf'
-[462] Biber.pm:952> INFO - Found 50 citekeys in bib section 0
-[494] Biber.pm:4340> INFO - Processing section 0
-[522] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
-[707] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1809] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
-[3155] Utils.pm:395> WARN - I didn't find a database entry for 'medd_reperes_nodate' (section 0)
-[3446] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3446] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3446] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[3447] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
-[3711] bbl.pm:654> INFO - Writing 'Chapitre4.bbl' with encoding 'UTF-8'
-[3899] bbl.pm:757> INFO - Output to Chapitre4.bbl
-[3910] Biber.pm:128> INFO - WARNINGS: 1
+[118] biber-MSWIN32:340> INFO - === 
+[164] Biber.pm:415> INFO - Reading 'Chapitre4.bcf'
+[306] Biber.pm:952> INFO - Found 50 citekeys in bib section 0
+[322] Biber.pm:4340> INFO - Processing section 0
+[334] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[438] bibtex.pm:1689> INFO - LaTeX decoding ...
+[943] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[1402] Utils.pm:395> WARN - I didn't find a database entry for 'medd_reperes_nodate' (section 0)
+[1500] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1500] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1500] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[1500] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[1581] bbl.pm:654> INFO - Writing 'Chapitre4.bbl' with encoding 'UTF-8'
+[1666] bbl.pm:757> INFO - Output to Chapitre4.bbl
+[1672] Biber.pm:128> INFO - WARNINGS: 1

@@ -9,178 +9,194 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{3}{section*.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}Station hydrométrique du Rhône à Pont de Beaucaire (1816-1967)}{5}{subsection.1.2}%
+\contentsline {paragraph}{}{4}{section*.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{5}{section*.7}%
+\contentsline {subsection}{\numberline {1.2}Station hydrométrique du Rhône à Pont de Beaucaire (1816-1967)}{7}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.1}Relevés disponibles}{5}{subsubsection.1.2.1}%
+\contentsline {paragraph}{}{7}{section*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{5}{section*.9}%
+\contentsline {subsubsection}{\numberline {1.2.1}Données disponibles}{7}{subsubsection.1.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{6}{section*.12}%
+\contentsline {paragraph}{}{7}{section*.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.2}Évolution de l'altitude du zéro de l'échelle}{6}{subsubsection.1.2.2}%
+\contentsline {paragraph}{}{8}{section*.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{6}{section*.14}%
+\contentsline {subsubsection}{\numberline {1.2.2}Évolution de l'altitude du zéro de l'échelle}{10}{subsubsection.1.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.3}Travaux et aménagements}{8}{subsubsection.1.2.3}%
+\contentsline {paragraph}{}{10}{section*.16}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{8}{section*.16}%
+\contentsline {subsubsection}{\numberline {1.2.3}Travaux et aménagements}{10}{subsubsection.1.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{8}{section*.18}%
+\contentsline {paragraph}{}{10}{section*.18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}{section*.19}%
+\contentsline {paragraph}{}{10}{section*.20}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{11}{section*.23}%
+\contentsline {paragraph}{}{10}{section*.21}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{11}{section*.25}%
+\contentsline {paragraph}{}{12}{section*.24}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{12}{section*.26}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{12}{section*.27}%
+\contentsline {paragraph}{}{13}{section*.27}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Station hydrométrique du Rhône à Beaucaire Restitution (1970-aujourd'hui)}{13}{subsection.1.3}%
+\contentsline {paragraph}{}{14}{section*.28}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1}Données disponibles}{13}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3}Station hydrométrique du Rhône à Beaucaire Restitution (1970-aujourd'hui)}{14}{subsection.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{13}{section*.28}%
+\contentsline {subsubsection}{\numberline {1.3.1}Données disponibles}{14}{subsubsection.1.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2}Travaux et aménagements}{13}{subsubsection.1.3.2}%
+\contentsline {paragraph}{}{14}{section*.29}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{13}{section*.30}%
+\contentsline {subsubsection}{\numberline {1.3.2}Travaux et aménagements}{15}{subsubsection.1.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Données historiques : la base de données HISTRHÔNE (1300-2000)}{14}{section.2}%
+\contentsline {paragraph}{}{15}{section*.31}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Présentation de la base de données}{14}{subsection.2.1}%
+\contentsline {subsection}{\numberline {1.4}Évolution du temps de propagation des crues}{16}{subsection.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{14}{section*.32}%
+\contentsline {paragraph}{}{16}{section*.33}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{14}{section*.34}%
+\contentsline {paragraph}{}{16}{section*.35}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{14}{section*.35}%
+\contentsline {paragraph}{}{16}{section*.36}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Ordre de grandeur du débit de pointe des crues de la base HISTRHÔNE}{16}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {1.4.1}Sélection d'événements de crue}{18}{subsubsection.1.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{16}{section*.37}%
+\contentsline {paragraph}{}{18}{section*.38}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{16}{section*.39}%
+\contentsline {paragraph}{}{19}{section*.39}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{17}{section*.40}%
+\contentsline {paragraph}{}{19}{section*.41}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Évolution temporelle de la vulnérabilité aux inondations}{17}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {1.4.2}Compilation du temps de propagation des crues}{19}{subsubsection.1.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{17}{section*.42}%
+\contentsline {paragraph}{}{19}{section*.42}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{18}{section*.44}%
+\contentsline {paragraph}{}{19}{section*.44}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Estimation du débit des événements historiques}{19}{section.3}%
+\contentsline {paragraph}{}{20}{section*.45}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{19}{section*.45}%
+\contentsline {paragraph}{}{21}{section*.46}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Adaptation du modèle MAGE OSR 1D à l'étude des crues historiques à Beaucaire}{19}{subsection.3.1}%
+\contentsline {paragraph}{}{21}{section*.47}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{19}{section*.46}%
+\contentsline {paragraph}{}{21}{section*.48}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{20}{section*.47}%
+\contentsline {section}{\numberline {2}Données historiques : la base de données HISTRHÔNE (1300-2000)}{21}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{20}{section*.49}%
+\contentsline {subsection}{\numberline {2.1}Présentation de la base de données}{21}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{21}{section*.49}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{21}{section*.51}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{21}{section*.53}%
+\contentsline {paragraph}{}{22}{section*.52}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Simplification du modèle Rhône OSR 1D}{23}{subsection.3.2}%
+\contentsline {subsection}{\numberline {2.2}Ordre de grandeur du débit de pointe des crues de la base HISTRHÔNE}{23}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{23}{section*.55}%
+\contentsline {paragraph}{}{23}{section*.54}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{23}{section*.56}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Sensibilité à la présence d'aménagements hydroélectriques}{23}{subsubsection.3.2.1}%
+\contentsline {paragraph}{}{24}{section*.57}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{23}{section*.58}%
+\contentsline {subsection}{\numberline {2.3}Évolution temporelle de la vulnérabilité aux inondations}{25}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Sensibilité à la suppression du Petit-Rhône}{23}{subsubsection.3.2.2}%
+\contentsline {paragraph}{}{25}{section*.59}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{23}{section*.59}%
+\contentsline {paragraph}{}{26}{section*.61}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Sensibilité aux ruptures de digues}{24}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {3}Estimation du débit des événements historiques}{26}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{24}{section*.60}%
+\contentsline {paragraph}{}{26}{section*.62}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.4}Sensibilité aux surcotes marines}{25}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.1}Adaptation du modèle MAGE OSR 1D à l'étude des crues historiques à Beaucaire}{26}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{25}{section*.62}%
+\contentsline {paragraph}{}{26}{section*.63}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.5}Conclusions sur la simplification du modèle}{25}{subsubsection.3.2.5}%
+\contentsline {paragraph}{}{27}{section*.64}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{25}{section*.63}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Bathymétries et topographies anciennes}{26}{subsection.3.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{26}{section*.64}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{26}{section*.66}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Recensement des informations nécessaires à la modélisation hydraulique}{28}{subsection.3.4}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{28}{section*.67}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}Limites et perspectives pour la modélisation hydraulique des événements historiques}{28}{subsection.3.5}%
+\contentsline {paragraph}{}{27}{section*.66}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{28}{section*.68}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{28}{section*.69}%
-\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{29}{section*.70}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{29}{section*.71}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{29}{section*.72}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{29}{section*.73}%
+\contentsline {subsection}{\numberline {3.2}Simplification du modèle Rhône OSR 1D}{31}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{30}{section*.74}%
+\contentsline {paragraph}{}{31}{section*.74}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Évolution du temps de propagation des crues}{30}{section.4}%
+\contentsline {paragraph}{}{31}{section*.75}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{30}{section*.75}%
+\contentsline {subsubsection}{\numberline {3.2.1}Sensibilité à la présence d'aménagements hydroélectriques}{32}{subsubsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{30}{section*.77}%
+\contentsline {paragraph}{}{32}{section*.77}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{31}{section*.79}%
+\contentsline {subsubsection}{\numberline {3.2.2}Sensibilité à la suppression du Petit-Rhône}{33}{subsubsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Sélection des crues étudiées}{32}{subsection.4.1}%
+\contentsline {paragraph}{}{33}{section*.78}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{32}{section*.80}%
+\contentsline {subsubsection}{\numberline {3.2.3}Sensibilité aux ruptures de digues sur le Petit-Rhône}{33}{subsubsection.3.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{32}{section*.81}%
+\contentsline {paragraph}{}{33}{section*.79}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Compilation du temps de propagation des crues}{32}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {3.2.4}Sensibilité aux surcotes marines}{34}{subsubsection.3.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{32}{section*.82}%
+\contentsline {paragraph}{}{34}{section*.81}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{33}{section*.84}%
+\contentsline {subsubsection}{\numberline {3.2.5}Conclusions sur la simplification du modèle}{34}{subsubsection.3.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{33}{section*.85}%
+\contentsline {paragraph}{}{34}{section*.82}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{33}{section*.86}%
+\contentsline {subsection}{\numberline {3.3}Bathymétries et topographies anciennes}{35}{subsection.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{34}{section*.87}%
+\contentsline {paragraph}{}{35}{section*.83}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{34}{section*.88}%
+\contentsline {paragraph}{}{35}{section*.85}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Conclusion du chapitre}{34}{section.5}%
+\contentsline {subsection}{\numberline {3.4}Recensement des informations nécessaires à la modélisation hydraulique}{37}{subsection.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{34}{section*.89}%
+\contentsline {paragraph}{}{37}{section*.86}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{34}{section*.90}%
+\contentsline {paragraph}{}{37}{section*.87}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{35}{section*.91}%
+\contentsline {paragraph}{}{37}{section*.88}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{35}{section*.92}%
+\contentsline {paragraph}{}{37}{section*.89}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{35}{section*.93}%
+\contentsline {paragraph}{}{38}{section*.90}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Annexe 1 : Données des crues C4 de la base HISTRHÔNE pour la modélisation hydraulique}{37}{section.6}%
+\contentsline {paragraph}{}{38}{section*.91}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Annexe 2 : Tableau des temps de propagation des crues océaniques entre Givors et Beaucaire}{38}{section.7}%
+\contentsline {subsection}{\numberline {3.5}Limites et perspectives pour la modélisation hydraulique des événements historiques}{38}{subsection.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{38}{section*.92}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{38}{section*.93}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{39}{section*.94}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{39}{section*.95}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{39}{section*.96}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{39}{section*.97}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{40}{section*.98}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Conclusion du chapitre}{40}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{40}{section*.99}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{40}{section*.100}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{40}{section*.101}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{41}{section*.102}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{41}{section*.103}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Annexe 1 : Données des crues C4 de la base HISTRHÔNE pour la modélisation hydraulique}{42}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Annexe 2 : Tableau des temps de propagation des crues océaniques entre Givors et Beaucaire}{43}{section.6}%

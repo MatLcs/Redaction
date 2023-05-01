@@ -312,6 +312,80 @@
       \endverb
       \keyw{flood risk,éléments finis,finite element,flood inundation models,hydraulic model,levee system,modèle hydraulique,modèles d'inondation,risque d'inondation,système de levées}
     \endentry
+    \entry{dugue_accounting_2015}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=4bce25b5754e3f6c6e2a98e9a53a985f}{%
+           family={Dugué},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=244c71db7e10e68df0fa67286fe1cf02}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0adfafd1f4dd163c69ac9091e09b3d2d}{%
+           family={Andries},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5d27eea2e0e14c25bb4e84b5049e1d89}{%
+           family={Launay},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5d5e8631c96d2e06b2280df9dac2c4ee}{%
+           family={Coz},
+           familyi={C\bibinitperiod},
+           given={Jérôme\bibnamedelima Le},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1f29bd6441e6ddefe8cda2af46f67096}{%
+           family={Camenen},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9fd34b0b8430c1511d11299406fac25f}{%
+           family={Faure},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{678949c7320741bb1f2d6462825340c8}
+      \strng{fullhash}{1159553450d76410be579d4b58d4c0a1}
+      \strng{bibnamehash}{1159553450d76410be579d4b58d4c0a1}
+      \strng{authorbibnamehash}{1159553450d76410be579d4b58d4c0a1}
+      \strng{authornamehash}{678949c7320741bb1f2d6462825340c8}
+      \strng{authorfullhash}{1159553450d76410be579d4b58d4c0a1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Rhône River, from Lake Geneva to the Mediterranean Sea (545 km) is regulated by twenty-one hydropower schemes. In most of hydropower schemes, the natural Rhône River is diverted through a bypass canal where the hydropower plant and a lock are located. A diversion dam is constructed in the old natural Rhône to manage floods and control the water discharge in the bypass canal. The hydropower scheme's operation rules include a minimum compensation discharge in the old natural Rhône and a maximum discharge in the bypass canal as allowed by the hydropower plant. Meanwhile, the maximum water level in the reservoir is imposed as a function of the inflow discharge at a so-called “Regulation Point” located upstream of the hydropower scheme. The objective of the present paper is to investigate the modeling of hydropower scheme's operation rules in the Rhône River. A 1D hydrodynamic model, based on the 1D shallow water equations, has been developed that includes the hydropower schemes' operation rules. It is used to simulate two major hydro-sedimentary events with high suspended sediment transport, with different operation rules applied (usual / exceptional). Hydraulic schemes parameters, such as physical characteristics of gates and different types of operation rules are discussed, as well as differences in results when automatic or temporal operation rules are used in the model. The final aim of this model is to improve the numerical simulation and the understanding of hydro-sedimentary and pollution processes in the Rhône River.}
+      \field{day}{28}
+      \field{eventtitle}{36th {IAHR} World Congress}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Accounting for hydropower schemes' operation rules in the 1D hydrodynamic modeling of the Rhône River from Lake Geneva to the Mediterranean Sea}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9}
+      \range{pages}{1}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\GFH9MMR2\\hal-02602195.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.inrae.fr/hal-02602195
+      \endverb
+      \verb{url}
+      \verb https://hal.inrae.fr/hal-02602195
+      \endverb
+    \endentry
     \entry{gaydou_schema_2013}{report}{}
       \name{author}{1}{}{%
         {{hash=f5bdba861f3c061e0184e3c030391c97}{%
@@ -500,6 +574,7 @@
       \strng{authorbibnamehash}{8a73b4bfd52fd4829afc3be532fa6356}
       \strng{authornamehash}{1235d892e7c8984dc795804e1a2d2847}
       \strng{authorfullhash}{8a73b4bfd52fd4829afc3be532fa6356}
+      \field{extraname}{1}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -526,6 +601,81 @@
       \endverb
       \verb{url}
       \verb https://hal.inrae.fr/hal-02607085
+      \endverb
+    \endentry
+    \entry{launay_numerical_2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5d27eea2e0e14c25bb4e84b5049e1d89}{%
+           family={Launay},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4bce25b5754e3f6c6e2a98e9a53a985f}{%
+           family={Dugué},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9fb9cce4520b0e2d692a3559246fa9cb}{%
+           family={Faure},
+           familyi={F\bibinitperiod},
+           given={J.-B.},
+           giveni={J\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=e1b2eada28ffd1459502375cb3a0b79c}{%
+           family={Coquery},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1f29bd6441e6ddefe8cda2af46f67096}{%
+           family={Camenen},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d320073eca24424573c02de1e6f43a4a}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1235d892e7c8984dc795804e1a2d2847}
+      \strng{fullhash}{b78c282f0a230a6e62699ba28c4f71d0}
+      \strng{bibnamehash}{b78c282f0a230a6e62699ba28c4f71d0}
+      \strng{authorbibnamehash}{b78c282f0a230a6e62699ba28c4f71d0}
+      \strng{authornamehash}{1235d892e7c8984dc795804e1a2d2847}
+      \strng{authorfullhash}{b78c282f0a230a6e62699ba28c4f71d0}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding and predicting the propagation, deposition and resuspension of suspended particulate matter ({SPM}) in river networks is important for managing water resources, ecological habitat, pollution, navigation, hydropower generation, reservoir sedimentation, etc. Observational data are scarce and costly, and there is little feedback on the eﬃciency of numerical simulation tools for compensating the lack of data on a river scale of several hundreds of kilometers. This paper aims at exploring the use of a one-dimensional (1-D) hydrodynamical model for understanding the source and fate of {SPM} during complex events. The numerical model was applied to the May–June 2008 ﬂood in the Lower Rhône River, France. This event was a combination of ﬂoods of the Isère (including dam ﬂushing operations in the Lower Isère River) and Durance tributaries over a two-week period. The simulation code was used to model the {SPM} ﬂuxes at a high spatial and temporal resolution using a multi-class approach. Approximately half of the 4.9 Mt of {SPM} measured at the outlet at Beaucaire were found to come from the Isère River and the other half from the Durance River, whereas previous studies estimated that most of the {SPM} ﬂux at the outlet came from the Durance River. The amount of {SPM} trapped within the river network, mainly behind the ﬁrst hydropower structure downstream of the Isère conﬂuence, was estimated to be 3.7 Mt due to the deposition of the coarsest particles. Such a model proved to be able to compute the interaction of various grain size classes with dams and other structures. In turn, the quality of the results of {SPM} ﬂuxes and deposition is highly sensitive to particle parameters, especially grain size distribution, and to the operational rules of reservoirs.}
+      \field{issn}{00489697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shortjournal}{Science of The Total Environment}
+      \field{title}{Numerical modelling of the suspended particulate matter dynamics in a regulated river network}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{665}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{591\bibrangedash 605}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.scitotenv.2019.02.015
+      \endverb
+      \verb{file}
+      \verb Launay et al. - 2019 - Numerical modelling of the suspended particulate m.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\IBMYIYJ4\\Launay et al. - 2019 - Numerical modelling of the suspended particulate m.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0048969719304942
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0048969719304942
       \endverb
     \endentry
     \entry{leon_vie_1953}{article}{}
@@ -844,6 +994,66 @@
       \endverb
       \verb{url}
       \verb https://www.persee.fr/doc/rga_0035-1121_1925_num_13_3_4941
+      \endverb
+    \endentry
+    \entry{perret_framework_2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2ee0ecd0c004a84ae035f351fb1a8fd7}{%
+           family={Perret},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d320073eca24424573c02de1e6f43a4a}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{071a92b28a4e4df9c4298d3562305be4}
+      \strng{fullhash}{f3bd53e2be5054a811e56bd0b0cd003c}
+      \strng{bibnamehash}{f3bd53e2be5054a811e56bd0b0cd003c}
+      \strng{authorbibnamehash}{f3bd53e2be5054a811e56bd0b0cd003c}
+      \strng{authornamehash}{071a92b28a4e4df9c4298d3562305be4}
+      \strng{authorfullhash}{f3bd53e2be5054a811e56bd0b0cd003c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A generic framework is proposed to evaluate the relative discharge error made when ignoring stage-discharge hysteresis due to transient flow over large gauging station networks. The diagnosis is conducted using the Jones equation, a simple hydraulic concept relating discharge to stage and its time-gradient. The input data used for the method are the flow resistance coefficients, the temporal stage gradients, and the bed slopes. The hys­ teresis effect is quantified for each gauging station and mapped using the relative discharge error. The method was applied to 2618 gauging stations of France’s national hydrometry network using data extracted from the national hydrological archive and from Digital Terrain Models. The diagnostic results highly depend on slope estimates used as inputs. Substantial hysteresis effects were found at stations with low bed slope combined with a fast flood regime. The application to France shows the difficulty of drawing a firm conclusion about stations prone to hysteresis due to the slope data uncertainty. This issue is not specific to France; slope estimates over a network of hydrometric stations are difficult to obtain in many countries. The use of local bed slope estimates is recommended to approach the slopes of the reaches controlling the station stage-discharge relation.}
+      \field{issn}{00221694}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shortjournal}{Journal of Hydrology}
+      \field{shorttitle}{A framework for detecting stage-discharge hysteresis due to flow unsteadiness}
+      \field{title}{A framework for detecting stage-discharge hysteresis due to flow unsteadiness: Application to France’s national hydrometry network}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{608}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{127567}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jhydrol.2022.127567
+      \endverb
+      \verb{file}
+      \verb Perret et al. - 2022 - A framework for detecting stage-discharge hysteres.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\WYBLYUTB\\Perret et al. - 2022 - A framework for detecting stage-discharge hysteres.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169422001421
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169422001421
       \endverb
     \endentry
     \entry{pichard_hydro-climatology_2017}{article}{}
@@ -1366,6 +1576,58 @@
       \field{type}{Tech. rep.}
       \field{year}{2000}
       \field{dateera}{ce}
+    \endentry
+    \entry{souhar_approach_2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=acab0830da6ea0c28024dba5781117d0}{%
+           family={Souhar},
+           familyi={S\bibinitperiod},
+           given={Otmane},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7e85aa4620644657d51901f033306d7b}{%
+           family={Faure},
+           familyi={F\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b26601921f9ff00e06fcd92e11aa696e}
+      \strng{fullhash}{b26601921f9ff00e06fcd92e11aa696e}
+      \strng{bibnamehash}{b26601921f9ff00e06fcd92e11aa696e}
+      \strng{authorbibnamehash}{b26601921f9ff00e06fcd92e11aa696e}
+      \strng{authornamehash}{b26601921f9ff00e06fcd92e11aa696e}
+      \strng{authorfullhash}{b26601921f9ff00e06fcd92e11aa696e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper describes the assessment of uncertainties of computational fluid dynamics ({CFD}) for modelling free surface flows. A series of {CFD} simulations, using {MAillé} {GEnéralisé} ({MAGE}), are employed to compute the flood extent resulting from the overflow of rivers. These simulated outputs are affected by uncertainties in the empiric roughness coefficients. Uncertainty propagation in {MAGE} outputs is difficult to evaluate because of the complexity and the nonlinearity of models. Assessment of uncertainties may be carried out by computing derivatives of the output results with respect to the inputs. Recently, automatic differentiation ({AD}) has become an efficient numerical method for sensitivity analysis and assessment of uncertainties. In this paper, {AD} is used to transform mechanically a given one-dimensional hydraulic model, {MAGE}, into a new program capable of computing the original simulation and the desired derivatives. Specifically, derivatives of the flood extent and the water width with respect to the roughness coefficients are computed. Numerical experiments of derivatives obtained from {AD} and divided difference ({DD}) approximations are compared, validating derivatives obtained by {AD}. Results can serve to evaluate existing flood models.}
+      \field{issn}{0315-1468}
+      \field{journaltitle}{Canadian Journal of Civil Engineering}
+      \field{month}{7}
+      \field{note}{Publisher: {NRC} Research Press}
+      \field{number}{7}
+      \field{shortjournal}{Can. J. Civ. Eng.}
+      \field{title}{Approach for uncertainty propagation and design in Saint Venant equations via automatic sensitive derivatives applied to Saar river}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{36}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1144\bibrangedash 1154}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1139/L09-057
+      \endverb
+      \verb{urlraw}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/l09-057
+      \endverb
+      \verb{url}
+      \verb https://cdnsciencepub.com/doi/abs/10.1139/l09-057
+      \endverb
     \endentry
     \entry{surell_memoire_1847}{book}{}
       \name{author}{1}{}{%
