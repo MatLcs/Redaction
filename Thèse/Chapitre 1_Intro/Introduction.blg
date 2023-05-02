@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Introduction.blg'
-[199] biber-MSWIN32:340> INFO - === 
-[270] Biber.pm:415> INFO - Reading 'Introduction.bcf'
-[401] Biber.pm:952> INFO - Found 78 citekeys in bib section 0
-[416] Biber.pm:4340> INFO - Processing section 0
-[495] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
-[572] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1181] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
-[2029] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2029] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2030] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[2030] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
-[2231] bbl.pm:654> INFO - Writing 'Introduction.bbl' with encoding 'UTF-8'
-[2353] bbl.pm:757> INFO - Output to Introduction.bbl
+[122] biber-MSWIN32:340> INFO - === 
+[164] Biber.pm:415> INFO - Reading 'Introduction.bcf'
+[324] Biber.pm:952> INFO - Found 83 citekeys in bib section 0
+[340] Biber.pm:4340> INFO - Processing section 0
+[352] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[446] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1016] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[1852] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1852] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1852] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[1852] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[1984] bbl.pm:654> INFO - Writing 'Introduction.bbl' with encoding 'UTF-8'
+[2106] bbl.pm:757> INFO - Output to Introduction.bbl
