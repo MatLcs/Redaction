@@ -1,0 +1,2692 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=latex 2021.12.8)  2 MAY 2023 20:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./compilation_these.tex
+(compilation_these.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (preambule_these.tex
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count192
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count193
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\
+french.ldf
+Language: french 2021/07/20 v3.5m French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@nonchar=\count194
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count195
+\FBold@everypar=\toks18
+\FB@Mht=\dimen140
+\mc@charclass=\count196
+\mc@charfam=\count197
+\mc@charslot=\count198
+\std@mcc=\count199
+\dec@mcc=\count266
+\listindentFB=\dimen141
+\descindentFB=\dimen142
+\labelindentFB=\dimen143
+\labelwidthFB=\dimen144
+\leftmarginFB=\dimen145
+\parindentFFN=\dimen146
+\FBfnindent=\dimen147
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalef
+nt.sty)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks20
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen156
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip16
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks22
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks23
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks24
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.s
+ty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks31
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrs
+fs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 107.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\dv
+ips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen167
+\captionmargin@=\dimen168
+\captionwidth=\dimen169
+\caption@tempdima=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count282
+\c@continuedfloat=\count283
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcapt
+ion.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count284
+\c@subtable=\count285
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\bookta
+bs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen174
+\lightrulewidth=\dimen175
+\cmidrulewidth=\dimen176
+\belowrulesep=\dimen177
+\belowbottomsep=\dimen178
+\aboverulesep=\dimen179
+\abovetopsep=\dimen180
+\cmidrulesep=\dimen181
+\cmidrulekern=\dimen182
+\defaultaddspace=\dimen183
+\@cmidla=\count286
+\@cmidlb=\count287
+\@aboverulesep=\dimen184
+\@belowrulesep=\dimen185
+\@thisruleclass=\count288
+\@lastruleclass=\count289
+\@thisrulewidth=\dimen186
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen187
+\ar@mcellbox=\box52
+\extrarowheight=\dimen188
+\NC@list=\toks32
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box53
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/paralist\parali
+st.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip57
+\plpartopsep=\skip58
+\plitemsep=\skip59
+\plparsep=\skip60
+\pl@lab=\toks33
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyh
+dr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\empty
+page.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncych
+ap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip70
+\mylen=\skip71
+\myhi=\skip72
+\px=\skip73
+\py=\skip74
+\pyy=\skip75
+\pxx=\skip76
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft
+.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip77
+\cftbeforetoctitleskip=\skip78
+\cftaftertoctitleskip=\skip79
+\cftbeforepartskip=\skip80
+\cftpartnumwidth=\skip81
+\cftpartindent=\skip82
+\cftbeforechapskip=\skip83
+\cftchapindent=\skip84
+\cftchapnumwidth=\skip85
+\cftbeforesecskip=\skip86
+\cftsecindent=\skip87
+\cftsecnumwidth=\skip88
+\cftbeforesubsecskip=\skip89
+\cftsubsecindent=\skip90
+\cftsubsecnumwidth=\skip91
+\cftbeforesubsubsecskip=\skip92
+\cftsubsubsecindent=\skip93
+\cftsubsubsecnumwidth=\skip94
+\cftbeforeparaskip=\skip95
+\cftparaindent=\skip96
+\cftparanumwidth=\skip97
+\cftbeforesubparaskip=\skip98
+\cftsubparaindent=\skip99
+\cftsubparanumwidth=\skip100
+\cftbeforeloftitleskip=\skip101
+\cftafterloftitleskip=\skip102
+\cftbeforefigskip=\skip103
+\cftfigindent=\skip104
+\cftfignumwidth=\skip105
+\c@lofdepth=\count290
+\c@lotdepth=\count291
+\cftbeforelottitleskip=\skip106
+\cftafterlottitleskip=\skip107
+\cftbeforetabskip=\skip108
+\cfttabindent=\skip109
+\cfttabnumwidth=\skip110
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.s
+ty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.s
+ty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epigraph\epigra
+ph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/ltxmisc\nextpag
+e.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip111
+\afterepigraphskip=\skip112
+\epigraphwidth=\skip113
+\epigraphrule=\skip114
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookma
+rk.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvs
+etkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\
+kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdf
+escape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor
+.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\let
+ltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook
+.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen189
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
+.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intca
+lc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etex
+cmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
+def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count295
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen190
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset
+.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bi
+gintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count296
+\Field@Width=\dimen191
+\Fld@charsize=\dimen192
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-l
+tx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
+)
+Package hyperref Info: Driver (default): hdvips.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hdvips
+.def
+File: hdvips.def 2021-06-07 v7.00m Hyperref driver for dvips
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pdfmar
+k.def
+File: pdfmark.def 2021-06-07 v7.00m Hyperref definitions for pdfmark specials
+\pdf@docset=\toks34
+\pdf@box=\box54
+\pdf@toks=\toks35
+\pdf@defaulttoks=\toks36
+\HyField@AnnotCount=\count300
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
+rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-
+ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter
+\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip115
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-dv
+ips.def
+File: bkm-dvips.def 2020-11-06 v1.29 bookmark driver for dvips (HO)
+\BKM@id=\count303
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolb
+ox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count304
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.s
+ty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count305
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.d
+ef
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count306
+\c@listtotal=\count307
+\c@listcount=\count308
+\c@liststart=\count309
+\c@liststop=\count310
+\c@citecount=\count311
+\c@citetotal=\count312
+\c@multicitecount=\count313
+\c@multicitetotal=\count314
+\c@instcount=\count315
+\c@maxnames=\count316
+\c@minnames=\count317
+\c@maxitems=\count318
+\c@minitems=\count319
+\c@citecounter=\count320
+\c@maxcitecounter=\count321
+\c@savedcitecounter=\count322
+\c@uniquelist=\count323
+\c@uniquename=\count324
+\c@refsection=\count325
+\c@refsegment=\count326
+\c@maxextratitle=\count327
+\c@maxextratitleyear=\count328
+\c@maxextraname=\count329
+\c@maxextradate=\count330
+\c@maxextraalpha=\count331
+\c@abbrvpenalty=\count332
+\c@highnamepenalty=\count333
+\c@lownamepenalty=\count334
+\c@maxparens=\count335
+\c@parenlevel=\count336
+\blx@tempcnta=\count337
+\blx@tempcntb=\count338
+\blx@tempcntc=\count339
+\blx@maxsection=\count340
+\blx@maxsegment@0=\count341
+\blx@notetype=\count342
+\blx@parenlevel@text=\count343
+\blx@parenlevel@foot=\count344
+\blx@sectionciteorder@0=\count345
+\blx@entrysetcounter=\count346
+\blx@biblioinstance=\count347
+\labelnumberwidth=\skip116
+\labelalphawidth=\skip117
+\biblabelsep=\skip118
+\bibitemsep=\skip119
+\bibnamesep=\skip120
+\bibinitsep=\skip121
+\bibparsep=\skip122
+\bibhang=\skip123
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count348
+\c@maxcomprange=\count349
+\c@mincompwidth=\count350
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm
+.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count351
+\c@savedafterword=\count352
+\c@annotator=\count353
+\c@savedannotator=\count354
+\c@author=\count355
+\c@savedauthor=\count356
+\c@bookauthor=\count357
+\c@savedbookauthor=\count358
+\c@commentator=\count359
+\c@savedcommentator=\count360
+\c@editor=\count361
+\c@savededitor=\count362
+\c@editora=\count363
+\c@savededitora=\count364
+\c@editorb=\count365
+\c@savededitorb=\count366
+\c@editorc=\count367
+\c@savededitorc=\count368
+\c@foreword=\count369
+\c@savedforeword=\count370
+\c@holder=\count371
+\c@savedholder=\count372
+\c@introduction=\count373
+\c@savedintroduction=\count374
+\c@namea=\count375
+\c@savednamea=\count376
+\c@nameb=\count377
+\c@savednameb=\count378
+\c@namec=\count379
+\c@savednamec=\count380
+\c@translator=\count381
+\c@savedtranslator=\count382
+\c@shortauthor=\count383
+\c@savedshortauthor=\count384
+\c@shorteditor=\count385
+\c@savedshorteditor=\count386
+\c@labelname=\count387
+\c@savedlabelname=\count388
+\c@institution=\count389
+\c@savedinstitution=\count390
+\c@lista=\count391
+\c@savedlista=\count392
+\c@listb=\count393
+\c@savedlistb=\count394
+\c@listc=\count395
+\c@savedlistc=\count396
+\c@listd=\count397
+\c@savedlistd=\count398
+\c@liste=\count399
+\c@savedliste=\count400
+\c@listf=\count401
+\c@savedlistf=\count402
+\c@location=\count403
+\c@savedlocation=\count404
+\c@organization=\count405
+\c@savedorganization=\count406
+\c@origlocation=\count407
+\c@savedoriglocation=\count408
+\c@origpublisher=\count409
+\c@savedorigpublisher=\count410
+\c@publisher=\count411
+\c@savedpublisher=\count412
+\c@language=\count413
+\c@savedlanguage=\count414
+\c@origlanguage=\count415
+\c@savedoriglanguage=\count416
+\c@pageref=\count417
+\c@savedpageref=\count418
+\shorthandwidth=\skip124
+\shortjournalwidth=\skip125
+\shortserieswidth=\skip126
+\shorttitlewidth=\skip127
+\shortauthorwidth=\skip128
+\shorteditorwidth=\skip129
+\locallabelnumberwidth=\skip130
+\locallabelalphawidth=\skip131
+\localshorthandwidth=\skip132
+\localshortjournalwidth=\skip133
+\localshortserieswidth=\skip134
+\localshorttitlewidth=\skip135
+\localshortauthorwidth=\skip136
+\localshorteditorwidth=\skip137
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-co
+mpat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count419
+\c@textcitetotal=\count420
+\c@textcitemaxnames=\count421
+\c@biburlbigbreakpenalty=\count422
+\c@biburlbreakpenalty=\count423
+\c@biburlnumpenalty=\count424
+\c@biburlucpenalty=\count425
+\c@biburllcpenalty=\count426
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count427
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-na
+tbib.def
+File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\au
+thoryear.bbx
+File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\st
+andard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count428
+\c@bbx:relatedtotal=\count429
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\au
+thoryear.cbx
+File: authoryear.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.cfg
+File: biblatex.cfg 
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.
+sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen193
+\TX@old@table=\dimen194
+\TX@old@col=\dimen195
+\TX@target=\dimen196
+\TX@delta=\dimen197
+\TX@cols=\count430
+\TX@ftn=\toks37
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\ds
+font.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multir
+ow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip138
+\multirow@cntb=\count431
+\multirow@dima=\skip139
+\bigstrutjot=\dimen198
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authbl
+k.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip140
+\@affilsep=\skip141
+\c@Maxaffil=\count432
+\c@authors=\count433
+\c@affil=\count434
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 136.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
+ns.sty
+Package: placeins 2005/04/18  v 2.2
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpag
+es.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count435
+\calc@Bcount=\count436
+\calc@Adimen=\dimen199
+\calc@Bdimen=\dimen256
+\calc@Askip=\skip142
+\calc@Bskip=\skip143
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count437
+\calc@Cskip=\skip144
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic
+.sty
+Package: eso-pic 2023/03/23 v3.0b eso-pic (RN)
+\ESO@tempdima=\dimen257
+\ESO@tempdimb=\dimen258
+)
+\AM@pagewidth=\dimen259
+\AM@pageheight=\dimen260
+\AM@fboxrule=\dimen261
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdft
+ex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\ppnull
+.def
+File: ppnull.def 2022/12/19 v0.5x Pdfpages dummy driver (AM)
+
+
+Package pdfpages Warning: I will use a dummy \includepdf command
+(pdfpages)                which will insert empty pages instead of the actual
+(pdfpages)                PDF file because we are running in DVI mode or with
+(pdfpages)                dvips driver.
+
+))
+\pdfpages@includegraphics@status=\count438
+\AM@pagebox=\box55
+\AM@global@opts=\toks38
+\AM@pagecnt=\count439
+\AM@toc@title=\toks39
+\AM@lof@heading=\toks40
+\c@AM@survey=\count440
+\AM@templatesizebox=\box56
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count441
+\@quotereset=\count442
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+.
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-dvips.def
+File: l3backend-dvips.def 2021-10-18 L3 backend support: dvips
+\l__pdf_internal_box=\box57
+\g__pdf_backend_object_int=\count443
+\l__pdf_backend_content_box=\box58
+\l__pdf_backend_model_box=\box59
+\g__pdf_backend_annotation_int=\count444
+\g__pdf_backend_link_int=\count445
+\g__pdf_backend_link_sf_int=\count446
+) (compilation_these.aux
+
+LaTeX Warning: Label `fig:BV' multiply defined.
+
+)
+\openout1 = `compilation_these.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \degres on input line 11.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with paralist package,
+(french.ldf)             reported on input line 11.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with paralist package,
+(french.ldf)             reported on input line 11.
+LaTeX Info: Redefining \up on input line 11.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-23.85716pt
+* \headheight=17.07164pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 11.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
+f.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcou
+nt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestrin
+g\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count447
+)
+LaTeX Info: Redefining \ref on input line 11.
+LaTeX Info: Redefining \pageref on input line 11.
+LaTeX Info: Redefining \nameref on input line 11.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\fr
+ench.lbx
+File: french.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.
+sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-11-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-ca
+se-expl3.sty
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpar
+se\xparse.sty
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `compilation_these.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'compilation_these.bbl' found.
+ (compilation_these.bbl)
+Package biblatex Info: Reference section=0 on input line 11.
+Package biblatex Info: Reference segment=0 on input line 11.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdfls
+cape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdfls
+cape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape
+.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
+)) [1
+
+
+
+] [2] (compilation_these.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
+.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+4.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+4.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.
+fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Overfull \hbox (39.37254pt too wide) in paragraph at lines 116--116
+ [][] [] []  
+ []
+
+
+Overfull \hbox (19.7397pt too wide) in paragraph at lines 166--166
+ [][] [] []  
+ []
+
+
+Overfull \hbox (69.49745pt too wide) in paragraph at lines 186--186
+ [][] [] []  
+ []
+
+
+Overfull \hbox (15.28835pt too wide) in paragraph at lines 232--232
+ [][] [] []  
+ []
+
+
+Overfull \hbox (78.99968pt too wide) in paragraph at lines 246--246
+ [][] [] []  
+ []
+
+
+Overfull \hbox (342.18437pt too wide) in paragraph at lines 274--274
+ [][] [] []  
+ []
+
+
+Overfull \hbox (80.69408pt too wide) in paragraph at lines 284--284
+ [][] [] []  
+ []
+
+[1]
+Overfull \hbox (70.37833pt too wide) in paragraph at lines 312--312
+ [][] [] []  
+ []
+
+
+Overfull \hbox (29.97522pt too wide) in paragraph at lines 324--324
+ [][] [] []  
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `compilation_these.toc'.
+
+ [2] (Chapitre1_Intro/IntroductionB.tex
+Chapitre 1.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+6.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.f
+d
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+6.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.f
+d
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) [1
+
+
+] [2] [3] [4] [5] [6]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+08.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+[7] [8]
+Overfull \hbox (7.0207pt too wide) in paragraph at lines 135--135
+[]\T1/lmr/bx/n/17.28 Le risque inon-da-tion dans la basse val-lée du Rhône 
+ []
+
+[9]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre1_Intro/Figures/Sche
+maThese.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 ...{Chapitre1_Intro/Figures/SchemaThese.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre1_Intro/Figures/SchemaThese.pdf Graphic file (type eps)
+<Chapitre1_Intro/Figures/SchemaThese.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10]) (Chapitre2/Chapitre2B.tex [11] [12
+
+]
+Chapitre 2.
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/foire4.jpg
+ (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...1\linewidth]{Chapitre2/Figures/foire4.jpg}
+                                                  \hfill
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/foire4.jpg Graphic file (type eps)
+<Chapitre2/Figures/foire4.jpg>
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/foire5.jpg
+ (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...1\linewidth]{Chapitre2/Figures/foire5.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/foire5.jpg Graphic file (type eps)
+<Chapitre2/Figures/foire5.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+6.
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Warning: Reference `fig:RegimeAffluents' on page 13 undefined on input li
+ne 76.
+
+[13]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Rhone_bass
+in_versant.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...hapitre2/Figures/Rhone_bassin_versant.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Rhone_bassin_versant.png Graphic file (type eps)
+<Chapitre2/Figures/Rhone_bassin_versant.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Regime.pdf
+ (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...7\linewidth]{Chapitre2/Figures/Regime.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Regime.pdf Graphic file (type eps)
+<Chapitre2/Figures/Regime.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/RÃ©gimeRhÃ
+´ne.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 ...idth]{Chapitre2/Figures/RÃ©gimeRhÃ´ne.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/RÃ©gimeRhÃ´ne.pdf Graphic file (type eps)
+<Chapitre2/Figures/RÃ©gimeRhÃ´ne.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14]
+
+LaTeX Warning: Text page 15 contains only floats.
+
+
+Overfull \vbox (0.56255pt too high) has occurred while \output is active []
+
+
+[15] [16]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/CartoPt.pd
+f (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...linewidth]{Chapitre2/Figures/CartoPt.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/CartoPt.pdf Graphic file (type eps)
+<Chapitre2/Figures/CartoPt.pdf> [17]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/TabObsBcrS
+mall.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 ...th]{Chapitre2/Figures/TabObsBcrSmall.jpg}
+                                                  \hfill
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/TabObsBcrSmall.jpg Graphic file (type eps)
+<Chapitre2/Figures/TabObsBcrSmall.jpg>
+
+! LaTeX Error: File `Chapitre2/Figures/RegleStationCNR' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 ...width]{Chapitre2/Figures/RegleStationCNR}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|\T1/lmr/m/n/12 Zéro échelle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+\T1/lmr/m/n/12 [mNGF
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\T1/lmr/m/n/12 Service Spé-cial
+ []
+
+
+Overfull \hbox (0.50879pt too wide) in paragraph at lines 150--151
+[]|\T1/lmr/m/n/12 Probablement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T1/lmr/m/n/12 3 me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+[]|\T1/lmr/m/n/12 Service Spé-cial
+ []
+
+
+Overfull \hbox (2.19078pt too wide) in paragraph at lines 155--155
+[]|\T1/lmr/m/n/12 Limnigraphe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmr/m/n/12 à flot-teur
+ []
+
+
+Overfull \hbox (46.34712pt too wide) in paragraph at lines 145--160
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Jaus.pdf (
+no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 ....8\linewidth]{Chapitre2/Figures/Jaus.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Jaus.pdf Graphic file (type eps)
+<Chapitre2/Figures/Jaus.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Jau1845.jp
+g (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 ...linewidth]{Chapitre2/Figures/Jau1845.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Jau1845.jpg Graphic file (type eps)
+<Chapitre2/Figures/Jau1845.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19] [20]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/ChampInond
+1840-1856.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...hapitre2/Figures/ChampInond1840-1856.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/ChampInond1840-1856.jpg Graphic file (type eps)
+<Chapitre2/Figures/ChampInond1840-1856.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21
+
+]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/EditArmand
+.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 ...ewidth]{Chapitre2/Figures/EditArmand.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/EditArmand.pdf Graphic file (type eps)
+<Chapitre2/Figures/EditArmand.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Goux4550.p
+ng (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 ...inewidth]{Chapitre2/Figures/Goux4550.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Goux4550.png Graphic file (type eps)
+<Chapitre2/Figures/Goux4550.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23] [24]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/AerialBcr.
+png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 ...newidth]{Chapitre2/Figures/AerialBcr.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/AerialBcr.png Graphic file (type eps)
+<Chapitre2/Figures/AerialBcr.png> [25
+
+] [26]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/RestitCart
+oPh.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282 ...dth]{Chapitre2/Figures/RestitCartoPh.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/RestitCartoPh.png Graphic file (type eps)
+<Chapitre2/Figures/RestitCartoPh.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/ProfilsBar
+dRestit.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.294 ...{Chapitre2/Figures/ProfilsBardRestit.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/ProfilsBardRestit.png Graphic file (type eps)
+<Chapitre2/Figures/ProfilsBardRestit.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27] [28] [29]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/CassiniOra
+nge.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 ...dth]{Chapitre2/Figures/CassiniOrange.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/CassiniOrange.jpg Graphic file (type eps)
+<Chapitre2/Figures/CassiniOrange.jpg>
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/IGNOrange.
+jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.312 ...newidth]{Chapitre2/Figures/IGNOrange.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/IGNOrange.jpg Graphic file (type eps)
+<Chapitre2/Figures/IGNOrange.jpg> [30
+
+]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/EpisGirard
+onGervans.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 ...hapitre2/Figures/EpisGirardonGervans.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/EpisGirardonGervans.jpg Graphic file (type eps)
+<Chapitre2/Figures/EpisGirardonGervans.jpg>
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/AmenTypeCN
+R.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.331 ...width]{Chapitre2/Figures/AmenTypeCNR.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/AmenTypeCNR.jpg Graphic file (type eps)
+<Chapitre2/Figures/AmenTypeCNR.jpg>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31] [32] [33
+
+]
+
+LaTeX Warning: Reference `sec:TabPropag' on page 34 undefined on input line 372
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/BoxplotTpr
+op_Fr.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.383 ...h]{Chapitre2/Figures/BoxplotTprop_Fr.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/BoxplotTprop_Fr.pdf Graphic file (type eps)
+<Chapitre2/Figures/BoxplotTprop_Fr.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[34] [35]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/HistrhoneM
+ap.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.408 ...idth]{Chapitre2/Figures/HistrhoneMap.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/HistrhoneMap.jpg Graphic file (type eps)
+<Chapitre2/Figures/HistrhoneMap.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36]
+Overfull \hbox (3.67503pt too wide) in paragraph at lines 424--424
+[]|\T1/lmr/m/n/12 Code| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]|\T1/lmr/m/n/12 Débit es-timé
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 442--442
+\T1/lmr/m/n/12 ment sans gra-vité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+[]|\T1/lmr/bx/n/12 Débordement li-mité\T1/lmr/m/n/12 , sans gra-vité
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 444--444
+\T1/lmr/m/n/12 ma-jeure ou bien lo-ca-li-sée (sé-gon-naux,
+ []
+
+
+Overfull \hbox (30.08307pt too wide) in paragraph at lines 422--457
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/C3-C4_Syst
+ematicPeriod-FR.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.467 ...e2/Figures/C3-C4_SystematicPeriod-FR.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/C3-C4_SystematicPeriod-FR.pdf Graphic file (type eps)
+<Chapitre2/Figures/C3-C4_SystematicPeriod-FR.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[38]
+Overfull \hbox (39.695pt too wide) in paragraph at lines 481--487
+ [][] 
+ []
+
+[39]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Nb_C3-C4.p
+df (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.496 ...inewidth]{Chapitre2/Figures/Nb_C3-C4.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Nb_C3-C4.pdf Graphic file (type eps)
+<Chapitre2/Figures/Nb_C3-C4.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40] [41] [42] [43
+
+]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/LimAmont.p
+df (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.520 ...inewidth]{Chapitre2/Figures/LimAmont.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/LimAmont.pdf Graphic file (type eps)
+<Chapitre2/Figures/LimAmont.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/EvolEmbouc
+h.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.529 ...width]{Chapitre2/Figures/EvolEmbouch.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/EvolEmbouch.jpg Graphic file (type eps)
+<Chapitre2/Figures/EvolEmbouch.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/DiffMerArl
+es.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.538 ...idth]{Chapitre2/Figures/DiffMerArles.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/DiffMerArles.pdf Graphic file (type eps)
+<Chapitre2/Figures/DiffMerArles.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44] [45] [46] [47]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Elarg.png 
+(no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.549 ...5\linewidth]{Chapitre2/Figures/Elarg.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Elarg.png Graphic file (type eps)
+<Chapitre2/Figures/Elarg.png>
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/MAGERh_AvA
+p.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.558 ...width]{Chapitre2/Figures/MAGERh_AvAp.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/MAGERh_AvAp.png Graphic file (type eps)
+<Chapitre2/Figures/MAGERh_AvAp.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[48
+
+] [49]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/4cases.pdf
+ (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.572 ...\linewidth]{Chapitre2/Figures/4cases.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/4cases.pdf Graphic file (type eps)
+<Chapitre2/Figures/4cases.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[50] [51] [52
+
+]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Breches200
+3.jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.593 ...width]{Chapitre2/Figures/Breches2003.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Breches2003.jpg Graphic file (type eps)
+<Chapitre2/Figures/Breches2003.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[53] [54]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/BathyArles
+1897.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.613 ...th]{Chapitre2/Figures/BathyArles1897.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/BathyArles1897.png Graphic file (type eps)
+<Chapitre2/Figures/BathyArles1897.png>
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre2/Figures/Atlas1860.
+jpg (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.619 ...newidth]{Chapitre2/Figures/Atlas1860.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre2/Figures/Atlas1860.jpg Graphic file (type eps)
+<Chapitre2/Figures/Atlas1860.jpg>
+
+LaTeX Warning: Float too large for page by 71.1841pt on input line 623.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[55] [56] [57
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 643.
+ [58] [59] [60] [61]) (Chapitre3/Chapitre3B.tex [62]
+Chapitre 3.
+[63
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 27.11652pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11652pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
+
+[64] [65]) (Chapitre4/Chapitre4B.tex
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 27.11652pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11652pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
+
+[66]
+Chapitre 4.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 35.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <24.88> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <20.74> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 35.
+[67
+
+]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[68] [69]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[70] [71]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[72] [73]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[74]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/EchMixteBc
+r.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 ...width]{Chapitre4/Figures/EchMixteBcr.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/EchMixteBcr.pdf Graphic file (type eps)
+<Chapitre4/Figures/EchMixteBcr.pdf> [75]
+Overfull \hbox (3.83017pt too wide) in paragraph at lines 232--233
+\T1/lmr/m/n/12 nues : le test de [][]\T1/lmr/m/sc/12 Pettitt []\T1/lmr/m/n/12 (
+[]) et la pro-cé-dure de seg-men-ta-tion dé-ve-lop-pée par [][]\T1/lmr/m/sc/12 
+Darienzo
+ []
+
+
+Overfull \hbox (8.94347pt too wide) in paragraph at lines 245--246
+ [][] \T1/lmr/m/n/12 Ces in-ter-valles de confiance ont été cal-cu-lés pour l'é
+chan-tillon de crues pré-enregistrements
+ []
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Poisson_C3
+-C4_FR.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 ...]{Chapitre4/Figures/Poisson_C3-C4_FR.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Poisson_C3-C4_FR.pdf Graphic file (type eps)
+<Chapitre4/Figures/Poisson_C3-C4_FR.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[76]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Poisson_Qr
+ecent_FR.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...Chapitre4/Figures/Poisson_Qrecent_FR.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Poisson_Qrecent_FR.pdf Graphic file (type eps)
+<Chapitre4/Figures/Poisson_Qrecent_FR.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[77]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[78]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Barplots_Q
+X_Artif2.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.316 ...Chapitre4/Figures/Barplots_QX_Artif2.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Barplots_QX_Artif2.pdf Graphic file (type eps)
+<Chapitre4/Figures/Barplots_QX_Artif2.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Quantiles_
+Artif2.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 ...]{Chapitre4/Figures/Quantiles_Artif2.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Quantiles_Artif2.pdf Graphic file (type eps)
+<Chapitre4/Figures/Quantiles_Artif2.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[79]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[80] [81]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Shape_Arti
+f2.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.362 ...idth]{Chapitre4/Figures/Shape_Artif2.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Shape_Artif2.pdf Graphic file (type eps)
+<Chapitre4/Figures/Shape_Artif2.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[82
+
+]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Params_Art
+if2.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.375 ...dth]{Chapitre4/Figures/Params_Artif2.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Params_Artif2.pdf Graphic file (type eps)
+<Chapitre4/Figures/Params_Artif2.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[84]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/ScatterD_A
+rtif2.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.392 ...h]{Chapitre4/Figures/ScatterD_Artif2.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/ScatterD_Artif2.pdf Graphic file (type eps)
+<Chapitre4/Figures/ScatterD_Artif2.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[85]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[86] [87]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Barplots_Q
+X_censure.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 ...hapitre4/Figures/Barplots_QX_censure.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Barplots_QX_censure.pdf Graphic file (type eps)
+<Chapitre4/Figures/Barplots_QX_censure.pdf>
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[88
+
+]
+Underfull \vbox (badness 1735) has occurred while \output is active []
+
+ [89]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Barplots_Q
+X_C4.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.445 ...th]{Chapitre4/Figures/Barplots_QX_C4.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Barplots_QX_C4.pdf Graphic file (type eps)
+<Chapitre4/Figures/Barplots_QX_C4.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Params_C4.
+pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.471 ...newidth]{Chapitre4/Figures/Params_C4.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Params_C4.pdf Graphic file (type eps)
+<Chapitre4/Figures/Params_C4.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[90]
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
+ [91]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Barplots_Q
+X_C4short.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.495 ...hapitre4/Figures/Barplots_QX_C4short.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Barplots_QX_C4short.pdf Graphic file (type eps)
+<Chapitre4/Figures/Barplots_QX_C4short.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[92]
+
+! LaTeX Error: Cannot determine size of graphic in Chapitre4/Figures/Params_C4s
+hort.pdf (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.520 ...th]{Chapitre4/Figures/Params_C4short.pdf}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Chapitre4/Figures/Params_C4short.pdf Graphic file (type eps)
+<Chapitre4/Figures/Params_C4short.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[93]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[94] [95]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[96] [97
+
+]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[98] [99]
+
+Package fancyhdr Warning: \headheight is too small (17.07164pt): 
+(fancyhdr)                Make it at least 28.71574pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.71574pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+
+[100]) [101] [102
+
+]
+Overfull \hbox (16.43106pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 sher : Co-per-ni-cus GmbH, p. 295-308. \T1/lmr/m/sc/12 issn \T1/
+lmr/m/n/12 : 1561-8633. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (65.93465pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 tions, Ame-ri-can Geo-phy-si-cal Union \T1/lmr/m/n/12 31.3, p. 
+419. \T1/lmr/m/sc/12 issn \T1/lmr/m/n/12 : 0002-8606. \T1/lmr/m/sc/12 doi \T1/l
+mr/m/n/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (95.09383pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 years''. In : \T1/lmr/m/it/12 Na-ture \T1/lmr/m/n/12 583.7817, p
+. 560-566. \T1/lmr/m/sc/12 issn \T1/lmr/m/n/12 : 0028-0836, 1476-4687. \T1/lmr/
+m/sc/12 doi \T1/lmr/m/n/12 : [][][][][][]. 
+ []
+
+[103]
+Overfull \hbox (4.7562pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/sc/12 Dezileau[]\T1/lmr/m/n/12 , L., B. []\T1/lmr/m/sc/12 Terri
+er[]\T1/lmr/m/n/12 , J. []\T1/lmr/m/sc/12 Berger[]\T1/lmr/m/n/12 , P. []\T1/lmr
+/m/sc/12 Blanchemanche[]\T1/lmr/m/n/12 , A. []\T1/lmr/m/sc/12 Latapie[]\T1/lmr/
+m/n/12 , R. []\T1/lmr/m/sc/12 Freydier[]\T1/lmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (14.85918pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Geo-mor-pho-logy \T1/lmr/m/n/12 214, p. 56-68. \T1/lmr/m/sc/12 
+issn \T1/lmr/m/n/12 : 0169555X. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][][][][]
+[]. 
+ []
+
+[104]
+Overfull \hbox (82.11545pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 si-cal Re-search Let-ters \T1/lmr/m/n/12 46.2. _eprint : https 
+://on-li-ne-li-brary.wiley.com/doi/pdf/10.1029/2018GL079725,
+ []
+
+[105]
+Overfull \hbox (57.14726pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Re-sources Re-search \T1/lmr/m/n/12 54.3, p. 1952-1976. \T1/lmr
+/m/sc/12 issn \T1/lmr/m/n/12 : 0043-1397, 1944-7973. \T1/lmr/m/sc/12 doi \T1/lm
+r/m/n/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (35.26425pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/sc/12 Kjeldsen[]\T1/lmr/m/n/12 , T., N. []\T1/lmr/m/sc/12 Macdo
+nald[]\T1/lmr/m/n/12 , M. []\T1/lmr/m/sc/12 Lang[]\T1/lmr/m/n/12 , L. []\T1/lmr
+/m/sc/12 Mediero[]\T1/lmr/m/n/12 , T. []\T1/lmr/m/sc/12 Albuquerque[]\T1/lmr/m/
+n/12 , E. []\T1/lmr/m/sc/12 Bogdanowicz[]\T1/lmr/m/n/12 ,
+ []
+
+[106] [107]
+Overfull \hbox (23.09506pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Re-search \T1/lmr/m/n/12 56.7. _eprint : https ://on-li-ne-li-b
+rary.wiley.com/doi/pdf/10.1029/2019WR026575,
+ []
+
+
+Overfull \hbox (10.6253pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 sher : [Wi-ley, Eco-no-me-tric So-ciety], p. 245-259. \T1/lmr/m/
+sc/12 issn \T1/lmr/m/n/12 : 0012-9682. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][
+][][][][]. 
+ []
+
+
+Overfull \hbox (178.26756pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 Ap-pli-ca-tion''. In : \T1/lmr/m/it/12 Aus-tra-lian Geo-gra-phi-
+cal Stu-dies \T1/lmr/m/n/12 30.1. _eprint : https ://onlinelibrary.wiley.com/do
+i/pdf/10.1111/j.1467-
+ []
+
+
+Overfull \hbox (45.62819pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 8470.1992.tb00733.x, p. 70-86. \T1/lmr/m/sc/12 issn \T1/lmr/m/n/
+12 : 1467-8470. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][][][][][]. 
+ []
+
+[108]
+Overfull \hbox (290.95659pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/n/12 (2021). \T1/lmr/m/it/12 Banque Hy-dro (http ://www.hydro.e
+aufrance.fr/)\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url \T1/lmr/m/n/12 : [][][][][][]
+
+ []
+
+
+Overfull \hbox (8.0166pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 du-rable. \T1/lmr/m/sc/12 url \T1/lmr/m/n/12 : [][][][][][]
+ []
+
+
+Overfull \hbox (104.03815pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 des re-pères de crues en France. \T1/lmr/m/sc/12 url \T1/lmr/m/
+n/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (4.07549pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/sc/12 Merz[]\T1/lmr/m/n/12 , B., S. []\T1/lmr/m/sc/12 Basso[]\T
+1/lmr/m/n/12 , S. []\T1/lmr/m/sc/12 Fischer[]\T1/lmr/m/n/12 , D. []\T1/lmr/m/sc
+/12 Lun[]\T1/lmr/m/n/12 , G. []\T1/lmr/m/sc/12 Blöschl[]\T1/lmr/m/n/12 , R. []\
+T1/lmr/m/sc/12 Merz[]\T1/lmr/m/n/12 , B. []\T1/lmr/m/sc/12 Guse[]\T1/lmr/m/n/12
+ , A. []\T1/lmr/m/sc/12 Viglione[]\T1/lmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (0.4822pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/sc/12 Milly[]\T1/lmr/m/n/12 , P. C. D., J. []\T1/lmr/m/sc/12 Be
+tancourt[]\T1/lmr/m/n/12 , M. []\T1/lmr/m/sc/12 Falkenmark[]\T1/lmr/m/n/12 , R.
+ M. []\T1/lmr/m/sc/12 Hirsch[]\T1/lmr/m/n/12 , Z. W. []\T1/lmr/m/sc/12 Kundzewi
+cz[]\T1/lmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (18.05534pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Jour-nal \T1/lmr/m/n/12 55.2, p. 192-208. \T1/lmr/m/sc/12 issn 
+\T1/lmr/m/n/12 : 0262-6667, 2150-3435. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][
+][][][][]. 
+ []
+
+
+Overfull \hbox (98.3665pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 tions''. In : \T1/lmr/m/it/12 Jour-nal of Hy-dro-logy \T1/lmr/m/
+n/12 508, p. 385-396. \T1/lmr/m/sc/12 issn \T1/lmr/m/n/12 : 00221694. \T1/lmr/m
+/sc/12 doi \T1/lmr/m/n/12 : [][][][][][]. 
+ []
+
+[109]
+Overfull \hbox (36.61981pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Jour-nal of Hy-dro-logy \T1/lmr/m/n/12 495, p. 23-37. \T1/lmr/m
+/sc/12 issn \T1/lmr/m/n/12 : 0022-1694. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : []
+[][][][][]. 
+ []
+
+
+Overfull \hbox (56.19608pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Jour-nal of Hy-dro-logy \T1/lmr/m/n/12 540, p. 1189-1208. \T1/l
+mr/m/sc/12 issn \T1/lmr/m/n/12 : 00221694. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 :
+ [][][][][][]. 
+ []
+
+
+Overfull \hbox (94.38426pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 work''. In : \T1/lmr/m/it/12 Jour-nal of Hy-dro-logy \T1/lmr/m/n
+/12 608, p. 127567. \T1/lmr/m/sc/12 issn \T1/lmr/m/n/12 : 00221694. \T1/lmr/m/s
+c/12 doi \T1/lmr/m/n/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (17.70233pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 ment \T1/lmr/m/n/12 23.9, p. 1835-1842. \T1/lmr/m/sc/12 issn \T
+1/lmr/m/n/12 : 0920-4741, 1573-1650. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][][
+][][][]. 
+ []
+
+
+Overfull \hbox (17.83295pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/n/12 62.11, p. 1772-1795. \T1/lmr/m/sc/12 issn \T1/lmr/m/n/12 : 0262-
+6667, 2150-3435. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (137.66505pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 de Pro-vence \T1/lmr/m/n/12 (Hors-série de la re-vue Mé-di-ter-
+ra-née), p. 194. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][][][][][]. 
+ []
+
+[110]
+Overfull \hbox (73.03477pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 rences \T1/lmr/m/n/12 7. Pu-bli-sher : EDP Sciences, p. 16003. 
+\T1/lmr/m/sc/12 issn \T1/lmr/m/n/12 : 2267-1242. \T1/lmr/m/sc/12 doi \T1/lmr/m/
+n/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (63.75635pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Risk As-sess-ment \T1/lmr/m/n/12 32.3, p. 607-622. \T1/lmr/m/sc
+/12 issn \T1/lmr/m/n/12 : 1436-3240, 1436-3259. \T1/lmr/m/sc/12 doi \T1/lmr/m/n
+/12 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (9.37114pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/sc/12 Puechberty[]\T1/lmr/m/n/12 , R., C. []\T1/lmr/m/sc/12 Per
+ret[]\T1/lmr/m/n/12 , S. P. []\T1/lmr/m/sc/12 Pitsch[]\T1/lmr/m/n/12 , P. []\T1
+/lmr/m/sc/12 Battaglia[]\T1/lmr/m/n/12 , A. []\T1/lmr/m/sc/12 Belleville[]\T1/l
+mr/m/n/12 , P. []\T1/lmr/m/sc/12 Bompart[]\T1/lmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (115.85297pt too wide) in paragraph at lines 40--40
+\T1/lmr/m/it/12 Wa-ter Re-sources Re-search \T1/lmr/m/n/12 47.11. _eprint : htt
+ps ://on-li-ne-li-brary.wiley.com/doi/pdf/10.1029/2010WR010089.
+ []
+
+[111]
+Overfull \hbox (10.95065pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/sc/12 Steinbakk[]\T1/lmr/m/n/12 , G. H., T. L. []\T1/lmr/m/sc/1
+2 Thorarinsdottir[]\T1/lmr/m/n/12 , T. []\T1/lmr/m/sc/12 Reitan[]\T1/lmr/m/n/12
+ , L. []\T1/lmr/m/sc/12 Schlichting[]\T1/lmr/m/n/12 , S. []\T1/lmr/m/sc/12 Høll
+eland
+ []
+
+[112]
+Overfull \hbox (338.5566pt too wide) in paragraph at lines 40--40
+[][][]\T1/lmr/m/sc/12 WHS []\T1/lmr/m/n/12 (2008). \T1/lmr/m/it/12 Flood Es-ti-
+ma-tion Hand-book\T1/lmr/m/n/12 . WHS. Sec-tion : Soft-ware. \T1/lmr/m/sc/12 ur
+l \T1/lmr/m/n/12 : [][][][][][]
+ []
+
+[113]
+\BKM@file=\write5
+\openout5 = `compilation_these.out.ps'.
+
+ [114] (compilation_these.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+LaTeX Warning: Temporary extra page added at the end. Rerun to get it removed.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
+Package logreq Info: Writing requests to 'compilation_these.run.xml'.
+\openout1 = `compilation_these.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25272 strings out of 478660
+ 473061 string characters out of 2842154
+ 1260702 words of memory out of 3000000
+ 42791 multiletter control sequences out of 15000+600000
+ 493955 words of font info for 100 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,15n,84p,30117b,2114s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on compilation_these.dvi (118 pages, 648496 bytes).

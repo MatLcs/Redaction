@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt,twoside]{book}
+
+\input{preambule_these.tex}
+
+\addbibresource{Thèse.bib}
+
+\title{Thèse V1}
+\author{Mathieu LUCAS}
+\date\today
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+
+\newpage
+\thispagestyle{empty}
+\hspace{1cm}
+\newpage
+
+\setcounter{page}{1}
+\tableofcontents
+
+\mainmatter
+
+%Page de garde
+%Abstract/Résumé
+%Remerciements
+
+\input{Chapitre1_Intro/IntroductionB.tex}
+\input{Chapitre2/Chapitre2B.tex}
+\input{Chapitre3/Chapitre3B.tex}
+\input{Chapitre4/Chapitre4B.tex}
+%\input{Chapitre 5_conclu/ConclusionB.tex}
+
+
+%\bibliographystyle{ieeetr}
+%\bibliography{biblio}
+\printbibliography[title=Bibliographie]
+
+\end{document}
