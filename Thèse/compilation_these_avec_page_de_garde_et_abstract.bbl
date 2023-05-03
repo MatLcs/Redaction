@@ -154,6 +154,123 @@
       \verb https://www.persee.fr/doc/rea_0035-2004_1907_num_9_1_1469
       \endverb
     \endentry
+    \entry{arnaud_coupled_2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c904b56b62c6e1ab16702a61d372d3a5}{%
+           family={Arnaud},
+           familyi={A\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8da807bf390fad821ba11cada43fefcc}{%
+           family={Lavabre},
+           familyi={L\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{60b270b4b2261ff1c6919f24e5d12717}
+      \strng{fullhash}{60b270b4b2261ff1c6919f24e5d12717}
+      \strng{bibnamehash}{60b270b4b2261ff1c6919f24e5d12717}
+      \strng{authorbibnamehash}{60b270b4b2261ff1c6919f24e5d12717}
+      \strng{authornamehash}{60b270b4b2261ff1c6919f24e5d12717}
+      \strng{authorfullhash}{60b270b4b2261ff1c6919f24e5d12717}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A method was designed to study frequency distributions of hydrologic variables (rainfall and discharge) which combined a stochastic model for hourly rainfall with a general conceptual model for transforming rainfall into discharge. The model generates many different flood events over a given simulation period to evaluate hydrologic risks. The Simulated Hydrographs for flood Probability Estimation ({SHYPRE}) method was based on the use of observations to describe phenomena and statistically reproduce them. Frequency distributions of hydrological variables are built empirically from simulated rainfall and flood events. Extrapolation of these frequency distributions toward rare frequencies is performed by generating very different events over a long simulation period rather than by directly fitting a theoretical probability distribution on observed values. This method yields an original estimation of flood quantiles from common to rare frequencies and provides complete temporal data about these floods. In addition, the approach supplies more stable estimates of flood quantiles than statistical distributions fitted on observed values, even for frequent events. This is due to a better integration of rainfall data and the parametric design stability of the two models (rainfall model and rainfall-discharge model).}
+      \field{issn}{1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2001WR000474}
+      \field{number}{6}
+      \field{title}{Coupled rainfall model and discharge model for flood frequency estimation}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{38}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11--1--11\bibrangedash 11}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2001WR000474
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\4ZU3CTXT\\Arnaud et Lavabre - 2002 - Coupled rainfall model and discharge model for flo.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\6XDHWTGZ\\2001WR000474.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2001WR000474
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2001WR000474
+      \endverb
+      \keyw{flood frequency estimation,rainfall-runoff model,robustness,stochastic rainfall model}
+    \endentry
+    \entry{aubert_methode_2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=04d759611413466a34ab30bb3ca520c6}{%
+           family={Aubert},
+           familyi={A\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=862418ee9d4e92dca0324278803d03c4}{%
+           family={Arnaud},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=eda077300a0ed25781ba8c0ad8c0b72b}{%
+           family={Ribstein},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9399aec6e0eb142f5b603a3125b7d467}{%
+           family={Fine},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0260f583722676479f5aaaa3da40b721}
+      \strng{fullhash}{3b87d833f86880dd012d1cb0f8c065d5}
+      \strng{bibnamehash}{3b87d833f86880dd012d1cb0f8c065d5}
+      \strng{authorbibnamehash}{3b87d833f86880dd012d1cb0f8c065d5}
+      \strng{authornamehash}{0260f583722676479f5aaaa3da40b721}
+      \strng{authorfullhash}{3b87d833f86880dd012d1cb0f8c065d5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{L}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{langid}{french}
+      \field{number}{5}
+      \field{title}{La méthode {SHYREG} débit—application sur 1605 bassins versants en France métropolitaine}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{59}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{p. 993}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1080/02626667.2014.902061
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\NWKGVGTV\\Aubert et al. - 2014 - La méthode SHYREG débit—application sur 1605 bassi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.science/hal-01059728
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-01059728
+      \endverb
+    \endentry
     \entry{baker_paleoflood_1987}{article}{}
       \name{author}{1}{}{%
         {{hash=14cd90e2a892d2081bb147f3610f9556}{%
@@ -205,6 +322,63 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/0022169487901454
       \endverb
+    \endentry
+    \entry{balkema_residual_1974}{article}{}
+      \name{author}{2}{}{%
+        {{hash=55fa7d47530e2e9bafa8ece966c53e06}{%
+           family={Balkema},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d31b52095bde00da18e23ea162a351f3}{%
+           family={Haan},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc63aca94546541eff6fed6f3dbd675e}
+      \strng{fullhash}{dc63aca94546541eff6fed6f3dbd675e}
+      \strng{bibnamehash}{dc63aca94546541eff6fed6f3dbd675e}
+      \strng{authorbibnamehash}{dc63aca94546541eff6fed6f3dbd675e}
+      \strng{authornamehash}{dc63aca94546541eff6fed6f3dbd675e}
+      \strng{authorfullhash}{dc63aca94546541eff6fed6f3dbd675e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The asymptotic behaviour of the residual life time at time \$t\$ is investigated (for \$t {\textbackslash}rightarrow {\textbackslash}infty\$). We derive weak limit laws and their domains of attraction and treat rates of convergence and moment convergence. The presentation exploits the close similarity with extreme value theory.}
+      \field{issn}{0091-1798, 2168-894X}
+      \field{journaltitle}{The Annals of Probability}
+      \field{month}{10}
+      \field{note}{Publisher: Institute of Mathematical Statistics}
+      \field{number}{5}
+      \field{title}{Residual Life Time at Great Age}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{2}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{792\bibrangedash 804}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1214/aop/1176996548
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\SEGE92DT\\Balkema et Haan - 1974 - Residual Life Time at Great Age.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/annals-of-probability/volume-2/issue-5/Residual-Life-Time-at-Great-Age/10.1214/aop/1176996548.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/annals-of-probability/volume-2/issue-5/Residual-Life-Time-at-Great-Age/10.1214/aop/1176996548.full
+      \endverb
+      \keyw{60F05,62N05,distribution tail,Extreme value theory,regular variation,Residual life time}
     \endentry
     \entry{ballesteros-canovas_review_2015}{article}{}
       \name{author}{4}{}{%
@@ -1886,6 +2060,58 @@
       \verb https://hess.copernicus.org/preprints/hess-2020-269/hess-2020-269.pdf
       \endverb
     \endentry
+    \entry{fisher_limiting_1928}{article}{}
+      \name{author}{2}{}{%
+        {{hash=565b1403c3b3172839fa752390fdd3bf}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8f380e17f6030e46163980cc54415513}{%
+           family={Tippett},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi H.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{924218593c52a9c7364af589a5486af3}
+      \strng{fullhash}{924218593c52a9c7364af589a5486af3}
+      \strng{bibnamehash}{924218593c52a9c7364af589a5486af3}
+      \strng{authorbibnamehash}{924218593c52a9c7364af589a5486af3}
+      \strng{authornamehash}{924218593c52a9c7364af589a5486af3}
+      \strng{authorfullhash}{924218593c52a9c7364af589a5486af3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The limiting distribution, when n is large, of the greatest or least of a sample of n, must satisfy a functional equation which limits its form to one of two main types. Of these one has, apart from size and position, a single parameter h, while the other is the limit to which it tends when h tends to zero.The appropriate limiting distribution in any case may be found from the manner in which the probability of exceeding any value x tends to zero as x is increased. For the normal distribution the limiting distribution has h = 0.From the normal distribution the limiting distribution is approached with extreme slowness; the final series of forms passed through as the ultimate form is approached may be represented by the series of limiting distributions in which h tends to zero in a definite manner as n increases to infinity.Numerical values are given for the comparison of the actual with the penultimate distributions for samples of 60 to 1000, and of the penultimate with the ultimate distributions for larger samples.}
+      \field{issn}{1469-8064, 0305-0041}
+      \field{journaltitle}{Mathematical Proceedings of the Cambridge Philosophical Society}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{note}{Publisher: Cambridge University Press}
+      \field{number}{2}
+      \field{title}{Limiting forms of the frequency distribution of the largest or smallest member of a sample}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{24}
+      \field{year}{1928}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{180\bibrangedash 190}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1017/S0305004100015681
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/limiting-forms-of-the-frequency-distribution-of-the-largest-or-smallest-member-of-a-sample/7BE8DE65FCDFC3ABECFE1054DFB56CB5
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/limiting-forms-of-the-frequency-distribution-of-the-largest-or-smallest-member-of-a-sample/7BE8DE65FCDFC3ABECFE1054DFB56CB5
+      \endverb
+    \endentry
     \entry{gaume_bayesian_2010}{article}{}
       \name{author}{6}{}{%
         {{hash=067a9522a42c0cd60b12fb651faaa52b}{%
@@ -2101,6 +2327,53 @@
       \verb https://www.taylorfrancis.com/chapters/edit/10.1201/b12348-10/floods-france-ignazio-giuntoli-benjamin-renard-michel-lang
       \endverb
     \endentry
+    \entry{gnedenko_sur_1943}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3eba376a1943e129d91435cd9d3c6793}{%
+           family={Gnedenko},
+           familyi={G\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eba376a1943e129d91435cd9d3c6793}
+      \strng{fullhash}{3eba376a1943e129d91435cd9d3c6793}
+      \strng{bibnamehash}{3eba376a1943e129d91435cd9d3c6793}
+      \strng{authorbibnamehash}{3eba376a1943e129d91435cd9d3c6793}
+      \strng{authornamehash}{3eba376a1943e129d91435cd9d3c6793}
+      \strng{authorfullhash}{3eba376a1943e129d91435cd9d3c6793}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-486X}
+      \field{journaltitle}{Annals of Mathematics}
+      \field{note}{Publisher: Annals of Mathematics}
+      \field{number}{3}
+      \field{title}{Sur La Distribution Limite Du Terme Maximum D'Une Serie Aleatoire}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{44}
+      \field{year}{1943}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{423\bibrangedash 453}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.2307/1968974
+      \endverb
+      \verb{file}
+      \verb JSTOR Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7Q99N3AD\\Gnedenko - 1943 - Sur La Distribution Limite Du Terme Maximum D'Une .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/1968974
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/1968974
+      \endverb
+    \endentry
     \entry{goux_modification_1851}{report}{}
       \name{author}{1}{}{%
         {{hash=1b92f8198609f3221ba00ece27709b8d}{%
@@ -2311,6 +2584,52 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\C5SDV6CX\\index.html:text/html
+      \endverb
+    \endentry
+    \entry{gumbel_statistics_1958}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=d99e74d771df7677c4ddf5c6dd710644}{%
+           family={Gumbel},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Columbia University Press}%
+      }
+      \strng{namehash}{d99e74d771df7677c4ddf5c6dd710644}
+      \strng{fullhash}{d99e74d771df7677c4ddf5c6dd710644}
+      \strng{bibnamehash}{d99e74d771df7677c4ddf5c6dd710644}
+      \strng{authorbibnamehash}{d99e74d771df7677c4ddf5c6dd710644}
+      \strng{authornamehash}{d99e74d771df7677c4ddf5c6dd710644}
+      \strng{authorfullhash}{d99e74d771df7677c4ddf5c6dd710644}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book is dedicated exclusively to the theory of extreme values in statistics. Studied are the exact distribution of extremes and the first, second and third asymptotes.}
+      \field{booktitle}{Statistics of Extremes}
+      \field{day}{2}
+      \field{isbn}{978-0-231-89131-8}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{Statistics of Extremes}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{1958}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.7312/gumb92958
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyter.com/document/doi/10.7312/gumb92958/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/document/doi/10.7312/gumb92958/html
       \endverb
     \endentry
     \entry{hall_understanding_2014}{article}{}
@@ -6815,6 +7134,56 @@
       \verb Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EE7VTD4J\\Pichard et Roucaute - 2014 - Sept siècles d’histoire hydroclimatique du Rhône d.pdf:application/pdf
       \endverb
     \endentry
+    \entry{pickands_statistical_1975}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a44bf3e0aec92b51426e7cc38b77a139}{%
+           family={Pickands},
+           familyi={P\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a44bf3e0aec92b51426e7cc38b77a139}
+      \strng{fullhash}{a44bf3e0aec92b51426e7cc38b77a139}
+      \strng{bibnamehash}{a44bf3e0aec92b51426e7cc38b77a139}
+      \strng{authorbibnamehash}{a44bf3e0aec92b51426e7cc38b77a139}
+      \strng{authornamehash}{a44bf3e0aec92b51426e7cc38b77a139}
+      \strng{authorfullhash}{a44bf3e0aec92b51426e7cc38b77a139}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A method is presented for making statistical inferences about the upper tail of a distribution function. It is useful for estimating the probabilities of future extremely large observations. The method is applicable if the underlying distribution function satisfies a condition which holds for all common continuous distribution functions.}
+      \field{issn}{0090-5364, 2168-8966}
+      \field{journaltitle}{The Annals of Statistics}
+      \field{month}{1}
+      \field{note}{Publisher: Institute of Mathematical Statistics}
+      \field{number}{1}
+      \field{title}{Statistical Inference Using Extreme Order Statistics}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{119\bibrangedash 131}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1214/aos/1176343003
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\RPSBIYF2\\Iii - 1975 - Statistical Inference Using Extreme Order Statisti.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/annals-of-statistics/volume-3/issue-1/Statistical-Inference-Using-Extreme-Order-Statistics/10.1214/aos/1176343003.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/annals-of-statistics/volume-3/issue-1/Statistical-Inference-Using-Extreme-Order-Statistics/10.1214/aos/1176343003.full
+      \endverb
+      \keyw{Extreme order statistics,Extreme values,generalized Pareto function,upper tail}
+    \endentry
     \entry{piegay_observatoire_2022}{report}{}
       \name{author}{29}{}{%
         {{hash=dc92719dd945643fbfa804acab7fc976}{%
@@ -7551,6 +7920,7 @@
       \strng{authorbibnamehash}{796b4f54b933fb7dfaf707b4c0fa9b26}
       \strng{authornamehash}{5b73f5d321a85467cbb3263a6df7efb1}
       \strng{authorfullhash}{796b4f54b933fb7dfaf707b4c0fa9b26}
+      \field{extraname}{1}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
@@ -7584,6 +7954,98 @@
       \verb{url}
       \verb http://doi.wiley.com/10.1029/2005WR004591
       \endverb
+    \endentry
+    \entry{renard_bayesian_2013}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=fd9405f5fbc00c17beb6b212f84dc815}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5cae04a22aa2d67dd42f2135e5abcd03}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=081c44d48de07decc0eb61e6b652e349}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=d28d00933acb7cb5869e978861485f4f}{%
+           family={{AghaKouchak}},
+           familyi={A\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6d4ccc5b2a4524defd44d37c3c940a67}{%
+           family={Easterling},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=78f27de8cf61ab600da6155b40dd346c}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Kuolin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a651c74b525b7d30f3ec18e3910a2750}{%
+           family={Schubert},
+           familyi={S\bibinitperiod},
+           given={Siegfried},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0149d9ecde1ce6670955c519a1bd3011}{%
+           family={Sorooshian},
+           familyi={S\bibinitperiod},
+           given={Soroosh},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{cf7787db34745bb4fcee9938281aa0a6}
+      \strng{fullhash}{74c2a63b912c4c92ec6682adaa801e80}
+      \strng{bibnamehash}{74c2a63b912c4c92ec6682adaa801e80}
+      \strng{authorbibnamehash}{74c2a63b912c4c92ec6682adaa801e80}
+      \strng{authornamehash}{cf7787db34745bb4fcee9938281aa0a6}
+      \strng{authorfullhash}{74c2a63b912c4c92ec6682adaa801e80}
+      \strng{editorbibnamehash}{1eaf9d8390d6308e137c4883ac319e26}
+      \strng{editornamehash}{ad5705a7f0152649b822bb6a0a696894}
+      \strng{editorfullhash}{1eaf9d8390d6308e137c4883ac319e26}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Non-stationary models for extremes have attracted significant attention in recent years. These models require adapted estimation methods. Bayesian inference offers an attractive framework to estimate non-stationary models and, importantly, to quantify estimation and predictive uncertainties.}
+      \field{booktitle}{Extremes in a Changing Climate: Detection, Analysis and Uncertainty}
+      \field{isbn}{978-94-007-4479-0}
+      \field{langid}{english}
+      \field{series}{Water Science and Technology Library}
+      \field{title}{Bayesian Methods for Non-stationary Extreme Value Analysis}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{39\bibrangedash 95}
+      \range{pages}{57}
+      \verb{doi}
+      \verb 10.1007/978-94-007-4479-0_3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-94-007-4479-0_3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-94-007-4479-0_3
+      \endverb
+      \keyw{Generalize Extreme Value,Bayesian Inference,Markov Chain Monte Carlo,Posterior Distribution,Prior Distribution}
     \endentry
     \entry{ribes_making_2021}{article}{}
       \name{author}{3}{}{%

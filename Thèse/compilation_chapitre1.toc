@@ -59,14 +59,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{9}{section*.19}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Objectifs et organisation du manuscrit}{9}{section.1.5}%
+\contentsline {section}{\numberline {1.5}Objectifs et organisation du manuscrit}{11}{section.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}{section*.20}%
+\contentsline {paragraph}{}{11}{section*.21}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}{section*.21}%
+\contentsline {paragraph}{}{11}{section*.22}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}{section*.22}%
+\contentsline {paragraph}{}{11}{section*.23}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}{section*.23}%
+\contentsline {paragraph}{}{11}{section*.24}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}{section*.24}%
+\contentsline {paragraph}{}{11}{section*.25}%
