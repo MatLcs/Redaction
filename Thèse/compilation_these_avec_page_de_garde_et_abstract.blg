@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'compilation_these_avec_page_de_garde_et_abstract.blg'
-[105] biber-MSWIN32:340> INFO - === 
-[141] Biber.pm:415> INFO - Reading 'compilation_these_avec_page_de_garde_et_abstract.bcf'
-[340] Biber.pm:952> INFO - Found 140 citekeys in bib section 0
-[356] Biber.pm:4340> INFO - Processing section 0
-[372] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
-[452] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1015] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
-[2324] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2324] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2324] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[2324] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
-[2525] bbl.pm:654> INFO - Writing 'compilation_these_avec_page_de_garde_et_abstract.bbl' with encoding 'UTF-8'
-[2703] bbl.pm:757> INFO - Output to compilation_these_avec_page_de_garde_et_abstract.bbl
+[120] biber-MSWIN32:340> INFO - === 
+[165] Biber.pm:415> INFO - Reading 'compilation_these_avec_page_de_garde_et_abstract.bcf'
+[376] Biber.pm:952> INFO - Found 140 citekeys in bib section 0
+[397] Biber.pm:4340> INFO - Processing section 0
+[415] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[520] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1201] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[2654] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2654] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2655] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[2655] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[2881] bbl.pm:654> INFO - Writing 'compilation_these_avec_page_de_garde_et_abstract.bbl' with encoding 'UTF-8'
+[3094] bbl.pm:757> INFO - Output to compilation_these_avec_page_de_garde_et_abstract.bbl

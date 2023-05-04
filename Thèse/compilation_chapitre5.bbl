@@ -1,0 +1,312 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{bard_actualisation_2018}{report}{}
+      \name{author}{2}{}{%
+        {{hash=9428210ca2816de137238d0b63a3dedd}{%
+           family={Bard},
+           familyi={B\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=081c44d48de07decc0eb61e6b652e349}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Irstea pour la {DREAL} Auvergne-Rhône-Alpes}%
+      }
+      \strng{namehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{fullhash}{25e974f6a6f1764417839554f16ff481}
+      \strng{bibnamehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{authorbibnamehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{authornamehash}{25e974f6a6f1764417839554f16ff481}
+      \strng{authorfullhash}{25e974f6a6f1764417839554f16ff481}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Actualisation de l'hydrologie des crues du Rhône. Analyse de la station de Beaucaire.}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{56}
+      \range{pages}{1}
+      \verb{file}
+      \verb B12- Rapport Détaillé - Analyse de la station de Beaucaire.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\93MXJ4MT\\B12- Rapport Détaillé - Analyse de la station de Beaucaire.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{darienzo_detection_2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bea14a4aebc300b875a8d8f8fe617836}{%
+           family={Darienzo},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d320073eca24424573c02de1e6f43a4a}{%
+           family={Le\bibnamedelima Coz},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1a4a7c390e3dccb2cd361dc214310c9}
+      \strng{fullhash}{8c25983d8ceafb2375e8000dc9acac48}
+      \strng{bibnamehash}{8c25983d8ceafb2375e8000dc9acac48}
+      \strng{authorbibnamehash}{8c25983d8ceafb2375e8000dc9acac48}
+      \strng{authornamehash}{b1a4a7c390e3dccb2cd361dc214310c9}
+      \strng{authorfullhash}{8c25983d8ceafb2375e8000dc9acac48}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The stage-discharge rating curve is subject at many hydrometric stations to sudden changes (shifts) typically caused by morphogenic floods. We propose an original method for estimating shift times using the stage-discharge observations, also known as gaugings. This method is based on a recursive segmentation procedure that accounts for both gaugings and rating curve uncertainties through a Bayesian framework. It starts with the estimation of a baseline rating curve using all available gaugings. Then it computes the residuals between the gaugings and this rating curve with uncertainties. It proceeds with the segmentation of the time series of residuals through a multi-change point Bayesian estimation accounting for residuals uncertainties. Once the first set of shift times is identified, the same procedure is recursively applied to each sub-period through a “top-down” approach searching for all effective shifts. The proposed method is illustrated using the Ardèche River at Meyras in France (a typical hydrometric site subject to river bed degradation) and evaluated using several synthetic data sets for which the true shift times are known. The applications confirm the added value of the recursive segmentation compared with a “single-pass” approach and highlight the importance of properly accounting for uncertainties in the segmented data. The recursive procedure effectively disentangles rating changes from observational and rating curve uncertainties.}
+      \field{issn}{0043-1397, 1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{Water Res}
+      \field{shorttitle}{Detection of Stage‐Discharge Rating Shifts Using Gaugings}
+      \field{title}{Detection of Stage‐Discharge Rating Shifts Using Gaugings: A Recursive Segmentation Procedure Accounting for Observational and Model Uncertainties}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{57}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1029/2020WR028607
+      \endverb
+      \verb{file}
+      \verb Darienzo et al. - 2021 - Detection of Stage‐Discharge Rating Shifts Using G.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\N8FEI7VZ\\Darienzo et al. - 2021 - Detection of Stage‐Discharge Rating Shifts Using G.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1029/2020WR028607
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1029/2020WR028607
+      \endverb
+    \endentry
+    \entry{mansanarez_shift_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=455131f2a3b686a8292d87b93de0ed61}{%
+           family={Mansanarez},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fdfd104d8fe9bba93e738adb18ff6361}{%
+           family={Coz},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi Le},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bea14a4aebc300b875a8d8f8fe617836}{%
+           family={Darienzo},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7494d80a0ce1a180c9f3c7c55a4c919}
+      \strng{fullhash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \strng{bibnamehash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \strng{authorbibnamehash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \strng{authornamehash}{d7494d80a0ce1a180c9f3c7c55a4c919}
+      \strng{authorfullhash}{c83c99c2d6b792b4c13f996dc86aa38d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Establishing streamflow time series in unstable rivers is challenged by changes in the stage-discharge relation after floods. Then, the field hydrologist must develop a new stage-discharge rating curve using new calibration data but also using some information from previous calibration data and previous rating curves. The process includes a large amount of informal expert knowledge and hydraulic assumptions seldom made explicit. This paper develops a stage-period-discharge ({SPD}) model based on the physical interpretation of changes in the stage-discharge relation across a series of stability periods defined by known dates and times. Using simple hydraulic equations, the user provides prior knowledge on the controls, their static and varying parameters, and their possible changes. As a single model is used for all the periods, the estimation of all rating curves can be performed in one go: All gaugings hence provide information to estimate the static parameters and the varying parameters for the relevant periods. Bayesian inference is used, providing a natural way to include prior knowledge and to quantify uncertainty. The generality and some key properties of the method are demonstrated through application to two hydrometric stations, differing in hydraulic configuration and in number and type of changes. Specific experiments demonstrate the ability of the {SPD} model to transfer information across periods. Consequently, rating curves are more precisely estimated than by separately estimating them for each period. The {SPD} model provides a hydraulically based, transparent, and user-friendly approach to replace manual shift corrections traditionally applied in operational practice, with a quantification of uncertainties.}
+      \field{issn}{0043-1397, 1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{title}{Shift Happens! Adjusting Stage‐Discharge Rating Curves to Morphological Changes at Known Times}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2022}
+      \field{volume}{55}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2876\bibrangedash 2899}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1029/2018WR023389
+      \endverb
+      \verb{file}
+      \verb Mansanarez et al. - 2019 - Shift Happens! Adjusting Stage‐Discharge Rating Cu.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\8BFEYGFE\\Mansanarez et al. - 2019 - Shift Happens! Adjusting Stage‐Discharge Rating Cu.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023389
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023389
+      \endverb
+    \endentry
+    \entry{pichard_hydro-climatology_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=833d7a3d976cc7930992b36adbb07dc8}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b5743345745dac3272acc2c84c79f85c}{%
+           family={Arnaud-Fassetta},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=18323608c3a20ea54724605b66f300f7}{%
+           family={Moron},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c983c628babe3a937bdf3efa7d873092}{%
+           family={Roucaute},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{abcb4918d7428549857a574a3128f78c}
+      \strng{fullhash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{bibnamehash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{authorbibnamehash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \strng{authornamehash}{abcb4918d7428549857a574a3128f78c}
+      \strng{authorfullhash}{80a6b483b22d77cbd7d380f108a6d5eb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{From the {HISTRHONE} database we extracted 1483 hydro-meteorological events from {AD} 1300 to 2000 that occurred in the Lower Rhône Valley, France. Daily heights of the Rhône River at Beaucaire and Arles are also available, from 1816 and 1829, respectively. A total of 517 floods were divided into three categories and a synthetic frequency severity index ({FSI}) was computed. Running averages of 11 and 31 years show a succession of poor and rich flood fluctuations. Extreme floods tripled in the second half of the period (1650–2000). Singular spectrum analysis isolates a dominant irregular component (main positive anomalies in 1450–1580, around 1700, late 18th century, and most of the 20th century). We focus on the 17th century, with rare flooding events between two secular so-called “hyper phases”, i.e. frequent and/or severe floods. We also recorded 173 episodes of ice in the river, during the Little Ice Age.}
+      \field{day}{18}
+      \field{issn}{0262-6667, 2150-3435}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{11}
+      \field{shortjournal}{Hydrological Sciences Journal}
+      \field{shorttitle}{Hydro-climatology of the Lower Rhône Valley}
+      \field{title}{Hydro-climatology of the Lower Rhône Valley: historical flood reconstruction ({AD} 1300–2000) based on documentary and instrumental sources}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{62}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1772\bibrangedash 1795}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/02626667.2017.1349314
+      \endverb
+      \verb{file}
+      \verb Pichard et al. - 2017 - Hydro-climatology of the Lower Rhône Valley histo.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7CCLI4DL\\Pichard et al. - 2017 - Hydro-climatology of the Lower Rhône Valley histo.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2017.1349314
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2017.1349314
+      \endverb
+    \endentry
+    \entry{pichard_les_1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=69363cfac03b117afe43737b9cdb617c}{%
+           family={Pichard},
+           familyi={P\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{fullhash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{bibnamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authorbibnamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authornamehash}{69363cfac03b117afe43737b9cdb617c}
+      \strng{authorfullhash}{69363cfac03b117afe43737b9cdb617c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The floods of the Lower Rhône have been studied over a long period of time (1500-1994) and on a limited sector, essentially around Aries. This place offer a triple advantage: a very good stock of historical records, a recognised stability of the river bed, and a good continuity in the observation of the flood levels by local people and official services. The study of the annual, monthly and decennial distribution of this crues allows the correlation between the frequency of the river's frost and the frequency of the crues over 4 meters. The Little Ice Age ({XVIth} {XIXth} centuries) coincide with a frequency of the floods never reached in the twentieth century, with some very critical stages (Late sixteenth century, 1701- 1710, and 1811-1820). A high ratio of the spring and summer in the height of the long and colder stages has also been noted , which is another explanation for the high proportion of recurrent floods that have been noticed.}
+      \field{issn}{0025-8296}
+      \field{journaltitle}{Méditerranée}
+      \field{langid}{french}
+      \field{number}{3}
+      \field{shortjournal}{medit}
+      \field{title}{Les crues sur le bas Rhône de 1500 à nos jours. Pour une histoire hydro-climatique}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{82}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{105\bibrangedash 116}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3406/medit.1995.2908
+      \endverb
+      \verb{file}
+      \verb Pichard - 1995 - Les crues sur le bas Rhône de 1500 à nos jours. Po.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\DDUJFYFT\\Pichard - 1995 - Les crues sur le bas Rhône de 1500 à nos jours. Po.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/medit_0025-8296_1995_num_82_3_2908
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/medit_0025-8296_1995_num_82_3_2908
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

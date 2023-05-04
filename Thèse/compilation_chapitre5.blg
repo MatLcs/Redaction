@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'compilation_chapitre5.blg'
+[232] biber-MSWIN32:340> INFO - === 
+[309] Biber.pm:415> INFO - Reading 'compilation_chapitre5.bcf'
+[532] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[576] Biber.pm:4340> INFO - Processing section 0
+[616] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[886] bibtex.pm:1689> INFO - LaTeX decoding ...
+[3021] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[3352] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3353] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3353] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[3353] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[3404] bbl.pm:654> INFO - Writing 'compilation_chapitre5.bbl' with encoding 'UTF-8'
+[3424] bbl.pm:757> INFO - Output to compilation_chapitre5.bbl

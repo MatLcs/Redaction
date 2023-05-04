@@ -183,7 +183,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2001WR000474}
       \field{number}{6}
       \field{title}{Coupled rainfall model and discharge model for flood frequency estimation}
       \field{urlday}{1}
@@ -354,7 +353,6 @@
       \field{issn}{0091-1798, 2168-894X}
       \field{journaltitle}{The Annals of Probability}
       \field{month}{10}
-      \field{note}{Publisher: Institute of Mathematical Statistics}
       \field{number}{5}
       \field{title}{Residual Life Time at Great Age}
       \field{urlday}{2}
@@ -2447,7 +2445,6 @@
       \field{issn}{1944-8007}
       \field{journaltitle}{Geophysical Research Letters}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2018GL079725}
       \field{number}{2}
       \field{title}{Observed Trends in Global Indicators of Mean and Extreme Streamflow}
       \field{urlday}{21}
@@ -2471,7 +2468,7 @@
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018GL079725
       \endverb
-      \keyw{streamflow,floods,discharge,droughts,trend,water resources}
+      \keyw{discharge,droughts,floods,streamflow,trend,water resources}
     \endentry
     \entry{guerrero_temporal_2012}{article}{}
       \name{author}{5}{}{%
@@ -2928,7 +2925,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019WR025910}
       \field{number}{3}
       \field{title}{A Network Approach for Delineating Homogeneous Regions in Regional Flood Frequency Analysis}
       \field{urlday}{20}
@@ -4779,7 +4775,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019WR026575}
       \field{number}{7}
       \field{title}{Detecting Flood-Rich and Flood-Poor Periods in Annual Peak Discharges Across Europe}
       \field{urlday}{21}
@@ -5288,7 +5283,6 @@
       \field{issn}{1467-8470}
       \field{journaltitle}{Australian Geographical Studies}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8470.1992.tb00733.x}
       \field{number}{1}
       \field{shorttitle}{Dendrochronological Flood-frequency Analysis}
       \field{title}{Dendrochronological Flood-frequency Analysis: An Australian Application}
@@ -7182,7 +7176,7 @@
       \verb{url}
       \verb https://projecteuclid.org/journals/annals-of-statistics/volume-3/issue-1/Statistical-Inference-Using-Extreme-Order-Statistics/10.1214/aos/1176343003.full
       \endverb
-      \keyw{Extreme order statistics,Extreme values,generalized Pareto function,upper tail}
+      \keyw{upper tail,Extreme order statistics,Extreme values,generalized Pareto function}
     \endentry
     \entry{piegay_observatoire_2022}{report}{}
       \name{author}{29}{}{%
@@ -8036,16 +8030,13 @@
       \field{urldateera}{ce}
       \field{pages}{39\bibrangedash 95}
       \range{pages}{57}
-      \verb{doi}
-      \verb 10.1007/978-94-007-4479-0_3
-      \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/978-94-007-4479-0_3
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-94-007-4479-0_3
       \endverb
-      \keyw{Generalize Extreme Value,Bayesian Inference,Markov Chain Monte Carlo,Posterior Distribution,Prior Distribution}
+      \keyw{Bayesian Inference,Generalize Extreme Value,Markov Chain Monte Carlo,Posterior Distribution,Prior Distribution}
     \endentry
     \entry{ribes_making_2021}{article}{}
       \name{author}{3}{}{%
@@ -9098,7 +9089,6 @@
       \field{journaltitle}{Quaternary}
       \field{langid}{english}
       \field{month}{3}
-      \field{note}{Number: 1 Publisher: Multidisciplinary Digital Publishing Institute}
       \field{number}{1}
       \field{title}{Reconstructing Paleoflood Occurrence and Magnitude from Lake Sediments}
       \field{urlday}{20}
@@ -9122,7 +9112,7 @@
       \verb{url}
       \verb https://www.mdpi.com/2571-550X/5/1/9
       \endverb
-      \keyw{flood magnitude,challenges,flood occurrence,lake sediments,methods,paleoflood hydrology}
+      \keyw{challenges,flood magnitude,flood occurrence,lake sediments,methods,paleoflood hydrology}
     \endentry
   \enddatalist
 \endrefsection
