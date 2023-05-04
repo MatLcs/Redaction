@@ -2345,34 +2345,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">Thèse.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">pichard_les_1995</bcf:citekey>
-    <bcf:citekey order="2">pichard_hydro-climatology_2017</bcf:citekey>
-    <bcf:citekey order="3">bard_actualisation_2018</bcf:citekey>
-    <bcf:citekey order="4">darienzo_detection_2021</bcf:citekey>
-    <bcf:citekey order="5">mansanarez_shift_2019</bcf:citekey>
-    <bcf:citekey order="6">ballesteros-canovas_review_2015</bcf:citekey>
-    <bcf:citekey order="7">dezileau_multidating_2014</bcf:citekey>
-    <bcf:citekey order="8">engeland_new_2020</bcf:citekey>
-    <bcf:citekey order="9">corella_1400-years_2021</bcf:citekey>
-    <bcf:citekey order="10">wilhelm_reconstructing_2022</bcf:citekey>
-    <bcf:citekey order="11">fanget_historical_2013</bcf:citekey>
-    <bcf:citekey order="12">vogel_estimation_1996</bcf:citekey>
-    <bcf:citekey order="13">chapman_comparison_1999</bcf:citekey>
-    <bcf:citekey order="14">lang_extrapolation_2010</bcf:citekey>
-    <bcf:citekey order="15">darienzo_detection_2021-1</bcf:citekey>
-    <bcf:citekey order="16">darienzo_detection_2021-1</bcf:citekey>
-    <bcf:citekey order="17">naulet_flood_2005</bcf:citekey>
-    <bcf:citekey order="18">neppel_flood_2010</bcf:citekey>
-    <bcf:citekey order="19">dezileau_multidating_2014</bcf:citekey>
-    <bcf:citekey order="20">payrastre_usefulness_2011</bcf:citekey>
-    <bcf:citekey order="21">lang_evaluation_2022</bcf:citekey>
-    <bcf:citekey order="22">salas_techniques_2018</bcf:citekey>
-    <bcf:citekey order="23">criado-aldeanueva_climatic_2020</bcf:citekey>
-    <bcf:citekey order="24">bronnimann_impact_2007</bcf:citekey>
-    <bcf:citekey order="25">renard_hidden_2021</bcf:citekey>
-    <bcf:citekey order="26">bloschl_current_2020</bcf:citekey>
-    <bcf:citekey order="27">gaume_bayesian_2010</bcf:citekey>
-    <bcf:citekey order="28">han_incorporating_2022</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
