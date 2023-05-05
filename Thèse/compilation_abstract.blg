@@ -1,9 +1,9 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'compilation_abstract.blg'
-[120] biber-MSWIN32:340> INFO - === 
-[160] Biber.pm:415> INFO - Reading 'compilation_abstract.bcf'
-[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[294] Utils.pm:395> WARN - The file 'compilation_abstract.bcf' does not contain any citations!
-[304] bbl.pm:654> INFO - Writing 'compilation_abstract.bbl' with encoding 'UTF-8'
-[304] bbl.pm:757> INFO - Output to compilation_abstract.bbl
-[305] Biber.pm:128> INFO - WARNINGS: 1
+[1] Config.pm:314> INFO - Logfile is 'compilation_abstract.blg'
+[419] biber-MSWIN32:340> INFO - === 
+[504] Biber.pm:415> INFO - Reading 'compilation_abstract.bcf'
+[920] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[938] Utils.pm:395> WARN - The file 'compilation_abstract.bcf' does not contain any citations!
+[970] bbl.pm:654> INFO - Writing 'compilation_abstract.bbl' with encoding 'UTF-8'
+[971] bbl.pm:757> INFO - Output to compilation_abstract.bbl
+[977] Biber.pm:128> INFO - WARNINGS: 1

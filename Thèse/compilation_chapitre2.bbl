@@ -678,7 +678,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0048969719304942
       \endverb
     \endentry
-    \entry{le_coz_flux_nodate}{incollection}{}
+    \entry{le_coz_flux_2023}{incollection}{}
       \name{author}{17}{}{%
         {{hash=31ac1be5bb953424f3ec0cd25a701e44}{%
            family={Le\bibnamedelima Coz},
@@ -774,11 +774,14 @@
       \strng{authorfullhash}{4353b2762a5131dcb5485b14b55fe645}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labeldatesource}{nodate}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Dynamiques socio-environnementales d’un fleuve de l’Anthropocène. Le Rhône au fil de l’interdisciplinarité}
+      \field{booktitle}{Dynamiques socio-environnementales d’un fleuve de l’Anthropocène. Le Rhône au fil de l’interdisciplinarité.}
       \field{title}{Flux d’eau et de matières sur le continuum rhodanien}
+      \field{year}{2023}
+      \field{dateera}{ce}
     \endentry
     \entry{leon_vie_1953}{article}{}
       \name{author}{1}{}{%

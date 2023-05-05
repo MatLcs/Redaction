@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  2 MAY 2023 19:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 03:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1204,290 +1204,210 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: Reference `chap:ch3' on page 2 undefined on input line 45.
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+[2]
 
-[2] [3]
+LaTeX Warning: Reference `chap:ch3' on page 3 undefined on input line 51.
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+LaTeX Warning: Reference `chap:ch3' on page 3 undefined on input line 51.
 
-[4] [5]
+[3]
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: Reference `chap:ch3' on page 4 undefined on input line 64.
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+[4]
 
-[6] [7]
+LaTeX Warning: Reference `chap:ch3' on page 5 undefined on input line 98.
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+LaTeX Warning: Reference `chap:ch3' on page 5 undefined on input line 98.
 
-[8]
-<Chapitre4/Figures/EchMixteBcr.pdf, id=237, 1084.05pt x 722.7pt>
+
+LaTeX Warning: Reference `chap:ch3' on page 5 undefined on input line 99.
+
+[5] [6] [7]
+
+LaTeX Warning: Reference `chap:ch3' on page 8 undefined on input line 213.
+
+
+LaTeX Warning: Reference `chap:ch2' on page 8 undefined on input line 213.
+
+
+LaTeX Warning: Reference `chap:ch2' on page 8 undefined on input line 213.
+
+<Chapitre4/Figures/EchMixteBcr.pdf, id=207, 1084.05pt x 722.7pt>
 File: Chapitre4/Figures/EchMixteBcr.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/EchMixteBcr.pdf>
 Package pdftex.def Info: Chapitre4/Figures/EchMixteBcr.pdf  used on input line 
-220.
+216.
 (pdftex.def)             Requested size: 409.71692pt x 273.14014pt.
 
-Overfull \hbox (3.83017pt too wide) in paragraph at lines 232--233
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]
+
+LaTeX Warning: Reference `chap:ch3' on page 9 undefined on input line 228.
+
+
+Overfull \hbox (3.83017pt too wide) in paragraph at lines 228--229
 \T1/lmr/m/n/12 nues : le test de [][]\T1/lmr/m/sc/12 Pettitt []\T1/lmr/m/n/12 (
 [][]1979[][]) et la pro-cé-dure de seg-men-ta-tion dé-ve-lop-pée par [][]\T1/lm
 r/m/sc/12 Darienzo
  []
 
 [9 <./Chapitre4/Figures/EchMixteBcr.pdf>]
-Overfull \hbox (8.94347pt too wide) in paragraph at lines 245--246
+Overfull \hbox (8.94347pt too wide) in paragraph at lines 241--242
  [][] \T1/lmr/m/n/12 Ces in-ter-valles de confiance ont été cal-cu-lés pour l'é
 chan-tillon de crues pré-enregistrements
  []
 
-<Chapitre4/Figures/Poisson_C3-C4_FR.pdf, id=265, 650.43pt x 361.35pt>
+<Chapitre4/Figures/Poisson_C3-C4_FR.pdf, id=245, 650.43pt x 361.35pt>
 File: Chapitre4/Figures/Poisson_C3-C4_FR.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Poisson_C3-C4_FR.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Poisson_C3-C4_FR.pdf  used on input 
-line 249.
+line 245.
 (pdftex.def)             Requested size: 364.19667pt x 202.33807pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[10]
-<Chapitre4/Figures/Poisson_Qrecent_FR.pdf, id=281, 650.43pt x 361.35pt>
+[10 <./Chapitre4/Figures/Poisson_C3-C4_FR.pdf>]
+<Chapitre4/Figures/Poisson_Qrecent_FR.pdf, id=264, 650.43pt x 361.35pt>
 File: Chapitre4/Figures/Poisson_Qrecent_FR.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Poisson_Qrecent_FR.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Poisson_Qrecent_FR.pdf  used on inpu
-t line 260.
+t line 256.
 (pdftex.def)             Requested size: 364.19667pt x 202.33807pt.
 
+Underfull \vbox (badness 4621) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+ [11 <./Chapitre4/Figures/Poisson_Qrecent_FR.pdf>]
 
-[11 <./Chapitre4/Figures/Poisson_C3-C4_FR.pdf>]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
-00.
+LaTeX Warning: Reference `chap:ch2' on page 12 undefined on input line 272.
 
+
+LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 272.
+
+
+LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 272.
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+96.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 308.
 
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Underfull \vbox (badness 3049) has occurred while \output is active []
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[12 <./Chapitre4/Figures/Poisson_Qrecent_FR.pdf>]
-<Chapitre4/Figures/Barplots_QX_Artif2.pdf, id=314, 939.51pt x 578.16pt>
+ [12]
+<Chapitre4/Figures/Barplots_QX_Artif2.pdf, id=295, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_Artif2.pdf  used on inpu
-t line 316.
+t line 312.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Chapitre4/Figures/Quantiles_Artif2.pdf, id=315, 1300.86pt x 1011.78pt>
+<Chapitre4/Figures/Quantiles_Artif2.pdf, id=296, 1300.86pt x 1011.78pt>
 File: Chapitre4/Figures/Quantiles_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Quantiles_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Quantiles_Artif2.pdf  used on input 
-line 342.
+line 338.
 (pdftex.def)             Requested size: 455.24411pt x 354.08199pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13]
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[14 <./Chapitre4/Figures/Barplots_QX_Artif2.pdf>] [15 <./Chapitre4/Figures/Quan
+[13 <./Chapitre4/Figures/Barplots_QX_Artif2.pdf>] [14 <./Chapitre4/Figures/Quan
 tiles_Artif2.pdf>]
-<Chapitre4/Figures/Shape_Artif2.pdf, id=354, 722.7pt x 578.16pt>
+<Chapitre4/Figures/Shape_Artif2.pdf, id=334, 722.7pt x 578.16pt>
 File: Chapitre4/Figures/Shape_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Shape_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Shape_Artif2.pdf  used on input line
- 362.
+ 358.
 (pdftex.def)             Requested size: 273.14923pt x 218.52094pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[16
-
-]
-<Chapitre4/Figures/Params_Artif2.pdf, id=367, 1084.05pt x 505.89pt>
+ [15 <./Chapitre4/Figures/Shape_Artif2.pdf>]
+<Chapitre4/Figures/Params_Artif2.pdf, id=361, 1084.05pt x 505.89pt>
 File: Chapitre4/Figures/Params_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Params_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Params_Artif2.pdf  used on input lin
-e 375.
+e 371.
 (pdftex.def)             Requested size: 409.71692pt x 191.19809pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[17 <./Chapitre4/Figures/Shape_Artif2.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[18 <./Chapitre4/Figures/Params_Artif2.pdf>]
-<Chapitre4/Figures/ScatterD_Artif2.pdf, id=417, 433.62pt x 433.62pt>
+ [16 <./Chapitre4/Figures/Params_Artif2.pdf>]
+<Chapitre4/Figures/ScatterD_Artif2.pdf, id=387, 433.62pt x 433.62pt>
 File: Chapitre4/Figures/ScatterD_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/ScatterD_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/ScatterD_Artif2.pdf  used on input l
-ine 392.
+ine 388.
 (pdftex.def)             Requested size: 318.66948pt x 318.68372pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19]
-<Chapitre4/Figures/Barplots_QX_censure.pdf, id=426, 939.51pt x 578.16pt>
+[17]
+
+LaTeX Warning: Reference `chap:ch3' on page 18 undefined on input line 397.
+
+<Chapitre4/Figures/Barplots_QX_censure.pdf, id=398, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_censure.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_censure.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_censure.pdf  used on inp
-ut line 406.
+ut line 402.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[20 <./Chapitre4/Figures/ScatterD_Artif2.pdf>] [21 <./Chapitre4/Figures/Barplot
+[18 <./Chapitre4/Figures/ScatterD_Artif2.pdf>] [19 <./Chapitre4/Figures/Barplot
 s_QX_censure.pdf>]
-<Chapitre4/Figures/Barplots_QX_C4.pdf, id=476, 939.51pt x 578.16pt>
+<Chapitre4/Figures/Barplots_QX_C4.pdf, id=448, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_C4.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_C4.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_C4.pdf  used on input li
-ne 445.
+ne 441.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapitre4/Figures/Params_C4.pdf, id=479, 1084.05pt x 505.89pt>
+<Chapitre4/Figures/Params_C4.pdf, id=451, 1084.05pt x 505.89pt>
 File: Chapitre4/Figures/Params_C4.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Params_C4.pdf>
-Package pdftex.def Info: Chapitre4/Figures/Params_C4.pdf  used on input line 47
-1.
+Package pdftex.def Info: Chapitre4/Figures/Params_C4.pdf  used on input line 46
+7.
 (pdftex.def)             Requested size: 409.71692pt x 191.19809pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[20 <./Chapitre4/Figures/Barplots_QX_C4.pdf>] [21]
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: Reference `chap:ch2' on page 22 undefined on input line 487.
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[22 <./Chapitre4/Figures/Barplots_QX_C4.pdf>] [23]
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[24 <./Chapitre4/Figures/Params_C4.pdf>]
-<Chapitre4/Figures/Barplots_QX_C4short.pdf, id=534, 939.51pt x 578.16pt>
+[22 <./Chapitre4/Figures/Params_C4.pdf>]
+<Chapitre4/Figures/Barplots_QX_C4short.pdf, id=505, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_C4short.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_C4short.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_C4short.pdf  used on inp
-ut line 495.
+ut line 491.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
- [25 <./Chapitre4/Figures/Barplots_QX_C4short.pdf>]
-<Chapitre4/Figures/Params_C4short.pdf, id=554, 1084.05pt x 505.89pt>
+ [23 <./Chapitre4/Figures/Barplots_QX_C4short.pdf>]
+<Chapitre4/Figures/Params_C4short.pdf, id=526, 1084.05pt x 505.89pt>
 File: Chapitre4/Figures/Params_C4short.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Params_C4short.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Params_C4short.pdf  used on input li
-ne 520.
+ne 516.
 (pdftex.def)             Requested size: 409.71692pt x 191.19809pt.
+ [24 <./Chapitre4/Figures/Params_C4short.pdf>] [25]
 
+LaTeX Warning: Reference `chap:ch2' on page 26 undefined on input line 533.
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+[26]
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
+LaTeX Warning: Reference `chap:ch2' on page 27 undefined on input line 537.
 
-[26 <./Chapitre4/Figures/Params_C4short.pdf>] [27]
+[27]
 
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: Reference `chap:ch3' on page 28 undefined on input line 547.
 
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[28] [29]
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 28.71574pt, for example:
-(fancyhdr)                \setlength{\headheight}{28.71574pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.6441pt}.
-
-[30]) [31] [32
+[28]) [29] [30
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
@@ -1496,7 +1416,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-[33]
+[31]
 Overfull \hbox (4.7562pt too wide) in paragraph at lines 36--36
 [][][]\T1/lmr/m/sc/12 Dezileau[]\T1/lmr/m/n/12 , L., B. []\T1/lmr/m/sc/12 Terri
 er[]\T1/lmr/m/n/12 , J. []\T1/lmr/m/sc/12 Berger[]\T1/lmr/m/n/12 , P. []\T1/lmr
@@ -1512,7 +1432,7 @@ nald[]\T1/lmr/m/n/12 , M. []\T1/lmr/m/sc/12 Lang[]\T1/lmr/m/n/12 , L. []\T1/lmr
 n/12 , E. []\T1/lmr/m/sc/12 Bogdanowicz[]\T1/lmr/m/n/12 ,
  []
 
-[34]
+[32]
 Overfull \hbox (4.07549pt too wide) in paragraph at lines 36--36
 [][][]\T1/lmr/m/sc/12 Merz[]\T1/lmr/m/n/12 , B., S. []\T1/lmr/m/sc/12 Basso[]\T
 1/lmr/m/n/12 , S. []\T1/lmr/m/sc/12 Fischer[]\T1/lmr/m/n/12 , D. []\T1/lmr/m/sc
@@ -1529,32 +1449,29 @@ tancourt[]\T1/lmr/m/n/12 , M. []\T1/lmr/m/sc/12 Falkenmark[]\T1/lmr/m/n/12 , R.
 cz[]\T1/lmr/m/n/12 ,
  []
 
-[35]
+
 Overfull \hbox (18.05534pt too wide) in paragraph at lines 36--36
 \T1/lmr/m/it/12 Jour-nal \T1/lmr/m/n/12 55.2, p. 192-208. \T1/lmr/m/sc/12 issn 
 \T1/lmr/m/n/12 : 0262-6667, 2150-3435. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][
 ]$\T1/lmtt/m/n/12 10 . 1080 / 02626660903546092$[][]\T1/lmr/m/n/12 . 
  []
 
+[33] [34] [35] (compilation_chapitre4.aux)
 
-Overfull \hbox (115.85297pt too wide) in paragraph at lines 36--36
-\T1/lmr/m/it/12 Wa-ter Re-sources Re-search \T1/lmr/m/n/12 47.11. _eprint : htt
-ps ://on-li-ne-li-brary.wiley.com/doi/pdf/10.1029/2010WR010089.
- []
+LaTeX Warning: There were undefined references.
 
-[36] [37] (compilation_chapitre4.aux)
 Package logreq Info: Writing requests to 'compilation_chapitre4.run.xml'.
 \openout1 = `compilation_chapitre4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24409 strings out of 478659
- 434781 string characters out of 2842128
- 1144611 words of memory out of 3000000
- 41910 multiletter control sequences out of 15000+600000
+ 24363 strings out of 478659
+ 433431 string characters out of 2842128
+ 1139167 words of memory out of 3000000
+ 41875 multiletter control sequences out of 15000+600000
  484756 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,15n,80p,3113b,1929s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,16n,80p,2991b,1929s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
 c.enc}{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/
 lm-ts1.enc}{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
@@ -1584,9 +1501,9 @@ fb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
 lmtt12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/helvetic/uhvr8a.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fon
 ts/type1/urw/times/utmr8a.pfb>
-Output written on compilation_chapitre4.pdf (39 pages, 1899549 bytes).
+Output written on compilation_chapitre4.pdf (37 pages, 1887424 bytes).
 PDF statistics:
- 917 PDF objects out of 1000 (max. 8388607)
- 210 named destinations out of 1000 (max. 500000)
+ 881 PDF objects out of 1000 (max. 8388607)
+ 199 named destinations out of 1000 (max. 500000)
  210 words of extra memory for PDF output out of 10000 (max. 10000000)
 

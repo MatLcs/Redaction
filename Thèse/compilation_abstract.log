@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  4 MAY 2023 20:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 00:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1108,7 +1108,40 @@ F (HO)
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)) (Autres/Abstract.tex
+))
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=788.14136pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.76268pt
+* \headheight=17.07164pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (Autres/Abstract.tex
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
 1.
 
@@ -1159,35 +1192,32 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 11
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.
 fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-))
-
-LaTeX Warning: Empty bibliography on input line 35.
-
-[1
+)) [1
 
 
 
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(compilation_abstract.aux)
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (com
+pilation_abstract.aux)
 Package logreq Info: Writing requests to 'compilation_abstract.run.xml'.
 \openout1 = `compilation_abstract.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23300 strings out of 478659
- 410155 string characters out of 2842128
- 1111416 words of memory out of 3000000
- 41056 multiletter control sequences out of 15000+600000
- 429221 words of font info for 52 fonts, out of 8000000 for 9000
+ 23302 strings out of 478659
+ 410181 string characters out of 2842128
+ 1128414 words of memory out of 3000000
+ 41057 multiletter control sequences out of 15000+600000
+ 432216 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,5n,80p,1638b,1749s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,5n,80p,3572b,1749s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
 c.enc}<C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-lm/lmbx12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/lm/lmr10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/font
-s/type1/public/lm/lmr12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/lm/lmr8.pfb>
-Output written on compilation_abstract.pdf (1 page, 101440 bytes).
+lm/lmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/lm/lmbx12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/lm/lmr10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/lm/lmr8.pfb>
+Output written on compilation_abstract.pdf (1 page, 110441 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)

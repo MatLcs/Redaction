@@ -1522,60 +1522,6 @@
       \verb http://doi.wiley.com/10.1029/WR023i004p00715
       \endverb
     \endentry
-    \entry{hosking_regional_1997}{book}{}
-      \name{author}{2}{}{%
-        {{hash=fca165ea9b7075fc2a011127c0fa5334}{%
-           family={Hosking},
-           familyi={H\bibinitperiod},
-           given={J.\bibnamedelimi R.\bibnamedelimi M.},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=c0d0cdc5e634057a2cc27cc9b3af5ead}{%
-           family={Wallis},
-           familyi={W\bibinitperiod},
-           given={James\bibnamedelima R.},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{b9127c84df5ee000bf85d28a772fbf14}
-      \strng{fullhash}{b9127c84df5ee000bf85d28a772fbf14}
-      \strng{bibnamehash}{b9127c84df5ee000bf85d28a772fbf14}
-      \strng{authorbibnamehash}{b9127c84df5ee000bf85d28a772fbf14}
-      \strng{authornamehash}{b9127c84df5ee000bf85d28a772fbf14}
-      \strng{authorfullhash}{b9127c84df5ee000bf85d28a772fbf14}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Extreme environmental events, such as floods, droughts, rainstorms and high winds, have severe consequences for human society. Regional frequency analysis helps to solve the problem of estimating the frequency of these rare events at one site, by using data from several sites. This book is the first complete account of the L-moment approach to regional frequency analysis. Regional Frequency Analysis comprehensively describes the theoretical background to the subject, is rich in practical advice for users, and contains detailed examples that illustrate the approach. This book will be of great value to hydrologists, atmospheric scientists and civil engineers, concerned with environmental extremes.}
-      \field{isbn}{978-0-521-43045-6}
-      \field{shorttitle}{Regional Frequency Analysis}
-      \field{title}{Regional Frequency Analysis: An Approach Based on L-Moments}
-      \field{urlday}{10}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{year}{1997}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1017/CBO9780511529443
-      \endverb
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\YNBUCY8M\\8C59835F9361705DAAE1ADFDEA7ECD30.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/books/regional-frequency-analysis/8C59835F9361705DAAE1ADFDEA7ECD30
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/books/regional-frequency-analysis/8C59835F9361705DAAE1ADFDEA7ECD30
-      \endverb
-    \endentry
     \entry{kendall_rank_1948}{book}{}
       \name{author}{1}{}{%
         {{hash=c6de6664bfb9ecb58d2e1c6d0dc60479}{%
@@ -1778,59 +1724,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169414004983
       \endverb
     \endentry
-    \entry{kjeldsen_exploratory_2009}{article}{}
-      \name{author}{2}{}{%
-        {{hash=730f3f62e433c6176330ca5fb3938e00}{%
-           family={Kjeldsen},
-           familyi={K\bibinitperiod},
-           given={Thomas\bibnamedelima R.},
-           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=c8b441098aa11af5e347475b42718b0c}{%
-           family={Jones},
-           familyi={J\bibinitperiod},
-           given={David\bibnamedelima A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{4fd39bd5d8efe71484471e98cb90c356}
-      \strng{fullhash}{4fd39bd5d8efe71484471e98cb90c356}
-      \strng{bibnamehash}{4fd39bd5d8efe71484471e98cb90c356}
-      \strng{authorbibnamehash}{4fd39bd5d8efe71484471e98cb90c356}
-      \strng{authornamehash}{4fd39bd5d8efe71484471e98cb90c356}
-      \strng{authorfullhash}{4fd39bd5d8efe71484471e98cb90c356}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The use of the generalized least squares ({GLS}) technique for estimation of hydrological regression models has become good practice in hydrology. Through a regression model, a simple link between a particular hydrological variable and a set of catchment descriptors can be established. The regression residuals can be treated as the sum of sampling errors in the hydrological variable and errors in the regression model. This article presents a method for exploring and developing a parameterized form for the cross-correlation between the regression model errors. Given an initial {GLS} analysis, a reweighted set of regression residuals is defined such that the covariance of these residuals is essentially similar to that of the model errors. The cross-products of the reweighted regression residuals, pooled within bins, are then used to identify a structure and to fit a parameterized form for the cross-correlations of the regression errors. These estimated cross-correlations are then used to inform improved {GLS} and reweighting steps, leading to a recursive procedure. The main advantage of the recursive {GLS} procedure is that it allows for a simple demonstration of the actual existence of model error correlation as well as for exploring suitable models for the correlation. However, while the procedure for identifying a parametric description for the model error correlation is reasonable, estimation of the parameters within the recursive procedure is affected by the data-binning step. Thus it is suggested that once a structure for the correlation has been decided, further data analysis—such as final decisions about variables included in the regression model and final estimation of parameters—should be undertaken within a maximum likelihood framework. The procedure has been tested on annual maximum flow data from 602 catchments located throughout the United Kingdom. A set of Monte Carlo experiments further confirmed the ability of the recursive {GLS} procedure to correctly identify and estimate the true model error correlation.}
-      \field{issn}{1944-7973}
-      \field{journaltitle}{Water Resources Research}
-      \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2007WR006283}
-      \field{number}{2}
-      \field{title}{An exploratory analysis of error components in hydrological regression modeling}
-      \field{urlday}{25}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{45}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1029/2007WR006283
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\AQZAYPWT\\Kjeldsen et Jones - 2009 - An exploratory analysis of error components in hyd.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\KK8ELLZD\\2007WR006283.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2007WR006283
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2007WR006283
-      \endverb
-      \keyw{index flood,regression model,ungauged basin}
-    \endentry
     \entry{kjeldsen_uncertainty_2011}{incollection}{}
       \name{author}{3}{}{%
         {{hash=730f3f62e433c6176330ca5fb3938e00}{%
@@ -1992,40 +1885,6 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169499001675
-      \endverb
-    \endentry
-    \entry{le_coz_quantifying_2017}{report}{}
-      \name{author}{1}{}{%
-        {{hash=31ac1be5bb953424f3ec0cd25a701e44}{%
-           family={Le\bibnamedelima Coz},
-           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={Jérôme},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Université Grenoble Alpes}%
-      }
-      \strng{namehash}{31ac1be5bb953424f3ec0cd25a701e44}
-      \strng{fullhash}{31ac1be5bb953424f3ec0cd25a701e44}
-      \strng{bibnamehash}{31ac1be5bb953424f3ec0cd25a701e44}
-      \strng{authorbibnamehash}{31ac1be5bb953424f3ec0cd25a701e44}
-      \strng{authornamehash}{31ac1be5bb953424f3ec0cd25a701e44}
-      \strng{authorfullhash}{31ac1be5bb953424f3ec0cd25a701e44}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{english}
-      \field{title}{Quantifying discharges and fluxes of matters in rivers}
-      \field{type}{Habilitation à Diriger des Recherches}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{pages}{93}
-      \range{pages}{1}
-      \verb{file}
-      \verb Coz - Quantifying discharges and fluxes of matters in ri.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\64VAUNQX\\Coz - Quantifying discharges and fluxes of matters in ri.pdf:application/pdf
       \endverb
     \endentry
     \entry{macdonald_reassessing_2014}{article}{}
@@ -2656,66 +2515,6 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/02626660903546092
       \endverb
     \endentry
-    \entry{nguyen_regional_2014}{article}{}
-      \name{author}{3}{}{%
-        {{hash=dd2ec7bab0b32977d2cd53f4b3eb4a51}{%
-           family={Nguyen},
-           familyi={N\bibinitperiod},
-           given={C.C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=067a9522a42c0cd60b12fb651faaa52b}{%
-           family={Gaume},
-           familyi={G\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-        {{hash=936d6c96d339cd6c7105d762b8edc0f0}{%
-           family={Payrastre},
-           familyi={P\bibinitperiod},
-           given={O.},
-           giveni={O\bibinitperiod}}}%
-      }
-      \strng{namehash}{398b2acc26648f26a28ab2407a2f9988}
-      \strng{fullhash}{66c5cc79bce64176e80691a881930135}
-      \strng{bibnamehash}{66c5cc79bce64176e80691a881930135}
-      \strng{authorbibnamehash}{66c5cc79bce64176e80691a881930135}
-      \strng{authornamehash}{398b2acc26648f26a28ab2407a2f9988}
-      \strng{authorfullhash}{66c5cc79bce64176e80691a881930135}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Flood frequency analyses are often based on recorded series at gauging stations. However, the length of the available data sets is usually too short to provide reliable estimates of extreme design ﬂoods. Hence, hydrologists have tried to make use of alternative sources of information to enrich the datasets used for the statistical inferences. Two main approaches were therefore proposed. The ﬁrst consists in extending the information in time, making use of historical and paleoﬂood data. The second, spatial extension, consists in merging statistically homogeneous data to build large regional data samples. Recently, a combination of the two techniques aiming at including estimated extreme discharges at ungauged sites of a region in the regional ﬂood frequency analyses has been proposed. This paper presents a consolidation of this approach and its comparison with the standard regional ﬂood frequency approach proposed by Hosking \& Wallis. A modiﬁcation of the likelihood function is introduced to enable the simultaneous calibration of a regional index ﬂood relation and of the parameters of the regional growth curve. Moreover, the efﬁciency of the proposed method is evaluated based on a large number of Monte Carlo simulated data sets. This work conﬁrms that extreme peak discharges estimated at ungauged sites may be of great value for the evaluation of large return period (typically over 100 years) ﬂood quantiles. They should therefore not be neglected despite the uncertainties associated to these estimates.}
-      \field{issn}{00221694}
-      \field{journaltitle}{Journal of Hydrology}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{shortjournal}{Journal of Hydrology}
-      \field{shorttitle}{Regional flood frequency analyses involving extraordinary flood events at ungauged sites}
-      \field{title}{Regional flood frequency analyses involving extraordinary flood events at ungauged sites: further developments and validations}
-      \field{urlday}{10}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{508}
-      \field{year}{2014}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{385\bibrangedash 396}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1016/j.jhydrol.2013.09.058
-      \endverb
-      \verb{file}
-      \verb Nguyen et al. - 2014 - Regional flood frequency analyses involving extrao.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\AXE7ABI6\\Nguyen et al. - 2014 - Regional flood frequency analyses involving extrao.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169413008226
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169413008226
-      \endverb
-    \endentry
     \entry{parkes_defining_2016}{article}{}
       \name{author}{2}{}{%
         {{hash=4de9ad4caa0f8b07cfcef87a497a1aa6}{%
@@ -3222,54 +3021,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169405000314
       \endverb
     \endentry
-    \entry{renard_bayesian_2011}{article}{}
-      \name{author}{1}{}{%
-        {{hash=9b92f95dbe695e956604b369299d93d5}{%
-           family={Renard},
-           familyi={R\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{9b92f95dbe695e956604b369299d93d5}
-      \strng{fullhash}{9b92f95dbe695e956604b369299d93d5}
-      \strng{bibnamehash}{9b92f95dbe695e956604b369299d93d5}
-      \strng{authorbibnamehash}{9b92f95dbe695e956604b369299d93d5}
-      \strng{authornamehash}{9b92f95dbe695e956604b369299d93d5}
-      \strng{authorfullhash}{9b92f95dbe695e956604b369299d93d5}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Regional frequency analysis ({RFA}) has a long history in hydrology, and numerous distinct approaches have been proposed over the years to perform the estimation of some hydrologic quantity at a regional level. However, most of these approaches still rely on strong hypotheses that may limit their application and complicate the quantification of predictive uncertainty. The objective of this paper is to propose a general Bayesian hierarchical framework to implement {RFA} schemes that avoid these difficulties. The proposed framework is based on a two-level hierarchical model. The first level of the hierarchy describes the joint distribution of observations. An arbitrary marginal distribution, whose parameters may vary in space, is assumed for at-site series. The joint distribution is then derived by means of an elliptical copula, therefore providing an explicit description of the spatial dependence between data. The second level of the hierarchy describes the spatial variability of parameters using a regression model that links the parameter values with covariates describing site characteristics. Regression errors are modeled with a Gaussian spatial field, which may exhibit spatial dependence. This framework enables performing prediction at both gaged and ungaged sites and, importantly, rigorously quantifying the associated predictive uncertainty. A case study based on the annual maxima of daily rainfall demonstrates the applicability of this hierarchical approach. Although numerous avenues for improvement can already be identified (among which is the inclusion of temporal covariates to model time variability), the proposed model constitutes a general framework for implementing flexible {RFA} schemes and quantifying the associated predictive uncertainty.}
-      \field{issn}{1944-7973}
-      \field{journaltitle}{Water Resources Research}
-      \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2010WR010089}
-      \field{number}{11}
-      \field{title}{A Bayesian hierarchical approach to regional frequency analysis}
-      \field{urlday}{25}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{47}
-      \field{year}{2011}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1029/2010WR010089
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\V5D8S7NF\\Renard - 2011 - A Bayesian hierarchical approach to regional frequ.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\W2ULXRCX\\2010WR010089.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2010WR010089
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2010WR010089
-      \endverb
-      \keyw{regional frequency analysis,Bayesian hierarchical modeling,spatial dependence,uncertainty quantification}
-    \endentry
     \entry{renard_application_2006}{article}{}
       \name{author}{3}{}{%
         {{hash=9b92f95dbe695e956604b369299d93d5}{%
@@ -3501,70 +3252,6 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/WR022i005p00785
       \endverb
     \endentry
-    \entry{sun_general_2014}{article}{}
-      \name{author}{4}{}{%
-        {{hash=5cae04a22aa2d67dd42f2135e5abcd03}{%
-           family={Sun},
-           familyi={S\bibinitperiod},
-           given={Xun},
-           giveni={X\bibinitperiod}}}%
-        {{hash=2390c3d2ff8bd2de4178a6bdf77526d6}{%
-           family={Thyer},
-           familyi={T\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-        {{hash=fd9405f5fbc00c17beb6b212f84dc815}{%
-           family={Renard},
-           familyi={R\bibinitperiod},
-           given={Benjamin},
-           giveni={B\bibinitperiod}}}%
-        {{hash=081c44d48de07decc0eb61e6b652e349}{%
-           family={Lang},
-           familyi={L\bibinitperiod},
-           given={Michel},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{bb9778c1d0d079a391d5d376b260d611}
-      \strng{fullhash}{8e67ab0b7923521b9a37146e15845ca3}
-      \strng{bibnamehash}{8e67ab0b7923521b9a37146e15845ca3}
-      \strng{authorbibnamehash}{8e67ab0b7923521b9a37146e15845ca3}
-      \strng{authornamehash}{bb9778c1d0d079a391d5d376b260d611}
-      \strng{authorfullhash}{8e67ab0b7923521b9a37146e15845ca3}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{00221694}
-      \field{journaltitle}{Journal of Hydrology}
-      \field{langid}{english}
-      \field{month}{5}
-      \field{shortjournal}{Journal of Hydrology}
-      \field{shorttitle}{A general regional frequency analysis framework for quantifying local-scale climate effects}
-      \field{title}{A general regional frequency analysis framework for quantifying local-scale climate effects: A case study of {ENSO} effects on Southeast Queensland rainfall}
-      \field{urlday}{10}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{volume}{512}
-      \field{year}{2014}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{53\bibrangedash 68}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.1016/j.jhydrol.2014.02.025
-      \endverb
-      \verb{file}
-      \verb Sun et al. - 2014 - A general regional frequency analysis framework fo.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\UJ7FLIFA\\Sun et al. - 2014 - A general regional frequency analysis framework fo.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169414001334
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169414001334
-      \endverb
-    \endentry
     \entry{viglione_flood_2013}{article}{}
       \name{author}{4}{}{%
         {{hash=41e04c55ae558ba11259080fc3ba1d02}{%
@@ -3623,45 +3310,6 @@
       \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EZGY9SY5\\Viglione et al. - 2013 - Flood frequency hydrology 3. A Bayesian analysis.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\E39SQEHM\\2011WR010782.html:text/html
       \endverb
       \keyw{combined information,design flood,uncertainty}
-    \endentry
-    \entry{whs_flood_2008}{online}{}
-      \name{author}{1}{}{%
-        {{hash=24ba98dc16329ad66bf1a9abfeb19ff4}{%
-           family={{WHS}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{fullhash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{bibnamehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{authorbibnamehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{authornamehash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \strng{authorfullhash}{24ba98dc16329ad66bf1a9abfeb19ff4}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The Flood Estimation Handbook ({FEH}) gives guidance on estimating rainfall and river flood frequency in the {UK} and outlines methods for assessing the rarity of notable rainfalls or floods. The {FEH} is the industry standard for estimating local flood risk and developing resilient infrastructure. The five-volume set was originally published in 1999 by the {UK} … Continued}
-      \field{langid}{british}
-      \field{note}{Section: Software}
-      \field{title}{Flood Estimation Handbook}
-      \field{titleaddon}{{WHS}}
-      \field{urlday}{10}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{year}{2008}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\J96VLY6V\\flood_estimation_handbook.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.hydrosolutions.co.uk/software/flood_estimation_handbook/
-      \endverb
-      \verb{url}
-      \verb https://www.hydrosolutions.co.uk/software/flood_estimation_handbook/
-      \endverb
     \endentry
   \enddatalist
 \endrefsection
