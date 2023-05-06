@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 03:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,7 +888,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 136.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
 ns.sty
 Package: placeins 2005/04/18  v 2.2
-))
+)
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpag
 es.sty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
@@ -929,12 +929,38 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count439
 \AM@templatesizebox=\box55
 )
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable
+.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip145
+\LTright=\skip146
+\LTpre=\skip147
+\LTpost=\skip148
+\LTchunksize=\count440
+\LTcapwidth=\dimen262
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count441
+\LT@rows=\count442
+\c@LT@tables=\count443
+\c@LT@chunks=\count444
+\LT@p@ftn=\toks38
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/changepage\chan
+gepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count445
+\cp@tempcnt=\count446
+)
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count440
-\@quotereset=\count441
+\@quotelevel=\count447
+\@quotereset=\count448
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 10
 .
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -943,8 +969,8 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
 kend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count442
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count449
+\l__pdf_internal_box=\box61
 ) (compilation_chapitre4.aux)
 \openout1 = `compilation_chapitre4.aux'.
 
@@ -1013,17 +1039,17 @@ LaTeX Info: Redefining \up on input line 10.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
 p-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count443
-\scratchdimen=\dimen262
-\scratchbox=\box57
-\nofMPsegments=\count444
-\nofMParguments=\count445
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count446
-\MPscratchDim=\dimen263
-\MPnumerator=\count447
-\makeMPintoPDFobject=\count448
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count450
+\scratchdimen=\dimen263
+\scratchbox=\box62
+\nofMPsegments=\count451
+\nofMParguments=\count452
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count453
+\MPscratchDim=\dimen264
+\MPnumerator=\count454
+\makeMPintoPDFobject=\count455
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
 stopdf-base.sty
@@ -1036,7 +1062,16 @@ df-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen265
+\caption@adjustwidth@linewidth=\dimen266
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcapti
+on.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 10.
 
@@ -1052,7 +1087,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count449
+\c@section@level=\count456
 )
 LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
@@ -1200,214 +1235,238 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <20.74> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <17.28> on input line 35.
- [1
+<Chapitre4/Figures/RepÃ¨re.jpg, id=54, 2119.92pt x 2826.56pt>
+File: Chapitre4/Figures/RepÃ¨re.jpg Graphic file (type jpg)
+<use Chapitre4/Figures/RepÃ¨re.jpg>
+Package pdftex.def Info: Chapitre4/Figures/RepÃ¨re.jpg  used on input line 41.
+(pdftex.def)             Requested size: 318.66948pt x 424.87143pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 45.
+[1
 
 ]
 
-LaTeX Warning: Reference `chap:ch3' on page 2 undefined on input line 45.
+LaTeX Warning: Reference `chap:ch3' on page 2 undefined on input line 53.
 
-[2]
+[2 <./Chapitre4/Figures/RepÃ¨re.jpg>] [3]
 
-LaTeX Warning: Reference `chap:ch3' on page 3 undefined on input line 51.
+LaTeX Warning: Reference `chap:ch3' on page 4 undefined on input line 59.
 
 
-LaTeX Warning: Reference `chap:ch3' on page 3 undefined on input line 51.
-
-[3]
-
-LaTeX Warning: Reference `chap:ch3' on page 4 undefined on input line 64.
+LaTeX Warning: Reference `chap:ch3' on page 4 undefined on input line 59.
 
 [4]
 
-LaTeX Warning: Reference `chap:ch3' on page 5 undefined on input line 98.
+LaTeX Warning: Reference `chap:ch3' on page 5 undefined on input line 72.
+
+[5]
+
+LaTeX Warning: Reference `chap:ch3' on page 6 undefined on input line 106.
 
 
-LaTeX Warning: Reference `chap:ch3' on page 5 undefined on input line 98.
+LaTeX Warning: Reference `chap:ch3' on page 6 undefined on input line 106.
 
 
-LaTeX Warning: Reference `chap:ch3' on page 5 undefined on input line 99.
+LaTeX Warning: Reference `chap:ch3' on page 6 undefined on input line 107.
 
-[5] [6] [7]
+[6] [7] [8]
 
-LaTeX Warning: Reference `chap:ch3' on page 8 undefined on input line 213.
-
-
-LaTeX Warning: Reference `chap:ch2' on page 8 undefined on input line 213.
+LaTeX Warning: Reference `chap:ch3' on page 9 undefined on input line 221.
 
 
-LaTeX Warning: Reference `chap:ch2' on page 8 undefined on input line 213.
+LaTeX Warning: Reference `chap:ch2' on page 9 undefined on input line 221.
 
-<Chapitre4/Figures/EchMixteBcr.pdf, id=207, 1084.05pt x 722.7pt>
+
+LaTeX Warning: Reference `chap:ch2' on page 9 undefined on input line 221.
+
+<Chapitre4/Figures/EchMixteBcr.pdf, id=219, 1084.05pt x 722.7pt>
 File: Chapitre4/Figures/EchMixteBcr.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/EchMixteBcr.pdf>
 Package pdftex.def Info: Chapitre4/Figures/EchMixteBcr.pdf  used on input line 
-216.
+224.
 (pdftex.def)             Requested size: 409.71692pt x 273.14014pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8]
 
-LaTeX Warning: Reference `chap:ch3' on page 9 undefined on input line 228.
+LaTeX Warning: Reference `chap:ch3' on page 9 undefined on input line 236.
 
 
-Overfull \hbox (3.83017pt too wide) in paragraph at lines 228--229
+Overfull \hbox (3.83017pt too wide) in paragraph at lines 236--237
 \T1/lmr/m/n/12 nues : le test de [][]\T1/lmr/m/sc/12 Pettitt []\T1/lmr/m/n/12 (
 [][]1979[][]) et la pro-cé-dure de seg-men-ta-tion dé-ve-lop-pée par [][]\T1/lm
 r/m/sc/12 Darienzo
  []
 
-[9 <./Chapitre4/Figures/EchMixteBcr.pdf>]
-Overfull \hbox (8.94347pt too wide) in paragraph at lines 241--242
+[9] [10 <./Chapitre4/Figures/EchMixteBcr.pdf>]
+Overfull \hbox (8.94347pt too wide) in paragraph at lines 249--250
  [][] \T1/lmr/m/n/12 Ces in-ter-valles de confiance ont été cal-cu-lés pour l'é
 chan-tillon de crues pré-enregistrements
  []
 
-<Chapitre4/Figures/Poisson_C3-C4_FR.pdf, id=245, 650.43pt x 361.35pt>
+<Chapitre4/Figures/Poisson_C3-C4_FR.pdf, id=256, 650.43pt x 361.35pt>
 File: Chapitre4/Figures/Poisson_C3-C4_FR.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Poisson_C3-C4_FR.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Poisson_C3-C4_FR.pdf  used on input 
-line 245.
+line 253.
 (pdftex.def)             Requested size: 364.19667pt x 202.33807pt.
-[10 <./Chapitre4/Figures/Poisson_C3-C4_FR.pdf>]
-<Chapitre4/Figures/Poisson_Qrecent_FR.pdf, id=264, 650.43pt x 361.35pt>
+[11 <./Chapitre4/Figures/Poisson_C3-C4_FR.pdf>]
+<Chapitre4/Figures/Poisson_Qrecent_FR.pdf, id=275, 650.43pt x 361.35pt>
 File: Chapitre4/Figures/Poisson_Qrecent_FR.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Poisson_Qrecent_FR.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Poisson_Qrecent_FR.pdf  used on inpu
-t line 256.
+t line 264.
 (pdftex.def)             Requested size: 364.19667pt x 202.33807pt.
 
-Underfull \vbox (badness 4621) has occurred while \output is active []
 
- [11 <./Chapitre4/Figures/Poisson_Qrecent_FR.pdf>]
-
-LaTeX Warning: Reference `chap:ch2' on page 12 undefined on input line 272.
+LaTeX Warning: Reference `chap:ch2' on page 12 undefined on input line 280.
 
 
-LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 272.
+LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 280.
 
 
-LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 272.
+LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 280.
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-96.
+[12 <./Chapitre4/Figures/Poisson_Qrecent_FR.pdf>]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
+04.
+
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
-LaTeX Warning: Reference `chap:ch3' on page 12 undefined on input line 308.
+LaTeX Warning: Reference `chap:ch3' on page 13 undefined on input line 316.
 
-
-Underfull \vbox (badness 3049) has occurred while \output is active []
-
- [12]
-<Chapitre4/Figures/Barplots_QX_Artif2.pdf, id=295, 939.51pt x 578.16pt>
+<Chapitre4/Figures/Barplots_QX_Artif2.pdf, id=298, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_Artif2.pdf  used on inpu
-t line 312.
+t line 320.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
-<Chapitre4/Figures/Quantiles_Artif2.pdf, id=296, 1300.86pt x 1011.78pt>
-File: Chapitre4/Figures/Quantiles_Artif2.pdf Graphic file (type pdf)
-<use Chapitre4/Figures/Quantiles_Artif2.pdf>
-Package pdftex.def Info: Chapitre4/Figures/Quantiles_Artif2.pdf  used on input 
-line 338.
-(pdftex.def)             Requested size: 455.24411pt x 354.08199pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13 <./Chapitre4/Figures/Barplots_QX_Artif2.pdf>] [14 <./Chapitre4/Figures/Quan
-tiles_Artif2.pdf>]
-<Chapitre4/Figures/Shape_Artif2.pdf, id=334, 722.7pt x 578.16pt>
+<Chapitre4/Figures/Quantiles_Artif2.pdf, id=299, 1300.86pt x 1011.78pt>
+File: Chapitre4/Figures/Quantiles_Artif2.pdf Graphic file (type pdf)
+<use Chapitre4/Figures/Quantiles_Artif2.pdf>
+Package pdftex.def Info: Chapitre4/Figures/Quantiles_Artif2.pdf  used on input 
+line 346.
+(pdftex.def)             Requested size: 455.24411pt x 354.08199pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13] [14 <./Chapitre4/Figures/Barplots_QX_Artif2.pdf>] [15 <./Chapitre4/Figures
+/Quantiles_Artif2.pdf>]
+<Chapitre4/Figures/Shape_Artif2.pdf, id=339, 722.7pt x 578.16pt>
 File: Chapitre4/Figures/Shape_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Shape_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Shape_Artif2.pdf  used on input line
- 358.
+ 364.
 (pdftex.def)             Requested size: 273.14923pt x 218.52094pt.
- [15 <./Chapitre4/Figures/Shape_Artif2.pdf>]
-<Chapitre4/Figures/Params_Artif2.pdf, id=361, 1084.05pt x 505.89pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16
+
+]
+<Chapitre4/Figures/Params_Artif2.pdf, id=351, 1084.05pt x 505.89pt>
 File: Chapitre4/Figures/Params_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Params_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Params_Artif2.pdf  used on input lin
-e 371.
+e 377.
 (pdftex.def)             Requested size: 409.71692pt x 191.19809pt.
- [16 <./Chapitre4/Figures/Params_Artif2.pdf>]
-<Chapitre4/Figures/ScatterD_Artif2.pdf, id=387, 433.62pt x 433.62pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./Chapitre4/Figures/Shape_Artif2.pdf>] [18 <./Chapitre4/Figures/Params_Art
+if2.pdf>]
+<Chapitre4/Figures/ScatterD_Artif2.pdf, id=402, 433.62pt x 433.62pt>
 File: Chapitre4/Figures/ScatterD_Artif2.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/ScatterD_Artif2.pdf>
 Package pdftex.def Info: Chapitre4/Figures/ScatterD_Artif2.pdf  used on input l
-ine 388.
+ine 392.
 (pdftex.def)             Requested size: 318.66948pt x 318.68372pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17]
+[19]
 
-LaTeX Warning: Reference `chap:ch3' on page 18 undefined on input line 397.
+LaTeX Warning: Reference `chap:ch3' on page 20 undefined on input line 401.
 
-<Chapitre4/Figures/Barplots_QX_censure.pdf, id=398, 939.51pt x 578.16pt>
+<Chapitre4/Figures/Barplots_QX_censure.pdf, id=409, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_censure.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_censure.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_censure.pdf  used on inp
-ut line 402.
+ut line 406.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18 <./Chapitre4/Figures/ScatterD_Artif2.pdf>] [19 <./Chapitre4/Figures/Barplot
+[20 <./Chapitre4/Figures/ScatterD_Artif2.pdf>] [21 <./Chapitre4/Figures/Barplot
 s_QX_censure.pdf>]
-<Chapitre4/Figures/Barplots_QX_C4.pdf, id=448, 939.51pt x 578.16pt>
+<Chapitre4/Figures/Barplots_QX_C4.pdf, id=460, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_C4.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_C4.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_C4.pdf  used on input li
-ne 441.
+ne 445.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapitre4/Figures/Params_C4.pdf, id=451, 1084.05pt x 505.89pt>
+<Chapitre4/Figures/Params_C4.pdf, id=463, 1084.05pt x 505.89pt>
 File: Chapitre4/Figures/Params_C4.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Params_C4.pdf>
-Package pdftex.def Info: Chapitre4/Figures/Params_C4.pdf  used on input line 46
-7.
+Package pdftex.def Info: Chapitre4/Figures/Params_C4.pdf  used on input line 47
+1.
 (pdftex.def)             Requested size: 409.71692pt x 191.19809pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./Chapitre4/Figures/Barplots_QX_C4.pdf>] [21]
+[22 <./Chapitre4/Figures/Barplots_QX_C4.pdf>] [23]
 
-LaTeX Warning: Reference `chap:ch2' on page 22 undefined on input line 487.
+LaTeX Warning: Reference `chap:ch2' on page 24 undefined on input line 491.
 
-[22 <./Chapitre4/Figures/Params_C4.pdf>]
-<Chapitre4/Figures/Barplots_QX_C4short.pdf, id=505, 939.51pt x 578.16pt>
+[24 <./Chapitre4/Figures/Params_C4.pdf>]
+<Chapitre4/Figures/Barplots_QX_C4short.pdf, id=519, 939.51pt x 578.16pt>
 File: Chapitre4/Figures/Barplots_QX_C4short.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Barplots_QX_C4short.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Barplots_QX_C4short.pdf  used on inp
-ut line 491.
+ut line 495.
 (pdftex.def)             Requested size: 364.19667pt x 224.11407pt.
- [23 <./Chapitre4/Figures/Barplots_QX_C4short.pdf>]
-<Chapitre4/Figures/Params_C4short.pdf, id=526, 1084.05pt x 505.89pt>
+
+Underfull \vbox (badness 1946) has occurred while \output is active []
+
+ [25 <./Chapitre4/Figures/Barplots_QX_C4short.pdf>]
+<Chapitre4/Figures/Params_C4short.pdf, id=539, 1084.05pt x 505.89pt>
 File: Chapitre4/Figures/Params_C4short.pdf Graphic file (type pdf)
 <use Chapitre4/Figures/Params_C4short.pdf>
 Package pdftex.def Info: Chapitre4/Figures/Params_C4short.pdf  used on input li
-ne 516.
+ne 520.
 (pdftex.def)             Requested size: 409.71692pt x 191.19809pt.
- [24 <./Chapitre4/Figures/Params_C4short.pdf>] [25]
+ [26 <./Chapitre4/Figures/Params_C4short.pdf>] [27]
 
-LaTeX Warning: Reference `chap:ch2' on page 26 undefined on input line 533.
+LaTeX Warning: Reference `chap:ch2' on page 28 undefined on input line 537.
 
-[26]
+[28]
 
-LaTeX Warning: Reference `chap:ch2' on page 27 undefined on input line 537.
+LaTeX Warning: Reference `chap:ch2' on page 29 undefined on input line 541.
 
-[27]
+[29]
 
-LaTeX Warning: Reference `chap:ch3' on page 28 undefined on input line 547.
+LaTeX Warning: Reference `chap:ch3' on page 30 undefined on input line 551.
 
-[28]) [29] [30
+[30]) [31] [32
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
@@ -1416,7 +1475,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-[31]
+[33]
 Overfull \hbox (4.7562pt too wide) in paragraph at lines 36--36
 [][][]\T1/lmr/m/sc/12 Dezileau[]\T1/lmr/m/n/12 , L., B. []\T1/lmr/m/sc/12 Terri
 er[]\T1/lmr/m/n/12 , J. []\T1/lmr/m/sc/12 Berger[]\T1/lmr/m/n/12 , P. []\T1/lmr
@@ -1432,7 +1491,7 @@ nald[]\T1/lmr/m/n/12 , M. []\T1/lmr/m/sc/12 Lang[]\T1/lmr/m/n/12 , L. []\T1/lmr
 n/12 , E. []\T1/lmr/m/sc/12 Bogdanowicz[]\T1/lmr/m/n/12 ,
  []
 
-[32]
+[34]
 Overfull \hbox (4.07549pt too wide) in paragraph at lines 36--36
 [][][]\T1/lmr/m/sc/12 Merz[]\T1/lmr/m/n/12 , B., S. []\T1/lmr/m/sc/12 Basso[]\T
 1/lmr/m/n/12 , S. []\T1/lmr/m/sc/12 Fischer[]\T1/lmr/m/n/12 , D. []\T1/lmr/m/sc
@@ -1456,7 +1515,7 @@ Overfull \hbox (18.05534pt too wide) in paragraph at lines 36--36
 ]$\T1/lmtt/m/n/12 10 . 1080 / 02626660903546092$[][]\T1/lmr/m/n/12 . 
  []
 
-[33] [34] [35] (compilation_chapitre4.aux)
+[35] [36] (compilation_chapitre4.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1465,11 +1524,11 @@ Package logreq Info: Writing requests to 'compilation_chapitre4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24363 strings out of 478659
- 433431 string characters out of 2842128
- 1139167 words of memory out of 3000000
- 41875 multiletter control sequences out of 15000+600000
- 484756 words of font info for 94 fonts, out of 8000000 for 9000
+ 24594 strings out of 478659
+ 437846 string characters out of 2842128
+ 1146621 words of memory out of 3000000
+ 42090 multiletter control sequences out of 15000+600000
+ 500458 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,16n,80p,2991b,1929s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
@@ -1482,28 +1541,31 @@ iKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/mathieu.lucas/AppData/Local/Pr
 ograms/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/mathieu.lucas/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/mathieu.lucas/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users/mathieu.luca
-s/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/mat
-hieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/U
-sers/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.p
-fb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
-lmmi6.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/lm/lmmi8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/lm/lmmib10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/lm/lmr12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/mathieu.lucas/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/mathieu.lucas/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/mathieu.lucas/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/mathieu.l
-ucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/m
-athieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/
-Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.p
-fb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
-lmtt12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/helvetic/uhvr8a.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fon
-ts/type1/urw/times/utmr8a.pfb>
-Output written on compilation_chapitre4.pdf (37 pages, 1887424 bytes).
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/mat
+hieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/
+Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.
+pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
+/lmmi12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmmi6.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/lm/lmmi8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/lm/lmmib10.pfb><C:/Users/mathieu.lucas/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/mathieu.lucas/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/mathieu.lucas/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/mathieu.lucas
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/mathieu
+.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/m
+athieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:
+/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12
+.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
+m/lmsy10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/lm/lmsy6.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/lm/lmsy8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/lm/lmtt12.pfb><C:/Users/mathieu.lucas/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/mathieu.lucas/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on compilation_chapitre4.pdf (38 pages, 2824414 bytes).
 PDF statistics:
- 881 PDF objects out of 1000 (max. 8388607)
+ 901 PDF objects out of 1000 (max. 8388607)
  199 named destinations out of 1000 (max. 500000)
- 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 215 words of extra memory for PDF output out of 10000 (max. 10000000)
 

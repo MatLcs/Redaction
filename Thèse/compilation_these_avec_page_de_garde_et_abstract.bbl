@@ -1359,7 +1359,6 @@
       \field{issn}{1944-9208}
       \field{journaltitle}{Reviews of Geophysics}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2006RG000199}
       \field{number}{3}
       \field{title}{Impact of El Niño–Southern Oscillation on European climate}
       \field{urlday}{4}
@@ -3512,12 +3511,6 @@
       \verb{file}
       \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\SWMHAGLH\\Han et al. - 2020 - A Network Approach for Delineating Homogeneous Reg.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\T3WIY7RN\\2019WR025910.html:text/html
       \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2019WR025910
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2019WR025910
-      \endverb
       \keyw{Delineation of Homogeneous Regions,Network Theory,Regional Flood Frequency Analysis}
     \endentry
     \entry{hazen_storage_1914}{article}{}
@@ -4497,7 +4490,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2007WR006283}
       \field{number}{2}
       \field{title}{An exploratory analysis of error components in hydrological regression modeling}
       \field{urlday}{25}
@@ -4643,7 +4635,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/1999WR900012}
       \field{number}{5}
       \field{title}{Comprehensive at-site flood frequency analysis using Monte Carlo Bayesian inference}
       \field{urlday}{24}
@@ -4660,12 +4651,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7T8LSEA8\\Kuczera - 1999 - Comprehensive at-site flood frequency analysis usi.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\RCR39XRK\\1999WR900012.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/1999WR900012
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/1999WR900012
       \endverb
     \endentry
     \entry{kuentz_hydrometrie_2014}{article}{}
@@ -5582,6 +5567,55 @@
       \verb http://www.shf-lhb.org/10.1051/lhb/20150048
       \endverb
     \endentry
+    \entry{leblois_evaluation_2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e5b03e04d5ae37ac587089b751160409}{%
+           family={Leblois},
+           familyi={L\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{fullhash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{bibnamehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{authorbibnamehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{authornamehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{authorfullhash}{e5b03e04d5ae37ac587089b751160409}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0018-6368}
+      \field{journaltitle}{La Houille Blanche}
+      \field{month}{12}
+      \field{note}{Publisher: Taylor \& Francis \_eprint: https://doi.org/10.1051/lhb/2002112}
+      \field{number}{8}
+      \field{title}{Evaluation of the possible impacts of climatic change by distributed models (Gewex-Rhône et Gicc-Rhône projects)}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{88}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{78\bibrangedash 83}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1051/lhb/2002112
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\966E9S4M\\Leblois - 2002 - Evaluation of the possible impacts of climatic cha.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1051/lhb/2002112
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1051/lhb/2002112
+      \endverb
+    \endentry
     \entry{leon_vie_1953}{article}{}
       \name{author}{1}{}{%
         {{hash=5e5c49f4f3322dff2b4a1ed397a1568d}{%
@@ -5630,13 +5664,19 @@
       \verb https://www.persee.fr/doc/geoca_0035-113x_1953_num_28_4_1380
       \endverb
     \endentry
-    \entry{loomans_flood_1993}{article}{}
+    \entry{loomans_flood_1993}{thesis}{}
       \name{author}{1}{}{%
         {{hash=bac4eccdae9422835f07e033fd8e4b2e}{%
            family={Loomans},
            familyi={L\bibinitperiod},
            given={Susan\bibnamedelima A},
            giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Illinois}%
+      }
+      \list{location}{1}{%
+        {Urbana-Champaign}%
       }
       \strng{namehash}{bac4eccdae9422835f07e033fd8e4b2e}
       \strng{fullhash}{bac4eccdae9422835f07e033fd8e4b2e}
@@ -5651,7 +5691,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
+      \field{pagetotal}{87}
       \field{title}{Flood Reconstruction in Southern Illinois Using Tree Rings}
+      \field{type}{Thèse de Doctorat}
       \field{year}{1993}
       \field{dateera}{ce}
       \verb{file}
@@ -5706,19 +5748,11 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{e2019WR026575}
-      \range{pages}{-1}
       \verb{doi}
       \verb 10.1029/2019WR026575
       \endverb
       \verb{file}
       \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\7FGCFD2H\\Lun et al. - 2020 - Detecting Flood-Rich and Flood-Poor Periods in Ann.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\74V9QJRM\\2019WR026575.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026575
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026575
       \endverb
       \keyw{Flood changes,Flood frequency,Scan statistics}
     \endentry
@@ -6200,13 +6234,12 @@
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
+      \field{labeltitlesource}{title}
       \field{abstract}{Dendrochronological studies have received little attention in Australia and it appears that the methodology is not well understood. This paper describes dendrochronological techniques available in riparian environments and applies them to a small reach of the Hawkesbury River. Results of field investigations into the relationships between flooding and associated tree-ring variability were used to reconstruct partial duration flood-frequency data. The ring-width chronologies of 39 trees were transformed into three indices that made interpretation with respect to flooding possible: (1) a width-index: (2) an annual-sensitivity ({AS}) index; and (3) a tilting vector. It was assumed that floods would either suppress growth or alter the annual distribution of new wood about the tree bole. Width-indicies and tilting vectors provided the most reliable flooding information. Much reduced growth rates at low elevations supported initial hypotheses and led to the establishment of a relationship between growth-rate and frequency of inundation. The reconstructed flood-frequency curve closely matched the historical data-set although underestimation occured at higher levels due to limited sample size. Analyses indicate that dendrochronological investigations of exotic riparian trees provide detailed flooding information, but techniques may also be used to provide minimum dates of fluvial landforms and date recent channel changes.}
       \field{issn}{1467-8470}
       \field{journaltitle}{Australian Geographical Studies}
       \field{langid}{english}
       \field{number}{1}
-      \field{shorttitle}{Dendrochronological Flood-frequency Analysis}
       \field{title}{Dendrochronological Flood-frequency Analysis: An Australian Application}
       \field{urlday}{20}
       \field{urlmonth}{4}
@@ -6217,17 +6250,8 @@
       \field{urldateera}{ce}
       \field{pages}{70\bibrangedash 86}
       \range{pages}{17}
-      \verb{doi}
-      \verb 10.1111/j.1467-8470.1992.tb00733.x
-      \endverb
       \verb{file}
       \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\B4NHAQIJ\\Martens - 1992 - Dendrochronological Flood-frequency Analysis An A.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\RVLVR5JC\\j.1467-8470.1992.tb00733.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8470.1992.tb00733.x
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8470.1992.tb00733.x
       \endverb
     \endentry
     \entry{martins_generalized_2000}{article}{}
@@ -8959,7 +8983,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2010WR010089}
       \field{number}{11}
       \field{title}{A Bayesian hierarchical approach to regional frequency analysis}
       \field{urlday}{25}
@@ -8981,7 +9004,7 @@
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2010WR010089
       \endverb
-      \keyw{regional frequency analysis,Bayesian hierarchical modeling,spatial dependence,uncertainty quantification}
+      \keyw{Bayesian hierarchical modeling,regional frequency analysis,spatial dependence,uncertainty quantification}
     \endentry
     \entry{renard_application_2006}{article}{}
       \name{author}{3}{}{%
@@ -9092,7 +9115,6 @@
       \field{issn}{1944-7973}
       \field{journaltitle}{Water Resources Research}
       \field{langid}{english}
-      \field{note}{\_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021WR030007}
       \field{number}{1}
       \field{title}{A Hidden Climate Indices Modeling Framework for Multivariable Space-Time Data}
       \field{urlday}{14}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  4 MAY 2023 20:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,7 +888,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 136.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
 ns.sty
 Package: placeins 2005/04/18  v 2.2
-))
+)
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpag
 es.sty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
@@ -928,13 +928,33 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks37
 \c@AM@survey=\count439
 \AM@templatesizebox=\box55
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable
+.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip145
+\LTright=\skip146
+\LTpre=\skip147
+\LTpost=\skip148
+\LTchunksize=\count440
+\LTcapwidth=\dimen262
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count441
+\LT@rows=\count442
+\c@LT@tables=\count443
+\c@LT@chunks=\count444
+\LT@p@ftn=\toks38
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count440
-\@quotereset=\count441
+\@quotelevel=\count445
+\@quotereset=\count446
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 10
 .
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -943,8 +963,8 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
 kend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count442
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count447
+\l__pdf_internal_box=\box61
 ) (compilation_chapitre5.aux)
 \openout1 = `compilation_chapitre5.aux'.
 
@@ -1013,17 +1033,17 @@ LaTeX Info: Redefining \up on input line 10.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
 p-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count443
-\scratchdimen=\dimen262
-\scratchbox=\box57
-\nofMPsegments=\count444
-\nofMParguments=\count445
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count446
-\MPscratchDim=\dimen263
-\MPnumerator=\count447
-\makeMPintoPDFobject=\count448
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count448
+\scratchdimen=\dimen263
+\scratchbox=\box62
+\nofMPsegments=\count449
+\nofMParguments=\count450
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count451
+\MPscratchDim=\dimen264
+\MPnumerator=\count452
+\makeMPintoPDFobject=\count453
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
 stopdf-base.sty
@@ -1037,6 +1057,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcapti
+on.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 10.
 
@@ -1052,7 +1078,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count449
+\c@section@level=\count454
 )
 LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
@@ -1123,49 +1149,56 @@ LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.f
 d
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
+) [1
+
+
+
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-4.
- (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+3.
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-4.
- (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+3.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-14.
+13.
+
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-14.
+13.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 14.
+(Font)              <12> on input line 13.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 14.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+(Font)              <6> on input line 13.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 13
 .
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.
@@ -1173,42 +1206,29 @@ fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-4.
+3.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-[1
-
-
-
-
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[2] [3]
-<Chapitre5_Conclusion/Figures/gw.jpg, id=43, 1658.195pt x 923.45pt>
+[2] [3] [4]
+<Chapitre5_Conclusion/Figures/gw.jpg, id=47, 1658.195pt x 923.45pt>
 File: Chapitre5_Conclusion/Figures/gw.jpg Graphic file (type jpg)
 <use Chapitre5_Conclusion/Figures/gw.jpg>
 Package pdftex.def Info: Chapitre5_Conclusion/Figures/gw.jpg  used on input lin
-e 27.
+e 24.
 (pdftex.def)             Requested size: 318.66948pt x 177.45819pt.
+ [5 <./Chapitre5_Conclusion/Figures/gw.jpg>] [6] [7]) [8] [9]
+[10
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-[5 <./Chapitre5_Conclusion/Figures/gw.jpg>] [6] [7]) [8]
+]
 Overfull \hbox (106.47418pt too wide) in paragraph at lines 36--36
 \T1/lmr/m/n/12 In : \T1/lmr/m/it/12 Re-views of Geo-phy-sics \T1/lmr/m/n/12 45.
 3. _eprint : https ://on-li-ne-li-brary.wiley.com/doi/pdf/10.1029/2006RG000199.
 
  []
 
-[9
-
-]
+[11]
 Overfull \hbox (4.7562pt too wide) in paragraph at lines 36--36
 [][][]\T1/lmr/m/sc/12 Dezileau[]\T1/lmr/m/n/12 , L., B. []\T1/lmr/m/sc/12 Terri
 er[]\T1/lmr/m/n/12 , J. []\T1/lmr/m/sc/12 Berger[]\T1/lmr/m/n/12 , P. []\T1/lmr
@@ -1231,26 +1251,26 @@ Overfull \hbox (18.05534pt too wide) in paragraph at lines 36--36
 ]$\T1/lmtt/m/n/12 10 . 1080 / 02626660903546092$[][]\T1/lmr/m/n/12 . 
  []
 
-[10]
+[12]
 Overfull \hbox (210.08128pt too wide) in paragraph at lines 36--36
 \T1/lmr/m/n/12 Da-ta''. In : \T1/lmr/m/it/12 Wa-ter Re-sources Re-search \T1/lm
 r/m/n/12 58.1. _eprint : https ://agu-pubs.onlinelibrary.wiley.com/doi/pdf/10.1
 029/2021WR030007,
  []
 
-[11] (compilation_chapitre5.aux)
+[13] (compilation_chapitre5.aux)
 Package logreq Info: Writing requests to 'compilation_chapitre5.run.xml'.
 \openout1 = `compilation_chapitre5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23897 strings out of 478659
- 423061 string characters out of 2842128
- 1126746 words of memory out of 3000000
- 41577 multiletter control sequences out of 15000+600000
+ 24059 strings out of 478659
+ 426033 string characters out of 2842128
+ 1129383 words of memory out of 3000000
+ 41731 multiletter control sequences out of 15000+600000
  448981 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,11n,80p,4191b,1777s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,11n,80p,4229b,1777s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
 c.enc}{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/bas
 e/8r.enc}<C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1264,9 +1284,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/mathieu
 .lucas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Us
 ers/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pf
 b>
-Output written on compilation_chapitre5.pdf (11 pages, 440166 bytes).
+Output written on compilation_chapitre5.pdf (13 pages, 444100 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
  30 words of extra memory for PDF output out of 10000 (max. 10000000)
 

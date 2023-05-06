@@ -101,7 +101,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{24}{section*.64}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Évolution temporelle de la vulnérabilité aux inondations}{25}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}Évolution temporelle des enjeux en zone inondable}{25}{subsection.2.2.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{25}{section*.66}%
 \defcounter {refsection}{0}\relax 
@@ -189,7 +189,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{40}{section*.111}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Conclusion du chapitre}{40}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Conclusion}{40}{section.2.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{40}{section*.112}%
 \defcounter {refsection}{0}\relax 
@@ -197,6 +197,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{41}{section*.114}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{41}{section*.115}%
+\contentsline {paragraph}{}{42}{section*.115}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{42}{section*.116}%

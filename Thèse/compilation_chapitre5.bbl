@@ -1098,6 +1098,62 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0022169410000193
       \endverb
     \endentry
+    \entry{giuntoli_floods_2019}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=aa0c5753d4782f5f91915e1e4435a32c}{%
+           family={Giuntoli},
+           familyi={G\bibinitperiod},
+           given={Ignazio},
+           giveni={I\bibinitperiod}}}%
+        {{hash=fd9405f5fbc00c17beb6b212f84dc815}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=081c44d48de07decc0eb61e6b652e349}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{CRC} Press}%
+      }
+      \strng{namehash}{52ea332fd65cd6610b55aac63879ecf7}
+      \strng{fullhash}{2d31e12556c377614b69311f68531915}
+      \strng{bibnamehash}{2d31e12556c377614b69311f68531915}
+      \strng{authorbibnamehash}{2d31e12556c377614b69311f68531915}
+      \strng{authornamehash}{52ea332fd65cd6610b55aac63879ecf7}
+      \strng{authorfullhash}{2d31e12556c377614b69311f68531915}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Describing the evolution of trends from historical hydrological variables, such as streamflow or precipitation, is a difficult task as data are often incomplete in the spatial and temporal domains. Evidence indicates an ongoing intensification of the water cycle, although to date, on a global scale, no consistent trends support an increase in the frequency or intensity of floods. The data set consists of daily runoff series collected from the French Banque Hydro Archive. Streamflow indices were selected in order to describe the evolution of high flows. The trend analysis was carried out applying statistical tests to the time series of the streamflow indices. The idea behind the use of regional tests is that stations located in the same region, that are subject to similar climate, are most likely to behave in the same way to the evolution of climate forcings.}
+      \field{booktitle}{Changes in Flood Risk in Europe}
+      \field{day}{30}
+      \field{edition}{1}
+      \field{isbn}{978-0-203-09809-7}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Floods in France}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/chapters/edit/10.1201/b12348-10/floods-france-ignazio-giuntoli-benjamin-renard-michel-lang
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/chapters/edit/10.1201/b12348-10/floods-france-ignazio-giuntoli-benjamin-renard-michel-lang
+      \endverb
+    \endentry
     \entry{han_incorporating_2022}{article}{}
       \name{author}{4}{}{%
         {{hash=4e54ffae7c46290572644d2e239ad440}{%
@@ -1193,7 +1249,6 @@
       \strng{authorbibnamehash}{d1dc7d9b3d3b2c62e29292f3e8d36a4a}
       \strng{authornamehash}{dab742cb758e8b0fef9b4c5989db1df4}
       \strng{authorfullhash}{d1dc7d9b3d3b2c62e29292f3e8d36a4a}
-      \field{extraname}{1}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -1223,76 +1278,53 @@
       \verb https://hal.science/hal-03673906
       \endverb
     \endentry
-    \entry{lang_extrapolation_2010}{article}{}
-      \name{author}{5}{}{%
-        {{hash=081c44d48de07decc0eb61e6b652e349}{%
-           family={Lang},
+    \entry{leblois_evaluation_2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e5b03e04d5ae37ac587089b751160409}{%
+           family={Leblois},
            familyi={L\bibinitperiod},
-           given={Michel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f3cf5063597634456737d2620a102fba}{%
-           family={Pobanz},
-           familyi={P\bibinitperiod},
-           given={Karine},
-           giveni={K\bibinitperiod}}}%
-        {{hash=fd9405f5fbc00c17beb6b212f84dc815}{%
-           family={Renard},
-           familyi={R\bibinitperiod},
-           given={Benjamin},
-           giveni={B\bibinitperiod}}}%
-        {{hash=c57c533ffcf63b4515141b6c1ad0940d}{%
-           family={Renouf},
-           familyi={R\bibinitperiod},
-           given={Elodie},
-           giveni={E\bibinitperiod}}}%
-        {{hash=84a256463d503a3686655cc1e5a5ddb1}{%
-           family={Sauquet},
-           familyi={S\bibinitperiod},
-           given={Eric},
+           given={Etienne},
            giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{dab742cb758e8b0fef9b4c5989db1df4}
-      \strng{fullhash}{77f4a1ac9e54eb20a41224a8135c4672}
-      \strng{bibnamehash}{77f4a1ac9e54eb20a41224a8135c4672}
-      \strng{authorbibnamehash}{77f4a1ac9e54eb20a41224a8135c4672}
-      \strng{authornamehash}{dab742cb758e8b0fef9b4c5989db1df4}
-      \strng{authorfullhash}{77f4a1ac9e54eb20a41224a8135c4672}
-      \field{extraname}{2}
+      \strng{namehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{fullhash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{bibnamehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{authorbibnamehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{authornamehash}{e5b03e04d5ae37ac587089b751160409}
+      \strng{authorfullhash}{e5b03e04d5ae37ac587089b751160409}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper illustrates the importance of taking into account the potential errors in discharge estimation in the assessment of extreme floods. First, a summary of the main difficulties encountered in extrapolating rating curves for flood discharge is provided. Then a sensitivity analysis is carried out using a hydraulic modelling approach, applied to eight Mediterranean catchments, and yielding an envelope curve for the stage–discharge relationship, Q(H). To assess the influence of errors in the flood discharge on the uncertainty in estimating extreme floods, a Bayesian framework including a multiplicative error on the rating curve was applied. Its application on two catchments for which historical data are available for the period (1741–2004) shows that ignoring the rating curve errors may lead to an unduly optimistic reduction in the final uncertainty in estimation of flood discharge quantiles. Moreover, the quantile values are also affected by taking into account the rating curve errors.}
-      \field{day}{23}
-      \field{issn}{0262-6667, 2150-3435}
-      \field{journaltitle}{Hydrological Sciences Journal}
-      \field{langid}{english}
-      \field{month}{8}
-      \field{number}{6}
-      \field{shortjournal}{Hydrological Sciences Journal}
-      \field{title}{Extrapolation of rating curves by hydraulic modelling, with application to flood frequency analysis}
-      \field{urlday}{17}
-      \field{urlmonth}{10}
-      \field{urlyear}{2022}
-      \field{volume}{55}
-      \field{year}{2010}
+      \field{day}{1}
+      \field{issn}{0018-6368}
+      \field{journaltitle}{La Houille Blanche}
+      \field{month}{12}
+      \field{note}{Publisher: Taylor \& Francis \_eprint: https://doi.org/10.1051/lhb/2002112}
+      \field{number}{8}
+      \field{title}{Evaluation of the possible impacts of climatic change by distributed models (Gewex-Rhône et Gicc-Rhône projects)}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{88}
+      \field{year}{2002}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{883\bibrangedash 898}
-      \range{pages}{16}
+      \field{pages}{78\bibrangedash 83}
+      \range{pages}{6}
       \verb{doi}
-      \verb 10.1080/02626667.2010.504186
+      \verb 10.1051/lhb/2002112
       \endverb
       \verb{file}
-      \verb Lang et al. - 2010 - Extrapolation of rating curves by hydraulic modell.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\UL779HWH\\Lang et al. - 2010 - Extrapolation of rating curves by hydraulic modell.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\966E9S4M\\Leblois - 2002 - Evaluation of the possible impacts of climatic cha.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2010.504186
+      \verb https://doi.org/10.1051/lhb/2002112
       \endverb
       \verb{url}
-      \verb https://www.tandfonline.com/doi/full/10.1080/02626667.2010.504186
+      \verb https://doi.org/10.1051/lhb/2002112
       \endverb
     \endentry
     \entry{mansanarez_shift_2019}{article}{}

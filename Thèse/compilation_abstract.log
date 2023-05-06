@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 00:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,7 +888,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 136.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
 ns.sty
 Package: placeins 2005/04/18  v 2.2
-))
+)
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpag
 es.sty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
@@ -928,13 +928,33 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks37
 \c@AM@survey=\count439
 \AM@templatesizebox=\box55
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable
+.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip145
+\LTright=\skip146
+\LTpre=\skip147
+\LTpost=\skip148
+\LTchunksize=\count440
+\LTcapwidth=\dimen262
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count441
+\LT@rows=\count442
+\c@LT@tables=\count443
+\c@LT@chunks=\count444
+\LT@p@ftn=\toks38
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count440
-\@quotereset=\count441
+\@quotelevel=\count445
+\@quotereset=\count446
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 10
 .
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -943,8 +963,8 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
 kend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count442
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count447
+\l__pdf_internal_box=\box61
 ) (compilation_abstract.aux)
 \openout1 = `compilation_abstract.aux'.
 
@@ -1013,17 +1033,17 @@ LaTeX Info: Redefining \up on input line 10.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
 p-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count443
-\scratchdimen=\dimen262
-\scratchbox=\box57
-\nofMPsegments=\count444
-\nofMParguments=\count445
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count446
-\MPscratchDim=\dimen263
-\MPnumerator=\count447
-\makeMPintoPDFobject=\count448
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count448
+\scratchdimen=\dimen263
+\scratchbox=\box62
+\nofMPsegments=\count449
+\nofMParguments=\count450
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count451
+\MPscratchDim=\dimen264
+\MPnumerator=\count452
+\makeMPintoPDFobject=\count453
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
 stopdf-base.sty
@@ -1037,6 +1057,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcapti
+on.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 10.
 
@@ -1052,7 +1078,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count449
+\c@section@level=\count454
 )
 LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
@@ -1115,14 +1141,14 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
 * v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=540.60239pt
+* \textwidth=512.14963pt
 * \textheight=788.14136pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
 * \topmargin=-80.76268pt
 * \headheight=17.07164pt
 * \headsep=19.8738pt
@@ -1142,52 +1168,56 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
  (Autres/Abstract.tex
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-1.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
+.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-1.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
+.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-11.
+5.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-11.
+5.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 11.
+(Font)              <10.95> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 11.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
-
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 11
-.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 5.
+
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.
 fd
@@ -1204,22 +1234,23 @@ Package logreq Info: Writing requests to 'compilation_abstract.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23302 strings out of 478659
- 410181 string characters out of 2842128
- 1128414 words of memory out of 3000000
- 41057 multiletter control sequences out of 15000+600000
- 432216 words of font info for 53 fonts, out of 8000000 for 9000
+ 23484 strings out of 478659
+ 413800 string characters out of 2842128
+ 1126965 words of memory out of 3000000
+ 41230 multiletter control sequences out of 15000+600000
+ 432581 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,5n,80p,3572b,1749s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,5n,80p,3428b,1749s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
-c.enc}<C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-lm/lmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/lm/lmbx12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/lm/lmr10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/lm/lmr8.pfb>
-Output written on compilation_abstract.pdf (1 page, 110441 bytes).
+c.enc}{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/
+lm-ts1.enc}<C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/lm/lmbx12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/lm/lmr10.pfb><C:/Users/mathieu.lucas/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/lm/lmr8.pfb>
+Output written on compilation_abstract.pdf (1 page, 112345 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 36 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

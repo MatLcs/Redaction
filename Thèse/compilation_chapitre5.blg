@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'compilation_chapitre5.blg'
-[169] biber-MSWIN32:340> INFO - === 
-[232] Biber.pm:415> INFO - Reading 'compilation_chapitre5.bcf'
-[408] Biber.pm:952> INFO - Found 26 citekeys in bib section 0
-[426] Biber.pm:4340> INFO - Processing section 0
-[439] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
-[524] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1291] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
-[1685] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1686] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1686] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[1686] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
-[1744] bbl.pm:654> INFO - Writing 'compilation_chapitre5.bbl' with encoding 'UTF-8'
-[1792] bbl.pm:757> INFO - Output to compilation_chapitre5.bbl
+[117] biber-MSWIN32:340> INFO - === 
+[156] Biber.pm:415> INFO - Reading 'compilation_chapitre5.bcf'
+[286] Biber.pm:952> INFO - Found 27 citekeys in bib section 0
+[302] Biber.pm:4340> INFO - Processing section 0
+[313] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[392] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1000] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[1383] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1384] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1384] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[1384] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[1429] bbl.pm:654> INFO - Writing 'compilation_chapitre5.bbl' with encoding 'UTF-8'
+[1473] bbl.pm:757> INFO - Output to compilation_chapitre5.bbl

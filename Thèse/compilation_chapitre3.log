@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 03:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  5 MAY 2023 19:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,7 +888,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 136.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
 ns.sty
 Package: placeins 2005/04/18  v 2.2
-))
+)
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpag
 es.sty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
@@ -929,13 +929,39 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count439
 \AM@templatesizebox=\box55
 )
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable
+.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip145
+\LTright=\skip146
+\LTpre=\skip147
+\LTpost=\skip148
+\LTchunksize=\count440
+\LTcapwidth=\dimen262
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count441
+\LT@rows=\count442
+\c@LT@tables=\count443
+\c@LT@chunks=\count444
+\LT@p@ftn=\toks38
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/changepage\chan
+gepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count445
+\cp@tempcnt=\count446
+)
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count440
-\@quotereset=\count441
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 10
+\@quotelevel=\count447
+\@quotereset=\count448
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 19
 .
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -943,42 +969,37 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
 kend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count442
-\l__pdf_internal_box=\box56
-) (compilation_chapitre3.aux
-(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/
-en\babel-english.tex
-Package babel Info: Importing basic data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-))
+\l__color_backend_stack_int=\count449
+\l__pdf_internal_box=\box61
+) (compilation_chapitre3.aux)
 \openout1 = `compilation_chapitre3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Redefining \degres on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Info: Redefining \degres on input line 19.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with paralist package,
-(french.ldf)             reported on input line 10.
+(french.ldf)             reported on input line 19.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with paralist package,
-(french.ldf)             reported on input line 10.
-LaTeX Info: Redefining \up on input line 10.
+(french.ldf)             reported on input line 19.
+LaTeX Info: Redefining \up on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1018,17 +1039,17 @@ LaTeX Info: Redefining \up on input line 10.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
 p-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count443
-\scratchdimen=\dimen262
-\scratchbox=\box57
-\nofMPsegments=\count444
-\nofMParguments=\count445
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count446
-\MPscratchDim=\dimen263
-\MPnumerator=\count447
-\makeMPintoPDFobject=\count448
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count450
+\scratchdimen=\dimen263
+\scratchbox=\box62
+\nofMPsegments=\count451
+\nofMParguments=\count452
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count453
+\MPscratchDim=\dimen264
+\MPnumerator=\count454
+\makeMPintoPDFobject=\count455
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
 stopdf-base.sty
@@ -1041,9 +1062,18 @@ df-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen265
+\caption@adjustwidth@linewidth=\dimen266
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcapti
+on.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 10.
+Package hyperref Info: Link coloring ON on input line 19.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
 f.sty
@@ -1057,24 +1087,17 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count449
+\c@section@level=\count456
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 Package biblatex Info: Trying to load language 'french'...
 Package biblatex Info: ... file 'french.lbx' found.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\fr
 ench.lbx
 File: french.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\en
-glish.lbx
-File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -1103,8 +1126,8 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'compilation_chapitre3.bbl' found.
  (compilation_chapitre3.bbl)
-Package biblatex Info: Reference section=0 on input line 10.
-Package biblatex Info: Reference segment=0 on input line 10.
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdfls
 cape.sty
@@ -1193,127 +1216,79 @@ LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.f
 d
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) [1
+)
+<Chapitre3/Figures/Pyrimont.jpg, id=70, 2586.66376pt x 1930.21124pt>
+File: Chapitre3/Figures/Pyrimont.jpg Graphic file (type jpg)
+<use Chapitre3/Figures/Pyrimont.jpg>
+Package pdftex.def Info: Chapitre3/Figures/Pyrimont.jpg  used on input line 7.
+(pdftex.def)             Requested size: 409.71692pt x 305.71814pt.
+ [1
 
-]
-<Chapitre3/Figures/Titre.jpg, id=78, 572.73975pt x 183.68625pt>
+ <./Chapitre3/Figures/Pyrimont.jpg>]
+<Chapitre3/Figures/Titre.jpg, id=80, 572.73975pt x 183.68625pt>
 File: Chapitre3/Figures/Titre.jpg Graphic file (type jpg)
 <use Chapitre3/Figures/Titre.jpg>
-Package pdftex.def Info: Chapitre3/Figures/Titre.jpg  used on input line 12.
+Package pdftex.def Info: Chapitre3/Figures/Titre.jpg  used on input line 20.
 (pdftex.def)             Requested size: 455.24411pt x 146.00743pt.
+ [2 <./Chapitre3/Figures/Titre.jpg>]
+Overfull \hbox (11.75119pt too wide) in paragraph at lines 46--47
+ [][] \T1/lmr/m/n/12 Stream-flow se-ries are af-fec-ted by se-ve-ral sources of
+ un-cer-tainty as des-cri-bed by [][]\T1/lmr/m/sc/12 McMillan
+ []
 
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[2 <./Chapitre3/Figures/Titre.jpg>] [3]
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[4] [5]
-<Chapitre3/Figures//1-uTotSchema.png, id=194, 578.8827pt x 875.55106pt>
+[3] [4] [5]
+<Chapitre3/Figures//1-uTotSchema.png, id=196, 578.8827pt x 875.55106pt>
 File: Chapitre3/Figures//1-uTotSchema.png Graphic file (type png)
 <use Chapitre3/Figures//1-uTotSchema.png>
 Package pdftex.def Info: Chapitre3/Figures//1-uTotSchema.png  used on input lin
-e 64.
+e 74.
 (pdftex.def)             Requested size: 227.62204pt x 344.2691pt.
 
-
-Package babel Warning: \figurename not set for 'english'. Please,
-(babel)                define it after the language has been loaded
-(babel)                (typically in the preamble) with:
-(babel)                \setlocalecaption{english}{figure}{..}
-(babel)                Reported on input line 65.
-
-
-Overfull \hbox (5.78732pt too wide) in paragraph at lines 70--70
-[]\T1/lmr/bx/n/17.28 Uncertainty prop-a-ga-tion chain for flood fre-quency
+Overfull \hbox (5.78732pt too wide) in paragraph at lines 80--80
+[]\T1/lmr/bx/n/17.28 Uncertainty pro-pa-ga-tion chain for flood fre-quency
  []
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
 
 [6 <./Chapitre3/Figures//1-uTotSchema.png>]
-Overfull \hbox (25.36824pt too wide) in paragraph at lines 76--76
-[]\T1/lmr/bx/n/14.4 Multi-period rat-ing curves es-ti-ma-tion: stage-period-dis
-charge
+Overfull \hbox (26.27365pt too wide) in paragraph at lines 86--86
+[]\T1/lmr/bx/n/14.4 Multi-period ra-ting curves es-ti-ma-tion : stage-period-di
+scharge
  []
 
-[7]
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[8] [9]
-<Chapitre3/Figures//2-BcrBv.png, id=256, 1599.3351pt x 1574.7633pt>
+[7] [8] [9]
+<Chapitre3/Figures//2-BcrBv.png, id=258, 1599.3351pt x 1574.7633pt>
 File: Chapitre3/Figures//2-BcrBv.png Graphic file (type png)
 <use Chapitre3/Figures//2-BcrBv.png>
-Package pdftex.def Info: Chapitre3/Figures//2-BcrBv.png  used on input line 149
+Package pdftex.def Info: Chapitre3/Figures//2-BcrBv.png  used on input line 159
 .
 (pdftex.def)             Requested size: 312.9803pt x 308.17093pt.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[10] [11 <./Chapitre3/Figures//2-BcrBv.png>]
-<Chapitre3/Figures//3a-DiguesArmand.png, id=286, 562.2606pt x 222.5916pt>
+ [10] [11 <./Chapitre3/Figures//2-BcrBv.png>]
+<Chapitre3/Figures//3a-DiguesArmand.png, id=288, 562.2606pt x 222.5916pt>
 File: Chapitre3/Figures//3a-DiguesArmand.png Graphic file (type png)
 <use Chapitre3/Figures//3a-DiguesArmand.png>
 Package pdftex.def Info: Chapitre3/Figures//3a-DiguesArmand.png  used on input 
-line 191.
+line 201.
 (pdftex.def)             Requested size: 318.66948pt x 126.15846pt.
-<Chapitre3/Figures//3b-MatrixChenal_EN.png, id=287, 700.2963pt x 441.93105pt>
+<Chapitre3/Figures//3b-MatrixChenal_EN.png, id=289, 700.2963pt x 441.93105pt>
 File: Chapitre3/Figures//3b-MatrixChenal_EN.png Graphic file (type png)
 <use Chapitre3/Figures//3b-MatrixChenal_EN.png>
 Package pdftex.def Info: Chapitre3/Figures//3b-MatrixChenal_EN.png  used on inp
-ut line 198.
+ut line 208.
 (pdftex.def)             Requested size: 273.14923pt x 172.37263pt.
-<Chapitre3/Figures//3c-ProfilsBardRestit.png, id=288, 322.5651pt x 211.7511pt>
+<Chapitre3/Figures//3c-ProfilsBardRestit.png, id=290, 322.5651pt x 211.7511pt>
 File: Chapitre3/Figures//3c-ProfilsBardRestit.png Graphic file (type png)
 <use Chapitre3/Figures//3c-ProfilsBardRestit.png>
 Package pdftex.def Info: Chapitre3/Figures//3c-ProfilsBardRestit.png  used on i
-nput line 204.
+nput line 214.
 (pdftex.def)             Requested size: 196.66237pt x 129.10011pt.
-<Chapitre3/Figures//3c-ProfilAvalRestitEN.png, id=289, 455.301pt x 312.9291pt>
+<Chapitre3/Figures//3c-ProfilAvalRestitEN.png, id=291, 455.301pt x 312.9291pt>
 File: Chapitre3/Figures//3c-ProfilAvalRestitEN.png Graphic file (type png)
 <use Chapitre3/Figures//3c-ProfilAvalRestitEN.png>
 Package pdftex.def Info: Chapitre3/Figures//3c-ProfilAvalRestitEN.png  used on 
-input line 205.
+input line 215.
 (pdftex.def)             Requested size: 196.66237pt x 135.16328pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
 
 [12]
 Underfull \vbox (badness 4927) has occurred while \output is active []
@@ -1321,62 +1296,28 @@ Underfull \vbox (badness 4927) has occurred while \output is active []
  [13 <./Chapitre3/Figures//3a-DiguesArmand.png> <./Chapitre3/Figures//3b-Matrix
 Chenal_EN.png> <./Chapitre3/Figures//3c-ProfilsBardRestit.png> <./Chapitre3/Fig
 ures//3c-ProfilAvalRestitEN.png>]
-<Chapitre3/Figures//5-Quant5perc_both.png, id=326, 722.7pt x 385.44pt>
+<Chapitre3/Figures//5-Quant5perc_both.png, id=328, 722.7pt x 385.44pt>
 File: Chapitre3/Figures//5-Quant5perc_both.png Graphic file (type png)
 <use Chapitre3/Figures//5-Quant5perc_both.png>
 Package pdftex.def Info: Chapitre3/Figures//5-Quant5perc_both.png  used on inpu
-t line 252.
+t line 262.
 (pdftex.def)             Requested size: 426.79134pt x 227.62523pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (84.49335pt too wide) in paragraph at lines 259--292
-[][] 
- []
-
-
-Package babel Warning: \tablename not set for 'english'. Please,
-(babel)                define it after the language has been loaded
-(babel)                (typically in the preamble) with:
-(babel)                \setlocalecaption{english}{table}{..}
-(babel)                Reported on input line 292.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Overfull \hbox (90.36833pt too wide) in paragraph at lines 297--338
-[][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[14] [15 <./Chapitre3/Figures//5-Quant5perc_both.png>]
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[16]
-<Chapitre3/Figures//4-TabObsBcrSmall.jpg, id=346, 187.902pt x 121.545pt>
+[14] [15 <./Chapitre3/Figures//5-Quant5perc_both.png>] [16]
+<Chapitre3/Figures//4-TabObsBcrSmall.jpg, id=348, 187.902pt x 121.545pt>
 File: Chapitre3/Figures//4-TabObsBcrSmall.jpg Graphic file (type jpg)
 <use Chapitre3/Figures//4-TabObsBcrSmall.jpg>
 Package pdftex.def Info: Chapitre3/Figures//4-TabObsBcrSmall.jpg  used on input
- line 351.
+ line 365.
 (pdftex.def)             Requested size: 284.52756pt x 184.07336pt.
  [17
 
@@ -1384,104 +1325,74 @@ Package pdftex.def Info: Chapitre3/Figures//4-TabObsBcrSmall.jpg  used on input
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
 [18] [19]
-<Chapitre3/Figures//6-SegmBoth.png, id=395, 2230.2522pt x 545.6385pt>
+<Chapitre3/Figures//6-SegmBoth.png, id=397, 2230.2522pt x 545.6385pt>
 File: Chapitre3/Figures//6-SegmBoth.png Graphic file (type png)
 <use Chapitre3/Figures//6-SegmBoth.png>
 Package pdftex.def Info: Chapitre3/Figures//6-SegmBoth.png  used on input line 
-454.
+468.
 (pdftex.def)             Requested size: 455.24411pt x 111.37372pt.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[20 <./Chapitre3/Figures//6-SegmBoth.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+ [20 <./Chapitre3/Figures//6-SegmBoth.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
 []|\T1/lmr/bx/n/12 Maxpost
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
-[]|\T1/lmr/bx/n/12 Largest flood
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
 []|\T1/lmr/bx/n/12 Period
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
 \T1/lmr/bx/n/12 num-
  []
 
 [21]
-<Chapitre3/Figures//7a-RClog_ICdownPt.pdf, id=427, 867.24pt x 722.7pt>
+<Chapitre3/Figures//7a-RClog_ICdownPt.pdf, id=429, 867.24pt x 722.7pt>
 File: Chapitre3/Figures//7a-RClog_ICdownPt.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//7a-RClog_ICdownPt.pdf>
 Package pdftex.def Info: Chapitre3/Figures//7a-RClog_ICdownPt.pdf  used on inpu
-t line 546.
+t line 560.
 (pdftex.def)             Requested size: 223.07211pt x 185.89056pt.
-<Chapitre3/Figures//7b-RClog_ICdownRes.pdf, id=428, 867.24pt x 722.7pt>
+<Chapitre3/Figures//7b-RClog_ICdownRes.pdf, id=430, 867.24pt x 722.7pt>
 File: Chapitre3/Figures//7b-RClog_ICdownRes.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//7b-RClog_ICdownRes.pdf>
 Package pdftex.def Info: Chapitre3/Figures//7b-RClog_ICdownRes.pdf  used on inp
-ut line 552.
+ut line 566.
 (pdftex.def)             Requested size: 223.07211pt x 185.89056pt.
-<Chapitre3/Figures//7c-bs_Pt.pdf, id=429, 1116.79231pt x 696.08054pt>
+<Chapitre3/Figures//7c-bs_Pt.pdf, id=431, 1116.79231pt x 696.08054pt>
 File: Chapitre3/Figures//7c-bs_Pt.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//7c-bs_Pt.pdf>
-Package pdftex.def Info: Chapitre3/Figures//7c-bs_Pt.pdf  used on input line 55
-9.
+Package pdftex.def Info: Chapitre3/Figures//7c-bs_Pt.pdf  used on input line 57
+3.
 (pdftex.def)             Requested size: 218.51521pt x 136.19717pt.
-<Chapitre3/Figures//7d-bs_Restit.pdf, id=430, 1140.94247pt x 697.0542pt>
+<Chapitre3/Figures//7d-bs_Restit.pdf, id=432, 1140.94247pt x 697.0542pt>
 File: Chapitre3/Figures//7d-bs_Restit.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//7d-bs_Restit.pdf>
 Package pdftex.def Info: Chapitre3/Figures//7d-bs_Restit.pdf  used on input lin
-e 565.
+e 579.
 (pdftex.def)             Requested size: 223.07211pt x 136.28133pt.
-<Chapitre3/Figures//7e-a&csPt.pdf, id=431, 867.24pt x 505.89pt>
+<Chapitre3/Figures//7e-a&csPt.pdf, id=433, 867.24pt x 505.89pt>
 File: Chapitre3/Figures//7e-a&csPt.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//7e-a&csPt.pdf>
 Package pdftex.def Info: Chapitre3/Figures//7e-a&csPt.pdf  used on input line 5
-73.
+87.
 (pdftex.def)             Requested size: 177.54492pt x 103.56145pt.
-<Chapitre3/Figures//7f-b3_as_cs_Restit.pdf, id=432, 1084.05pt x 505.89pt>
+<Chapitre3/Figures//7f-b3_as_cs_Restit.pdf, id=434, 1084.05pt x 505.89pt>
 File: Chapitre3/Figures//7f-b3_as_cs_Restit.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//7f-b3_as_cs_Restit.pdf>
 Package pdftex.def Info: Chapitre3/Figures//7f-b3_as_cs_Restit.pdf  used on inp
-ut line 579.
+ut line 593.
 (pdftex.def)             Requested size: 223.07211pt x 104.09407pt.
-<Chapitre3/Figures//7g-Legend.png, id=433, 419.8887pt x 312.9291pt>
+<Chapitre3/Figures//7g-Legend.png, id=435, 419.8887pt x 312.9291pt>
 File: Chapitre3/Figures//7g-Legend.png Graphic file (type png)
 <use Chapitre3/Figures//7g-Legend.png>
-Package pdftex.def Info: Chapitre3/Figures//7g-Legend.png  used on input line 5
-86.
+Package pdftex.def Info: Chapitre3/Figures//7g-Legend.png  used on input line 6
+00.
 (pdftex.def)             Requested size: 45.52718pt x 33.9257pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
 
 [22] [23 <./Chapitre3/Figures//7a-RClog_ICdownPt.pdf> <./Chapitre3/Figures//7b-
 RClog_ICdownRes.pdf> <./Chapitre3/Figures//7c-bs_Pt.pdf> <./Chapitre3/Figures//
@@ -1491,72 +1402,55 @@ pdfTeX warning: pdflatex (file ./Chapitre3/Figures//7d-bs_Restit.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 > <./Chapitre3/Figures//7e-a&csPt.pdf> <./Chapitre3/Figures//7f-b3_as_cs_Restit
 .pdf> <./Chapitre3/Figures//7g-Legend.png>]
-<Chapitre3/Figures//8-StageErrorAMAX_BOTH.pdf, id=604, 1084.05pt x 722.7pt>
+<Chapitre3/Figures//8-StageErrorAMAX_BOTH.pdf, id=606, 1084.05pt x 722.7pt>
 File: Chapitre3/Figures//8-StageErrorAMAX_BOTH.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//8-StageErrorAMAX_BOTH.pdf>
 Package pdftex.def Info: Chapitre3/Figures//8-StageErrorAMAX_BOTH.pdf  used on 
-input line 601.
+input line 615.
 (pdftex.def)             Requested size: 409.71692pt x 273.14014pt.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[24 <./Chapitre3/Figures//8-StageErrorAMAX_BOTH.pdf>]
-<Chapitre3/Figures//9-IcAndAMAX.pdf, id=617, 1228.59pt x 722.7pt>
+ [24 <./Chapitre3/Figures//8-StageErrorAMAX_BOTH.pdf>]
+<Chapitre3/Figures//9-IcAndAMAX.pdf, id=619, 1228.59pt x 722.7pt>
 File: Chapitre3/Figures//9-IcAndAMAX.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//9-IcAndAMAX.pdf>
 Package pdftex.def Info: Chapitre3/Figures//9-IcAndAMAX.pdf  used on input line
- 613.
+ 627.
 (pdftex.def)             Requested size: 455.24411pt x 267.7918pt.
  [25 <./Chapitre3/Figures//9-IcAndAMAX.pdf>]
-<Chapitre3/Figures//10a-GeV_205years.pdf, id=645, 1300.86pt x 578.16pt>
+<Chapitre3/Figures//10a-GeV_205years.pdf, id=647, 1300.86pt x 578.16pt>
 File: Chapitre3/Figures//10a-GeV_205years.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//10a-GeV_205years.pdf>
 Package pdftex.def Info: Chapitre3/Figures//10a-GeV_205years.pdf  used on input
- line 642.
+ line 656.
 (pdftex.def)             Requested size: 450.69417pt x 200.3035pt.
-<Chapitre3/Figures//10b-BarplotQuantiles4cases.pdf, id=646, 1011.78pt x 578.16p
+<Chapitre3/Figures//10b-BarplotQuantiles4cases.pdf, id=648, 1011.78pt x 578.16p
 t>
 File: Chapitre3/Figures//10b-BarplotQuantiles4cases.pdf Graphic file (type pdf)
 
 <use Chapitre3/Figures//10b-BarplotQuantiles4cases.pdf>
 Package pdftex.def Info: Chapitre3/Figures//10b-BarplotQuantiles4cases.pdf  use
-d on input line 650.
+d on input line 664.
 (pdftex.def)             Requested size: 223.07211pt x 127.46907pt.
-<Chapitre3/Figures//10c-Ukplot4cases.pdf, id=647, 1156.32pt x 650.43pt>
+<Chapitre3/Figures//10c-Ukplot4cases.pdf, id=649, 1156.32pt x 650.43pt>
 File: Chapitre3/Figures//10c-Ukplot4cases.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//10c-Ukplot4cases.pdf>
 Package pdftex.def Info: Chapitre3/Figures//10c-Ukplot4cases.pdf  used on input
- line 656.
+ line 670.
 (pdftex.def)             Requested size: 223.07211pt x 125.46867pt.
-<Chapitre3/Figures//10d-Shape_4cases.pdf, id=648, 722.7pt x 505.89pt>
+<Chapitre3/Figures//10d-Shape_4cases.pdf, id=650, 722.7pt x 505.89pt>
 File: Chapitre3/Figures//10d-Shape_4cases.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//10d-Shape_4cases.pdf>
 Package pdftex.def Info: Chapitre3/Figures//10d-Shape_4cases.pdf  used on input
- line 663.
+ line 677.
 (pdftex.def)             Requested size: 213.96529pt x 149.7766pt.
-<Chapitre3/Figures//10e-Q1000SSize.pdf, id=649, 867.24pt x 578.16pt>
+<Chapitre3/Figures//10e-Q1000SSize.pdf, id=651, 867.24pt x 578.16pt>
 File: Chapitre3/Figures//10e-Q1000SSize.pdf Graphic file (type pdf)
 <use Chapitre3/Figures//10e-Q1000SSize.pdf>
 Package pdftex.def Info: Chapitre3/Figures//10e-Q1000SSize.pdf  used on input l
-ine 669.
+ine 683.
 (pdftex.def)             Requested size: 236.72888pt x 157.81674pt.
 
 
-LaTeX Warning: Float too large for page by 27.05894pt on input line 681.
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
+LaTeX Warning: Float too large for page by 27.05894pt on input line 695.
 
 [26] [27 <./Chapitre3/Figures//10a-GeV_205years.pdf> <./Chapitre3/Figures//10b-
 BarplotQuantiles4cases.pdf> <./Chapitre3/Figures//10c-Ukplot4cases.pdf> <./Chap
@@ -1564,55 +1458,23 @@ itre3/Figures//10d-Shape_4cases.pdf> <./Chapitre3/Figures//10e-Q1000SSize.pdf>]
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[28]
+ [28]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7
-15.
+29.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-[29]
-Overfull \hbox (0.95082pt too wide) in paragraph at lines 717--717
-[]\T1/lmr/bx/n/14.4 Are his-tor-i-cal stage records use-ful for flood fre-quenc
-y anal-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[30] [31]
-Overfull \hbox (29.18492pt too wide) in paragraph at lines 745--746
- [][] \T1/lmr/m/n/12 The un-cer-tainty prop-a-ga-tion code is avail-able at [][
+[29] [30] [31]
+Overfull \hbox (29.18492pt too wide) in paragraph at lines 755--756
+ [][] \T1/lmr/m/n/12 The un-cer-tainty pro-pa-ga-tion code is avai-lable at [][
 ]$\T1/lmtt/m/n/12 https : / / github . com / MatLcs / PropagMaxAn$[][]
  []
 
-)
-
-Package fancyhdr Warning: \headheight is too small (17.07164pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.04488pt}.
-
-[32] [33
+) [32] [33
 
 ] [34]
-Overfull \hbox (35.26425pt too wide) in paragraph at lines 36--36
+Overfull \hbox (35.26425pt too wide) in paragraph at lines 45--45
 [][][]\T1/lmr/m/sc/12 Kjeldsen[]\T1/lmr/m/n/12 , T., N. []\T1/lmr/m/sc/12 Macdo
 nald[]\T1/lmr/m/n/12 , M. []\T1/lmr/m/sc/12 Lang[]\T1/lmr/m/n/12 , L. []\T1/lmr
 /m/sc/12 Mediero[]\T1/lmr/m/n/12 , T. []\T1/lmr/m/sc/12 Albuquerque[]\T1/lmr/m/
@@ -1620,7 +1482,7 @@ n/12 , E. []\T1/lmr/m/sc/12 Bogdanowicz[]\T1/lmr/m/n/12 ,
  []
 
 [35]
-Overfull \hbox (4.07549pt too wide) in paragraph at lines 36--36
+Overfull \hbox (4.07549pt too wide) in paragraph at lines 45--45
 [][][]\T1/lmr/m/sc/12 Merz[]\T1/lmr/m/n/12 , B., S. []\T1/lmr/m/sc/12 Basso[]\T
 1/lmr/m/n/12 , S. []\T1/lmr/m/sc/12 Fischer[]\T1/lmr/m/n/12 , D. []\T1/lmr/m/sc
 /12 Lun[]\T1/lmr/m/n/12 , G. []\T1/lmr/m/sc/12 Blöschl[]\T1/lmr/m/n/12 , R. []\
@@ -1629,7 +1491,7 @@ T1/lmr/m/sc/12 Merz[]\T1/lmr/m/n/12 , B. []\T1/lmr/m/sc/12 Guse[]\T1/lmr/m/n/12
  []
 
 
-Overfull \hbox (0.4822pt too wide) in paragraph at lines 36--36
+Overfull \hbox (0.4822pt too wide) in paragraph at lines 45--45
 [][][]\T1/lmr/m/sc/12 Milly[]\T1/lmr/m/n/12 , P. C. D., J. []\T1/lmr/m/sc/12 Be
 tancourt[]\T1/lmr/m/n/12 , M. []\T1/lmr/m/sc/12 Falkenmark[]\T1/lmr/m/n/12 , R.
  M. []\T1/lmr/m/sc/12 Hirsch[]\T1/lmr/m/n/12 , Z. W. []\T1/lmr/m/sc/12 Kundzewi
@@ -1637,14 +1499,14 @@ cz[]\T1/lmr/m/n/12 ,
  []
 
 [36]
-Overfull \hbox (18.05534pt too wide) in paragraph at lines 36--36
+Overfull \hbox (18.05534pt too wide) in paragraph at lines 45--45
 \T1/lmr/m/it/12 Jour-nal \T1/lmr/m/n/12 55.2, p. 192-208. \T1/lmr/m/sc/12 issn 
 \T1/lmr/m/n/12 : 0262-6667, 2150-3435. \T1/lmr/m/sc/12 doi \T1/lmr/m/n/12 : [][
 ]$\T1/lmtt/m/n/12 10 . 1080 / 02626660903546092$[][]\T1/lmr/m/n/12 . 
  []
 
 
-Overfull \hbox (9.37114pt too wide) in paragraph at lines 36--36
+Overfull \hbox (9.37114pt too wide) in paragraph at lines 45--45
 [][][]\T1/lmr/m/sc/12 Puechberty[]\T1/lmr/m/n/12 , R., C. []\T1/lmr/m/sc/12 Per
 ret[]\T1/lmr/m/n/12 , S. P. []\T1/lmr/m/sc/12 Pitsch[]\T1/lmr/m/n/12 , P. []\T1
 /lmr/m/sc/12 Battaglia[]\T1/lmr/m/n/12 , A. []\T1/lmr/m/sc/12 Belleville[]\T1/l
@@ -1652,7 +1514,7 @@ mr/m/n/12 , P. []\T1/lmr/m/sc/12 Bompart[]\T1/lmr/m/n/12 ,
  []
 
 [37]
-Overfull \hbox (10.95065pt too wide) in paragraph at lines 36--36
+Overfull \hbox (10.95065pt too wide) in paragraph at lines 45--45
 [][][]\T1/lmr/m/sc/12 Steinbakk[]\T1/lmr/m/n/12 , G. H., T. L. []\T1/lmr/m/sc/1
 2 Thorarinsdottir[]\T1/lmr/m/n/12 , T. []\T1/lmr/m/sc/12 Reitan[]\T1/lmr/m/n/12
  , L. []\T1/lmr/m/sc/12 Schlichting[]\T1/lmr/m/n/12 , S. []\T1/lmr/m/sc/12 Høll
@@ -1660,24 +1522,18 @@ eland
  []
 
 [38] (compilation_chapitre3.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'compilation_chapitre3.run.xml'.
 \openout1 = `compilation_chapitre3.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24774 strings out of 478659
- 445992 string characters out of 2842128
- 1177775 words of memory out of 3000000
- 42242 multiletter control sequences out of 15000+600000
+ 24844 strings out of 478659
+ 446425 string characters out of 2842128
+ 1157344 words of memory out of 3000000
+ 42310 multiletter control sequences out of 15000+600000
  483125 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,23n,80p,3080b,1995s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,23n,80p,3067b,1945s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
 c.enc}{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/
 lm-rm.enc}{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
@@ -1707,9 +1563,9 @@ t12.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/symbols/msbm10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/mathieu.lucas/AppData/Local/
 Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on compilation_chapitre3.pdf (40 pages, 11138962 bytes).
+Output written on compilation_chapitre3.pdf (40 pages, 12396547 bytes).
 PDF statistics:
  1137 PDF objects out of 1200 (max. 8388607)
  218 named destinations out of 1000 (max. 500000)
- 337 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 342 words of extra memory for PDF output out of 10000 (max. 10000000)
 
