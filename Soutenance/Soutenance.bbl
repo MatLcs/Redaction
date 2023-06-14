@@ -16,5 +16,49 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{undrr_human_2020}{report}{}
+      \name{author}{1}{}{%
+        {{hash=f265ddb08aa53f0c6de1bc051be87662}{%
+           family={{UNDRR}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{f265ddb08aa53f0c6de1bc051be87662}
+      \strng{fullhash}{f265ddb08aa53f0c6de1bc051be87662}
+      \strng{bibnamehash}{f265ddb08aa53f0c6de1bc051be87662}
+      \strng{authorbibnamehash}{f265ddb08aa53f0c6de1bc051be87662}
+      \strng{authornamehash}{f265ddb08aa53f0c6de1bc051be87662}
+      \strng{authorfullhash}{f265ddb08aa53f0c6de1bc051be87662}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{UNDRR} report published to mark the International Day for Disaster Risk Reduction on October 13, 2020, confirms how extreme weather events have come to dominate the disaster landscape in the 21st century.}
+      \field{langid}{english}
+      \field{shorttitle}{The human cost of disasters}
+      \field{title}{The human cost of disasters: an overview of the last 20 years (2000-2019)}
+      \field{urlday}{13}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\CJLIDXIG\\human-cost-disasters-overview-last-20-years-2000-2019.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.undrr.org/publication/human-cost-disasters-overview-last-20-years-2000-2019
+      \endverb
+      \verb{url}
+      \verb https://www.undrr.org/publication/human-cost-disasters-overview-last-20-years-2000-2019
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Code de l'environnement; article R562-11-3}
+\endrefsection
 \endinput
 

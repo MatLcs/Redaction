@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  13 JUN 2023 19:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  14 JUN 2023 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,8 +194,9 @@ athfunctions.integerarithmetics.code.tex)))
 athfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count283
 )))
-(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size9.
+clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\
 pgfcore.sty
@@ -1322,7 +1323,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotelevel=\count476
 \@quotereset=\count477
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 7
-0.
+2.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1334,24 +1335,24 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 ) (Soutenance.aux)
 \openout1 = `Soutenance.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1361,23 +1362,23 @@ LaTeX Font Info:    ... okay on input line 70.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(9.99756pt, 344.20024pt, 9.99756pt)
+* h-part:(L,W,R)=(9.24774pt, 345.69987pt, 9.24774pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=344.20024pt
+* \textwidth=345.69987pt
 * \textheight=244.6939pt
-* \oddsidemargin=-62.27243pt
-* \evensidemargin=-62.27243pt
+* \oddsidemargin=-63.02225pt
+* \evensidemargin=-63.02225pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=10.0pt
+* \topskip=9.0pt
 * \footskip=14.22636pt
-* \marginparwidth=3.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1413,7 +1414,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 df-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 72.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
 f.sty
@@ -1429,59 +1430,59 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count485
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
  (Soutenance.out) (Soutenance.out)
 \@outlinefile=\write6
 \openout6 = `Soutenance.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 70.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 70.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 70.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 72.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 70.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 70.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 70.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 70.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 70.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 70.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 70.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 70.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 70.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 70.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 70.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 70.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 70.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 70.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 70.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 70.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 72.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tran
 slator-basic-dictionary-English.dict
@@ -1507,8 +1508,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 slator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \degres on input line 70.
-LaTeX Info: Redefining \up on input line 70.
+LaTeX Info: Redefining \degres on input line 72.
+LaTeX Info: Redefining \up on input line 72.
 Package biblatex Info: Trying to load language 'french'...
 Package biblatex Info: ... file 'french.lbx' found.
 
@@ -1542,48 +1543,65 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Soutenance.bbl' found.
- (Soutenance.bbl)
-Package biblatex Info: Reference section=0 on input line 70.
-Package biblatex Info: Reference segment=0 on input line 70.
+ (Soutenance.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Code de l'environnement; article R562-11-3
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 72.
+Package biblatex Info: Reference segment=0 on input line 72.
  (Soutenance.nav)
+<./Figures/Back.pdf, id=46, 564.60938pt x 316.93407pt>
+File: ./Figures/Back.pdf Graphic file (type pdf)
+<use ./Figures/Back.pdf>
+Package pdftex.def Info: ./Figures/Back.pdf  used on input line 149.
+(pdftex.def)             Requested size: 364.20041pt x 273.16731pt.
+ [1
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fi
+gures/Back.pdf>]
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-123.
+175.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-23.
+75.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-123.
+175.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-123.
+175.
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 123.
+(Font)              <9> on input line 175.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 123.
+(Font)              <6> on input line 175.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 123.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 123
+(Font)              <5> on input line 175.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 175
 .
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 123
+LaTeX Font Info:    Trying to load font information for U+msb on input line 175
 .
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
@@ -1591,72 +1609,105 @@ d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 175.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 175.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
- [1
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 175.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 17
+5.
+ (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 138.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 138.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 138.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 138.
-<./Figures/gw.jpg, id=84, 1658.195pt x 923.45pt>
-File: ./Figures/gw.jpg Graphic file (type jpg)
-<use ./Figures/gw.jpg>
-Package pdftex.def Info: ./Figures/gw.jpg  used on input line 138.
-(pdftex.def)             Requested size: 142.26378pt x 79.21788pt.
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <7> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 175.
+
+<./Figures/UNDRR.jpg, id=64, 671.50874pt x 313.9228pt>
+File: ./Figures/UNDRR.jpg Graphic file (type jpg)
+<use ./Figures/UNDRR.jpg>
+Package pdftex.def Info: ./Figures/UNDRR.jpg  used on input line 175.
+(pdftex.def)             Requested size: 152.45432pt x 71.26665pt.
 [2
 
- <./Figures/gw.jpg>]
-File: ./Figures/gw.jpg Graphic file (type jpg)
-<use ./Figures/gw.jpg>
-Package pdftex.def Info: ./Figures/gw.jpg  used on input line 138.
-(pdftex.def)             Requested size: 142.26378pt x 79.21788pt.
+ <./Figures/UNDRR.jpg>]
+<./Figures/UNDRR-2.jpg, id=83, 577.40718pt x 314.67563pt>
+File: ./Figures/UNDRR-2.jpg Graphic file (type jpg)
+<use ./Figures/UNDRR-2.jpg>
+Package pdftex.def Info: ./Figures/UNDRR-2.jpg  used on input line 175.
+(pdftex.def)             Requested size: 152.45432pt x 83.08614pt.
  [3
 
-]
-File: ./Figures/gw.jpg Graphic file (type jpg)
-<use ./Figures/gw.jpg>
-Package pdftex.def Info: ./Figures/gw.jpg  used on input line 138.
-(pdftex.def)             Requested size: 142.26378pt x 79.21788pt.
- [4
+ <./Figures/UNDRR-2.jpg>]
+Underfull \hbox (badness 4303) in paragraph at lines 196--196
+[]\T1/lmss/m/n/9 Nécessité de ca-rac-té-ri-ser sta-tis-ti-que-ment
+ []
+
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <9> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 196.
+
+[4
 
 ]
-File: ./Figures/gw.jpg Graphic file (type jpg)
-<use ./Figures/gw.jpg>
-Package pdftex.def Info: ./Figures/gw.jpg  used on input line 155.
-(pdftex.def)             Requested size: 142.26378pt x 79.21788pt.
- [5
+Underfull \hbox (badness 4303) in paragraph at lines 196--196
+[]\T1/lmss/m/n/9 Nécessité de ca-rac-té-ri-ser sta-tis-ti-que-ment
+ []
+
+<./Figures/PPRI_lyon.pdf, id=107, 450.95009pt x 285.93124pt>
+File: ./Figures/PPRI_lyon.pdf Graphic file (type pdf)
+<use ./Figures/PPRI_lyon.pdf>
+Package pdftex.def Info: ./Figures/PPRI_lyon.pdf  used on input line 196.
+(pdftex.def)             Requested size: 140.00655pt x 88.77301pt.
+[5
+
+ <./Figures/PPRI_lyon.pdf>]
+Underfull \hbox (badness 4303) in paragraph at lines 196--196
+[]\T1/lmss/m/n/9 Nécessité de ca-rac-té-ri-ser sta-tis-ti-que-ment
+ []
+
+<./Figures/Grangent.jpg, id=215, 3019.28pt x 2007.5pt>
+File: ./Figures/Grangent.jpg Graphic file (type jpg)
+<use ./Figures/Grangent.jpg>
+Package pdftex.def Info: ./Figures/Grangent.jpg  used on input line 196.
+(pdftex.def)             Requested size: 140.00655pt x 93.05984pt.
+[6
+
+ <./Figures/Grangent.jpg>]
+Underfull \hbox (badness 4303) in paragraph at lines 217--217
+[]\T1/lmss/m/n/9 Nécessité de ca-rac-té-ri-ser sta-tis-ti-que-ment
+ []
+
+[7
 
 ]
-File: ./Figures/gw.jpg Graphic file (type jpg)
-<use ./Figures/gw.jpg>
-Package pdftex.def Info: ./Figures/gw.jpg  used on input line 155.
-(pdftex.def)             Requested size: 142.26378pt x 79.21788pt.
- [6
+Underfull \hbox (badness 4303) in paragraph at lines 217--217
+[]\T1/lmss/m/n/9 Nécessité de ca-rac-té-ri-ser sta-tis-ti-que-ment
+ []
 
-]
-File: ./Figures/gw.jpg Graphic file (type jpg)
-<use ./Figures/gw.jpg>
-Package pdftex.def Info: ./Figures/gw.jpg  used on input line 155.
-(pdftex.def)             Requested size: 142.26378pt x 79.21788pt.
- [7
-
-]
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-LaTeX Warning: Empty bibliography on input line 196.
-
+File: ./Figures/PPRI_lyon.pdf Graphic file (type pdf)
+<use ./Figures/PPRI_lyon.pdf>
+Package pdftex.def Info: ./Figures/PPRI_lyon.pdf  used on input line 217.
+(pdftex.def)             Requested size: 140.00655pt x 88.77301pt.
 [8
+
+]
+Underfull \hbox (badness 4303) in paragraph at lines 217--217
+[]\T1/lmss/m/n/9 Nécessité de ca-rac-té-ri-ser sta-tis-ti-que-ment
+ []
+
+File: ./Figures/PPRI_lyon.pdf Graphic file (type pdf)
+<use ./Figures/PPRI_lyon.pdf>
+Package pdftex.def Info: ./Figures/PPRI_lyon.pdf  used on input line 217.
+(pdftex.def)             Requested size: 140.00655pt x 88.77301pt.
+File: ./Figures/Grangent.jpg Graphic file (type jpg)
+<use ./Figures/Grangent.jpg>
+Package pdftex.def Info: ./Figures/Grangent.jpg  used on input line 217.
+(pdftex.def)             Requested size: 140.00655pt x 93.05984pt.
+[9
+
+] [10
+
+] [11
 
 ]
 \tf@nav=\write7
@@ -1670,30 +1721,33 @@ LaTeX Warning: Empty bibliography on input line 196.
 
  (Soutenance.aux)
 Package rerunfilecheck Info: File `Soutenance.out' has not changed.
-(rerunfilecheck)             Checksum: 03C6CCDB02D9853F1BEDF8843C645909;1106.
+(rerunfilecheck)             Checksum: E0BA70CFCDA95E322C8C9B7072E8FF16;596.
 Package logreq Info: Writing requests to 'Soutenance.run.xml'.
 \openout1 = `Soutenance.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34321 strings out of 478659
- 698157 string characters out of 2842128
- 1350702 words of memory out of 3000000
- 51719 multiletter control sequences out of 15000+600000
- 471754 words of font info for 75 fonts, out of 8000000 for 9000
+ 34566 strings out of 478659
+ 704520 string characters out of 2842128
+ 1353786 words of memory out of 3000000
+ 51959 multiletter control sequences out of 15000+600000
+ 469999 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,122p,1307b,1725s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-m
-athsy.enc}{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
-/lm/lm-ec.enc}<C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/lm/lmss10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/lm/lmss9.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/mathieu.lucas/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/mathieu.lucas/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Soutenance.pdf (8 pages, 294559 bytes).
+{C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
+c.enc}<C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+lm/lmcsc10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/lm/lmss10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/lm/lmss8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/mathieu.lucas/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/mathieu.lucas/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/mathieu.luca
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso9.pfb><C:/Users/math
+ieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb>
+Output written on Soutenance.pdf (11 pages, 6877631 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
+ 322 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 

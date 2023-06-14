@@ -1,4 +1,4 @@
-\documentclass[compress,10pt]{beamer}
+\documentclass[compress,9pt]{beamer}
 
 %%%%%%% PACKAGES %%%%%%%%%
 \usepackage[french]{babel}
@@ -49,6 +49,8 @@ maxbibnames=99,url=false]{biblatex}
 		\setbeamerfont{block title}{size=\normalsize}
 		\setbeamerfont{block body}{size=\normalsize}
 		\setbeamertemplate{footline}[frame number]
+%		\setbeamertemplate{footnote}{size=\tiny}
+		\setbeamertemplate{footcite}{site=\tiny}
 		\setbeamercovered{transparent}
 	%%%% ??
 	\newcommand{\cmark}{\ding{51}}
@@ -70,6 +72,9 @@ maxbibnames=99,url=false]{biblatex}
 \begin{document}
 
 %%%%%% PAGE DE TITRE %%%%%%%%
+{
+\usebackgroundtemplate{\includegraphics[height=\paperheight,width=\paperwidth]{./Figures/Back.pdf}}
+
 \begin{frame}[plain]
      \vfill
      \centering
@@ -77,7 +82,7 @@ maxbibnames=99,url=false]{biblatex}
      \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{institute}
      \end{beamercolorbox}
      {\usebeamercolor[fg]{titlegraphic}\inserttitlegraphic\par}
-     \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{title}
+     \begin{beamercolorbox}[sep=12pt,center,colsep=-4bp,rounded=true,shadow=true]{title}
         \usebeamerfont{title}\inserttitle\par%
         \ifx\insertsubtitle\@empty%
         \else%
@@ -86,18 +91,39 @@ maxbibnames=99,url=false]{biblatex}
       \fi%     
      \end{beamercolorbox}%
      \vskip1em\par
-     \begin{beamercolorbox}[sep=10pt,center,colsep=-4bp,rounded=true,shadow=true]{author}
-        \usebeamerfont{author}\insertauthor
+     \begin{beamercolorbox}[sep=12pt,center,colsep=-4bp,rounded=true,shadow=true]{author}
+%        \usebeamerfont{author}
+        \Large{\insertauthor}
      \end{beamercolorbox}
-    \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{author}
-    \small{\underline{Encadrement} : Michel LANG (INRAE RiverLy) \newline
-    \textcolor{white}{Encadrement :} Jérôme LE COZ (INRAE RiverLy) \newline
-    \textcolor{white}{Encadrement :    } Benjamin RENARD  (INRAE RECOVER)}
+    \begin{beamercolorbox}[sep=12pt,center,colsep=-4bp,rounded=true,shadow=true]{author}
+   
+%    \begin{center}
+	    \begin{columns}[t]
+	    	\begin{column}[t]{0.35\textwidth}
+				\flushright{\small{Encadrement :}}
+			\end{column}%
+			\begin{column}{0.45\textwidth}
+			\begin{flushleft}			
+				\small{Michel LANG (INRAE RiverLy) \newline
+				Jérôme LE COZ (INRAE RiverLy) \newline
+				Benjamin RENARD (INRAE RECOVER)}
+			\end{flushleft}
+			\end{column}%
+			\begin{column}{0.25\textwidth}
+			\end{column}%
+	    \end{columns}
+%	\end{center}
+	
+%    \small{\underline{Encadrement} : Michel LANG (INRAE RiverLy) \newline
+%    \textcolor{white}{Encadrement :} Jérôme LE COZ (INRAE RiverLy) \newline
+%    \textcolor{white}{Encadrement :    } Benjamin RENARD  (INRAE RECOVER)}
     \end{beamercolorbox}
      \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{date}
         \usebeamerfont{date}\insertdate
      \end{beamercolorbox}\vskip0.5em
- 	\vspace*{1cm}
+% 	\vspace*{1cm}
+
+
 %
 %\begin{centering}
 %\begin{columns}[b]
@@ -121,43 +147,88 @@ maxbibnames=99,url=false]{biblatex}
 %\end{centering}
 
 \end{frame} 
+}
 
 \section{Introduction}
 	\subsection{Le risque de crue}
 	
-	%%%%%%%% 2 %%%%%%%%%%
-    \begin{frame}{Le risque de crue}
-      	\begin{itemize}
-      			\item<1-3>[$\vartriangleright$] premier risque
-      			\item<2>[$\triangle$] blabli
-      			\item<3> blabla
-      	\end{itemize}
-      	\begin{flushright}
-			\includegraphics[width = 5cm]{./Figures/gw.jpg}      		
-      	\end{flushright}
-	\end{frame}
-	
-	%%%%%%%%% 3 %%%%%%%%%
-	\begin{frame}[t]
-		\frametitle{le risque de blabla}
-      	\begin{minipage}{0.3\textwidth}
+	%%%%%%%%% 2 %%%%%%%%%
+	\begin{frame}[c]
+		\frametitle{Le risque de crue}
+      	\begin{minipage}{0.49\textwidth}
+      		Premier type de catastrophe naturelle dans le monde au XXI\textsuperscript{ème} siècle\footfullcite{undrr_human_2020} en terme de :
+      		\vspace{10pt}
       		\begin{itemize}
-      			\item<1-3>[$\vartriangleright$] 111
-      			\item<2>[$\triangle$] blabli
-      			\item<3> blabla
+      			\item<1->[$\vartriangleright$] Nombre d'occurrences
+      			\vspace{10pt}
+      			\item<2>[$\vartriangleright$] Nombre de personnes affectées
       		\end{itemize}
       	\end{minipage}
-      	\begin{minipage}{0.6\textwidth}
+      	\hfill
+      	\begin{minipage}{0.49\textwidth}
       		\begin{center}
-				\includegraphics[width = 5cm]{./Figures/gw.jpg}      		
+				\item \includegraphics<1>[width= .9\textwidth]{./Figures/UNDRR.jpg}  
+				\vspace{3pt}    	
+				\item \includegraphics<2>[width = .9\textwidth]{./Figures/UNDRR-2.jpg} 
       		\end{center}
       	\end{minipage}
 	\end{frame}
 		
-		
+	\subsection{L'estimation du risque}
+	%%%%%%%%% 3 %%%%%%%%%
+	\begin{frame}%[c]
+		\frametitle{L'estimation du risque}
+      	\begin{minipage}{0.5\textwidth}
+      		Nécessité de caractériser statistiquement l'aléa de crue :
+      		\vspace{10pt}
+      		\begin{itemize}
+      			\item<2->[$\vartriangleright$] Plan de Prévention du Risque Inondation : \og\textit{déterminé à partir de l'événement le plus important connu ou d'un évènement théorique de \textbf{fréquence centennale}}[...]\fg{} \footfullcite{Code de l'environnement; article R562-11-3}
+      			\vspace{10pt}
+      			\item<3>[$\vartriangleright$] Dimensionnement d'infrastructures à risque (évacuateurs de crue, digues de protection...) : \textbf{périodes de retour jusqu'à 10 000 ans}
+      		\end{itemize}
+      	\end{minipage}
+      	\begin{minipage}{0.45\textwidth}
+      		\begin{center}
+				\item \includegraphics<2>[width = .9\textwidth]{./Figures/PPRI_lyon.pdf}  
+				\item \includegraphics<3>[width = .9\textwidth]{./Figures/Grangent.jpg} 
+      		\end{center}
+      	\end{minipage}
+	\end{frame}
+	
+	
+	%%%%%%%%% 4 %%%%%%%%%
+	\begin{frame}%[c]
+		\frametitle{L'estimation du risque}
+      	\begin{minipage}{0.5\textwidth}
+      		Nécessité de caractériser statistiquement l'aléa de crue :
+      		\vspace{10pt}
+      		\begin{itemize}
+      			\item<2->[$\vartriangleright$] Plan de Prévention du Risque Inondation : \og\textit{déterminé à partir de l'événement le plus important connu ou d'un évènement théorique de \textbf{fréquence centennale}}[...]\fg{} \footfullcite{Code de l'environnement; article R562-11-3}
+      			\vspace{10pt}
+      			\item<3>[$\vartriangleright$] Dimensionnement d'infrastructures à risque (évacuateurs de crue, digues de protection...) : \textbf{débits de période de retour jusqu'à 10 000 ans}
+      		\end{itemize}
+      	\end{minipage}
+      	\begin{minipage}{0.45\textwidth}
+      		\begin{center}
+				\item \includegraphics<2->[width = .9\textwidth]{./Figures/PPRI_lyon.pdf}  
+				\item \includegraphics<3>[width = .9\textwidth]{./Figures/Grangent.jpg} 
+      		\end{center}
+      	\end{minipage}
+	\end{frame}
 	  
+	\subsection{Crues et statistiques}
+	%%%%%%%%% 5 %%%%%%%%%
+	\begin{frame}%[c]
+		\frametitle{Crues et probabilités}
+      	crues = réalisations + concept de période de retour
+	\end{frame}
 
-
+	%%%%%%%%% 6 %%%%%%%%%
+	\begin{frame}%[c]
+		\frametitle{Crues et probabilités}
+      	Estimation d'une distribution
+	\end{frame}
+	
 
 
 \section{Le Rhône à Beaucaire}
@@ -176,7 +247,7 @@ maxbibnames=99,url=false]{biblatex}
 	\subsection{Perspectives}
 	\subsection{Remerciements}
 	
-\printbibliography
+%\printbibliography
 	
 \section{Annexes}
 	
@@ -191,10 +262,10 @@ maxbibnames=99,url=false]{biblatex}
 %	
 %\end{frame}
 %
-\begin{frame}
-		\printbibliography
-\end{frame}
-
+%\begin{frame}
+%		\printbibliography
+%\end{frame}
+%
 
 
 
