@@ -1,0 +1,202 @@
+\documentclass[compress,10pt]{beamer}
+
+%%%%%%% PACKAGES %%%%%%%%%
+\usepackage[french]{babel}
+\usepackage[backend=biber,style=authoryear,bibstyle=authoryear,natbib=true,
+giveninits=true,uniquename=false,uniquelist=false,maxcitenames=2,date=year,
+maxbibnames=99,url=false]{biblatex}
+\addbibresource{Thèse.bib}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{lmodern}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{contour}
+\usepackage{ulem}
+\usepackage{xcolor}
+\usepackage{newunicodechar}
+\usepackage{multirow}
+\usepackage{setspace}
+\usepackage{pifont}
+\usepackage{appendixnumberbeamer}
+%\usepackage{animate}
+
+%%%%%%% PARAMETERS %%%%%%%%%
+	%%%%%% CITE PARAMETERS %%%%%%%%%%%
+		\AtEveryCitekey{\clearfield{title}\clearfield{note}\clearfield{pages}\clearlist{location}					\clearlist{publisher}\clearname{editor}}
+		\renewcommand*{\multicitedelim}{\\}
+		\renewcommand{\footfullcite}[1]{\footnote[frame]{\fullcite{#1}}}
+		\def\bibfont{\tiny}			% Réduit la taille de la police dans les références biblio
+	%%%%%% THEME %%%%%%%%
+		\usetheme{Madrid}
+		\useoutertheme[subsection=false]{miniframes}
+		\usefonttheme{structurebold}
+		\usepackage{etoolbox}
+		\makeatletter
+		\patchcmd{\slideentry}{\advance\beamer@xpos by1\relax}{}{}{}
+		\def\beamer@subsectionentry#1#2#3#4#5{\advance\beamer@xpos by1\relax}%
+		\makeatother
+		\definecolor{myblue}{RGB}{120,150,200}
+		\usecolortheme[named=myblue]{structure}
+		\beamertemplatenavigationsymbolsempty 
+		\setbeamerfont{page number in head/foot}{size=\tiny}
+		\setbeamerfont{section in head/foot}{size=\scriptsize}
+		\setbeamerfont{section in toc}{size=\footnotesize}
+		\setbeamerfont{subsection in toc}{size=\tiny}
+		\setbeamerfont{frametitle}{size=\large}
+		\setbeamerfont{block title}{size=\normalsize}
+		\setbeamerfont{block body}{size=\normalsize}
+		\setbeamertemplate{footline}[frame number]
+		\setbeamercovered{transparent}
+	%%%% ??
+	\newcommand{\cmark}{\ding{51}}
+	\newcommand{\xmark}{\ding{55}}
+	\newcommand\Wider[2][3em]{%
+	\makebox[\linewidth][c]{%
+	  \begin{minipage}{\dimexpr\textwidth+#1\relax}
+	  \raggedright#2
+	  \end{minipage}%
+	  }%
+	}
+	
+%%%%%%%% TITLE %%%%%%%%%
+\title{Comment valoriser les données anciennes pour l’analyse fréquentielle des crues : application au Rhône à Beaucaire de 1500 à 2020}
+\author{Mathieu LUCAS}
+\date{3 juillet 2023}
+
+%%%%%%%%% MAIN PART %%%%%%%%%%
+\begin{document}
+
+%%%%%% PAGE DE TITRE %%%%%%%%
+\begin{frame}[plain]
+     \vfill
+     \centering
+
+     \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{institute}
+     \end{beamercolorbox}
+     {\usebeamercolor[fg]{titlegraphic}\inserttitlegraphic\par}
+     \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{title}
+        \usebeamerfont{title}\inserttitle\par%
+        \ifx\insertsubtitle\@empty%
+        \else%
+        \vskip0.25em%
+        {\usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle\par}%
+      \fi%     
+     \end{beamercolorbox}%
+     \vskip1em\par
+     \begin{beamercolorbox}[sep=10pt,center,colsep=-4bp,rounded=true,shadow=true]{author}
+        \usebeamerfont{author}\insertauthor
+     \end{beamercolorbox}
+    \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{author}
+    \small{\underline{Encadrement} : Michel LANG (INRAE RiverLy) \newline
+    \textcolor{white}{Encadrement :} Jérôme LE COZ (INRAE RiverLy) \newline
+    \textcolor{white}{Encadrement :    } Benjamin RENARD  (INRAE RECOVER)}
+    \end{beamercolorbox}
+     \begin{beamercolorbox}[sep=8pt,center,colsep=-4bp,rounded=true,shadow=true]{date}
+        \usebeamerfont{date}\insertdate
+     \end{beamercolorbox}\vskip0.5em
+ 	\vspace*{1cm}
+%
+%\begin{centering}
+%\begin{columns}[b]
+%\begin{column}{0.15\textwidth}
+%\includegraphics[height=8mm]{./figures/intro/logoUGA.pdf} 
+% \end{column}%
+% \begin{column}{0.15\textwidth}
+%  \textcolor{white}{bla}
+% \end{column}
+%\begin{column}{0.15\textwidth}
+%\includegraphics[height=9mm]{./figures/intro/logoEDF.pdf} 
+% \end{column}%
+% \begin{column}{0.15\textwidth}
+%  \textcolor{white}{bla}
+% \end{column}
+% \begin{column}{0.15\textwidth}
+%\includegraphics[height=4mm]{./figures/intro/logoINRAE.pdf}
+% \end{column}
+%\end{columns}
+%
+%\end{centering}
+
+\end{frame} 
+
+\section{Introduction}
+	\subsection{Le risque de crue}
+	
+	%%%%%%%% 2 %%%%%%%%%%
+    \begin{frame}{Le risque de crue}
+      	\begin{itemize}
+      			\item<1-3>[$\vartriangleright$] premier risque
+      			\item<2>[$\triangle$] blabli
+      			\item<3> blabla
+      	\end{itemize}
+      	\begin{flushright}
+			\includegraphics[width = 5cm]{./Figures/gw.jpg}      		
+      	\end{flushright}
+	\end{frame}
+	
+	%%%%%%%%% 3 %%%%%%%%%
+	\begin{frame}[t]
+		\frametitle{le risque de blabla}
+      	\begin{minipage}{0.3\textwidth}
+      		\begin{itemize}
+      			\item<1-3>[$\vartriangleright$] 111
+      			\item<2>[$\triangle$] blabli
+      			\item<3> blabla
+      		\end{itemize}
+      	\end{minipage}
+      	\begin{minipage}{0.6\textwidth}
+      		\begin{center}
+				\includegraphics[width = 5cm]{./Figures/gw.jpg}      		
+      		\end{center}
+      	\end{minipage}
+	\end{frame}
+		
+		
+	  
+
+
+
+
+\section{Le Rhône à Beaucaire}
+
+
+\section{1816-2020}
+
+
+\section{1500-2020}
+
+
+
+\section{Conclusion}
+
+	\subsection{Conclusion}
+	\subsection{Perspectives}
+	\subsection{Remerciements}
+	
+\printbibliography
+	
+\section{Annexes}
+	
+
+
+
+%\begin{frame}{blabla}
+%	\begin{itemize}
+%			\item \footfullcite{steinbakk_propagation_2016}
+%		
+%	\end{itemize}
+%	
+%\end{frame}
+%
+\begin{frame}
+		\printbibliography
+\end{frame}
+
+
+
+
+
+\end{document}
