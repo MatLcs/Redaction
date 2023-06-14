@@ -1,0 +1,1213 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  12 JUN 2023 18:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./TrackedChanges.tex
+(TrackedChanges.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.
+sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box50
+\extrarowheight=\dimen150
+\NC@list=\toks20
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+\TX@col@width=\dimen151
+\TX@old@table=\dimen152
+\TX@old@col=\dimen153
+\TX@target=\dimen154
+\TX@delta=\dimen155
+\TX@cols=\count194
+\TX@ftn=\toks21
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placei
+ns.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box52
+\UL@hyphenbox=\box53
+\UL@skip=\skip51
+\UL@hook=\toks22
+\UL@height=\dimen156
+\UL@pe=\count195
+\UL@pixel=\dimen157
+\ULC@box=\box54
+Package: ulem 2019/11/18
+\ULdepth=\dimen158
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolb
+ox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvs
+etkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.s
+ty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count197
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.d
+ef
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count198
+\c@listtotal=\count199
+\c@listcount=\count266
+\c@liststart=\count267
+\c@liststop=\count268
+\c@citecount=\count269
+\c@citetotal=\count270
+\c@multicitecount=\count271
+\c@multicitetotal=\count272
+\c@instcount=\count273
+\c@maxnames=\count274
+\c@minnames=\count275
+\c@maxitems=\count276
+\c@minitems=\count277
+\c@citecounter=\count278
+\c@maxcitecounter=\count279
+\c@savedcitecounter=\count280
+\c@uniquelist=\count281
+\c@uniquename=\count282
+\c@refsection=\count283
+\c@refsegment=\count284
+\c@maxextratitle=\count285
+\c@maxextratitleyear=\count286
+\c@maxextraname=\count287
+\c@maxextradate=\count288
+\c@maxextraalpha=\count289
+\c@abbrvpenalty=\count290
+\c@highnamepenalty=\count291
+\c@lownamepenalty=\count292
+\c@maxparens=\count293
+\c@parenlevel=\count294
+\blx@tempcnta=\count295
+\blx@tempcntb=\count296
+\blx@tempcntc=\count297
+\blx@maxsection=\count298
+\blx@maxsegment@0=\count299
+\blx@notetype=\count300
+\blx@parenlevel@text=\count301
+\blx@parenlevel@foot=\count302
+\blx@sectionciteorder@0=\count303
+\blx@entrysetcounter=\count304
+\blx@biblioinstance=\count305
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count306
+\c@maxcomprange=\count307
+\c@mincompwidth=\count308
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm
+.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count309
+\c@savedafterword=\count310
+\c@annotator=\count311
+\c@savedannotator=\count312
+\c@author=\count313
+\c@savedauthor=\count314
+\c@bookauthor=\count315
+\c@savedbookauthor=\count316
+\c@commentator=\count317
+\c@savedcommentator=\count318
+\c@editor=\count319
+\c@savededitor=\count320
+\c@editora=\count321
+\c@savededitora=\count322
+\c@editorb=\count323
+\c@savededitorb=\count324
+\c@editorc=\count325
+\c@savededitorc=\count326
+\c@foreword=\count327
+\c@savedforeword=\count328
+\c@holder=\count329
+\c@savedholder=\count330
+\c@introduction=\count331
+\c@savedintroduction=\count332
+\c@namea=\count333
+\c@savednamea=\count334
+\c@nameb=\count335
+\c@savednameb=\count336
+\c@namec=\count337
+\c@savednamec=\count338
+\c@translator=\count339
+\c@savedtranslator=\count340
+\c@shortauthor=\count341
+\c@savedshortauthor=\count342
+\c@shorteditor=\count343
+\c@savedshorteditor=\count344
+\c@labelname=\count345
+\c@savedlabelname=\count346
+\c@institution=\count347
+\c@savedinstitution=\count348
+\c@lista=\count349
+\c@savedlista=\count350
+\c@listb=\count351
+\c@savedlistb=\count352
+\c@listc=\count353
+\c@savedlistc=\count354
+\c@listd=\count355
+\c@savedlistd=\count356
+\c@liste=\count357
+\c@savedliste=\count358
+\c@listf=\count359
+\c@savedlistf=\count360
+\c@location=\count361
+\c@savedlocation=\count362
+\c@organization=\count363
+\c@savedorganization=\count364
+\c@origlocation=\count365
+\c@savedoriglocation=\count366
+\c@origpublisher=\count367
+\c@savedorigpublisher=\count368
+\c@publisher=\count369
+\c@savedpublisher=\count370
+\c@language=\count371
+\c@savedlanguage=\count372
+\c@origlanguage=\count373
+\c@savedoriglanguage=\count374
+\c@pageref=\count375
+\c@savedpageref=\count376
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-co
+mpat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count377
+\c@textcitetotal=\count378
+\c@textcitemaxnames=\count379
+\c@biburlbigbreakpenalty=\count380
+\c@biburlbreakpenalty=\count381
+\c@biburlnumpenalty=\count382
+\c@biburlucpenalty=\count383
+\c@biburllcpenalty=\count384
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count385
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-na
+tbib.def
+File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\au
+thoryear.bbx
+File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\st
+andard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count386
+\c@bbx:relatedtotal=\count387
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\au
+thoryear.cbx
+File: authoryear.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.cfg
+File: biblatex.cfg 
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\ds
+font.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multir
+ow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip74
+\multirow@cntb=\count388
+\multirow@dima=\skip75
+\bigstrutjot=\dimen159
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip76
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen160
+))
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count389
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count390
+\leftroot@=\count391
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count392
+\DOTSCASE@=\count393
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count394
+\c@MaxMatrixCols=\count395
+\dotsspace@=\muskip21
+\c@parentequation=\count396
+\dspbrk@lvl=\count397
+\tag@help=\toks24
+\row@=\count398
+\column@=\count399
+\maxfields@=\count400
+\andhelp@=\toks25
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks26
+\multlinegap=\skip77
+\multlinetaggap=\skip78
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcapt
+ion.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen169
+\captionmargin@=\dimen170
+\captionwidth=\dimen171
+\caption@tempdima=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count401
+\c@continuedfloat=\count402
+)
+\c@subfigure=\count403
+\c@subtable=\count404
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authbl
+k.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip79
+\@affilsep=\skip80
+\c@Maxaffil=\count405
+\c@authors=\count406
+\c@affil=\count407
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\
+kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdf
+escape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor
+.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\let
+ltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook
+.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen176
+\Hy@linkcounter=\count408
+\Hy@pagecounter=\count409
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
+.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intca
+lc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etex
+cmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count410
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
+def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count411
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen177
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset
+.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bi
+gintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count412
+\Field@Width=\dimen178
+\Fld@charsize=\dimen179
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-l
+tx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count413
+\c@Item=\count414
+\c@Hfootnote=\count415
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdfte
+x.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-
+ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count416
+\c@bookmark@seq@number=\count417
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
+rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter
+\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip81
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.s
+ty
+Package: lineno 2023/05/19 line numbers on paragraphs v5.2
+\linenopenalty=\count418
+\output=\toks28
+\linenoprevgraf=\count419
+\linenumbersep=\dimen180
+\linenumberwidth=\dimen181
+\c@linenumber=\count420
+\c@pagewiselinenumber=\count421
+\c@LN@truepage=\count422
+\c@internallinenumber=\count423
+\c@internallinenumbers=\count424
+\quotelinenumbersep=\dimen182
+\bframerule=\dimen183
+\bframesep=\dimen184
+\bframebox=\box57
+\linenoamsmath@ams@eqpen=\count425
+LaTeX Info: Redefining \\ on input line 3146.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
+ce.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\@quotelevel=\count426
+\@quotereset=\count427
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count428
+\l__pdf_internal_box=\box58
+) (TrackedChanges.aux)
+\openout1 = `TrackedChanges.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 512.1496pt, 28.45277pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.1496pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count429
+\scratchdimen=\dimen185
+\scratchbox=\box59
+\nofMPsegments=\count430
+\nofMParguments=\count431
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count432
+\MPscratchDim=\dimen186
+\MPnumerator=\count433
+\makeMPintoPDFobject=\count434
+\everyMPtoPDFconversion=\toks30
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\en
+glish.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.
+sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-11-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-ca
+se-expl3.sty
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpar
+se\xparse.sty
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `TrackedChanges.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'TrackedChanges.bbl' found.
+ (TrackedChanges.bbl)
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.
+sty
+Package: color 2021/10/11 v1.3b Standard LaTeX Color (DPC)
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 44.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
+f.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcou
+nt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestrin
+g\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count435
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+ (TrackedChanges.out) (TrackedChanges.out)
+\@outlinefile=\write4
+\openout4 = `TrackedChanges.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] 
+[3] [4]
+<Figs/1-uTotSchema.png, id=253, 578.8827pt x 875.55106pt>
+File: Figs/1-uTotSchema.png Graphic file (type png)
+<use Figs/1-uTotSchema.png>
+Package pdftex.def Info: Figs/1-uTotSchema.png  used on input line 93.
+(pdftex.def)             Requested size: 227.62204pt x 344.2691pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] [6 <./Figs/1-uTotSchema.png>] [7] [8] [9] [10]
+<Figs/2-BcrBv.png, id=328, 1599.3351pt x 1574.7633pt>
+File: Figs/2-BcrBv.png Graphic file (type png)
+<use Figs/2-BcrBv.png>
+Package pdftex.def Info: Figs/2-BcrBv.png  used on input line 178.
+(pdftex.def)             Requested size: 312.9803pt x 308.17093pt.
+ [11 <./Figs/2-BcrBv.png>]
+[12]
+<Figs/3a-DiguesArmand.png, id=357, 562.2606pt x 222.5916pt>
+File: Figs/3a-DiguesArmand.png Graphic file (type png)
+<use Figs/3a-DiguesArmand.png>
+Package pdftex.def Info: Figs/3a-DiguesArmand.png  used on input line 223.
+(pdftex.def)             Requested size: 358.50314pt x 141.92828pt.
+<Figs/3b-MatrixChenal_EN.png, id=358, 700.2963pt x 441.93105pt>
+File: Figs/3b-MatrixChenal_EN.png Graphic file (type png)
+<use Figs/3b-MatrixChenal_EN.png>
+Package pdftex.def Info: Figs/3b-MatrixChenal_EN.png  used on input line 230.
+(pdftex.def)             Requested size: 307.29288pt x 193.92427pt.
+<Figs/3c-ProfilsBardRestit.png, id=359, 322.5651pt x 211.7511pt>
+File: Figs/3c-ProfilsBardRestit.png Graphic file (type png)
+<use Figs/3c-ProfilsBardRestit.png>
+Package pdftex.def Info: Figs/3c-ProfilsBardRestit.png  used on input line 236.
+
+(pdftex.def)             Requested size: 221.24515pt x 145.23924pt.
+<Figs/3c-ProfilAvalRestitEN.png, id=360, 455.301pt x 312.9291pt>
+File: Figs/3c-ProfilAvalRestitEN.png Graphic file (type png)
+<use Figs/3c-ProfilAvalRestitEN.png>
+Package pdftex.def Info: Figs/3c-ProfilAvalRestitEN.png  used on input line 237
+.
+(pdftex.def)             Requested size: 221.24515pt x 152.06169pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13] [14 <./Figs/3a-DiguesArmand.png> <./Figs/3b-MatrixChenal_EN.png> <./Figs/3
+c-ProfilsBardRestit.png> <./Figs/3c-ProfilAvalRestitEN.png>]
+<Figs/5-Quant5perc_both.png, id=394, 722.7pt x 385.44pt>
+File: Figs/5-Quant5perc_both.png Graphic file (type png)
+<use Figs/5-Quant5perc_both.png>
+Package pdftex.def Info: Figs/5-Quant5perc_both.png  used on input line 284.
+(pdftex.def)             Requested size: 426.79134pt x 227.62523pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (1.4111pt too wide) in paragraph at lines 329--370
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./Figs/5-Quant5perc_both.png>] [16]
+<Figs/4-TabObsBcrSmall.jpg, id=408, 187.902pt x 121.545pt>
+File: Figs/4-TabObsBcrSmall.jpg Graphic file (type jpg)
+<use Figs/4-TabObsBcrSmall.jpg>
+Package pdftex.def Info: Figs/4-TabObsBcrSmall.jpg  used on input line 383.
+(pdftex.def)             Requested size: 284.52756pt x 184.07336pt.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+84.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 384.
+[17
+
+ <./Figs/4-TabObsBcrSmall.jpg>]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 4
+38.
+
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 438.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18] [19]
+<Figs/6a-SegmPt.pdf, id=455, 1134.485pt x 544.06485pt>
+File: Figs/6a-SegmPt.pdf Graphic file (type pdf)
+<use Figs/6a-SegmPt.pdf>
+Package pdftex.def Info: Figs/6a-SegmPt.pdf  used on input line 488.
+(pdftex.def)             Requested size: 384.1122pt x 184.20753pt.
+<Figs/6b-SegmRes.pdf, id=456, 1139.6264pt x 540.87599pt>
+File: Figs/6b-SegmRes.pdf Graphic file (type pdf)
+<use Figs/6b-SegmRes.pdf>
+Package pdftex.def Info: Figs/6b-SegmRes.pdf  used on input line 493.
+(pdftex.def)             Requested size: 384.1122pt x 182.30255pt.
+ [20 <./Figs/6a-SegmPt.pdf> <./Figs/6b-SegmRes.pdf
+
+pdfTeX warning: pdflatex (file ./Figs/6b-SegmRes.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\OT1/cmr/bx/n/10.95 Maxpost
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\OT1/cmr/bx/n/10.95 Largest flood
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\OT1/cmr/bx/n/10.95 Period
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21] [22]
+<Figs/7a-RClog_ICdownPt.pdf, id=499, 867.24pt x 722.7pt>
+File: Figs/7a-RClog_ICdownPt.pdf Graphic file (type pdf)
+<use Figs/7a-RClog_ICdownPt.pdf>
+Package pdftex.def Info: Figs/7a-RClog_ICdownPt.pdf  used on input line 590.
+(pdftex.def)             Requested size: 250.95612pt x 209.1255pt.
+<Figs/7b-RClog_ICdownRes.pdf, id=500, 867.24pt x 722.7pt>
+File: Figs/7b-RClog_ICdownRes.pdf Graphic file (type pdf)
+<use Figs/7b-RClog_ICdownRes.pdf>
+Package pdftex.def Info: Figs/7b-RClog_ICdownRes.pdf  used on input line 596.
+(pdftex.def)             Requested size: 250.95612pt x 209.1255pt.
+<Figs/7c-bs_Pt.pdf, id=501, 1116.79231pt x 696.08054pt>
+File: Figs/7c-bs_Pt.pdf Graphic file (type pdf)
+<use Figs/7c-bs_Pt.pdf>
+Package pdftex.def Info: Figs/7c-bs_Pt.pdf  used on input line 603.
+(pdftex.def)             Requested size: 245.8296pt x 153.22316pt.
+<Figs/7d-bs_Restit.pdf, id=502, 1140.94247pt x 697.0542pt>
+File: Figs/7d-bs_Restit.pdf Graphic file (type pdf)
+<use Figs/7d-bs_Restit.pdf>
+Package pdftex.def Info: Figs/7d-bs_Restit.pdf  used on input line 609.
+(pdftex.def)             Requested size: 250.95612pt x 153.32048pt.
+<Figs/7e-a&csPt.pdf, id=503, 867.24pt x 505.89pt>
+File: Figs/7e-a&csPt.pdf Graphic file (type pdf)
+<use Figs/7e-a&csPt.pdf>
+Package pdftex.def Info: Figs/7e-a&csPt.pdf  used on input line 617.
+(pdftex.def)             Requested size: 199.73802pt x 116.50662pt.
+<Figs/7f-b3_as_cs_Restit.pdf, id=504, 1084.05pt x 505.89pt>
+File: Figs/7f-b3_as_cs_Restit.pdf Graphic file (type pdf)
+<use Figs/7f-b3_as_cs_Restit.pdf>
+Package pdftex.def Info: Figs/7f-b3_as_cs_Restit.pdf  used on input line 623.
+(pdftex.def)             Requested size: 250.95612pt x 117.10873pt.
+<Figs/7g-Legend.png, id=505, 419.8887pt x 312.9291pt>
+File: Figs/7g-Legend.png Graphic file (type png)
+<use Figs/7g-Legend.png>
+Package pdftex.def Info: Figs/7g-Legend.png  used on input line 630.
+(pdftex.def)             Requested size: 51.21808pt x 38.1706pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23] [24 <./Figs/7a-RClog_ICdownPt.pdf> <./Figs/7b-RClog_ICdownRes.pdf> <./Figs
+/7c-bs_Pt.pdf> <./Figs/7d-bs_Restit.pdf
+
+pdfTeX warning: pdflatex (file ./Figs/7d-bs_Restit.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./Figs/7e-a&csPt.pdf> <./Figs/7f-b3_as_cs_Restit.pdf> <./Figs/7g-Legend.png>
+]
+<Figs/8-StageErrorAMAX_BOTH.pdf, id=675, 1084.05pt x 722.7pt>
+File: Figs/8-StageErrorAMAX_BOTH.pdf Graphic file (type pdf)
+<use Figs/8-StageErrorAMAX_BOTH.pdf>
+Package pdftex.def Info: Figs/8-StageErrorAMAX_BOTH.pdf  used on input line 645
+.
+(pdftex.def)             Requested size: 460.9315pt x 307.28128pt.
+ [25 <./Figs/8-StageErrorAMAX_BOTH.pdf>]
+<Figs/9-IcAndAMAX.pdf, id=690, 1228.59pt x 722.7pt>
+File: Figs/9-IcAndAMAX.pdf Graphic file (type pdf)
+<use Figs/9-IcAndAMAX.pdf>
+Package pdftex.def Info: Figs/9-IcAndAMAX.pdf  used on input line 660.
+(pdftex.def)             Requested size: 512.1496pt x 301.26025pt.
+ [26 <./Figs/9-IcAndAMAX.pdf>]
+<Figs/10a-GeV_205years.pdf, id=714, 1300.86pt x 578.16pt>
+File: Figs/10a-GeV_205years.pdf Graphic file (type pdf)
+<use Figs/10a-GeV_205years.pdf>
+Package pdftex.def Info: Figs/10a-GeV_205years.pdf  used on input line 689.
+(pdftex.def)             Requested size: 507.03091pt x 225.34915pt.
+<Figs/10b-BarplotQuantiles4cases.pdf, id=715, 1011.78pt x 578.16pt>
+File: Figs/10b-BarplotQuantiles4cases.pdf Graphic file (type pdf)
+<use Figs/10b-BarplotQuantiles4cases.pdf>
+Package pdftex.def Info: Figs/10b-BarplotQuantiles4cases.pdf  used on input lin
+e 697.
+(pdftex.def)             Requested size: 250.95612pt x 143.4016pt.
+<Figs/10c-Ukplot4cases.pdf, id=716, 1156.32pt x 650.43pt>
+File: Figs/10c-Ukplot4cases.pdf Graphic file (type pdf)
+<use Figs/10c-Ukplot4cases.pdf>
+Package pdftex.def Info: Figs/10c-Ukplot4cases.pdf  used on input line 703.
+(pdftex.def)             Requested size: 250.95612pt x 141.15971pt.
+<Figs/10d-Shape_4cases.pdf, id=717, 722.7pt x 505.89pt>
+File: Figs/10d-Shape_4cases.pdf Graphic file (type pdf)
+<use Figs/10d-Shape_4cases.pdf>
+Package pdftex.def Info: Figs/10d-Shape_4cases.pdf  used on input line 710.
+(pdftex.def)             Requested size: 240.71092pt x 168.49577pt.
+<Figs/10e-Q1000SSize.pdf, id=718, 867.24pt x 578.16pt>
+File: Figs/10e-Q1000SSize.pdf Graphic file (type pdf)
+<use Figs/10e-Q1000SSize.pdf>
+Package pdftex.def Info: Figs/10e-Q1000SSize.pdf  used on input line 716.
+(pdftex.def)             Requested size: 266.31998pt x 177.54274pt.
+
+[27] [28 <./Figs/10a-GeV_205years.pdf> <./Figs/10b-BarplotQuantiles4cases.pdf> 
+<./Figs/10c-Ukplot4cases.pdf> <./Figs/10d-Shape_4cases.pdf> <./Figs/10e-Q1000SS
+ize.pdf>] [29] [30] [31] [32] [33]
+Overfull \hbox (38.53017pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Bard, A. and M. Lang (2018). |   []
+ []
+
+[34]
+Overfull \hbox (470.62108pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 CETIAT (2005). |   [].
+ []
+
+
+Overfull \hbox (91.22278pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Coles, S. (2001). ``Clas-si-cal Ex-treme Value The-ory a
+nd Mod-els''. In: |   [].
+ []
+
+
+Overfull \hbox (37.04326pt too wide) in paragraph at lines 801--801
+|   [] \OT1/cmr/m/n/10.95 27.4, pp. 493{504. \OT1/cmr/m/sc/10.95 issn\OT1/cmr/m
+/n/10.95 : 0262-6667, 2150-3435. \OT1/cmr/m/sc/10.95 doi\OT1/cmr/m/n/10.95 : []
+[]$\OT1/cmtt/m/n/10.95 10 . 1080 / 02626668209491128$[][]\OT1/cmr/m/n/10.95 . 
+ []
+
+[35]
+Overfull \hbox (297.6025pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Hamilton, A. and R. Moore (2012). ``Quan-ti-fy-ing Un-ce
+r-tainty in Stream-flow Records''. In: |   []
+ []
+
+
+Overfull \hbox (433.61403pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Harden, T. M., K. R. Ry-berg, J. E. O'Connor, J. M. Frie
+d-man, and J. E. Kiang (2021). |   [].
+ []
+
+
+Overfull \hbox (79.13943pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Ibbitt, R. P. and C. P. Pear-son (1987). ``Gaug-ing fre-
+quency and de-tec-tion of rat-ing changes''. In: |   []
+ []
+
+
+Overfull \hbox (178.43483pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Jain, S. K. and V. P. Singh (2019). ``De-sign Flood Es-t
+i-ma-tion''. In: |   [].
+ []
+
+[36]
+Overfull \hbox (47.6247pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Lang, M. and D. Coeur (2014). |   [].
+ []
+
+
+Overfull \hbox (121.47108pt too wide) in paragraph at lines 801--801
+\OT1/cmr/m/n/10.95 trib-u-taries of the up-per Vis-tula river''. In: |   []
+ []
+
+[37]
+Overfull \hbox (81.10829pt too wide) in paragraph at lines 801--801
+\OT1/cmr/m/n/10.95 anal-y-sis of his-tor-i-cal flood data un-der sta-tion-ary a
+nd non-stationary mod-elling''. In: |   []
+ []
+
+[38]
+Overfull \hbox (15.51065pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 MEDD (2005). |   []. Conference de con-sen-sus. Minite
+re
+ []
+
+[39]
+Overfull \hbox (8.23581pt too wide) in paragraph at lines 801--801
+\OT1/cmr/m/n/10.95 Payras-tre, P. Pier-refeu, and G. Rauzy (2017). |   []
+ []
+
+
+Overfull \hbox (0.71358pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Rantz, S. E. (1982). |   []. USGS Num-bered Se-ries 2175
+. U.S. G.P.O. 
+ []
+
+
+Overfull \hbox (104.35312pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Rigaudiere, P., A. Dek-er-gar-iou, C. Laroche, N. Caze,
+ J. Brun, J. Laborde, and W. Berolo (2000). |   [].
+ []
+
+[40]
+Overfull \hbox (161.28331pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 SYMADREM (2012). |   [],
+ []
+
+
+Overfull \hbox (33.4079pt too wide) in paragraph at lines 801--801
+[][]\OT1/cmr/m/n/10.95 Vogel, R. M. and C. N. Kroll (1996). ``Es-ti-ma-tion of 
+base-flow re-ces-sion con-stants''. In: |   []
+ []
+
+[41] [42] (TrackedChanges.aux)
+Package rerunfilecheck Info: File `TrackedChanges.out' has not changed.
+(rerunfilecheck)             Checksum: CFBD1B13AD5A22FEF3CC0FD8383E1D43;7305.
+Package logreq Info: Writing requests to 'TrackedChanges.run.xml'.
+\openout1 = `TrackedChanges.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 20326 strings out of 478659
+ 368628 string characters out of 2842128
+ 1079322 words of memory out of 3000000
+ 37919 multiletter control sequences out of 15000+600000
+ 419717 words of font info for 88 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,23n,77p,3296b,1766s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\tcrm0600.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk><C:/Users/mathieu.lucas/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mathieu.
+lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmbx8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/mathieu.lucas/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/mathieu.lucas/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/
+mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/mathieu.lucas/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mathieu.luca
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Us
+ers/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr17.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/mathieu.lucas/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mathieu.lucas/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users
+/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+s8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/mathieu.lucas/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/mathieu.luca
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+
+Output written on TrackedChanges.pdf (42 pages, 10325615 bytes).
+PDF statistics:
+ 1179 PDF objects out of 1200 (max. 8388607)
+ 228 named destinations out of 1000 (max. 500000)
+ 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+

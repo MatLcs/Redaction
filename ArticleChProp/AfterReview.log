@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  9 JUN 2023 14:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12 32-bit) (preloaded format=pdflatex 2021.12.8)  12 JUN 2023 18:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -666,18 +666,42 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 22.
 
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.s
+ty
+Package: lineno 2023/05/19 line numbers on paragraphs v5.2
+\linenopenalty=\count419
+\output=\toks27
+\linenoprevgraf=\count420
+\linenumbersep=\dimen178
+\linenumberwidth=\dimen179
+\c@linenumber=\count421
+\c@pagewiselinenumber=\count422
+\c@LN@truepage=\count423
+\c@internallinenumber=\count424
+\c@internallinenumbers=\count425
+\quotelinenumbersep=\dimen180
+\bframerule=\dimen181
+\bframesep=\dimen182
+\bframebox=\box54
+\linenoamsmath@ams@eqpen=\count426
+LaTeX Info: Redefining \\ on input line 3146.
+)
+(C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
+ce.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count419
-\@quotereset=\count420
+\@quotelevel=\count427
+\@quotereset=\count428
 
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
 kend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count421
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count429
+\l__pdf_internal_box=\box55
 ) (AfterReview.aux)
 \openout1 = `AfterReview.aux'.
 
@@ -738,17 +762,17 @@ LaTeX Font Info:    ... okay on input line 43.
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
 p-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count422
-\scratchdimen=\dimen178
-\scratchbox=\box55
-\nofMPsegments=\count423
-\nofMParguments=\count424
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count425
-\MPscratchDim=\dimen179
-\MPnumerator=\count426
-\makeMPintoPDFobject=\count427
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count430
+\scratchdimen=\dimen183
+\scratchbox=\box56
+\nofMPsegments=\count431
+\nofMParguments=\count432
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count433
+\MPscratchDim=\dimen184
+\MPnumerator=\count434
+\makeMPintoPDFobject=\count435
+\everyMPtoPDFconversion=\toks29
 )
 (C:\Users\mathieu.lucas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
 stopdf-base.sty
@@ -824,7 +848,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count428
+\c@section@level=\count436
 )
 LaTeX Info: Redefining \ref on input line 43.
 LaTeX Info: Redefining \pageref on input line 43.
@@ -848,8 +872,9 @@ d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-<Figs/1-uTotSchema.png, id=239, 578.8827pt x 875.55106pt>
+{C:/Users/mathieu.lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] 
+[3] [4]
+<Figs/1-uTotSchema.png, id=253, 578.8827pt x 875.55106pt>
 File: Figs/1-uTotSchema.png Graphic file (type png)
 <use Figs/1-uTotSchema.png>
 Package pdftex.def Info: Figs/1-uTotSchema.png  used on input line 91.
@@ -858,49 +883,47 @@ Package pdftex.def Info: Figs/1-uTotSchema.png  used on input line 91.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] [4 <./Figs/1-uTotSchema.png>] [5] [6]
-<Figs/2-BcrBv.png, id=312, 1599.3351pt x 1574.7633pt>
+[5] [6 <./Figs/1-uTotSchema.png>] [7] [8] [9] [10]
+<Figs/2-BcrBv.png, id=328, 1599.3351pt x 1574.7633pt>
 File: Figs/2-BcrBv.png Graphic file (type png)
 <use Figs/2-BcrBv.png>
 Package pdftex.def Info: Figs/2-BcrBv.png  used on input line 176.
 (pdftex.def)             Requested size: 312.9803pt x 308.17093pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7] [8 <./Figs/2-BcrBv.png>]
-<Figs/3a-DiguesArmand.png, id=344, 562.2606pt x 222.5916pt>
+ [11 <./Figs/2-BcrBv.png>]
+[12]
+<Figs/3a-DiguesArmand.png, id=357, 562.2606pt x 222.5916pt>
 File: Figs/3a-DiguesArmand.png Graphic file (type png)
 <use Figs/3a-DiguesArmand.png>
 Package pdftex.def Info: Figs/3a-DiguesArmand.png  used on input line 221.
 (pdftex.def)             Requested size: 358.50314pt x 141.92828pt.
-<Figs/3b-MatrixChenal_EN.png, id=345, 700.2963pt x 441.93105pt>
+<Figs/3b-MatrixChenal_EN.png, id=358, 700.2963pt x 441.93105pt>
 File: Figs/3b-MatrixChenal_EN.png Graphic file (type png)
 <use Figs/3b-MatrixChenal_EN.png>
 Package pdftex.def Info: Figs/3b-MatrixChenal_EN.png  used on input line 228.
 (pdftex.def)             Requested size: 307.29288pt x 193.92427pt.
-<Figs/3c-ProfilsBardRestit.png, id=346, 322.5651pt x 211.7511pt>
+<Figs/3c-ProfilsBardRestit.png, id=359, 322.5651pt x 211.7511pt>
 File: Figs/3c-ProfilsBardRestit.png Graphic file (type png)
 <use Figs/3c-ProfilsBardRestit.png>
 Package pdftex.def Info: Figs/3c-ProfilsBardRestit.png  used on input line 234.
 
 (pdftex.def)             Requested size: 221.24515pt x 145.23924pt.
-<Figs/3c-ProfilAvalRestitEN.png, id=347, 455.301pt x 312.9291pt>
+<Figs/3c-ProfilAvalRestitEN.png, id=360, 455.301pt x 312.9291pt>
 File: Figs/3c-ProfilAvalRestitEN.png Graphic file (type png)
 <use Figs/3c-ProfilAvalRestitEN.png>
 Package pdftex.def Info: Figs/3c-ProfilAvalRestitEN.png  used on input line 235
 .
 (pdftex.def)             Requested size: 221.24515pt x 152.06169pt.
- [9 <./Figs/3a-DiguesArmand.png> <./Figs/3b-MatrixChenal_EN.png> <./Figs/3c-Pro
-filsBardRestit.png> <./Figs/3c-ProfilAvalRestitEN.png>]
-<Figs/5-Quant5perc_both.png, id=373, 722.7pt x 385.44pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13] [14 <./Figs/3a-DiguesArmand.png> <./Figs/3b-MatrixChenal_EN.png> <./Figs/3
+c-ProfilsBardRestit.png> <./Figs/3c-ProfilAvalRestitEN.png>]
+<Figs/5-Quant5perc_both.png, id=394, 722.7pt x 385.44pt>
 File: Figs/5-Quant5perc_both.png Graphic file (type png)
 <use Figs/5-Quant5perc_both.png>
 Package pdftex.def Info: Figs/5-Quant5perc_both.png  used on input line 282.
 (pdftex.def)             Requested size: 426.79134pt x 227.62523pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -913,8 +936,8 @@ Overfull \hbox (1.4111pt too wide) in paragraph at lines 327--368
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10] [11 <./Figs/5-Quant5perc_both.png>] [12]
-<Figs/4-TabObsBcrSmall.jpg, id=394, 187.902pt x 121.545pt>
+[15 <./Figs/5-Quant5perc_both.png>] [16]
+<Figs/4-TabObsBcrSmall.jpg, id=408, 187.902pt x 121.545pt>
 File: Figs/4-TabObsBcrSmall.jpg Graphic file (type jpg)
 <use Figs/4-TabObsBcrSmall.jpg>
 Package pdftex.def Info: Figs/4-TabObsBcrSmall.jpg  used on input line 381.
@@ -927,7 +950,7 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 382.
-[13
+[17
 
  <./Figs/4-TabObsBcrSmall.jpg>]
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 4
@@ -938,22 +961,25 @@ File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <10.95> not available
 (Font)              Font shape `OML/cmm/b/it' tried instead on input line 436.
-[14]
-<Figs/6a-SegmPt.pdf, id=437, 1134.485pt x 544.06485pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18] [19]
+<Figs/6a-SegmPt.pdf, id=455, 1134.485pt x 544.06485pt>
 File: Figs/6a-SegmPt.pdf Graphic file (type pdf)
 <use Figs/6a-SegmPt.pdf>
 Package pdftex.def Info: Figs/6a-SegmPt.pdf  used on input line 486.
 (pdftex.def)             Requested size: 384.1122pt x 184.20753pt.
-<Figs/6b-SegmRes.pdf, id=438, 1139.6264pt x 540.87599pt>
+<Figs/6b-SegmRes.pdf, id=456, 1139.6264pt x 540.87599pt>
 File: Figs/6b-SegmRes.pdf Graphic file (type pdf)
 <use Figs/6b-SegmRes.pdf>
 Package pdftex.def Info: Figs/6b-SegmRes.pdf  used on input line 491.
 (pdftex.def)             Requested size: 384.1122pt x 182.30255pt.
+ [20 <./Figs/6a-SegmPt.pdf> <./Figs/6b-SegmRes.pdf
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[15]
+pdfTeX warning: pdflatex (file ./Figs/6b-SegmRes.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+>]
 Underfull \hbox (badness 10000) in paragraph at lines 511--511
 []|\OT1/cmr/bx/n/10.95 Maxpost
  []
@@ -971,42 +997,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 511--511
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16 <./Figs/6a-SegmPt.pdf> <./Figs/6b-SegmRes.pdf
-
-pdfTeX warning: pdflatex (file ./Figs/6b-SegmRes.pdf): PDF inclusion: multiple 
-pdfs with page group included in a single page
->] [17]
-<Figs/7a-RClog_ICdownPt.pdf, id=482, 867.24pt x 722.7pt>
+[21] [22]
+<Figs/7a-RClog_ICdownPt.pdf, id=499, 867.24pt x 722.7pt>
 File: Figs/7a-RClog_ICdownPt.pdf Graphic file (type pdf)
 <use Figs/7a-RClog_ICdownPt.pdf>
 Package pdftex.def Info: Figs/7a-RClog_ICdownPt.pdf  used on input line 589.
 (pdftex.def)             Requested size: 250.95612pt x 209.1255pt.
-<Figs/7b-RClog_ICdownRes.pdf, id=483, 867.24pt x 722.7pt>
+<Figs/7b-RClog_ICdownRes.pdf, id=500, 867.24pt x 722.7pt>
 File: Figs/7b-RClog_ICdownRes.pdf Graphic file (type pdf)
 <use Figs/7b-RClog_ICdownRes.pdf>
 Package pdftex.def Info: Figs/7b-RClog_ICdownRes.pdf  used on input line 595.
 (pdftex.def)             Requested size: 250.95612pt x 209.1255pt.
-<Figs/7c-bs_Pt.pdf, id=484, 1116.79231pt x 696.08054pt>
+<Figs/7c-bs_Pt.pdf, id=501, 1116.79231pt x 696.08054pt>
 File: Figs/7c-bs_Pt.pdf Graphic file (type pdf)
 <use Figs/7c-bs_Pt.pdf>
 Package pdftex.def Info: Figs/7c-bs_Pt.pdf  used on input line 602.
 (pdftex.def)             Requested size: 245.8296pt x 153.22316pt.
-<Figs/7d-bs_Restit.pdf, id=485, 1140.94247pt x 697.0542pt>
+<Figs/7d-bs_Restit.pdf, id=502, 1140.94247pt x 697.0542pt>
 File: Figs/7d-bs_Restit.pdf Graphic file (type pdf)
 <use Figs/7d-bs_Restit.pdf>
 Package pdftex.def Info: Figs/7d-bs_Restit.pdf  used on input line 608.
 (pdftex.def)             Requested size: 250.95612pt x 153.32048pt.
-<Figs/7e-a&csPt.pdf, id=486, 867.24pt x 505.89pt>
+<Figs/7e-a&csPt.pdf, id=503, 867.24pt x 505.89pt>
 File: Figs/7e-a&csPt.pdf Graphic file (type pdf)
 <use Figs/7e-a&csPt.pdf>
 Package pdftex.def Info: Figs/7e-a&csPt.pdf  used on input line 616.
 (pdftex.def)             Requested size: 199.73802pt x 116.50662pt.
-<Figs/7f-b3_as_cs_Restit.pdf, id=487, 1084.05pt x 505.89pt>
+<Figs/7f-b3_as_cs_Restit.pdf, id=504, 1084.05pt x 505.89pt>
 File: Figs/7f-b3_as_cs_Restit.pdf Graphic file (type pdf)
 <use Figs/7f-b3_as_cs_Restit.pdf>
 Package pdftex.def Info: Figs/7f-b3_as_cs_Restit.pdf  used on input line 622.
 (pdftex.def)             Requested size: 250.95612pt x 117.10873pt.
-<Figs/7g-Legend.png, id=488, 419.8887pt x 312.9291pt>
+<Figs/7g-Legend.png, id=505, 419.8887pt x 312.9291pt>
 File: Figs/7g-Legend.png Graphic file (type png)
 <use Figs/7g-Legend.png>
 Package pdftex.def Info: Figs/7g-Legend.png  used on input line 629.
@@ -1015,56 +1037,56 @@ Package pdftex.def Info: Figs/7g-Legend.png  used on input line 629.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18] [19 <./Figs/7a-RClog_ICdownPt.pdf> <./Figs/7b-RClog_ICdownRes.pdf> <./Figs
+[23] [24 <./Figs/7a-RClog_ICdownPt.pdf> <./Figs/7b-RClog_ICdownRes.pdf> <./Figs
 /7c-bs_Pt.pdf> <./Figs/7d-bs_Restit.pdf
 
 pdfTeX warning: pdflatex (file ./Figs/7d-bs_Restit.pdf): PDF inclusion: multipl
 e pdfs with page group included in a single page
 > <./Figs/7e-a&csPt.pdf> <./Figs/7f-b3_as_cs_Restit.pdf> <./Figs/7g-Legend.png>
 ]
-<Figs/8-StageErrorAMAX_BOTH.pdf, id=660, 1084.05pt x 722.7pt>
+<Figs/8-StageErrorAMAX_BOTH.pdf, id=677, 1084.05pt x 722.7pt>
 File: Figs/8-StageErrorAMAX_BOTH.pdf Graphic file (type pdf)
 <use Figs/8-StageErrorAMAX_BOTH.pdf>
 Package pdftex.def Info: Figs/8-StageErrorAMAX_BOTH.pdf  used on input line 644
 .
 (pdftex.def)             Requested size: 460.9315pt x 307.28128pt.
- [20 <./Figs/8-StageErrorAMAX_BOTH.pdf>]
-<Figs/9-IcAndAMAX.pdf, id=676, 1228.59pt x 722.7pt>
+ [25 <./Figs/8-StageErrorAMAX_BOTH.pdf>]
+<Figs/9-IcAndAMAX.pdf, id=693, 1228.59pt x 722.7pt>
 File: Figs/9-IcAndAMAX.pdf Graphic file (type pdf)
 <use Figs/9-IcAndAMAX.pdf>
 Package pdftex.def Info: Figs/9-IcAndAMAX.pdf  used on input line 659.
 (pdftex.def)             Requested size: 512.1496pt x 301.26025pt.
- [21 <./Figs/9-IcAndAMAX.pdf>]
-<Figs/10a-GeV_205years.pdf, id=704, 1300.86pt x 578.16pt>
+ [26 <./Figs/9-IcAndAMAX.pdf>]
+<Figs/10a-GeV_205years.pdf, id=717, 1300.86pt x 578.16pt>
 File: Figs/10a-GeV_205years.pdf Graphic file (type pdf)
 <use Figs/10a-GeV_205years.pdf>
 Package pdftex.def Info: Figs/10a-GeV_205years.pdf  used on input line 688.
 (pdftex.def)             Requested size: 507.03091pt x 225.34915pt.
-<Figs/10b-BarplotQuantiles4cases.pdf, id=705, 1011.78pt x 578.16pt>
+<Figs/10b-BarplotQuantiles4cases.pdf, id=718, 1011.78pt x 578.16pt>
 File: Figs/10b-BarplotQuantiles4cases.pdf Graphic file (type pdf)
 <use Figs/10b-BarplotQuantiles4cases.pdf>
 Package pdftex.def Info: Figs/10b-BarplotQuantiles4cases.pdf  used on input lin
 e 696.
 (pdftex.def)             Requested size: 250.95612pt x 143.4016pt.
-<Figs/10c-Ukplot4cases.pdf, id=706, 1156.32pt x 650.43pt>
+<Figs/10c-Ukplot4cases.pdf, id=719, 1156.32pt x 650.43pt>
 File: Figs/10c-Ukplot4cases.pdf Graphic file (type pdf)
 <use Figs/10c-Ukplot4cases.pdf>
 Package pdftex.def Info: Figs/10c-Ukplot4cases.pdf  used on input line 702.
 (pdftex.def)             Requested size: 250.95612pt x 141.15971pt.
-<Figs/10d-Shape_4cases.pdf, id=707, 722.7pt x 505.89pt>
+<Figs/10d-Shape_4cases.pdf, id=720, 722.7pt x 505.89pt>
 File: Figs/10d-Shape_4cases.pdf Graphic file (type pdf)
 <use Figs/10d-Shape_4cases.pdf>
 Package pdftex.def Info: Figs/10d-Shape_4cases.pdf  used on input line 709.
 (pdftex.def)             Requested size: 240.71092pt x 168.49577pt.
-<Figs/10e-Q1000SSize.pdf, id=708, 867.24pt x 578.16pt>
+<Figs/10e-Q1000SSize.pdf, id=721, 867.24pt x 578.16pt>
 File: Figs/10e-Q1000SSize.pdf Graphic file (type pdf)
 <use Figs/10e-Q1000SSize.pdf>
 Package pdftex.def Info: Figs/10e-Q1000SSize.pdf  used on input line 715.
 (pdftex.def)             Requested size: 266.31998pt x 177.54274pt.
 
-[22] [23 <./Figs/10a-GeV_205years.pdf> <./Figs/10b-BarplotQuantiles4cases.pdf> 
+[27] [28 <./Figs/10a-GeV_205years.pdf> <./Figs/10b-BarplotQuantiles4cases.pdf> 
 <./Figs/10c-Ukplot4cases.pdf> <./Figs/10d-Shape_4cases.pdf> <./Figs/10e-Q1000SS
-ize.pdf>] [24] [25] [26] [27]
+ize.pdf>] [29] [30] [31] [32] [33] [34] [35]
 Overfull \hbox (6.37616pt too wide) in paragraph at lines 793--793
 \OT1/cmr/m/it/10.95 log-i-cal Sci-ences Jour-nal \OT1/cmr/m/n/10.95 27.4, pp. 4
 93{504. \OT1/cmr/m/sc/10.95 issn\OT1/cmr/m/n/10.95 : 0262-6667, 2150-3435. \OT1
@@ -1072,51 +1094,21 @@ Overfull \hbox (6.37616pt too wide) in paragraph at lines 793--793
 626668209491128$[][]\OT1/cmr/m/n/10.95 . 
  []
 
-[28] [29] [30] [31] [32]
-<Supplementary/FloodStages.pdf, id=985, 1156.32pt x 722.7pt>
-File: Supplementary/FloodStages.pdf Graphic file (type pdf)
-<use Supplementary/FloodStages.pdf>
-Package pdftex.def Info: Supplementary/FloodStages.pdf  used on input line 801.
-
-(pdftex.def)             Requested size: 460.9315pt x 288.0824pt.
-<Supplementary/RC_Pt_zoom.pdf, id=986, 1156.32pt x 722.7pt>
-File: Supplementary/RC_Pt_zoom.pdf Graphic file (type pdf)
-<use Supplementary/RC_Pt_zoom.pdf>
-Package pdftex.def Info: Supplementary/RC_Pt_zoom.pdf  used on input line 814.
-(pdftex.def)             Requested size: 409.72124pt x 256.06956pt.
-<Supplementary/RC_Res_zoom.pdf, id=987, 1156.32pt x 722.7pt>
-File: Supplementary/RC_Res_zoom.pdf Graphic file (type pdf)
-<use Supplementary/RC_Res_zoom.pdf>
-Package pdftex.def Info: Supplementary/RC_Res_zoom.pdf  used on input line 820.
-
-(pdftex.def)             Requested size: 409.72124pt x 256.06956pt.
-<Supplementary/IC_AMAX_Both_Bands.pdf, id=990, 1156.32pt x 505.89pt>
-File: Supplementary/IC_AMAX_Both_Bands.pdf Graphic file (type pdf)
-<use Supplementary/IC_AMAX_Both_Bands.pdf>
-Package pdftex.def Info: Supplementary/IC_AMAX_Both_Bands.pdf  used on input li
-ne 833.
-(pdftex.def)             Requested size: 512.1496pt x 224.05893pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[33 <./Supplementary/FloodStages.pdf>] [34 <./Supplementary/RC_Pt_zoom.pdf> <./
-Supplementary/RC_Res_zoom.pdf>] [35 <./Supplementary/IC_AMAX_Both_Bands.pdf>]
-(AfterReview.aux)
+[36] [37] [38] [39] [40] [41] [42] (AfterReview.aux)
 Package rerunfilecheck Info: File `AfterReview.out' has not changed.
-(rerunfilecheck)             Checksum: 7A7CF6C9C5D6D7EAC3DF998EFB4A8A0B;7478.
+(rerunfilecheck)             Checksum: D87FE70D1E6609726AA4D7D453F2813D;7321.
 Package logreq Info: Writing requests to 'AfterReview.run.xml'.
 \openout1 = `AfterReview.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20907 strings out of 478659
- 380055 string characters out of 2842128
- 1105603 words of memory out of 3000000
- 38495 multiletter control sequences out of 15000+600000
- 419657 words of font info for 87 fonts, out of 8000000 for 9000
+ 21145 strings out of 478659
+ 383703 string characters out of 2842128
+ 1108828 words of memory out of 3000000
+ 38726 multiletter control sequences out of 15000+600000
+ 419957 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,23n,77p,3319b,1764s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,23n,77p,3319b,1770s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1095.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/j
 knappen/ec/dpi600\tcrm0600.pk> <C:\Users\mathieu.lucas\AppData\Local\MiKTeX\fon
@@ -1141,15 +1133,16 @@ fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/mathieu.lucas/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mathieu.lucas/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users
 /mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/mathieu.lucas/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/mathieu.luc
-as/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb
->
-Output written on AfterReview.pdf (35 pages, 10644873 bytes).
+s8.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/mathieu.lucas/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/mathieu.lucas/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/mathieu.luca
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/U
+sers/mathieu.lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb>
+Output written on AfterReview.pdf (42 pages, 10345896 bytes).
 PDF statistics:
- 1191 PDF objects out of 1200 (max. 8388607)
- 225 named destinations out of 1000 (max. 500000)
- 405 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1186 PDF objects out of 1200 (max. 8388607)
+ 228 named destinations out of 1000 (max. 500000)
+ 377 words of extra memory for PDF output out of 10000 (max. 10000000)
 

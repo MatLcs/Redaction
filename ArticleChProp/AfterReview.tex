@@ -22,10 +22,10 @@ maxbibnames=99,url=false]{biblatex}
 \hypersetup{colorlinks=true,linkcolor=blue,filecolor=magenta, urlcolor=cyan,citecolor=cyan}
 \geometry{a4paper, total={180mm,257mm}, left=20mm, top=20mm}
 %double spacing and line numbers for submission
-% \usepackage{lineno}
-% \linenumbers
-% \usepackage{setspace}
-% \doublespacing
+\usepackage{lineno}
+\linenumbers
+\usepackage{setspace}
+\doublespacing
  
 \title{Are historical stage records useful to decrease the uncertainty of flood frequency analysis ? A 200-year long case study}
 
@@ -84,7 +84,7 @@ maxbibnames=99,url=false]{biblatex}
     \paragraph{}
     This paper illustrates the chained application of methods to quantify and propagate uncertainty from stage records (and their limited time resolution) and stage-discharge rating curves to the estimation of flood distribution with uncertainties. While most of these methods already exist, a key novelty of this work is their combination in a consistent framework (Figure \ref{fig:ChProp}) to provide an end-to-end evaluation of the  uncertainty affecting FFA estimates. An original method to quantify the stage uncertainty stemming from infrequent readings is also proposed.
 
-    The paper is organized as follows. First, the methodology for establishing uncertain streamflow series in a century-long context is presented. It goes through the detection of rating shifts (section \ref{subsec:RatingShifts}), the estimation of rating curves (section \ref{subsec:RC_SPD}), and the estimation (section \ref{subsec:StageErr}) and propagation (section \ref{subsec:PropagStage}) of stage errors. Then, an approach to propagate streamflow uncertainty through the estimation of extreme flood quantiles is proposed (section \ref{subsec:FFA}). This procedure is applied to the Beaucaire gauge on the Rhône River (section \ref{sec:Bcr}), which previous official FFA only used a 80-year long discharge series \citep{rigaudiere_etude_2000}. The recent works of \citet{pichard_hydro-climatology_2017} and \citet{bard_actualisation_2018} provided a continuous stage series from 1816 to the present time, which makes it the ideal case study for demonstrating this procedure. The results of this application are presented in section \ref{sec:Results}, and they are discussed in section \ref{sec:Discussion}, where avenues for improvements are proposed.
+    The paper is organized as follows. First, the methodology for establishing uncertain streamflow series in a century-long context is presented. It goes through the detection of rating shifts (section \ref{subsec:RatingShifts}), the estimation of rating curves (section \ref{subsec:RC_SPD}), and the estimation (section \ref{subsec:StageErr}) and propagation (section \ref{subsec:PropagStage}) of stage errors. Then, an approach to propagate streamflow uncertainty through the estimation of extreme flood quantiles is proposed (section \ref{subsec:FFA}). This procedure is applied to the Beaucaire gauge on the Rhône River (section \ref{sec:Bcr}), which previous official FFA only used a 80-year long discharge series \citep{rigaudiere_etude_2000}. In France, the official design flood for flood risk mapping is based on the “largest known flood” or the Q100 flood (AEP=0.01) if the latter is greater. Uncertainty is not taken into account in the official rules. The recent works of \citet{pichard_hydro-climatology_2017} and \citet{bard_actualisation_2018} provided a continuous stage series from 1816 to the present time, which makes it the ideal case study for demonstrating this procedure. The results of this application are presented in section \ref{sec:Results}, and they are discussed in section \ref{sec:Discussion}, where avenues for improvements are proposed.
     
     \begin{figure}[h!]
     \centering
@@ -579,7 +579,7 @@ maxbibnames=99,url=false]{biblatex}
     Eleven uncertain rating curves were computed at Beaucaire Restitution (figure \ref{subfig:RcRes}). The rating curve uncertainty intervals are smaller than at Pont de Beaucaire for usual stages because of a larger number of gaugings and a smaller gaugings uncertainty: around 5\% of uncertainty is estimated for floods above 6 m. However, low flows uncertainty is greater than at Pont de Beaucaire, because the sustained flows of the Rhône River limits the exploration of the sea-influenced hydraulic control. Low flows gaugings are unavailable. Thus, the first control offsets $b_1$ are not precisely estimated (figure \ref{subfig:B'sRes}), but this has no consequences on the streamflow uncertainty of AMAX floods, for which only controls 2 and 3 are active. The first period rating curve (dark red) is shifted with respect to the other curves due to the channel adjustment and dredging operations after Vallabrègues works (1967-1970). The second control offsets ($b_2$) globally decreases over time, showing a slight scouring trend of the channel (figure \ref{subfig:B'sRes}). Static parameters (figure \ref{subfig:bac'sRes}) appear precisely estimated, except for the 3\textsuperscript{rd} control offset $b_3$ for which the posterior distribution is as wide as the prior. 
     
     \paragraph{}
-There are several reasons for the significant differences between the upper parts of the rating curves for Pont de Beaucaire (figure \ref{subfig:RcPt}) and Beaucaire Restitution (figure \ref{subfig:RcRes}). First, the gauge datum (the altitude of the stream gauge zero value) correspond to 3.37 m for Pont de Beaucaire and 0.06 m for Beaucaire Restitution. In addition, as the stations are 2 km apart, their cross-sections are very different. Pont de Beaucaire cross-section corresponds to a main channel splitted in two sub-channels (figure \ref{subfig:matrixCh}), while Beaucaire Restitution cross-section corresponds to a unique channel (figure \ref{subfig:avalprofilesRestit}). A magnified representation of the upper parts of the rating curves is available in supplementary material.
+There are several reasons for the significant differences between the upper parts of the rating curves for Pont de Beaucaire (figure \ref{subfig:RcPt}) and Beaucaire Restitution (figure \ref{subfig:RcRes}). First, the gauge datum (the altitude of the stream gauge zero value) correspond to 3.37 m for Pont de Beaucaire and 0.06 m for Beaucaire Restitution. In addition, as the stations are 2 km apart, their cross-sections are very different. Pont de Beaucaire cross-section corresponds to a main channel splitted in two sub-channels (figure \ref{subfig:matrixCh}), while Beaucaire Restitution cross-section corresponds to a unique channel (figure \ref{subfig:avalprofilesRestit}). A magnified representation of the upper parts of the rating curves is available in supplementary material (figure 2).
 	
 	
     \begin{figure}[h!]
@@ -652,7 +652,7 @@ There are several reasons for the significant differences between the upper part
     \paragraph{}
     Stage uncertainties are propagated through uncertain rating curves as described in section \ref{subsec:PropagStage} and the results are shown in figure \ref{fig:ICtot_both}. Streamflow uncertainty, although fluctuating, decreases over time from 30\% before 1840, and 10\% before 1967, to 5\% at Beaucaire Restitution (1967-2020). This 5\% uncertainty on recent AMAX discharges is consistent with the results of the international consensus conference on the December 2003 flood : “The most likely estimate of the maximum discharge of the Rhône River at Beaucaire during the December 2003 flood is 11500 m3/s, corresponding to a return period slightly above 100 years. […] This maximum discharge estimate is subject to an uncertainty of around 5\%, resulting from the uncertainty of flow measurements, maximum stage, parameterization and extrapolation of the December 2003 gauging data.” \citep{medd_debit_2005}.
     
-    \paragraph{} Stage uncertainty appears dominant at Pont de Beaucaire, as well as rating curve parametric uncertainty, originating from the difficulty to estimate rating curve parameters with only a few gaugings. Thus, parametric uncertainty is reduced for properly gauged periods. During the Vallabrègues hydraulic system construction (1967 - 1970), the waters of the Durance River, one of the major tributaries, were deviated from the Rhône River course. AMAX discharges of these missing years were reconstructed by CNR with upstream gauging stations. The uncertainty around these reconstructed discharges is assumed to be represented by a Gaussian distribution with 10\% relative standard deviation. An AMAX flow (with uncertainties) time series plot is available in supplementary material.
+    \paragraph{} Stage uncertainty appears dominant at Pont de Beaucaire, as well as rating curve parametric uncertainty, originating from the difficulty to estimate rating curve parameters with only a few gaugings. Thus, parametric uncertainty is reduced for properly gauged periods. During the Vallabrègues hydraulic system construction (1967 - 1970), the waters of the Durance River, one of the major tributaries, were deviated from the Rhône River course. AMAX discharges of these missing years were reconstructed by CNR with upstream gauging stations. The uncertainty around these reconstructed discharges is assumed to be represented by a Gaussian distribution with 10\% relative standard deviation. An AMAX flow (with uncertainties) time series plot is available in supplementary material (figure 3).
     
     \begin{figure}[h!]
         \centering
@@ -729,7 +729,7 @@ There are several reasons for the significant differences between the upper part
         \subsubsection{Sample size influence on quantiles uncertainty}
         \label{subsec:SampleSize}
         
-        With an exceptionally long sample at Beaucaire, the influence of sample size on flood quantiles estimation in a real case can be quantified, hence assessing the interest of using old hydrometric data when available. Four sample sizes are tested, taken as the last 50 years, 100 years, 150 years, and the largest available sample of 205 years. A figure describing these sub-samples along the AMAX time series is available in supplementary material. GEV distributions are estimated and the contribution of both streamflow and sampling uncertainties is computed for each case, following section \ref{subsec:FFA} procedure. Total uncertainty is clearly reduced between the 50 years sample and the other samples for the three return periods: 10, 100 and 1000 years (figure \ref{subfig:BarplotQuantilesGev}). Surprisingly, for the 1000-year flood estimation, the total uncertainty is not reduced between the 100 and 205 years samples. This illustrates that the reduction of sampling uncertainty induced by increasing the sample size may be compensated by the increased streamflow uncertainty when going back in time. Figure \ref{subfig:UKplot4cases} is a good illustration of this phenomenon, showing the augmentation of the relative part of streamflow uncertainty when increasing the sample size.
+        With an exceptionally long sample at Beaucaire, the influence of sample size on flood quantiles estimation in a real case can be quantified, hence assessing the interest of using old hydrometric data when available. Four sample sizes are tested, taken as the last 50 years, 100 years, 150 years, and the largest available sample of 205 years. A figure describing these sub-samples along the AMAX time series is available in supplementary material (figure 3). GEV distributions are estimated and the contribution of both streamflow and sampling uncertainties is computed for each case, following section \ref{subsec:FFA} procedure. Total uncertainty is clearly reduced between the 50 years sample and the other samples for the three return periods: 10, 100 and 1000 years (figure \ref{subfig:BarplotQuantilesGev}). Surprisingly, for the 1000-year flood estimation, the total uncertainty is not reduced between the 100 and 205 years samples. This illustrates that the reduction of sampling uncertainty induced by increasing the sample size may be compensated by the increased streamflow uncertainty when going back in time. Figure \ref{subfig:UKplot4cases} is a good illustration of this phenomenon, showing the augmentation of the relative part of streamflow uncertainty when increasing the sample size.
         
         \paragraph{}
         The maxpost values of the 205 years sample is higher than the 100 and 150 years samples (figure \ref{subfig:BarplotQuantilesGev}), probably because of the inclusion of the two largest floods of the history in the 205 years sample (1840 and 1856 floods). Thus, without using those old hydrometric data (1816-1870), the 1000-year flood could have been 15\% lower in this specific case. Figure \ref{subfig:Shape4cases} shows that the streamflow uncertainty has a minor impact on shape parameter uncertainty compared with the sampling uncertainty. The sample size impact on flood quantiles estimation is further explored in Figure \ref{subfig:SamplesQ1000}. The 1000-year flood (maxpost) and the relative contributions of both sources of uncertainty are estimated for several sample sizes, from 20 to 205 years, with a two-year step. A large reduction of sampling uncertainty (and of the total uncertainty as a consequence) appears between 20 and 100 years, along with the reduction of the maxpost value. Then, the maxpost and uncertainty intervals are constant between 100 and 160 years of sample size, until the inclusion of 1856 and 1840 major floods that lead to a slight increase in the estimated quantile. The total uncertainty interval width is not much changed by those flood inclusions but the relative contribution of streamflow uncertainty is larger.
@@ -791,49 +791,6 @@ The PhD fellowship of Mathieu Lucas is funded by INRAE, the Compagnie Nationale 
 
 \printbibliography
 
-\newpage
-
-\section{Supplementary material}
-\label{sec:suppl}
-
-	\begin{figure}[h]
-		\centering
-		\includegraphics[width=.9\linewidth]{Supplementary/FloodStages.pdf}
-	    \caption{Stage measurements of the 3 greatest floods recorded at Beaucaire. 1840 and 1856 floods were recorded at Pont de Beaucaire gauge, where only daily measurements are available, but the peak stage is known. 2003 flood was recorded at Beaucaire Restitution gauge for which hourly measurements are available. The datum and the cross-section geometry of the two gauges are different, which explains the stage difference between the stages of the XIX\textsuperscript{th} and the XXI\textsuperscript{th} centuries}
-	    \label{fig:FloodStages}
-	\end{figure}
-	
-	
-	
-	
-	
-	\begin{figure}
-		\centering
-		\begin{subfigure}{.8\textwidth}
-            \centering
-            \includegraphics[width=\linewidth]{Supplementary/RC_Pt_zoom.pdf}
-            \caption{}
-            \label{subfig:RcPtZoom}
-        \end{subfigure}
-        \begin{subfigure}{0.8\textwidth}	
-            \centering
-            \includegraphics[width=\linewidth]{Supplementary/RC_Res_zoom.pdf}
-            \caption{}
-            \label{subfig:RcResZoom}
-        \end{subfigure}
-        \caption{Magnified rating curves of Pont de Beaucaire (a) and Beaucaire Restitution gauges (b) with 95\% uncertainty (in grey) with respect to maxpost values (solid lines). Dots with error bars represent the gaugings with 95\% uncertainty. Stable stage-discharge periods are numbered from the oldest to the latest (see table \ref{tab:ShiftDates}).}
-	\end{figure}
-	
-	
-	
-	
-	
-	\begin{figure}[h]
-		\centering
-		\includegraphics[width=1\linewidth]{Supplementary/IC_AMAX_Both_Bands.pdf}
-	    \caption{AMAX maxpost discharges (black solid line) time series with 95\% uncertainties from three different sources at Beaucaire (1816-2020). Vertical dotted lines represent rating shifts. The green bands represent the sub-samples used in section \ref{subsec:SampleSize}.}
-	    \label{fig:AMAX_Bands}
-	\end{figure}
 
 
 
