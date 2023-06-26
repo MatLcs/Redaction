@@ -68,7 +68,7 @@ maxbibnames=99,url=false]{biblatex}
 \begin{document}
 
 %%%%%%%% PDG %%%%%%%%%
-%\input{./PDG.tex}
+\input{./PDG.tex}
 \setcounter{page}{1}
 \section{Introduction}
 	\subsection{Le risque de crue}
@@ -399,9 +399,9 @@ maxbibnames=99,url=false]{biblatex}
 			\end{itemize}
 			\vspace{7pt}
 			\centering
-			\includegraphics<4>[width = \textwidth]{./Figures/HistoFloods0.pdf}%\phantom{s}\\
-			\includegraphics<5-6>[width = \textwidth]{./Figures/HistoFloods.pdf}%\phantom{s}\\
-			\includegraphics<7->[width = .95\textwidth]{./Figures/HistoFloods1.pdf}\phantom{s}\\
+			\includegraphics<4>[width = \textwidth]{./Figures/HistoFloods1.pdf}%\phantom{s}\\
+			\includegraphics<5-6>[width = \textwidth]{./Figures/HistoFloodsAll.pdf}%\phantom{s}\\
+			\includegraphics<7->[width = .95\textwidth]{./Figures/HistoFloodsRed.pdf}\phantom{s}\\
 			\vspace{1pt}
 			\onslide<4-> \scriptsize{Red River of the North à Winnipeg, Canada \footfullcite{st_george_paleofloods_2020}} \\
 			\vspace{2pt}
@@ -485,10 +485,10 @@ maxbibnames=99,url=false]{biblatex}
     \end{frame}
     }
     	
-    	\subsection{Station hydrométrique}
+    \subsection{Station hydrométrique}
 	%%%%%%%%% 19 %%%%%%%%%
 	\begin{frame}%[c]
-		\frametitle{Présentation de la station}
+		\frametitle{Le Rhône à Beaucaire}
 		\begin{minipage}{.55\textwidth}
 			\begin{itemize}
 				\item<1->[$\vartriangleright$] Bassin versant de 95 590 km²
@@ -538,6 +538,13 @@ maxbibnames=99,url=false]{biblatex}
 		\end{minipage}
 	\end{frame}
 	
+	%%%%%%%%% X %%%%%%%%%
+	\begin{frame}%[c]
+		\frametitle{Station hydrométrique (1816-2020)}
+		\centering
+      	\includegraphics[width = .8\textwidth]{./Figures/HistoFloods1.pdf}
+	\end{frame}	
+	
 	%%%%%%%%% 22 %%%%%%%%%
 	\begin{frame}%[c]
 		\frametitle{Station hydrométrique (1816-2020)}
@@ -566,10 +573,17 @@ maxbibnames=99,url=false]{biblatex}
 		\frametitle{Station hydrométrique (1816-2020)}
 		205 années de relevés systématiques de 1816 à 2020
 		\vfill
-		\includegraphics[width = .9\textwidth]{./Figures/carto.pdf} 
+		\includegraphics[width = .8\textwidth]{./Figures/carto.pdf} 
 	\end{frame}
 	
  	\subsection{HISTRHÔNE (1300-2000)}
+	%%%%%%%%% X %%%%%%%%%
+	\begin{frame}%[c]
+		\frametitle{Base de données HISTRHÔNE (1300-2000)}
+		\centering
+      	\includegraphics[width = .8\textwidth]{./Figures/HistoFloods2.pdf}
+	\end{frame}	 	
+ 	
 	%%%%%%%%% 23 %%%%%%%%%
 	\begin{frame}%[c]
 		\frametitle{Base de données HISTRHÔNE (1300-2000)}
@@ -608,9 +622,10 @@ maxbibnames=99,url=false]{biblatex}
 \section{Estimation des débits} 
 	\subsection{Intro}
     \begin{frame}
-    		\frametitle{Chaine de propagation des incertitudes}
+    		\frametitle{Estimation et propagation des incertitudes hydrométriques}
+    		\vspace{15pt}
     		\begin{center}
-    			\includegraphics<1>[width = .7\textwidth]{./Figures/Serie2.pdf} 
+    		\includegraphics<1>[width = .7\textwidth]{./Figures/HistoFloods1.pdf} 
       		\includegraphics<2>[width = .44\textwidth]{./Figures/SchemaProp1.pdf} 
 			\includegraphics<3>[width = .44\textwidth]{./Figures/SchemaProp2.pdf} 
 			\includegraphics<4>[width = .44\textwidth]{./Figures/SchemaProp3.pdf} 
@@ -622,7 +637,7 @@ maxbibnames=99,url=false]{biblatex}
 	\begin{frame}
 		\frametitle{Détermination des \textit{a priori}}
 		\begin{center}
-
+			CARTES et PROFILS HISTO
 		\end{center}	
 	\end{frame}    
     
@@ -690,7 +705,7 @@ maxbibnames=99,url=false]{biblatex}
 	\begin{frame}
 		\frametitle{Témoignages de crues}
 		\centering
-		\includegraphics<1>[width = .7\textwidth]{./Figures/Serie3.pdf} 		
+		\includegraphics<1>[width = .7\textwidth]{./Figures/HistoFloods2.pdf} 		
 	\end{frame}		
 	
 	\begin{frame}
@@ -701,7 +716,7 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 	\vspace{15pt}
 		\begin{itemize}
 			\item<2->[$\vartriangleright$]  Ordre de grandeur ? \citet{pichard_hydro-climatology_2017} $\Rightarrow$ 9000 $m^3/s$ 
-			\item<3>[$\vartriangleright$] Croisement avec les enregistrements systématiques de 1816 à 2020
+			\item<3->[$\vartriangleright$] Croisement catégories HISTRHÔNE et série de débits 1816-2020
 		\end{itemize}
 		\centering
 		\includegraphics<4>[width = .8\textwidth]{./Figures/C4_SystematicPeriod-FR.pdf} 	
@@ -713,8 +728,8 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		\vspace{5pt}
 		Données disponibles pour l'analyse fréquentielle :
 		\begin{itemize}
-			\item<1->[$\vartriangleright$] Estimation des débits de la période systématique
-			\item<2->[$\vartriangleright$] Mentions de crues historiques et ordre de grandeur
+			\item<1->[$\vartriangleright$] Estimation des débits de la période systématique $\rightarrow$ 1816 - 2020
+			\item<2->[$\vartriangleright$] Mentions de crues historiques catégorie C4 $\rightarrow$ 1500 - 1816
 		\end{itemize}
 		\vspace{5pt}
 		\centering
@@ -727,9 +742,10 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
     \setbeamercolor{background canvas}{bg=myblue}
     \begin{frame}
         \begin{center}
+        	\vfill
 		 	\textcolor{white}{\large \textbf{Analyse fréquentielle des crues sur 5 siècles}}\\
 		 	\vspace{0.8cm}
-		 	\includegraphics[width = .4\textwidth]{./Figures/RepAvi.jpg} 
+		 	\includegraphics[width = .3\textwidth]{./Figures/RepAvi.jpg} 
         \end{center}
     \end{frame}
     }
@@ -738,19 +754,19 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 	\begin{frame}
 		\frametitle{Analyse fréquentielle 1816-2020}
 		\centering
-		\includegraphics<1>[width = .7\textwidth]{./Figures/EchMixteC4Bcr.pdf} 
+		\includegraphics[width = .7\textwidth]{./Figures/HistoFloodsAll.pdf} 
 	\end{frame}
 	
 	\begin{frame}
 		\frametitle{Analyse fréquentielle 1816-2020}
 		\vspace{5pt}
-		2 types d'incertitude propagées indépendamment, puis successivement :\\
-		\vspace{5pt}
+		2 types d'incertitudes propagées indépendamment, puis successivement :\\
+		\vspace{10pt}
 		\begin{minipage}{.5\textwidth}
 			\begin{itemize}
 				\item<2->[$\vartriangleright$] Incertitude hydrométrique
 					\vspace{40pt}
-				\item<3->[$\vartriangleright$] Incertitude d'échantillonnage
+				\item<3->[$\vartriangleright$] Incertitude d'échantillonnage \\
 			\end{itemize}
 		\end{minipage}
 		\begin{minipage}{.49\textwidth}
@@ -783,11 +799,11 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		Utilisation du concept de "seuil de perception" \footfullcite{gerard_probability_1979};\footfullcite{stedinger_flood_1986} :\\
 		\vfill
 		\begin{itemize}
-			\item Crues > Seuil de perception $\Rightarrow$ apparaissent dans les données historiques
+			\item [$\vartriangleright$] Crues > Seuil de perception $\Rightarrow$ apparaissent dans les données historiques
 			\vfill
-			\item Années sans mentions de crue < Seuil de perception
+			\item [$\vartriangleright$] Années sans mentions de crue < Seuil de perception
 			\vfill
-			\item Connaissance du débit des crues historiques $\Rightarrow$ pas nécessaire : nombre de dépassements du seuil suffisant \textsuperscript{16;}\footfullcite{payrastre_usefulness_2011}
+			\item [$\vartriangleright$] Connaissance du débit des crues historiques $\Rightarrow$ pas nécessaire : nombre de dépassements du seuil suffisant \textsuperscript{16;}\footfullcite{payrastre_usefulness_2011}
 		\end{itemize}
 	\end{frame}
 
@@ -805,7 +821,6 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		\begin{equation}
 			F(x;\boldsymbol{\theta}) = e^{-(1-\xi(\frac{x - \mu}{\sigma}))^{1/\xi}}
 		\end{equation}
-
 		\vfill
 		La probabilité du dépassement du seuil $S$ peut alors s'écrire :
 		\begin{equation}
@@ -813,7 +828,6 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		\end{equation}
 		\vfill
 		On suppose que $k$ suit une loi binomiale de paramètres $n$ et $pi$ $\Rightarrow$ $\mathcal{B}(n,\pi)$
-	
 	\end{frame}		
 		
 	\begin{frame}
@@ -833,8 +847,8 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 			\vfill			
 			Distribution \textit{a posteriori} explorée via une méthode bayésienne MCMC \footfullcite{renard_application_2006}
 	\end{frame}
-	
-	\subsection{Modèle fréquentiel historique}
+
+%	\subsection{Modèle fréquentiel et incertitudes}
 	\begin{frame}
 		\frametitle{Modèle A : propagation des incertitudes hydrométriques}
 		Propagation des incertitudes hydrométriques de la période systématique
@@ -899,9 +913,9 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		\vfill
 		\textit{A priori} peu informatifs :
 		\begin{itemize}
-			\item Seuil $S = 9000$ [m\textsuperscript{3}/s $\Rightarrow mathrm{N}(9000,2000)$ \\
+			\item [$\vartriangleright$] Seuil $S = 9000$ [m\textsuperscript{3}/s $\Rightarrow mathcal{N}(9000,2000)$ \\
 			\vfill
-			\item Date de début de la période historique $t^* = 1816 \Rightarrow \mathrm{U}(1340,1840)$ :\\
+			\item [$\vartriangleright$] Date de début de la période historique $t^* = 1816 \Rightarrow \mathrm{U}(1340,1840)$ :\\
 			Date de la première crue > $S$ - 500 ans
 		\end{itemize}
 		\vfill
@@ -910,8 +924,10 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 			\begin{tabular}{c|c|c|c|c}
 	%			\hline
 				Modèle & \textcolor{orange}{A} & \textcolor{red}{B} & \textcolor{cyan}{C} & \textcolor{blue}{D}\\\hline
-				Seuil $S$ [m\textsuperscript{3}/s     & Connu 9000 & Incertain $\mathcal{{N}(9000,2000)$ & Connu 9000 & Incertain $\mathcal{N}(9000,2000)$ \\ \hline
-				Date $t^*$ & Connue 1816 & Connue 1816 & Incertaine $\mathcal{U}(1340,1840)$ & Incertaine $\mathcal{U}(1340,1840)$ \\
+				Seuil $S$ [m\textsuperscript{3}/s]     & Connu  & Incertain & Connu  & Incertain \\ \hline
+				Prior $S$ & 9000 & $\mathcal{N}(9000,2000)$ & 9000 & $\mathcal{N}(9000,2000)$ \\ \hline
+				Date $t^*$ & Connue  & Connue  & Incertaine & Incertaine \\ \hline
+				Prior $t^*$ & 1816 & 1816 & $\mathcal{U}(1340,1840)$ &  $\mathcal{U}(1340,1840)$ \\
 			\end{tabular}
 		\end{table}
 	\end{frame}
@@ -926,9 +942,9 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		Soit $S = 9000$ $m^3/s$ et $n = 154$ ans\\
 		\vfill
 		\begin{itemize}
-			\item Pont de Beaucaire (1816-1970) : Nombre de dépassements du seuil S = 9000 m\textsuperscript{3}/s
+			\item [$\vartriangleright$] Pont de Beaucaire (1816-1970) : Nombre de dépassements du seuil S = 9000 m\textsuperscript{3}/s
 			\vspace{5pt}			
-			\item Beaucaire Restitution (1971-2020) : L'ensemble des débits maximum annuels avec incertitude
+			\item [$\vartriangleright$] Beaucaire Restitution (1971-2020) : L'ensemble des débits maximum annuels avec incertitude
 		\end{itemize}
 	\end{frame}
 	
@@ -957,11 +973,11 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		\frametitle{Échantillon dégradé (1816-2020)}
 		
 		\begin{itemize}
-			\item Méconnaissance de $S$ $\Rightarrow$ plus impactante que méconnaissance de $n$
+			\item [$\vartriangleright$] Méconnaissance de $S$ $\Rightarrow$ plus impactante que méconnaissance de $n$
 			\vfill
-			\item Distribution \textit{a posteriori} de $n$ relativement large
+			\item [$\vartriangleright$] Distribution \textit{a posteriori} de $n$ relativement large
 			\vfill
-			\item Corrélations entre $S$ et $n$
+			\item [$\vartriangleright$] Corrélations entre $S$ et $n$
 		\end{itemize}
 	\end{frame}
 	
@@ -978,22 +994,20 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 \subsection{Conclusion}
 	\begin{frame}[c]
 		\frametitle{Conclusion sur l'analyse fréquentielle de 1500 à 2020}
-		\begin{center}
-			bla
-		\end{center}
+			a
 	\end{frame}
 	
-\section{Conclusion générale}
+\section{Conclusion}
 	\subsection{Conclusion}
 	\begin{frame}
 		\frametitle{Conclusion}
-		b
+		a
 	\end{frame}
 
 	\subsection{Perspectives}
 	\begin{frame}
 		\frametitle{Perspectives}
-		b
+		a
 	\end{frame}
 	
 %	\subsection{Remerciements}
