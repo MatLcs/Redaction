@@ -195,11 +195,11 @@ maxbibnames=99,url=false]{biblatex}
       	\end{itemize}
       	\vfill
       	\centering
-      	\onslide<8> Leur détermination est \textbf{essentielle} pour
+      	\onslide<8-> Leur détermination est \textbf{essentielle} pour
       	\begin{itemize}
-      		\item<9>[$\vartriangleright$] la prise de décision (infrastructures à risque, arrêtés Cat. nat...)
+      		\item<9->[$\vartriangleright$] la prise de décision (infrastructures à risque, arrêtés Cat. nat...)
       		\vspace{5pt}
-      		\item<10>[$\vartriangleright$] comprendre l'apport des informations historiques
+      		\item<10->[$\vartriangleright$] comprendre l'apport des informations historiques
       	\end{itemize}
       	 notamment pour la prise de décision
 	\end{frame}
@@ -214,7 +214,7 @@ maxbibnames=99,url=false]{biblatex}
 		\end{itemize}
 		\vspace{3pt}
 		\begin{center}
-			\includegraphics<3>[width = .3\textwidth]{./Figures/LogoHydro.pdf}
+			\includegraphics<1>[width = .25\textwidth]{./Figures/LogoHydro.pdf}
 			\includegraphics<3>[width = .6\textwidth]{./Figures/LimniVienne.png}
 			\includegraphics<4>[width = .7\textwidth]{./Figures/Hydrom1.pdf}
 			\includegraphics<5>[width = .7\textwidth]{./Figures/Hydrom2.pdf}
@@ -357,12 +357,12 @@ maxbibnames=99,url=false]{biblatex}
 	\begin{frame}%[c]
 		\frametitle{Incertitude d'échantillonnage}
       	\begin{itemize}
-			\item<2->[$\vartriangleright$] Longueur des chroniques limitée $\Rightarrow$ 60 ans en moyenne en France\footfullcite{le_coz_quantifying_2017}
+			\item<2->[$\vartriangleright$] Longueur des chroniques de débit limitée $\Rightarrow$ 60 ans en moyenne en France\footfullcite{le_coz_quantifying_2017}
 			\vspace{2pt}
 			\item<3->[$\vartriangleright$] Périodes de retour ciblées plus grandes : 100, 1000, 10 000 ans
 		\end{itemize}
       	\begin{center}
-      		\includegraphics<1>[width = .3\textwidth]{./Figures/LogoHydro.pdf}
+      		\includegraphics<1>[width = .25\textwidth]{./Figures/LogoSampling.pdf}
       		\includegraphics<2-3>[width = .6\textwidth]{./Figures/NbStationsHydro.pdf}
 			\includegraphics<4>[width = .6\textwidth]{./Figures/Qsample1.pdf}
 			\includegraphics<5->[width = .6\textwidth]{./Figures/Qsample2.pdf}\phantom{s}\\
@@ -542,7 +542,7 @@ maxbibnames=99,url=false]{biblatex}
 	\begin{frame}%[c]
 		\frametitle{Station hydrométrique (1816-2020)}
 		\centering
-      	\includegraphics[width = .8\textwidth]{./Figures/HistoFloods1.pdf}
+      	\includegraphics[width = .7\textwidth]{./Figures/HistoFloods1.pdf}
 	\end{frame}	
 	
 	%%%%%%%%% 22 %%%%%%%%%
@@ -562,17 +562,18 @@ maxbibnames=99,url=false]{biblatex}
 		\begin{minipage}{.53\textwidth}
 			\begin{center}
 %	      		\includegraphics<1>[width = \textwidth]{./Figures/PtBcr.png} 
-	      		\includegraphics<1>[width = \columnwidth]{./Figures/TabObs.jpg} 
-%	      		\includegraphics<3-4>[width = \columnwidth]{./Figures/BcrRestit.png} 
-	      		\includegraphics<5>[width = \textwidth]{./Figures/Jaus.pdf}
+	      		\includegraphics<1>[width = .9\columnwidth]{./Figures/TabObs.jpg} 
+	      		\includegraphics<2-4>[width = .9\columnwidth]{./Figures/Vallab.jpg} 
+	      		\includegraphics<5>[width = .9\textwidth]{./Figures/Jaus.pdf}
 			\end{center}
 		\end{minipage}
 	\end{frame}
 	
 	\begin{frame}%[c]
 		\frametitle{Station hydrométrique (1816-2020)}
-		205 années de relevés systématiques de 1816 à 2020
+		\textbf{205} années de relevés systématiques de \textbf{1816 à 2020}
 		\vfill
+		\centering
 		\includegraphics[width = .8\textwidth]{./Figures/carto.pdf} 
 	\end{frame}
 	
@@ -581,7 +582,7 @@ maxbibnames=99,url=false]{biblatex}
 	\begin{frame}%[c]
 		\frametitle{Base de données HISTRHÔNE (1300-2000)}
 		\centering
-      	\includegraphics[width = .8\textwidth]{./Figures/HistoFloods2.pdf}
+      	\includegraphics[width = .7\textwidth]{./Figures/HistoFloods2.pdf}
 	\end{frame}	 	
  	
 	%%%%%%%%% 23 %%%%%%%%%
@@ -599,7 +600,8 @@ maxbibnames=99,url=false]{biblatex}
 		\begin{minipage}{.54\textwidth}
 			\begin{center}
 	      		\includegraphics<1-2>[width = .65\textwidth]{./Figures/HistrhoneMap.jpg} 
-	      		\includegraphics<3>[width = .62\columnwidth]{./Figures/CatHistrhone.png}\phantom{s}\\
+	      		\includegraphics<3>[width = .62\columnwidth]{./Figures/CatHistrhone.png}
+	      		\includegraphics<4>[width = .9\columnwidth]{./Figures/Nb_C3-C4.pdf}\phantom{s}\\
 				\vspace{1pt}				
 				\tiny{Tiré de \url{histrhone.cerege.fr}} 
 			\end{center}
@@ -623,6 +625,7 @@ maxbibnames=99,url=false]{biblatex}
 	\subsection{Intro}
     \begin{frame}
     		\frametitle{Estimation et propagation des incertitudes hydrométriques}
+    		Comment estimer et propager l'ensemble des incertitudes hydrométriques ?
     		\vspace{15pt}
     		\begin{center}
     		\includegraphics<1>[width = .7\textwidth]{./Figures/HistoFloods1.pdf} 
@@ -636,8 +639,13 @@ maxbibnames=99,url=false]{biblatex}
     \subsection{Courbes de tarage}
 	\begin{frame}
 		\frametitle{Détermination des \textit{a priori}}
+		\hfill
+		Nombreuses cartes et profils en travers dès 1845
 		\begin{center}
-			CARTES et PROFILS HISTO
+			\includegraphics<1>[width = .5\textwidth]{./Figures/BathyPt.pdf} 
+			\includegraphics<2>[width = .7\textwidth]{./Figures/EditArmand.pdf} 
+			\includegraphics<3>[width = .6\textwidth]{./Figures/Goux4550.png} 
+			\includegraphics<4>[width = .7\textwidth]{./Figures/ProfilsBardRestit.png} 
 		\end{center}	
 	\end{frame}    
     
@@ -694,9 +702,9 @@ maxbibnames=99,url=false]{biblatex}
 	\begin{frame}
 		\frametitle{Propagation des incertitudes}
 		\centering
-		\vspace{15pt}
-		Propagation successive de chacune des sources d'incertitude 
-		\vspace{10pt}
+		\vfill
+		Propagation successive de chacune des sources d'incertitude\\
+		\vfill
 		\includegraphics<1>[width = .44\textwidth]{./Figures/SchemaProp3.pdf} 
 		\includegraphics<2>[width = .85\textwidth]{./Figures/9-IcAndAMAX.pdf} 
 	\end{frame}	
@@ -725,13 +733,13 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 	\subsection{Conclusion estimation débits}
 	\begin{frame}
 		\frametitle{Conclusions}
-		\vspace{5pt}
+		\vfill
 		Données disponibles pour l'analyse fréquentielle :
 		\begin{itemize}
 			\item<1->[$\vartriangleright$] Estimation des débits de la période systématique $\rightarrow$ 1816 - 2020
 			\item<2->[$\vartriangleright$] Mentions de crues historiques catégorie C4 $\rightarrow$ 1500 - 1816
 		\end{itemize}
-		\vspace{5pt}
+		\vfill
 		\centering
 		\includegraphics<2->[width = .7\textwidth]{./Figures/EchMixteC4Bcr.pdf} 
 	\end{frame}
@@ -754,7 +762,7 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 	\begin{frame}
 		\frametitle{Analyse fréquentielle 1816-2020}
 		\centering
-		\includegraphics[width = .7\textwidth]{./Figures/HistoFloodsAll.pdf} 
+		\includegraphics[width = .7\textwidth]{./Figures/EchMixteC4Bcr1.pdf} 
 	\end{frame}
 	
 	\begin{frame}
@@ -778,7 +786,7 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		\end{minipage} 
 		\vfill
 		\centering
-		\onslide<4> Quelle est la part de chacune des deux incertitudes dans l'incertitude totale des quantiles ? 
+		\onslide<4> Quelle est la part de chacune de ces deux incertitudes dans l'incertitude totale des quantiles ? 
 	 \end{frame}
 	
 	\begin{frame}
@@ -788,9 +796,12 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 		\includegraphics<2>[width = .9\textwidth]{./Figures/IC_AMAX_Both_Bands.pdf} 
 		\includegraphics<3>[width = .8\textwidth]{./Figures/Ukplot4cases.pdf} 
 		\includegraphics<4>[width = .8\textwidth]{./Figures/10e-Q1000SSize.pdf} 
+		\hfill
+		\onslide<4> Jusqu'à quel point l'ajout d'info. historique permet de réduire l'incertitude ? 
 	\end{frame}
 	
 	\subsection{Analyse d'un échantillon mixte}
+	
 	\begin{frame}
 		\frametitle{Seuil de perception}
 		\vfill
