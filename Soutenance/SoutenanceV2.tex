@@ -384,6 +384,10 @@ maxbibnames=99,url=false]{biblatex}
 		\item<2->[$\vartriangleright$] Méthode permettant d'en donner une estimation\footfullcite{prosdocimi_german_2018}, mais pas d'impact sur l'incertitude des quantiles de crue
 		\end{itemize}
 		\vfill
+		\centering
+			\includegraphics<1-2>[width = .4\textwidth]{./Figures/SN_uSuN1.pdf}
+			\includegraphics<3->[width = .4\textwidth]{./Figures/SN_uSuN.pdf}
+		\vfill
 	\end{frame}
 	
 	\begin{frame}
@@ -409,7 +413,7 @@ maxbibnames=99,url=false]{biblatex}
 			\item [$\vartriangleright$] Comment estimer et propager de façon homogène l'ensemble des incertitudes hydrométriques ? 
 		\end{itemize}
 		\vfill
-		\onslide<2->\large{\textbf{2-Incertitude hydrométrique VS incertitude d'échantillonnage}}
+		\onslide<2->\large{\textbf{2-Incertitude hydrométrique vs. incertitude d'échantillonnage}}
 		\vspace{5pt}
 		\begin{itemize}
 %			\item [$\vartriangleright$] Comment estimer la part respective de l'incertitude hydrométrique et de l'incertitude d'échantillonnage dans l'incertitude totale des quantiles ?\\
@@ -464,10 +468,11 @@ maxbibnames=99,url=false]{biblatex}
 		\begin{minipage}{.5\textwidth}
 			\begin{itemize}
 				\item<1->[$\vartriangleright$] Bassin versant de 95 590 km²\\
-				\vfill
+				\vspace{10pt}
+				\item<2->[$\vartriangleright$] Dernière station du Rhône complet\\
+				\vspace{10pt}
 				\item<3->[$\vartriangleright$] Apports variés et complexes : \og\textit{il comporte une infinité de nuances et de contrastes}\fg{}   \footfullcite{parde_regime_1925}\\
-				\vfill
-				\item<4->[$\vartriangleright$] Dernière station du Rhône complet\\
+				
 			\end{itemize}
 		\end{minipage}
 		\hfill
@@ -836,7 +841,7 @@ extrêmes} $\Rightarrow$ \og \textit{Inondation extraordinaire avec dégâts exc
 	\vfill
 		\begin{itemize}
 			\item<2->[$\vartriangleright$] Ordre de grandeur ? \citet{pichard_hydro-climatology_2017} $\Rightarrow$ 9000 $m^3/s$ 
-			\item<3->[$\vartriangleright$] Modélisation hydraulique ? $\Rightarrow$ Calcul incertitudes ? Bathymétrie ancienne ?
+			\item<3->[$\vartriangleright$] Modélisation hydraulique ? $\Rightarrow$ Bathymétrie ancienne ? Estimation incertitudes ?
 			\item<4->[$\vartriangleright$] Croisement données HISTRHÔNE \textbf{(1500-2000)} et série de débits  \textbf{(1816-2020)}
 		\end{itemize}
 		\vfill
@@ -957,6 +962,7 @@ hydrométrique ?}}
 		\vfill
 	\end{frame}
 	
+	\subsection{Q1000}
 	\begin{frame}[c]
 		\frametitle{Analyse fréquentielle 1816-2020}
 		\vfill
@@ -1071,7 +1077,13 @@ période historique ?\\
 			\end{itemize}
 	\end{frame}
 	
-	\subsection{4 modèles}
+	
+	\subsection{4 modèles}	
+	\begin{frame}
+		\frametitle{Données historiques et incertitudes}
+		\centering
+		\includegraphics[width = .7\textwidth]{./Figures/SN_uSuN.pdf}
+	\end{frame}
 
 	\begin{frame}
 	\frametitle{Données historiques et incertitudes}
@@ -1239,7 +1251,7 @@ période historique ?\\
 		\begin{minipage}{0.39\textwidth}
 			\centering
 			\begin{itemize}
-				\item<1-> [$\vartriangleright$] Modèle A : forte sous-estimation
+				\item<1-> [$\vartriangleright$] Modèle A : sous-estimation de l'incertitude
 				\vfill
 				\item<2-> [$\vartriangleright$] Réduction d'incertitude seulement quand $S$ est connu 
 				\vfill
@@ -1311,7 +1323,7 @@ période historique ?\\
     \begin{frame}
         \begin{center}
         	\vfill
-        	\textcolor{white}{\Large \textbf{Conclusion}}\\
+        	\textcolor{white}{\Huge \textbf{Conclusion}}\\
 		\vfill
 %		\includegraphics[width = .33\textwidth]{./Figures/uSuN.pdf}
         \end{center}
@@ -1383,13 +1395,13 @@ quantiles ?}\\
 			\vfill		
 			\begin{itemize}
 				\item<1->[$\vartriangleright$] Utilisation de données historiques complémentaires\footfullcite{fanget_historical_2013}\\
-				\vfill		
-				\item<2->[$\vartriangleright$] Prise en compte de la variabilité climatique : impact non-homogène sur le bassin versant \footfullcite{leblois_evaluation_2002} \footfullcite{giuntoli_floods_2019}\\
-				\vfill
+				\vspace{5pt}	
+				\item<2->[$\vartriangleright$] Prise en compte de la variabilité climatique : impact non-homogène sur le bassin versant \footfullcite{leblois_evaluation_2002}\textsuperscript{,}\footfullcite{giuntoli_floods_2019}\\
+				\vspace{5pt}	
 				\item<3->[$\vartriangleright$] Analyse distribuée pour chaque sous-bassin versant avec utilisation de données historiques\\
-				\vfill
+				\vspace{5pt}	
 				\item<4->[$\vartriangleright$] Analyse conditionnelle au type de temps/type de crue : océanique, méditerranéenne...\\
-				\vfill
+				\vspace{5pt}	
 				\item<5->[$\vartriangleright$] Étude de la variabilité hydroclimatique sur 5 siècles \footfullcite{bloschl_current_2020}		\\
 			\end{itemize}
 		\end{minipage}
@@ -1405,12 +1417,12 @@ quantiles ?}\\
 	
 	\subsection{Perspectives générales}
 	\begin{frame}
-		\frametitle{Perspectives générales}
+		\frametitle{Perspectives}
 		\vfill
 		\begin{itemize}
-			\item<1->[$\vartriangleright$] Utilité des nombreuses données hydroclimatiques qui dorment dans les archives
+			\item<1->[$\vartriangleright$] Test du modèle sur d'autres stations/types de données
 			\vfill
-			\item<2->[$\vartriangleright$] Test du modèle sur d'autres stations/types de données
+			\item<2->[$\vartriangleright$] Souligner l'utilité des nombreuses données hydroclimatiques "oubliées" dans les archives
 			\vfill
 			\item<3->[$\vartriangleright$] Sensibilisation collective aux risques naturels : \\ \og \textit{La nouvelle génération s'était habituée à la mansuétude, à la bénignité du Rhône, lorsque tout à coup, les eaux montèrent à une hauteur inusitée} \fg{}. \textbf{A. Eyssette, 1789}
 				\end{itemize}
@@ -1428,9 +1440,9 @@ quantiles ?}\\
     \begin{frame}
         \begin{center}
         	\vfill
-        	\textcolor{white}{\Large \textbf{Merci pour votre attention !}}\\
+        	\textcolor{white}{\Huge \textbf{Merci pour votre attention !}}\\
 		\vfill
-%		\includegraphics[width = .33\textwidth]{./Figures/uSuN.pdf}
+		\includegraphics[width = .6\textwidth]{./Figures/Zouave.jpg}
         \end{center}
     \end{frame}
     }	
@@ -1442,26 +1454,42 @@ quantiles ?}\\
 
 
 
-%\section{Annexes}	
 
-%% BONUS SLIDES
-%%%%%%%%% 4 %%%%%%%%%    Théorie des valeurs extrêmes
+	\subsection{Introduction}
 	\begin{frame}%[c]
-		\frametitle{Théorie des valeurs extrêmes}
-		\vfill
-		\textbf{La théorie des valeurs extrêmes} nous donne le cadre pour modéliser ces processus \footfullcite{fisher_limiting_1928}\textsuperscript{;}\footfullcite{gumbel_statistics_1958}
-		\vfill
-		\begin{itemize}
-			\item<2-> [$\vartriangleright$] On a $X_1,...,X_n$ une séquence de \textbf{variables aléatoires} $iid$\\
-			\textit{Par exemple une série temporelle de débits}
-			\vspace{5pt}
-			\item<3-> [$\vartriangleright$] La \textbf{valeur maximale sur un bloc} de $n$ valeurs est $M_n = max(X_1,...,X_n)$\\ \textit{Par exemple une série de maximum annuels de débit}
-			\vspace{5pt}
-			\item<4> [$\vartriangleright$] La distribution de $M_n$ quand $n\rightarrow \infty$ converge vers la loi généralisée des valeurs extrêmes : $GEV(\mu,\sigma,\xi)$
-
-		\end{itemize}	
-	\end{frame}
+			\frametitle{Théorie des valeurs extrêmes}
+			\vfill
+			\textbf{La théorie des valeurs extrêmes} nous donne le cadre pour modéliser ces processus \footfullcite{fisher_limiting_1928}\textsuperscript{;}\footfullcite{gumbel_statistics_1958}
+			\vfill
+			\begin{itemize}
+				\item<2-> [$\vartriangleright$] On a $X_1,...,X_n$ une séquence de \textbf{variables aléatoires} $iid$\\
+				\textit{Par exemple une série temporelle de débits}
+				\vspace{5pt}
+				\item<3-> [$\vartriangleright$] La \textbf{valeur maximale sur un bloc} de $n$ valeurs est $M_n = max(X_1,...,X_n)$\\ \textit{Par exemple une série de maximum annuels de débit}
+				\vspace{5pt}
+				\item<4> [$\vartriangleright$] La distribution de $M_n$ quand $n\rightarrow \infty$ converge vers la loi généralisée des valeurs extrêmes : $GEV(\mu,\sigma,\xi)$
 	
+			\end{itemize}	
+		\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	\subsection{Chap. 1}
 	%%%%%%%%% 11 %%%%%%%%%	
 	\begin{frame}
     	\frametitle{Estimation des courbes de tarage}
@@ -1531,79 +1559,8 @@ quantiles ?}\\
 			\vspace{5pt}
 			\centering
 			\onslide<3->$\underbrace{p(\theta,\sigma_f | \tilde{Q},\tilde{H})}_{posterior} \propto \underbrace{p(\tilde{Q}|\theta,\sigma_f,\tilde{H})}_{vraisemblance} \, \underbrace{p(\theta,\sigma_f)}_{prior}$
-		
-%		\begin{minipage}{.4\textwidth}
-			
-%		\end{minipage}
-%		\begin{minipage}{.55\textwidth}
-%			\begin{center}
-%				\includegraphics<2>[width = \textwidth]{./Figures/Baratin.pdf} 
-%			\end{center}
-%		\end{minipage}
-	\end{frame}
-
-%	\subsubsection{Détarages}
-	%%%%%%%%% 12 %%%%%%%%%
-	\begin{frame}%[c]
-		\frametitle{Détarages}
-		Ruptures dans la relation hauteur/débit\\
-		\vspace{15pt}
-		\begin{center}
-			\includegraphics<1>[width = .45\textwidth]{./Figures/Detar1.pdf} 
-			\includegraphics<2>[width = .45\textwidth]{./Figures/Detar2.pdf} 
-%			\includegraphics<3>[width = .45\textwidth]{./Figures/Detar3.pdf} 
-		\end{center}
-	\end{frame}
+		\end{frame}
 	
-	%%%%%%%%% 11 %%%%%%%%%
-	\begin{frame}%[c]
-		\frametitle{Segmentation des jaugeages}
-		Méthode bayésienne de détection des détarages \footfullcite{darienzo_detection_2021}\\
-		\vspace{10pt}
-		\begin{center}
-			\includegraphics<1>[width = .3\textwidth]{./Figures/CT1.pdf} 
-			\includegraphics<2>[width = .3\textwidth]{./Figures/CT2.pdf} 
-			\includegraphics<3>[width = .4\textwidth]{./Figures/CT3.pdf} 
-			\includegraphics<4->[width = .4\textwidth]{./Figures/CT4.pdf} 
-%			\includegraphics<5->[width = .7\textwidth]{./Figures/Matt.pdf}
-			\vspace{10pt}
-			\centering
-			\begin{itemize}
-				\item [$\vartriangleright$]Prise en compte des incertitudes des jaugeages et des courbes de tarage\\
-%				\item<7->[$\vartriangleright$] Incertitude sur les dates de détarage $\rightarrow$ choix utilisateur
-			\end{itemize}
-		\end{center}
-	\end{frame}
-	
-	
-		\begin{frame}%[c]
-		\frametitle{Segmentation des jaugeages}
-		Méthode bayésienne de détection des détarages \footfullcite{darienzo_detection_2021}\\
-		\vfill
-		\begin{center}
-			\includegraphics[width = .7\textwidth]{./Figures/Matt.pdf}
-			\vfill
-			\centering
-			\begin{itemize}
-				\item[$\vartriangleright$] Incertitude sur les dates de détarage $\rightarrow$ choix utilisateur
-			\end{itemize}
-		\end{center}
-	\end{frame}
-	
-	  \begin{frame}
-    		\frametitle{Estimation et propagation des incertitudes hydrométriques}
-    		Comment estimer et propager l'ensemble des incertitudes hydrométriques ?
-    		\vspace{15pt}
-    		\begin{center}
-    		\includegraphics<1>[width = .6\textwidth]{./Figures/HistoFloods1.pdf} 
-      		\includegraphics<2>[width = .44\textwidth]{./Figures/SchemaProp1.pdf} 
-			\includegraphics<3>[width = .44\textwidth]{./Figures/SchemaProp2.pdf} 
-			\includegraphics<4>[width = .44\textwidth]{./Figures/SchemaProp3.pdf} 
-%			\includegraphics<4>[width = .44\textwidth]{./Figures/SchemaProp0.pdf} 	
-	     \end{center}
-    \end{frame}
-    
-    \subsection{Courbes de tarage}
 	\begin{frame}[t]
 		\frametitle{Détermination des \textit{a priori}}
 		\vfill
@@ -1617,8 +1574,8 @@ quantiles ?}\\
 		\end{center}	
 	\end{frame}    
 	
-%	\subsubsection{CT multi}	
-	%%%%%%%%% X %%%%%%%%%
+
+	%%%%%%%%% spd %%%%%%%%%
     \begin{frame}
     Modèle de courbes de tarage multipériodes : \textbf{BaRatin SPD} (Stage-Period-Discharge)\footfullcite{mansanarez_shift_2019}
     \vfill
@@ -1641,7 +1598,107 @@ quantiles ?}\\
 		\end{minipage}    	   	
     \end{frame}
     	
-    		\begin{frame}
+    	\begin{frame}
+    		\frametitle{Estimation des courbes de tarage}
+    		\centering
+    		\includegraphics[width = .6\textwidth]{./Figures/SPDac.pdf} 	
+    	\end{frame}
+    	
+    	\begin{frame}
+    		\frametitle{Estimation des courbes de tarage}
+    		\centering
+    		\includegraphics[width = .8\textwidth]{./Figures/SPDbs.pdf} 	
+    	\end{frame}
+    	
+    	\begin{frame}
+    		\frametitle{Estimation des courbes de tarage}
+    		\centering
+    		\includegraphics[width = .8\textwidth]{./Figures/SPDmcmc.jpg} 	
+    	\end{frame}
+
+    	
+    	\begin{frame}
+    		\frametitle{Estimation des courbes de tarage}
+    		\centering
+    		\includegraphics[width = .8\textwidth]{./Figures/SPDprior.png} 	
+    	\end{frame}
+    	    	    	
+    	 \begin{frame}
+    		\frametitle{Incertitude relative débits max. annuels}
+    		\centering
+    		\includegraphics[width = .9\textwidth]{./Figures/ICrel_AMAX_Both.pdf} 	
+    	\end{frame}
+    	
+    	    	 \begin{frame}
+    		\frametitle{Incertitude limnimétrique}
+    		\centering
+    		\includegraphics[width = .3\textwidth]{./Figures/FitExpo.png} 	
+    	\end{frame}
+    	
+    	
+    	\subsection{Chap 2.}
+    	 \begin{frame}
+    		\frametitle{Param. forme GEV}
+    		\centering
+    		\includegraphics[width = .8\textwidth]{./Figures/Shape.pdf} 	
+    	\end{frame}
+    	
+    	\subsection{Chap 3.}
+    	 \begin{frame}
+    		\frametitle{Fréquence empirique ech. mixte}
+    		Le nombre de crues supérieures au seuil $S$ sur la période complète est ici noté $N_S$, et la durée de la période complète correspond à $j + n$ années. On a d'après \citet{hirsch_probability_1987} :
+    		\vfill
+		
+		\begin{equation}	
+		f_i = \begin{cases}\dfrac{i-\alpha}{N_S+1-2 \alpha} \dfrac{N_S}{j+n}, & i=1, \ldots, N_S \\ \dfrac{N_S}{j+n}+\dfrac{j+n-N_S}{j+n} \dfrac{(i-N_S-\alpha)}{(j-N_S+1-2\alpha)}, & i=N_S+1, \ldots, j+k\end{cases}
+		\end{equation}
+    	\end{frame}
+    	
+    	\begin{frame}
+    		\frametitle{Quantiles ech. mixte}
+    		\centering
+    		\includegraphics[width = .8\textwidth]{./Figures/Quantiles.pdf} 	
+    	\end{frame}
+    	
+    	\begin{frame}
+    		\frametitle{Corrélation S et n ?}
+    		\centering
+    		\includegraphics[width = .8\textwidth]{./Figures/Scatter.pdf} 	
+    	\end{frame}
+    	
+    	\begin{frame}
+    		\frametitle{Débit des crues histo. connu}
+    		\centering
+    		\includegraphics[width = .8\textwidth]{./Figures/Quantiles.pdf} 	
+    	\end{frame}
+    	
+    	\subsection{Stationnarité}
+    	
+    	\begin{frame}
+    		\frametitle{Segmentation max annuels}
+    		\centering
+    		\includegraphics[width = .7\textwidth]{./Figures/Barplots_QX_censure.pdf} 	
+    	\end{frame}
+    		
+    	\begin{frame}
+    		\frametitle{Modèle D avec prior plus informatif}
+    		\centering
+    		\includegraphics[width = .7\textwidth]{./Figures/Barplots_QX_C4short.pdf} 	
+    	\end{frame}
+    	
+    	\begin{frame}
+    		\frametitle{Test de Poisson}
+    		\centering
+    		\includegraphics[width = .9\textwidth]{./Figures/Poisson_C4_recent.pdf} 	
+    	\end{frame}
+    	   	
+    	\begin{frame}
+    		\frametitle{Test de Poisson}
+    		\centering
+    		\includegraphics[width = .9\textwidth]{./Figures/Poisson_C3-C4_FR.pdf} 	
+    	\end{frame}
+    	
+    	\begin{frame}
 		\frametitle{Témoignages de crues (1500-2000)}
 		\centering 
 		\vfill
@@ -1649,9 +1706,26 @@ quantiles ?}\\
 		\vfill
 		\includegraphics[width = .8\textwidth]{./Figures/Nb_C3-C4.pdf}
 	\end{frame}
-
+	
+	\begin{frame}
+    		\frametitle{Test de Poisson}
+    		\centering
+    		\includegraphics[width = .9\textwidth]{./Figures/Tprop.pdf} 	
+    	\end{frame}
+	
+	\subsection{Modélisation}
+	 \begin{frame}
+    		\frametitle{Scénarios modélisation}
+    		\centering
+    		\includegraphics[width = .9\textwidth]{./Figures/Mod4cases.pdf} 	
+    	\end{frame}
+    	
+    	\begin{frame}
+    		\frametitle{Scénarios modélisation}
+    		\centering
+    		\includegraphics[width = .7\textwidth]{./Figures/Mod1674.png} 	
+    	\end{frame}
 	
 	
-
 \end{document}
 
