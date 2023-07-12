@@ -143,7 +143,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{34}{section*.95}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{34}{section*.96}%
+\contentsline {paragraph}{}{35}{section*.96}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Données historiques : la base de données HISTRHÔNE (1300-2000)}{35}{section.1.2}%
 \defcounter {refsection}{0}\relax 
@@ -151,9 +151,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{35}{section*.97}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{36}{section*.99}%
+\contentsline {paragraph}{}{35}{section*.99}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{36}{section*.100}%
+\contentsline {paragraph}{}{35}{section*.100}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}Ordre de grandeur du débit de pointe des crues de la base HISTRHÔNE}{37}{subsection.1.2.2}%
 \defcounter {refsection}{0}\relax 
@@ -167,7 +167,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{39}{section*.107}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{39}{section*.109}%
+\contentsline {paragraph}{}{40}{section*.109}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{40}{section*.110}%
 \defcounter {refsection}{0}\relax 
@@ -287,297 +287,297 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{61}{section*.167}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{61}{section*.168}%
+\contentsline {paragraph}{}{62}{section*.168}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.4}Uncertainty propagation chain for flood frequency analysis}{63}{section.2.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.1}Rating shifts detection}{63}{subsection.2.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.2}Multi-period rating curves estimation: stage-period-discharge model}{63}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.2}Multi-period rating curves estimation: stage-period-discharge model}{64}{subsection.2.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{63}{section*.170}%
+\contentsline {paragraph}{}{64}{section*.170}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{63}{section*.171}%
+\contentsline {paragraph}{}{64}{section*.171}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{64}{section*.172}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.3}Stage uncertainties}{64}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.3}Stage uncertainties}{65}{subsection.2.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{64}{section*.173}%
+\contentsline {paragraph}{}{65}{section*.173}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{64}{section*.174}%
+\contentsline {paragraph}{}{65}{section*.174}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{64}{section*.175}%
+\contentsline {paragraph}{}{65}{section*.175}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{65}{section*.176}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{65}{section*.177}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.4}Propagation of stage and rating curve uncertainties to streamflow time series}{65}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.4}Propagation of stage and rating curve uncertainties to streamflow time series}{66}{subsection.2.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.5}Estimation of probabilistic model parameters and flood frequency analysis}{65}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.5}Estimation of probabilistic model parameters and flood frequency analysis}{66}{subsection.2.4.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{66}{section*.178}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Case study: The Rhône River at Beaucaire}{66}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Case study: The Rhône River at Beaucaire}{67}{section.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Site}{66}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.1}Site}{67}{subsection.2.5.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.5.2}Rating curves}{67}{subsection.2.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Pont de Beaucaire}{67}{section*.180}%
+\contentsline {paragraph}{}{67}{section*.180}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{68}{section*.181}%
+\contentsline {subsubsection}{Pont de Beaucaire}{68}{section*.181}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{68}{section*.182}%
+\contentsline {paragraph}{}{69}{section*.182}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Beaucaire Restitution}{68}{section*.184}%
+\contentsline {paragraph}{}{69}{section*.183}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{69}{section*.185}%
+\contentsline {subsubsection}{Beaucaire Restitution}{69}{section*.185}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Prior estimation of bed changes}{70}{section*.186}%
+\contentsline {paragraph}{}{69}{section*.186}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.3}Stage series}{73}{subsection.2.5.3}%
+\contentsline {subsubsection}{Prior estimation of bed changes}{71}{section*.187}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Pont de Beaucaire (1816 - 1967)}{73}{section*.190}%
+\contentsline {subsection}{\numberline {2.5.3}Stage series}{74}{subsection.2.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{74}{section*.192}%
+\contentsline {subsubsection}{Pont de Beaucaire (1816 - 1967)}{74}{section*.191}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Beaucaire Restitution (1970 - 2020)}{74}{section*.193}%
+\contentsline {paragraph}{}{75}{section*.193}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.4}Gaugings}{75}{subsection.2.5.4}%
+\contentsline {subsubsection}{Beaucaire Restitution (1970 - 2020)}{75}{section*.194}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{75}{section*.195}%
+\contentsline {subsection}{\numberline {2.5.4}Gaugings (discharge measurements)}{76}{subsection.2.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{75}{section*.196}%
+\contentsline {paragraph}{}{76}{section*.196}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Results}{75}{section.2.6}%
+\contentsline {paragraph}{}{76}{section*.197}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.1}Assessment of rating shifts}{75}{subsection.2.6.1}%
+\contentsline {section}{\numberline {2.6}Results}{76}{section.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{76}{section*.199}%
+\contentsline {subsection}{\numberline {2.6.1}Assessment of rating shifts}{76}{subsection.2.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{76}{section*.200}%
+\contentsline {paragraph}{}{77}{section*.200}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.2}Multiperiod rating curves estimation}{77}{subsection.2.6.2}%
+\contentsline {paragraph}{}{78}{section*.201}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{77}{section*.202}%
+\contentsline {subsection}{\numberline {2.6.2}Multiperiod rating curves estimation}{79}{subsection.2.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{78}{section*.203}%
+\contentsline {paragraph}{}{79}{section*.203}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.3}Stage uncertainty}{79}{subsection.2.6.3}%
+\contentsline {paragraph}{}{80}{section*.204}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.4}Total streamflow uncertainties}{80}{subsection.2.6.4}%
+\contentsline {paragraph}{}{80}{section*.205}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.5}Flood frequency analysis}{81}{subsection.2.6.5}%
+\contentsline {subsection}{\numberline {2.6.3}Stage uncertainty}{81}{subsection.2.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Streamflow series homogeneity}{81}{section*.207}%
+\contentsline {subsection}{\numberline {2.6.4}Total streamflow uncertainties}{82}{subsection.2.6.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{81}{section*.208}%
+\contentsline {paragraph}{}{82}{section*.208}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Flood frequency analysis}{81}{section*.209}%
+\contentsline {paragraph}{}{83}{section*.209}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Sample size influence on quantiles uncertainty}{82}{section*.211}%
+\contentsline {subsection}{\numberline {2.6.5}Flood frequency analysis}{83}{subsection.2.6.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{82}{section*.212}%
+\contentsline {subsubsection}{Streamflow series homogeneity}{83}{section*.211}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Discussion}{84}{section.2.7}%
+\contentsline {paragraph}{}{83}{section*.212}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.1}Usefulness of disentangling the various sources of uncertainty in FFA}{84}{subsection.2.7.1}%
+\contentsline {subsubsection}{Flood frequency analysis}{84}{section*.213}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{84}{section*.213}%
+\contentsline {subsubsection}{Sample size influence on quantiles uncertainty}{84}{section*.215}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{84}{section*.214}%
+\contentsline {paragraph}{}{84}{section*.216}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.2}Potential improvements of the method and further analyses}{85}{subsection.2.7.2}%
+\contentsline {section}{\numberline {2.7}Discussion}{86}{section.2.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{85}{section*.215}%
+\contentsline {subsection}{\numberline {2.7.1}Usefulness of disentangling the various sources of uncertainty in FFA}{86}{subsection.2.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{85}{section*.216}%
+\contentsline {paragraph}{}{86}{section*.217}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{85}{section*.217}%
+\contentsline {paragraph}{}{86}{section*.218}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{85}{section*.218}%
+\contentsline {subsection}{\numberline {2.7.2}Potential improvements of the method and further analyses}{87}{subsection.2.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{85}{section*.219}%
+\contentsline {paragraph}{}{87}{section*.219}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.3}Are historical stage records useful for flood frequency analysis?}{86}{subsection.2.7.3}%
+\contentsline {paragraph}{}{87}{section*.220}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{86}{section*.220}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{86}{section*.221}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.8}Conclusion}{87}{section.2.8}%
+\contentsline {paragraph}{}{87}{section*.221}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{87}{section*.222}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{87}{section*.223}%
+\contentsline {paragraph}{}{88}{section*.223}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{87}{section*.224}%
+\contentsline {subsection}{\numberline {2.7.3}Are historical stage records useful for flood frequency analysis?}{88}{subsection.2.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.9}Acknowledgements}{87}{section.2.9}%
+\contentsline {paragraph}{}{88}{section*.224}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{87}{section*.225}%
+\contentsline {paragraph}{}{89}{section*.225}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{88}{section*.226}%
+\contentsline {section}{\numberline {2.8}Conclusion}{89}{section.2.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Analyse probabiliste des crues du Rhône à Beaucaire du XVI\textsuperscript {ème} siècle à aujourd'hui}{89}{chapter.3}%
+\contentsline {paragraph}{}{89}{section*.226}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Introduction : utilisation des données historiques pour l'analyse fréquentielle}{90}{section.3.1}%
+\contentsline {paragraph}{}{89}{section*.227}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{90}{section*.228}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}Acknowledgements}{90}{section.2.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{90}{section*.229}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{90}{section*.230}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{91}{section*.231}%
+\contentsline {chapter}{\numberline {3}Analyse probabiliste des crues du Rhône à Beaucaire du XVI\textsuperscript {ème} siècle à aujourd'hui}{91}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{91}{section*.232}%
+\contentsline {section}{\numberline {3.1}Introduction : utilisation des données historiques pour l'analyse fréquentielle}{92}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{92}{section*.232}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{92}{section*.233}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{92}{section*.234}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Méthodes d'analyse probabiliste d'un échantillon mixte de crues}{92}{section.3.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Concepts de base et hypothèses}{92}{subsection.3.2.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{92}{section*.235}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Propagation de l'incertitude hydrométrique des mesures systématiques (modèle A)}{93}{subsection.3.2.2}%
+\contentsline {paragraph}{}{93}{section*.235}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{93}{section*.236}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Seuil de perception incertain (modèle B)}{94}{subsection.3.2.3}%
-\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{94}{section*.237}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Durée de la période historique incertaine (modèle C)}{94}{subsection.3.2.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{94}{section*.238}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.5}Seuil de perception et durée de la période historique incertains (modèle D)}{95}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.2}Méthodes d'analyse probabiliste d'un échantillon mixte de crues}{94}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{95}{section*.239}%
+\contentsline {subsection}{\numberline {3.2.1}Concepts de base et hypothèses}{94}{subsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.6}Débit des crues historiques compris dans un intervalle (modèle E)}{95}{subsection.3.2.6}%
+\contentsline {paragraph}{}{94}{section*.239}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Propagation de l'incertitude hydrométrique des mesures systématiques (modèle A)}{95}{subsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{95}{section*.240}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{95}{section*.241}%
+\contentsline {subsection}{\numberline {3.2.3}Seuil de perception incertain (modèle B)}{96}{subsection.3.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{95}{section*.242}%
+\contentsline {paragraph}{}{96}{section*.241}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.7}Distribution empirique d'un échantillon mixte}{96}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.4}Durée de la période historique incertaine (modèle C)}{96}{subsection.3.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{96}{section*.243}%
+\contentsline {paragraph}{}{96}{section*.242}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{96}{section*.244}%
+\contentsline {subsection}{\numberline {3.2.5}Seuil de perception et durée de la période historique incertains (modèle D)}{97}{subsection.3.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Données disponibles}{96}{section.3.3}%
+\contentsline {paragraph}{}{97}{section*.243}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Échantillon mixte de crues du Rhône à Beaucaire}{96}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.2.6}Débit des crues historiques compris dans un intervalle (modèle E)}{97}{subsection.3.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{96}{section*.245}%
+\contentsline {paragraph}{}{97}{section*.244}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Homogénéité des données}{97}{subsection.3.3.2}%
+\contentsline {paragraph}{}{97}{section*.245}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{97}{section*.247}%
+\contentsline {paragraph}{}{97}{section*.246}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Données continues}{97}{section*.248}%
+\contentsline {subsection}{\numberline {3.2.7}Distribution empirique d'un échantillon mixte}{98}{subsection.3.2.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{97}{section*.249}%
+\contentsline {paragraph}{}{98}{section*.247}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{98}{section*.250}%
+\contentsline {paragraph}{}{98}{section*.248}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{98}{section*.251}%
+\contentsline {section}{\numberline {3.3}Données disponibles}{98}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Données historiques}{98}{section*.252}%
+\contentsline {subsection}{\numberline {3.3.1}Échantillon mixte de crues du Rhône à Beaucaire}{98}{subsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{98}{section*.253}%
+\contentsline {paragraph}{}{98}{section*.249}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{98}{section*.254}%
+\contentsline {subsection}{\numberline {3.3.2}Stationnarité des données}{99}{subsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{98}{section*.257}%
+\contentsline {paragraph}{}{99}{section*.251}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{98}{section*.258}%
+\contentsline {subsubsection}{Données continues}{99}{section*.252}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Application aux crues du Rhône à Beaucaire}{100}{section.3.4}%
+\contentsline {paragraph}{}{99}{section*.253}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{100}{section*.259}%
+\contentsline {paragraph}{}{100}{section*.254}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{100}{section*.260}%
+\contentsline {paragraph}{}{100}{section*.255}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Résultats pour la période récente dégradée (1816-2020)}{101}{subsection.3.4.1}%
+\contentsline {subsubsection}{Données historiques}{100}{section*.256}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{101}{section*.262}%
+\contentsline {paragraph}{}{100}{section*.257}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Quel est l'apport de l'utilisation des crues historiques pour une longueur de chronique "courante" ?}{102}{section*.266}%
+\contentsline {paragraph}{}{100}{section*.258}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{102}{section*.267}%
+\contentsline {paragraph}{}{100}{section*.261}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{102}{section*.268}%
+\contentsline {paragraph}{}{100}{section*.262}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Quel est l'impact de la méconnaissance du seuil de perception sur l'estimation des quantiles ?}{103}{section*.270}%
+\contentsline {section}{\numberline {3.4}Application aux crues du Rhône à Beaucaire}{102}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{103}{section*.271}%
+\contentsline {paragraph}{}{102}{section*.263}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Quel est l'impact de la méconnaissance de la durée de la période historique sur l'estimation des quantiles ?}{104}{section*.273}%
+\contentsline {paragraph}{}{102}{section*.264}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{104}{section*.274}%
+\contentsline {subsection}{\numberline {3.4.1}Résultats pour la période récente dégradée (1816-2020)}{103}{subsection.3.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Quel est l'impact de la méconnaissance du seuil de perception et de la durée de la période historique sur l'estimation des quantiles ?}{105}{section*.275}%
+\contentsline {paragraph}{}{103}{section*.266}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{105}{section*.276}%
+\contentsline {subsubsection}{Quel est l'apport de l'utilisation des crues historiques pour une longueur de chronique "courante" ?}{104}{section*.270}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Quel est l'apport de la connaissance du débit des crues historiques ?}{105}{section*.278}%
+\contentsline {paragraph}{}{104}{section*.271}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{105}{section*.279}%
+\contentsline {paragraph}{}{104}{section*.272}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{105}{section*.281}%
+\contentsline {subsubsection}{Quel est l'impact de la méconnaissance du seuil de perception sur l'estimation des quantiles ?}{105}{section*.274}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Discussion intermédiaire}{107}{section*.282}%
+\contentsline {paragraph}{}{105}{section*.275}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Quel est l'impact de la méconnaissance de la durée de la période historique sur l'estimation des quantiles ?}{106}{section*.277}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{106}{section*.278}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Quel est l'impact de la méconnaissance du seuil de perception et de la durée de la période historique sur l'estimation des quantiles ?}{107}{section*.279}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{107}{section*.280}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Quel est l'apport de la connaissance du débit des crues historiques ?}{107}{section*.282}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{107}{section*.283}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{107}{section*.284}%
+\contentsline {paragraph}{}{107}{section*.285}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{108}{section*.285}%
+\contentsline {subsubsection}{Discussion intermédiaire}{109}{section*.286}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Application à la période 1500-2020}{109}{subsection.3.4.2}%
+\contentsline {paragraph}{}{109}{section*.287}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{109}{section*.286}%
+\contentsline {paragraph}{}{109}{section*.288}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Comparaison des modèles historiques}{109}{section*.290}%
+\contentsline {paragraph}{}{110}{section*.289}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{109}{section*.291}%
+\contentsline {subsection}{\numberline {3.4.2}Application à la période 1500-2020}{111}{subsection.3.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{110}{section*.292}%
+\contentsline {paragraph}{}{111}{section*.290}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{110}{section*.293}%
+\contentsline {subsubsection}{Comparaison des modèles historiques}{111}{section*.294}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{111}{section*.294}%
+\contentsline {paragraph}{}{111}{section*.295}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Estimation des quantiles à Beaucaire (1500-2020) avec des \textit {a priori} plus informatifs}{111}{section*.295}%
+\contentsline {paragraph}{}{112}{section*.296}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{111}{section*.296}%
+\contentsline {paragraph}{}{112}{section*.297}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{111}{section*.298}%
+\contentsline {paragraph}{}{113}{section*.298}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{112}{section*.299}%
+\contentsline {subsubsection}{Estimation des quantiles à Beaucaire (1500-2020) avec des \textit {a priori} plus informatifs}{113}{section*.299}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Discussion}{113}{section.3.5}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{113}{section*.301}%
+\contentsline {paragraph}{}{113}{section*.300}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{113}{section*.302}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{114}{section*.303}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{114}{section*.304}%
+\contentsline {section}{\numberline {3.5}Discussion}{115}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{114}{section*.305}%
+\contentsline {paragraph}{}{115}{section*.305}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{115}{section*.306}%
 \defcounter {refsection}{0}\relax 
@@ -585,54 +585,62 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{116}{section*.308}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{117}{section*.309}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Conclusion}{117}{section.3.6}%
+\contentsline {paragraph}{}{116}{section*.309}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{117}{section*.310}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{117}{section*.311}%
+\contentsline {paragraph}{}{118}{section*.311}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusions et perspectives}{119}{chapter.4}%
+\contentsline {paragraph}{}{118}{section*.312}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{120}{section*.312}%
+\contentsline {paragraph}{}{119}{section*.313}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{120}{section*.313}%
+\contentsline {section}{\numberline {3.6}Conclusion}{119}{section.3.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Principaux résultats}{120}{section.4.1}%
+\contentsline {paragraph}{}{119}{section*.314}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{120}{section*.314}%
+\contentsline {paragraph}{}{119}{section*.315}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{121}{section*.315}%
+\contentsline {chapter}{\numberline {4}Conclusions et perspectives}{121}{chapter.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{122}{section*.316}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Perspectives}{124}{section.4.2}%
+\contentsline {paragraph}{}{122}{section*.317}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{124}{section*.318}%
+\contentsline {section}{\numberline {4.1}Principaux résultats}{122}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{124}{section*.319}%
+\contentsline {paragraph}{}{122}{section*.318}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{125}{section*.320}%
+\contentsline {paragraph}{}{123}{section*.319}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{125}{section*.321}%
+\contentsline {paragraph}{}{124}{section*.320}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{125}{section*.322}%
+\contentsline {section}{\numberline {4.2}Perspectives}{126}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{125}{section*.323}%
+\contentsline {paragraph}{}{126}{section*.322}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{126}{section*.324}%
+\contentsline {paragraph}{}{126}{section*.323}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{126}{section*.325}%
+\contentsline {paragraph}{}{127}{section*.324}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{126}{section*.326}%
+\contentsline {paragraph}{}{127}{section*.325}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{127}{section*.326}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{127}{section*.327}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{141}{chapter*.328}%
+\contentsline {paragraph}{}{128}{section*.328}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Annexes}{143}{appendix.A}%
+\contentsline {paragraph}{}{128}{section*.329}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Tableau des temps de propagation des crues de Lyon à Beaucaire}{143}{section.A.1}%
+\contentsline {paragraph}{}{128}{section*.330}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Données de crues C4 extraites de la base de données HISTRHÔNE}{150}{section.A.2}%
+\contentsline {paragraph}{}{129}{section*.331}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliographie}{144}{chapter*.332}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Annexes}{145}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Tableau des temps de propagation des crues de Lyon à Beaucaire}{145}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Données de crues C4 extraites de la base de données HISTRHÔNE}{152}{section.A.2}%

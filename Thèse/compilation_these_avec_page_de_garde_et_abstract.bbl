@@ -2343,6 +2343,84 @@
       \verb https://hess.copernicus.org/preprints/hess-2020-269/hess-2020-269.pdf
       \endverb
     \endentry
+    \entry{england_guidelines_2019}{report}{}
+      \name{author}{8}{}{%
+        {{hash=d1c16efeed54a88360e765de758976c1}{%
+           family={England},
+           familyi={E\bibinitperiod},
+           given={John\bibnamedelimb F.\bibnamedelimi Jr.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=96160bb22956150e1f5b205d08b435d7}{%
+           family={Cohn},
+           familyi={C\bibinitperiod},
+           given={Timothy\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=78dc434810fc2d42554d624744791c5f}{%
+           family={Faber},
+           familyi={F\bibinitperiod},
+           given={Beth\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1bc2572d42182a33958d3dcb5a6f394e}{%
+           family={Stedinger},
+           familyi={S\bibinitperiod},
+           given={Jery\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=acdd87031025962b2014ce9da649354a}{%
+           family={Jr},
+           familyi={J\bibinitperiod},
+           given={Wilbert\bibnamedelimb O.\bibnamedelimi Thomas},
+           giveni={W\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=1fd8588e5997ec0fac1cfa2acbb4bb9b}{%
+           family={Veilleux},
+           familyi={V\bibinitperiod},
+           given={Andrea\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=9f3c7e91983760a490d6ccb804c0719a}{%
+           family={Kiang},
+           familyi={K\bibinitperiod},
+           given={Julie\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=988d46b1de1295215cfe492870bde691}{%
+           family={Robert\bibnamedelimb R.\bibnamedelimi Mason},
+           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Jr},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Geological Survey}%
+      }
+      \strng{namehash}{b97750e2eb269d93bba64950c7d482f2}
+      \strng{fullhash}{66db5752530f836749391e8b8d8a9552}
+      \strng{bibnamehash}{66db5752530f836749391e8b8d8a9552}
+      \strng{authorbibnamehash}{66db5752530f836749391e8b8d8a9552}
+      \strng{authornamehash}{b97750e2eb269d93bba64950c7d482f2}
+      \strng{authorfullhash}{66db5752530f836749391e8b8d8a9552}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Accurate estimates of flood frequency and magnitude are a key component of any effective nationwide flood risk management and flood damage abatement program. In addition to accuracy, methods for estimating flood risk must be uniformly and consistently applied because management of the Nation’s water and related land resources is a collaborative effort involving multiple actors including most levels of government and the private sector.Flood frequency guidelines have been published in the United States since 1967, and have undergone periodic revisions. In 1967, the U.S. Water Resources Council presented a coherent approach to flood frequency with Bulletin 15, “A Uniform Technique for Determining Flood Flow Frequencies.” The method it recommended involved fitting the log-Pearson Type {III} distribution to annual peak flow data by the method of moments.The first extension and update of Bulletin 15 was published in 1976 as Bulletin 17, “Guidelines for Determining Flood Flow Frequency” (Guidelines). It extended the...}
+      \field{langid}{english}
+      \field{number}{4-B5}
+      \field{title}{Guidelines for determining flood flow frequency — Bulletin 17C}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\EC9ALF5M\\Jr et al. - 2019 - Guidelines for determining flood flow frequency — .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.er.usgs.gov/publication/tm4B5
+      \endverb
+      \verb{url}
+      \verb https://pubs.er.usgs.gov/publication/tm4B5
+      \endverb
+    \endentry
     \entry{fanget_historical_2013}{article}{}
       \name{author}{13}{}{%
         {{hash=418a406329db4908be67d4cc263dc120}{%
@@ -3512,6 +3590,73 @@
       \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\SWMHAGLH\\Han et al. - 2020 - A Network Approach for Delineating Homogeneous Reg.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\T3WIY7RN\\2019WR025910.html:text/html
       \endverb
       \keyw{Delineation of Homogeneous Regions,Network Theory,Regional Flood Frequency Analysis}
+    \endentry
+    \entry{harden_historical_2021}{report}{}
+      \name{author}{5}{}{%
+        {{hash=cb95c8acca1c54108020bf9fcb29ee62}{%
+           family={Harden},
+           familyi={H\bibinitperiod},
+           given={Tessa\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e2b5939101613208122610700231d494}{%
+           family={Ryberg},
+           familyi={R\bibinitperiod},
+           given={Karen\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ee9519481b674bb80aa28946dfc4839d}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Jim\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=a03dd203c5890f92617d30be559a7430}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9f3c7e91983760a490d6ccb804c0719a}{%
+           family={Kiang},
+           familyi={K\bibinitperiod},
+           given={Julie\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Geological Survey}%
+      }
+      \strng{namehash}{722e15ed2aa6e8649cbcbc10a8bf553a}
+      \strng{fullhash}{3644c8c6789168dca88408bb679a5757}
+      \strng{bibnamehash}{3644c8c6789168dca88408bb679a5757}
+      \strng{authorbibnamehash}{3644c8c6789168dca88408bb679a5757}
+      \strng{authornamehash}{722e15ed2aa6e8649cbcbc10a8bf553a}
+      \strng{authorfullhash}{3644c8c6789168dca88408bb679a5757}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Paleoflood studies are an effective means of providing specific information on the recurrence and magnitude of rare and large floods. Such information can be combined with systematic flood measurements to better assess the frequency of large floods. Paleoflood data also provide valuable information about the linkages among climate, land use, flood-hazard assessments, and channel morphology. This document summarizes methods and techniques for the preparation, gathering, evaluation, and interpretation of paleoflood information, including uncertainties, especially with respect to new statistical approaches available to efficiently use such data. We summarize best practices and strategies for assessing and mitigating uncertainties and provide guidelines on appropriate technical review of paleoflood analyses based on project goals and requirements....}
+      \field{langid}{english}
+      \field{note}{{ISSN}: 2328-7055 Publication Title: Techniques and Methods}
+      \field{number}{4-B6}
+      \field{title}{Historical and paleoflood analyses for probabilistic flood-hazard assessments—Approaches and review guidelines}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3133/tm4B6
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\TA548V5G\\Harden et al. - 2021 - Historical and paleoflood analyses for probabilist.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.er.usgs.gov/publication/tm4B6
+      \endverb
+      \verb{url}
+      \verb https://pubs.er.usgs.gov/publication/tm4B6
+      \endverb
     \endentry
     \entry{hazen_storage_1914}{article}{}
       \name{author}{1}{}{%
@@ -5823,6 +5968,61 @@
       \verb https://nhess.copernicus.org/articles/14/2817/2014/
       \endverb
     \endentry
+    \entry{macdonald_high-magnitude_2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=06bf8ddf576223d79627c734e32223ba}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=55fe4ef8022a405fc7f4c59afdae3d66}{%
+           family={Sangster},
+           familyi={S\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffcdf25e4b94cdb69c33c460629dff17}
+      \strng{fullhash}{ffcdf25e4b94cdb69c33c460629dff17}
+      \strng{bibnamehash}{ffcdf25e4b94cdb69c33c460629dff17}
+      \strng{authorbibnamehash}{ffcdf25e4b94cdb69c33c460629dff17}
+      \strng{authornamehash}{ffcdf25e4b94cdb69c33c460629dff17}
+      \strng{authorfullhash}{ffcdf25e4b94cdb69c33c460629dff17}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The last decade has witnessed severe flooding across much of the globe, but have these floods really been exceptional? Globally, relatively few instrumental river flow series extend beyond 50 years, with short records presenting significant challenges in determining flood risk from high-magnitude floods. A perceived increase in extreme floods in recent years has decreased public confidence in conventional flood risk estimates; the results affect society (insurance costs), individuals (personal vulnerability) and companies (e.g. water resource managers). Here, we show how historical records from Britain have improved understanding of high-magnitude floods, by examining past spatial and temporal variability. The findings identify that whilst recent floods are notable, several comparable periods of increased flooding are identifiable historically, with periods of greater frequency (flood-rich periods). Statistically significant relationships between the British flood index, the Atlantic Meridional Oscillation and the North Atlantic Oscillation Index are identified. The use of historical records identifies that the largest floods often transcend single catchments affecting regions and that the current flood-rich period is not unprecedented.}
+      \field{day}{20}
+      \field{issn}{1027-5606}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{month}{3}
+      \field{note}{Publisher: Copernicus {GmbH}}
+      \field{number}{3}
+      \field{title}{High-magnitude flooding across Britain since {AD} 1750}
+      \field{urlday}{26}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{21}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1631\bibrangedash 1650}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.5194/hess-21-1631-2017
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\JK7QU7Z4\\Macdonald et Sangster - 2017 - High-magnitude flooding across Britain since AD 17.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hess.copernicus.org/articles/21/1631/2017/hess-21-1631-2017.html
+      \endverb
+      \verb{url}
+      \verb https://hess.copernicus.org/articles/21/1631/2017/hess-21-1631-2017.html
+      \endverb
+    \endentry
     \entry{machado_flood_2015}{article}{}
       \name{author}{6}{}{%
         {{hash=b172df1fab8a45f242238b1d17f76d38}{%
@@ -6087,6 +6287,52 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023389
+      \endverb
+    \endentry
+    \entry{mansanarez_non-unique_2016}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=06c83a4c6c0958a82537f9badd43b6df}{%
+           family={Mansanarez},
+           familyi={M\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Grenoble Alpes}%
+      }
+      \strng{namehash}{06c83a4c6c0958a82537f9badd43b6df}
+      \strng{fullhash}{06c83a4c6c0958a82537f9badd43b6df}
+      \strng{bibnamehash}{06c83a4c6c0958a82537f9badd43b6df}
+      \strng{authorbibnamehash}{06c83a4c6c0958a82537f9badd43b6df}
+      \strng{authornamehash}{06c83a4c6c0958a82537f9badd43b6df}
+      \strng{authorfullhash}{06c83a4c6c0958a82537f9badd43b6df}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Complex rating curves, with stage and additional variables as inputs are necessary to establish streamflow records at sites where the stage-discharge relation is non-unique. Within the same Bayesian framework, hydraulically-based methods are introduced and tested to develop complex rating curves and estimate their uncertainties: stage-gradient-discharge ({SGD}) models to address hysteresis due to transient flow, stage-fall-discharge ({SFD}) models to address variable backwater at twin gauge stations, stage-period-discharge ({SPD}) model to address net rating changes due to bed evolution. Each model was applied to contrasting hydrometric stations and evaluated through sensitivity analyses. For each of the three sources of non-uniqueness in the stage-discharge relation, the proposed Bayesian methods provide not only quantitative uncertainty analysis but also efficient solutions to recurrent problems with the traditional procedures for complex ratings.}
+      \field{day}{2}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{shorttitle}{Non-unique stage-discharge relations}
+      \field{title}{Non-unique stage-discharge relations : Bayesian analysis of complex rating curves and their uncertainties}
+      \field{type}{phdthesis}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2022}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\6V4R3FWC\\Mansanarez - 2016 - Non-unique stage-discharge relations Bayesian an.pdf:application/pdf;Ribatet_BayesianPOT_2007.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\MNIWIFDA\\Ribatet_BayesianPOT_2007.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\CJ59JNHF\\tel-02605323.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://tel.archives-ouvertes.fr/tel-02605323
+      \endverb
+      \verb{url}
+      \verb https://tel.archives-ouvertes.fr/tel-02605323
       \endverb
     \endentry
     \entry{mansanarez_rapid_2019}{article}{}
@@ -8973,6 +9219,7 @@
       \strng{authorbibnamehash}{9b92f95dbe695e956604b369299d93d5}
       \strng{authornamehash}{9b92f95dbe695e956604b369299d93d5}
       \strng{authorfullhash}{9b92f95dbe695e956604b369299d93d5}
+      \field{extraname}{1}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
@@ -9004,7 +9251,7 @@
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2010WR010089
       \endverb
-      \keyw{Bayesian hierarchical modeling,regional frequency analysis,spatial dependence,uncertainty quantification}
+      \keyw{regional frequency analysis,Bayesian hierarchical modeling,spatial dependence,uncertainty quantification}
     \endentry
     \entry{renard_application_2006}{article}{}
       \name{author}{3}{}{%
@@ -9065,6 +9312,138 @@
       \verb http://doi.wiley.com/10.1029/2005WR004591
       \endverb
     \endentry
+    \entry{renard_data-based_2013}{article}{}
+      \name{author}{17}{}{%
+        {{hash=9b92f95dbe695e956604b369299d93d5}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=365e2e06690f2e08a97616710df26ab3}{%
+           family={Kochanek},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=926ec1e4022445db5ae800ba4e0d3fb7}{%
+           family={Garavaglia},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=eda7ea0a83a195b1727a92b3b59c8ac8}{%
+           family={Paquet},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=73441afaad2425e58babcda0aa553b18}{%
+           family={Neppel},
+           familyi={N\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c7d8822cc556927dfa42062b61b870a8}{%
+           family={Najib},
+           familyi={N\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=919d0fb829a619219befb3990c4b5fe3}{%
+           family={Carreau},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=862418ee9d4e92dca0324278803d03c4}{%
+           family={Arnaud},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=04d759611413466a34ab30bb3ca520c6}{%
+           family={Aubert},
+           familyi={A\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f028346af666b4abb1305eac5b734829}{%
+           family={Borchi},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fc6a7e27602cdb30034da2dadcd8c00e}{%
+           family={Soubeyroux},
+           familyi={S\bibinitperiod},
+           given={J.-M.},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=229ccc57c58bafbb22b407027c191e84}{%
+           family={Jourdain},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4c76b7e92e05137536fe2f3bc12494c4}{%
+           family={Veysseire},
+           familyi={V\bibinitperiod},
+           given={J.-M.},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=5da1c59011842f36c075da914a255a26}{%
+           family={Sauquet},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f408af75db91d1ab5ae4e4482a7be188}{%
+           family={Cipriani},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3f25c2564c2cb2a34b5b3b5b484c4338}{%
+           family={Auffray},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b73f5d321a85467cbb3263a6df7efb1}
+      \strng{fullhash}{e7c745180c5cd4e932c263db87523b5e}
+      \strng{bibnamehash}{e7c745180c5cd4e932c263db87523b5e}
+      \strng{authorbibnamehash}{e7c745180c5cd4e932c263db87523b5e}
+      \strng{authornamehash}{5b73f5d321a85467cbb3263a6df7efb1}
+      \strng{authorfullhash}{e7c745180c5cd4e932c263db87523b5e}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00431397}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Water Resour. Res.}
+      \field{shorttitle}{Data-based comparison of frequency analysis methods}
+      \field{title}{Data-based comparison of frequency analysis methods: A general framework}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{49}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{825\bibrangedash 843}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1002/wrcr.20087
+      \endverb
+      \verb{file}
+      \verb Renard et al. - 2013 - Data-based comparison of frequency analysis method.pdf:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\2PVF84PG\\Renard et al. - 2013 - Data-based comparison of frequency analysis method.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/wrcr.20087
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/wrcr.20087
+      \endverb
+    \endentry
     \entry{renard_hidden_2021}{article}{}
       \name{author}{6}{}{%
         {{hash=9b92f95dbe695e956604b369299d93d5}{%
@@ -9104,7 +9483,7 @@
       \strng{authorbibnamehash}{98eda2a073fe9aa5a725756214c490c7}
       \strng{authornamehash}{5b73f5d321a85467cbb3263a6df7efb1}
       \strng{authorfullhash}{98eda2a073fe9aa5a725756214c490c7}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
@@ -9139,6 +9518,52 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2021WR030007
       \endverb
       \keyw{Bayesian hierarchical modeling,climate indices,dependence,multivariate,space-time variability,station data}
+    \endentry
+    \entry{renard_use_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fd9405f5fbc00c17beb6b212f84dc815}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd9405f5fbc00c17beb6b212f84dc815}
+      \strng{fullhash}{fd9405f5fbc00c17beb6b212f84dc815}
+      \strng{bibnamehash}{fd9405f5fbc00c17beb6b212f84dc815}
+      \strng{authorbibnamehash}{fd9405f5fbc00c17beb6b212f84dc815}
+      \strng{authornamehash}{fd9405f5fbc00c17beb6b212f84dc815}
+      \strng{authorfullhash}{fd9405f5fbc00c17beb6b212f84dc815}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A national flood mark database spanning several centuries contains valuable information to characterize ancient flood events. However, the network of flood mark sites is distinct from the network of hydrometric stations, making this information difficult to use. This work describes a probabilistic model jointly describing flood marks at sites and flood peaks at stations. The model is based on the estimation of Hidden Climate Indices driving both flood marks and peaks: this allows transferring information between the two variables despite them being measured on distinct networks. The model is applied to about 300 flood mark sites (1705-2015) and 200 stations (1904-2015) in France. Results demonstrate that flood marks allow estimating the time-varying probability of exceeding some high discharge threshold at stations during the whole period 1705-2015, which largely predates the existence of stations. The resulting probability maps provide quantitative information on the extent and spatial structure of ancient floods.}
+      \field{day}{11}
+      \field{issn}{0262-6667}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{month}{5}
+      \field{title}{Use of a national flood mark database to estimate flood hazard in the distant past}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{null}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1080/02626667.2023.2212165
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/02626667.2023.2212165
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/02626667.2023.2212165
+      \endverb
+      \keyw{historical floods,Bayesian modelling,flood marks,hidden climate indices,mixed data,space–time variability}
     \endentry
     \entry{renard_bayesian_2013}{incollection}{}
       \name{author}{3}{}{%
@@ -9200,9 +9625,10 @@
       \strng{editorbibnamehash}{1eaf9d8390d6308e137c4883ac319e26}
       \strng{editornamehash}{ad5705a7f0152649b822bb6a0a696894}
       \strng{editorfullhash}{1eaf9d8390d6308e137c4883ac319e26}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -9536,6 +9962,88 @@
       \verb https://doi.org/10.1080/02626667.2018.1426858
       \endverb
       \keyw{anthropogenic and climate change,hazard functions,hydrological extremes,hydrological variability and change,nonstationarity,risk and return period}
+    \endentry
+    \entry{sheffer_paleofloods_2003}{article}{}
+      \name{author}{8}{}{%
+        {{hash=f6a670bbac664811c70910a43672d298}{%
+           family={Sheffer},
+           familyi={S\bibinitperiod},
+           given={N.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b4e85af81497ea9657c1714bf11ecd5d}{%
+           family={Enzel},
+           familyi={E\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a1a87049b9bbd0845cfbe595da576912}{%
+           family={Benito},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f7c32ff77e538425680d23764cc02d3f}{%
+           family={Grodek},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a861134f30304745637eda5bfe7a0550}{%
+           family={Poart},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=791b173ace1a519be7656953dc121e10}{%
+           family={Naulet},
+           familyi={N\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a89c5e8555c2be8138274209676aa4c8}{%
+           family={Cœur},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5cf6446551caf163b3f9775a0aa5348}
+      \strng{fullhash}{22819cabc90d0081c78d2ee74953df2a}
+      \strng{bibnamehash}{22819cabc90d0081c78d2ee74953df2a}
+      \strng{authorbibnamehash}{22819cabc90d0081c78d2ee74953df2a}
+      \strng{authornamehash}{d5cf6446551caf163b3f9775a0aa5348}
+      \strng{authorfullhash}{22819cabc90d0081c78d2ee74953df2a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Better understanding of flood occurrences and long-term, floodplain planning, and flood risk assessment is achieved by integration of gauged, historical, and paleoflood data. The Ardèche River is ideal for this historical flood-paleoflood study because its historical flood levels record dates back as early as A.D. 587 and useful data date back to A.D. 1522, its systematic gauging record is over 100 years long, and the geologic and geomorphic settings are optimal for paleoflood studies. Three sites provide three different thresholds for flood stages and {SWD} accumulation. According to our one-dimensional (1-D) step-backwater calculations these three thresholds are 5200–5700 m3 s−1, 4900–5400 m3 s−1, and 3600–4000 m3 s−1 recording 6, 9, and 19 large Holocene floods, respectively. Dating the deposits enabled a correlation with the historical record. These paleoflood studies indicate that there are long gaps in flood occurrences on the Ardèche River; the floods are not randomly distributed in time but are clustered. They also indicate that the recent nineteenth century floods were the largest at the millennial timescale.}
+      \field{issn}{1944-7973}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{number}{12}
+      \field{title}{Paleofloods and historical floods of the Ardèche River, France}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{volume}{39}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1029/2003WR002468
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\NXMYBMCZ\\Sheffer et al. - 2003 - Paleofloods and historical floods of the Ardèche R.pdf:application/pdf;Snapshot:C\:\\Users\\mathieu.lucas\\Zotero\\storage\\I24KKBIU\\2003WR002468.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2003WR002468
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2003WR002468
+      \endverb
+      \keyw{floods,historical floods,paleoflood hydrology,hydraulic modeling,slackwater deposits}
     \endentry
     \entry{souhar_approach_2009}{article}{}
       \name{author}{2}{}{%
