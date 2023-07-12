@@ -1,17 +1,17 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
-[2] Config.pm:314> INFO - Logfile is 'Soutenance.blg'
-[174] biber-MSWIN32:340> INFO - === 
-[240] Biber.pm:415> INFO - Reading 'Soutenance.bcf'
-[429] Biber.pm:952> INFO - Found 2 citekeys in bib section 0
-[455] Biber.pm:4340> INFO - Processing section 0
-[472] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
-[553] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1388] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
-[1482] Utils.pm:395> WARN - I didn't find a database entry for 'Code de l'environnement; article R562-11-3' (section 0)
-[1491] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1491] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1492] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[1492] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
-[1503] bbl.pm:654> INFO - Writing 'Soutenance.bbl' with encoding 'UTF-8'
-[1504] bbl.pm:757> INFO - Output to Soutenance.bbl
-[1506] Biber.pm:128> INFO - WARNINGS: 1
+[0] Config.pm:314> INFO - Logfile is 'Soutenance.blg'
+[158] biber-MSWIN32:340> INFO - === 
+[201] Biber.pm:415> INFO - Reading 'Soutenance.bcf'
+[344] Biber.pm:952> INFO - Found 15 citekeys in bib section 0
+[361] Biber.pm:4340> INFO - Processing section 0
+[374] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[521] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1238] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[1426] Utils.pm:395> WARN - I didn't find a database entry for 'Code de l'environnement; article R562-11-3' (section 0)
+[1464] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1464] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1464] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[1464] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[1487] bbl.pm:654> INFO - Writing 'Soutenance.bbl' with encoding 'UTF-8'
+[1503] bbl.pm:757> INFO - Output to Soutenance.bbl
+[1520] Biber.pm:128> INFO - WARNINGS: 1

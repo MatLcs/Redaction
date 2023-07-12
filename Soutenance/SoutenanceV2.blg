@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'SoutenanceV2.blg'
+[283] biber-MSWIN32:340> INFO - === 
+[385] Biber.pm:415> INFO - Reading 'SoutenanceV2.bcf'
+[726] Biber.pm:952> INFO - Found 35 citekeys in bib section 0
+[757] Biber.pm:4340> INFO - Processing section 0
+[815] Biber.pm:4531> INFO - Looking for bibtex format file 'Thèse.bib' for section 0
+[958] bibtex.pm:1689> INFO - LaTeX decoding ...
+[2378] bibtex.pm:1494> INFO - Found BibTeX data source 'Thèse.bib'
+[3141] Utils.pm:395> WARN - I didn't find a database entry for 'UNDRR (2020). The human cost of disasters' (section 0)
+[3141] Utils.pm:395> WARN - I didn't find a database entry for 'Code de l'environnement (France); article R562-11-3' (section 0)
+[3270] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3271] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3271] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[3271] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[3447] bbl.pm:654> INFO - Writing 'SoutenanceV2.bbl' with encoding 'UTF-8'
+[3545] bbl.pm:757> INFO - Output to SoutenanceV2.bbl
+[3560] Biber.pm:128> INFO - WARNINGS: 2

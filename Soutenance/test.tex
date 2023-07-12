@@ -1,0 +1,87 @@
+\documentclass[compress,9pt]{beamer}
+%%%%%%% PACKAGES %%%%%%%%%
+\usepackage[backend=biber,style=authoryear,bibstyle=authoryear,natbib=true,
+giveninits=true,uniquename=false,uniquelist=false,maxcitenames=2,date=year,
+maxbibnames=99,url=false]{biblatex}
+\addbibresource{Thèse.bib}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{lmodern}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{contour}
+\usepackage{ulem}
+\usepackage{xcolor}
+\usepackage{newunicodechar}
+\usepackage{multirow}
+\usepackage{setspace}
+\usepackage{pifont}
+\usepackage{appendixnumberbeamer}
+\hypersetup{colorlinks=true,linkcolor=lightgray,filecolor=magenta,urlcolor=cyan,citecolor=cyan}
+%%%%%%% PARAMETERS %%%%%%%%%
+	%%%%%% CITE PARAMETERS %%%%%%%%%%%
+		\AtEveryCitekey{\clearfield{title}\clearfield{note}\clearfield{pages}\clearlist{location}									    \clearlist{publisher}\clearname{editor}\clearfield{issn}\clearfield{doi}\clearfield{isbn}}
+		\renewcommand*{\multicitedelim}{\\}
+		\renewcommand{\footfullcite}[1]{\footnote[frame]{\fullcite{#1}}}
+		\def\bibfont{\tiny}			% Réduit la taille de la police dans les références biblio
+	%%%%%% THEME %%%%%%%%
+		\usetheme{Madrid}
+		\useoutertheme[subsection=false]{miniframes}
+		\usefonttheme{structurebold}
+		\usepackage{etoolbox}
+		\makeatletter
+		\patchcmd{\slideentry}{\advance\beamer@xpos by1\relax}{}{}{}
+		\def\beamer@subsectionentry#1#2#3#4#5{\advance\beamer@xpos by1\relax}%
+		\makeatother
+		\definecolor{myblue}{RGB}{143, 174, 217}%{120,150,200}
+		\usecolortheme[named=myblue]{structure}
+		\beamertemplatenavigationsymbolsempty 
+		\setbeamerfont{page number in head/foot}{size=\tiny}
+		\setbeamerfont{section in head/foot}{size=\scriptsize}
+		\setbeamerfont{section in toc}{size=\footnotesize}
+		\setbeamerfont{subsection in toc}{size=\tiny}
+		\setbeamerfont{frametitle}{size=\large}
+		\setbeamerfont{block title}{size=\normalsize}
+		\setbeamerfont{block body}{size=\normalsize}
+		\setbeamertemplate{footline}[frame number]
+		\setbeamertemplate{footcite}{site=\tiny}
+		%transparence animations
+		\setbeamercovered{transparent}
+	%%%% ??
+	\newcommand{\cmark}{\ding{51}}
+	\newcommand{\xmark}{\ding{55}}
+	\newcommand\Wider[2][3em]{%
+	\makebox[\linewidth][c]{%
+	  \begin{minipage}{\dimexpr\textwidth+#1\relax}
+	  \raggedright#2
+	  \end{minipage}%
+	  }%
+	}
+	
+	
+	\begin{document}
+	
+	\begin{frame}
+		\frametitle{Part respective des différentes incertitudes}
+		\begin{minipage}{0.45\textwidth}
+			\begin{itemize}
+			\vfill
+				\item Propagation successive des différentes sources d'incertitude\\
+			\vspace{15pt}				
+				\item Part relative dans l'incertitude totale des quantiles ? \\
+			\vfill
+			\end{itemize}
+		
+		\end{minipage}
+		\hfill		
+		\begin{minipage}{0.53\textwidth}
+			\centering
+			\vfill
+			\includegraphics[width = .55\textwidth]{./Figures/uPropag.pdf}
+		\end{minipage}
+	\end{frame}
+	
+	\end{document}
